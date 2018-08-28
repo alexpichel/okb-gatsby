@@ -87,12 +87,5 @@ export const postQuery = graphql`
       id
       html
     }
-    site {
-      siteMetadata {
-        facebook {
-          appId
-        }
-      }
-    }
   }
 `;

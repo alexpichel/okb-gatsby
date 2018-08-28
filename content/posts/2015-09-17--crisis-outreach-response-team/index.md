@@ -42,5 +42,3 @@ We have two factors that have led to our success. First, we have department head
 Lessons Learned
 
 I would start with finding the people that share your concern over the issues and build from there. Make sure to invite others into the collaboration. Look at all funding options and be creative.
-
-![chart with downward trend](http://okb.oregon.gov/wp-content/uploads/2015/08/82678833f51c-Copy_of_Booking_Trend_1.jpg)

@@ -40,9 +40,6 @@ module.exports = {
         ? process.env.ALGOLIA_SEARCH_ONLY_API_KEY
         : "",
       indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : ""
-    },
-    facebook: {
-      appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
     }
   },
   plugins: [

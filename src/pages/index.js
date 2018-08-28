@@ -48,15 +48,15 @@ const mapDispatchToProps = {
 
 export default connect(mapStateToProps, mapDispatchToProps)(Index);
 
-//eslint-disable-next-line no-undef
-export const pageQuery = graphql`
-  query IndexQuery {
-    site {
-      siteMetadata {
-        facebook {
-          appId
-        }
-      }
-    }
-  }
-`;
+// //eslint-disable-next-line no-undef
+// export const pageQuery = graphql`
+//   query IndexQuery {
+//     site {
+//       siteMetadata {
+//         facebook {
+//           appId
+//         }
+//       }
+//     }
+//   }
+// `;
