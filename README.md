@@ -1,3 +1,3 @@
 # OKBv2 Beta
 
-An [Oregon Knowledge Bank Update](https://okb.oregon.gov/)<br /><br />
+An [Oregon Knowledge Bank Update](https://okb.oregon.gov/)
