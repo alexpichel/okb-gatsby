@@ -30,11 +30,11 @@ Funding
 
 When the team was first implemented, we started with a deputy 20 hours per week and the Health Department matched the time with a mental health professional. We relieved our deputy with a reserve and the mental health professional was hired part-time. We spent approximately $50,000 that first year to cover the staff.
 
-We quickly discovered that COPS (US Department of Justice) offered a grant for mental health collaborations. We applied for and were awarded this grant, which allowed us to move our deputy into this role full time. The grant covered more than 80% of the deputy costs and we covered the remaining costs from our budget. The Health Department matched the time, making the mental health professional full time as well. We also applied and were awarded a grant from BJA for our collaboration between law enforcement and mental health. 
+We quickly discovered that COPS (US Department of Justice) offered a grant for mental health collaborations. We applied for and were awarded this grant, which allowed us to move our deputy into this role full time. The grant covered more than 80% of the deputy costs and we covered the remaining costs from our budget. The Health Department matched the time, making the mental health professional full time as well. We also applied and were awarded a grant from BJA for our collaboration between law enforcement and mental health.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
 
-In 2014, CORT received 2,348 police reports of people in crisis or having mental health issues. They were able to follow up with 933 of those individuals and refer them to appropriate services. Over the last eight years, all of the collaborative efforts between law enforcement and mental health have reduced jail bookings by 20-25% a year. 
+In 2014, CORT received 2,348 police reports of people in crisis or having mental health issues. They were able to follow up with 933 of those individuals and refer them to appropriate services. Over the last eight years, all of the collaborative efforts between law enforcement and mental health have reduced jail bookings by 20-25% a year.
 
 Critical Success Factors
 
