@@ -33,6 +33,11 @@ const styles = theme => ({
       fontSize: `${theme.main.fonts.subTitle.sizeL}em`
     }
   },
+  category: {
+    fontSize: `${theme.main.fonts.meta.size}em`,
+    fontWeight: theme.main.fonts.meta.weight,
+    color: theme.main.colors.meta
+  },
   meta: {
     fontSize: `${theme.main.fonts.meta.size}em`,
     fontWeight: theme.main.fonts.meta.weight,
@@ -41,7 +46,7 @@ const styles = theme => ({
 });
 
 const PostHeader = props => {
-  const { classes, title, subTitle, date } = props;
+  const { classes, title, subTitle, category, date } = props;
 
   function myDate(dateString) {
     const dateObj = new Date(dateString).toUTCString();
@@ -57,6 +62,7 @@ const PostHeader = props => {
     <header className={classes.header}>
       <h1 className={classes.title}>{title}</h1>
       <h2 className={classes.subTitle}>{subTitle}</h2>
+      <div className={classes.category}>{category}</div>
       <div className={classes.meta}>{myDate(date)}</div>
     </header>
   );
@@ -66,6 +72,7 @@ PostHeader.propTypes = {
   classes: PropTypes.object.isRequired,
   title: PropTypes.string.isRequired,
   subTitle: PropTypes.string,
+  category: PropTypes.string,
   date: PropTypes.string.isRequired
 };
 
