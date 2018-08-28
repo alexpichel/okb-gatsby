@@ -73,6 +73,7 @@ export const postQuery = graphql`
         title
         subTitle
         category
+        tags
         cover {
           childImageSharp {
             resize(width: 300) {

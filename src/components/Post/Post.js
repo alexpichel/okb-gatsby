@@ -8,19 +8,20 @@ import PostFooter from "./PostFooter";
 
 const Post = props => {
   const { post, author, slug } = props;
-  const frontmatter = (post || {}).frontmatter;
+  // const frontmatter = (post || {}).frontmatter;
   const title = ((post || {}).frontmatter || {}).title;
   const subTitle = ((post || {}).frontmatter || {}).subTitle;
   const category = ((post || {}).frontmatter || {}).category;
+  const tags = ((post || {}).frontmatter || {}).tags;
   const date = ((post || {}).fields || {}).prefix;
   const html = (post || {}).html;
-  const htmlAst = (post || {}).htmlAst;
+  // const htmlAst = (post || {}).htmlAst;
 
   //console.log(htmlAst);
 
   return (
     <Article>
-      <PostHeader title={title} subTitle={subTitle} category={category} date={date} />
+      <PostHeader title={title} subTitle={subTitle} category={category} tags={tags} date={date} />
       <Content html={html} />
       <PostFooter author={author} post={post} slug={slug} />
     </Article>
