@@ -71,7 +71,7 @@ class InfoBox extends React.Component {
 
     return (
       <aside
-        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""} 
+        className={`${classes.infoBox} ${navigatorPosition ? navigatorPosition : ""}
         ${navigatorShape ? navigatorShape : ""}`}
       >
         {info && (
@@ -115,4 +115,7 @@ const mapDispatchToProps = {
   setNavigatorShape
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(injectSheet(styles)(InfoBox));
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(injectSheet(styles)(InfoBox));
