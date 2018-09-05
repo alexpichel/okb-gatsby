@@ -59,12 +59,22 @@ const PostHeader = props => {
       <ul className="">
         {tags &&
           tags.map((tag, i) => (
-            <li className={classes.meta} key={tag}>
-              <Link to={tag} className={classes.meta}>
+            <li className={classes.tags} key={tag}>
+              <Link to={tag} className={classes.tags}>
                 {tags[i]}
               </Link>
             </li>
           ))}
+      </ul>
+    </div>
+  );
+
+  const categoryBlock = (
+    <div>
+      <ul>
+        <li key={category}>
+          <Link to={category}>{category}</Link>
+        </li>
       </ul>
     </div>
   );
@@ -84,6 +94,7 @@ const PostHeader = props => {
       <h1 className={classes.title}>{title}</h1>
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div className={classes.category}>{category}</div>
+      {categoryBlock}
       {tagsBlock}
       <div className={classes.meta}>{myDate(date)}</div>
     </header>
