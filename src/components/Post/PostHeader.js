@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Link from "gatsby-link";
 import injectSheet from "react-jss";
 
 const styles = theme => ({
@@ -53,6 +54,21 @@ const styles = theme => ({
 const PostHeader = props => {
   const { classes, title, subTitle, category, tags, date } = props;
 
+  const tagsBlock = (
+    <div className="">
+      <ul className="">
+        {tags &&
+          tags.map((tag, i) => (
+            <li className={classes.meta} key={tag}>
+              <Link to={tag} className={classes.meta}>
+                {tags[i]}
+              </Link>
+            </li>
+          ))}
+      </ul>
+    </div>
+  );
+
   function myDate(dateString) {
     const dateObj = new Date(dateString).toUTCString();
     const dateToShow = dateObj
@@ -68,7 +84,7 @@ const PostHeader = props => {
       <h1 className={classes.title}>{title}</h1>
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div className={classes.category}>{category}</div>
-      <div className={classes.tags}>{tags}</div>
+      {tagsBlock}
       <div className={classes.meta}>{myDate(date)}</div>
     </header>
   );

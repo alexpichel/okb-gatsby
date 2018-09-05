@@ -7,8 +7,8 @@ path: "/posts/cort/"
 author: "marion-s"
 category: "Policing"
 tags:
-  - "Mental Illness"
-  - "Crisis Intervention (CIT)"
+  - "Mental Illness "
+  - "Crisis Intervention (CIT) "
 subTitle: "The Crisis Outreach Response Team (CORT) is made up of one deputy, one mental health professional, and a part-time data entry position."
 ---
 
