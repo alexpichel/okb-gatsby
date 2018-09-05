@@ -30,6 +30,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
   return new Promise((resolve, reject) => {
     const postTemplate = path.resolve("./src/templates/PostTemplate.js");
+    const tagTemplate = path.resolve("src/templates/tags.js");
     const pageTemplate = path.resolve("./src/templates/PageTemplate.js");
     resolve(
       graphql(
@@ -38,6 +39,10 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             allMarkdownRemark(filter: { id: { regex: "//posts|pages//" } }, limit: 1000) {
               edges {
                 node {
+                  frontmatter {
+                    path
+                    tags
+                  }
                   id
                   fields {
                     slug
@@ -64,6 +69,28 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             component: isPost ? postTemplate : pageTemplate,
             context: {
               slug: slug
+            }
+          });
+        });
+
+        // Tag pages:
+        let tags = {};
+        // Iterate through each post, putting all found tags into `tags`
+        _.each(postTemplate, edge => {
+          if (_.get(edge, "node.frontmatter.tags")) {
+            tags = tags.concat(edge.node.frontmatter.tags);
+          }
+        });
+        // Eliminate duplicate tags
+        tags = _.uniq(tags);
+
+        // Make tag pages
+        tags.forEach(tag => {
+          createPage({
+            path: `/tags/${_.kebabCase(tag)}/`,
+            component: tagTemplate,
+            context: {
+              tag
             }
           });
         });
