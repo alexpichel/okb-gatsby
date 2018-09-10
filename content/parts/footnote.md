@@ -2,5 +2,4 @@
 title: footnote
 ---
 
-* this is a beta site of the [Oregon Knowledge Bank](http://okb.oregon.gov)
-* built by [Criminal Justice Commission](https://www.oregon.gov/cjc)
+* This is a beta site of the [Oregon Knowledge Bank](http://okb.oregon.gov) built by the [CJC](https://www.oregon.gov/cjc) &amp; [DPSST](https://www.oregon.gov/dpsst/cpe)

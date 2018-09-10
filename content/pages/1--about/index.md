@@ -14,16 +14,18 @@ In 2015, the CPE and CJC collaborated to design and develop the Oregon Knowledge
 
 The OKB is guided by two complementary goals: The first is to become the go-to resource for criminal justice practitioners in Oregon for best and promising practices. The second goal is to encourage public safety practitioners statewide to use evidence-based practices and problem-solving methods.
 
-###Our Features
+## Our Features
 
-####Programs
+#### Programs
+
 Summaries of public safety programs operating in Oregon
 
-####Research
+#### Research
+
 Summaries of research studies conducted on Oregon-based initiatives
 
-####Agency Directory
+#### Agency Directory
+
 Profiles of Oregon public safety agencies
 
-###FAQ
-
+### FAQ
