@@ -36,7 +36,9 @@ Crime prevention through environmental design (CPTED)
 Funding
 
 There were no additional costs for the increased patrols, just a reallocation of staffing. Staff also had to make time to collaborate and coordinate with organizations.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 The goal was to reduce calls and criminal activity, monitor and move/remove juvenile activity out of the park, and increase the usability of Sam Johnson Park. Data is not yet available, but the department plans a quarterly review and analysis of calls and activity to the park. The department also plans to survey the general public along with associated agencies involved in the process. A new playground in Sam Johnson Park was opened in October 2015. We want the park to be a safe and fun place for children and families to gather.

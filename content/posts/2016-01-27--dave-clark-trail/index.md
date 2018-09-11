@@ -17,7 +17,9 @@ The Dave Clark Trail is an underused City Parks & Recreation Department trail in
 Impact on the Community
 
 Due to the lack of use by “normal” recreational users, the presence of “abnormal” users, and the decreased attention to maintenance along the trail, what should be a pearl of downtown Albany had become a place to avoid. The Albany Police Department (APD) increased its patrols for transient camps in 2014 and 2015 along the Dave Clark Trail and within the adjacent parks.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 Crime Prevention Through Environmental Design (CPTED) principles were used to evaluate the whole of the trail. APD began discussions and reviews with the Albany Parks & Recreation Department to discuss possible changes and maintenance along the trail. They identified multiple places with poor lines of sight and overgrown vegetation, as well as unpruned areas, and areas with junk and trash. It was also determined that only a portion of the trail had lighting, which was not compatible with CPTED recommendations.
@@ -39,7 +41,9 @@ National Institute of Crime Prevention CPTED Principles
 Funding
 
 It was quickly determined that there was no money in the Police or Parks & Recreation’s budgets to revamp the lighting along the trail. The APD took its proposal to Kate Porsche, the city’s director of economic development and urban renewal. It was determined that the project should be presented to the Central Albany Revitalization Area (CARA) Advisory Board. After multiple presentations on CPTED and feasibility, followed by contractor bidding in December 2015, CARA approved the spending of approximately $352,000 for the new lighting.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Critical Success Factors
 
     Cultivate a good relationship with Parks & Recreation staffing.

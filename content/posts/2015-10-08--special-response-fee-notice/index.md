@@ -19,6 +19,7 @@ There is an ongoing issue with college parties causing disturbances in neighborh
 Impact on the Community
 
 The quality of life in the neighborhoods surrounding campus was declining. Residents were becoming more vocal and outspoken about issues. The residents began to involve the Corvallis City Council and demand additional actions be taken to mitigate the problems.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
 Program Description

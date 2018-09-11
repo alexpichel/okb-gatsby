@@ -84,4 +84,3 @@ NIC EBDM core principles (framework document):
 Lessons Learned
 
 It was important to develop a local policy team, including representatives from the court, the district attorney sheriff’s offices, the Board of Commissioners, defense counsel, victim Services, the Health and Human Services Department, the Community Justice Department, and a community member, all of whom were aided by a technical adviser. Information about evidence-based practices via the NIC Library, the National Association of Pretrial Services Agencies, the American Probation and Parole Association, and other pretrial organizations was also valuable. Pretrial considerations regarding detention, release, and imposed conditions upon jail release should be based on risk level and individualized per case. Data collection and analysis of outcome measures is essential.
-

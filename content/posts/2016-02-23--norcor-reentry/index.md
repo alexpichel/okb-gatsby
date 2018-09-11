@@ -11,6 +11,7 @@ tags:
   - "Reentry"
 subTitle: "NORCOR’s reentry program is designed to provide a seamless plan of services and supervision from remand to discharge from community supervision."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 Problematic Behavior or Activity
@@ -45,7 +46,7 @@ Proposed outcomes include:
     Increase in number of medium- and high-risk offenders who access programming
     Reduction in recidivism for those released from NORCOR
 
-*Year One Update*
+## Year One Update
 
 NORCOR’s reentry program was implemented in January 2016. In the first year the program has identified 234 individuals, 8 cohorts who met the initial criteria of being at medium or high risk of re-offending and participated for at least 30 days.
 

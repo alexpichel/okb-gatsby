@@ -19,14 +19,18 @@ While working child abuse and child homicide cases, then-Detective Craig Roberts
 Impact on the Community
 
 Hardworking professionals in multiple agencies were doing their best to investigate and solve these cases and hold the individuals responsible for their crimes. Unfortunately, the lack of a coordinated effort made this task more difficult and further exposed the community to the dangers of child abuse and family violence.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 In April of 2000, the Clackamas County Sheriff’s Office hosted the first annual Child Abuse and Family Violence Summit in Wilsonville, Oregon. This conference brought together the many disciplines that work together on these cases and provided an arena for open dialogue and an opportunity to learn from some of the leading experts in the field. The original "Summit," as it is referred to, had 338 attendees. Since then the Summit has grown into an internationally recognized conference and in 2015 had 773 attendees with 57 presenters holding 109 different sessions over the three-and-a-half-day conference. Attendees come from around the United States, Canada, and abroad to attend and gain from this invaluable experience. The conference format allows for attendees to select the course work most applicable to their profession or need, as it provides a large variety of sessions in the areas of investigations, interviewing, assessment, prosecution and treatment of child abuse and domestic violence. The Summit is held annually during the third week of April at the Red Lion Jantzen Beach in Portland, Oregon. The primary goal of the Summit is to educate professionals on the complex issues associated with child abuse and family violence, to broaden each professional’s knowledge base in multiple areas and to increase understanding of the other agencies roles and responsibilities.
 Funding
 
 The Summit is funded through corporate sponsorships, sales of merchandise at the conference, scholarships from partnering agencies and tuition from the attendees. The overall cost to hold the Summit is roughly $250,000 annually. There are approximately 85 volunteers who work tirelessly during the conference and roughly 20 employees from a variety of agencies on the planning committee who devote a tremendous amount of themselves to make each Summit a success.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 For the past 16 years, the Child Abuse and Family Violence Summit has allowed professionals to gather, collaborate, and become educated on the latest techniques and strategies to combat these horrible crimes. In this time, thousands of individuals have received training, heard testimonials, and developed new methods that have allowed them to be more effective in tackling these cases, regardless of the role they play. The Summit continues to be at the top of the training list each year for numerous disciplines and provides current and critical information in a setting focused on education and collaboration.

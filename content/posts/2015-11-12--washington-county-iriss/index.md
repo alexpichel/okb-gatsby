@@ -36,6 +36,7 @@ Each of the service components play a crucial role assisting the offender in rem
 3. Substance Abuse: a Continuum of Care Outpatient Treatment Services provide a range of services delivered consistent with the medical necessity.
 
 4. Cognitive Behavioral Therapy: completion of two different but complementary cognitive behavioral experiences.
+
 Based on Research
 
 Validated Risk Assessment Tools used include PSC, LS/CMI, URICA , and TCU Drug Screen.

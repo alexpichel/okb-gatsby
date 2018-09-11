@@ -18,7 +18,9 @@ Police officers routinely interact with people with mental health issues. Mental
 Impact on the Community
 
 The standard police response has been to either arrest the person (if there is probable cause) or leave the person alone (when there is no illegal behavior occurring). Both responses are unsatisfactory; placing someone in the criminal justice system or leaving the person alone does not address the problem: The person continues to suffer from mental health issues and may continue to cause disturbances and engage in criminal behavior.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 Law Enforcement Assisted Diversion (LEAD) is a pilot program within the Dallas municipal criminal justice system to divert some persons suffering from mental health issues from the criminal court system and into treatment intake.
@@ -36,7 +38,9 @@ Funding
 There was an initial cost for the printing of forms. This program is expected to save the city a considerable amount of money over time although the amount is not quantifiable with current data. Further, this program would potentially save the Polk County Sheriff’s Office, Jail Division, considerable money by diverting or removing persons with behavioral health issues from the jail.
 
 This program will cost Polk County Behavioral Health an indeterminate amount. However, this program may make Polk County Behavioral Health eligible for additional funding through multiple grant sources.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 The program was implemented in July 2015. Dallas PD has diverted one person for a crime so far and the department has begun to apply the LEAD process for city code offenses related to mental illness. The diverted person succeeded with the program and, to the department’s knowledge, has not had negative police contact since.

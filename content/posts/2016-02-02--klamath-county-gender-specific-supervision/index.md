@@ -18,7 +18,9 @@ With an increased use of risk and needs assessments, our officers began receivin
 Impact on the Community
 
 More women are entering the criminal justice system and being placed on community supervision. More targeted supervision strategies may reduce recidivism and victimization.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 Klamath County Community Corrections created its first gender-specific caseload in January 2013. At that time the department started placing medium-risk and high-risk female offenders on one specific caseload. That caseload quickly grew to two and there are now three caseloads for women.
@@ -37,7 +39,9 @@ Funding
 
 The department supports the crisis center and mentor contracts with Grant-in-Aid funds.
 Community Corrections funds four counselor positions through various grants, including M­57, Grant-in-Aid, and a BJA grant. All other services are provided by the respective agencies, in exchange for rental space.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 Klamath County Community Corrections is seeing an increase in compliance with the adult female population.

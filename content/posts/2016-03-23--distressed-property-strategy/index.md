@@ -20,6 +20,7 @@ Impact on the Community
 These properties attract transient populations that use them for shelter and as a location where they engage in illicit drug activity and other criminal conduct that includes sex crimes, theft, narcotics trafficking, human trafficking, and other activities that stress neighborhoods and undermine community confidence. In many cases these properties become dumping grounds for trash, human waste, and other forms of rubbish. They attract vermin and other infestations that infiltrate neighboring properties. As a result, community members have ongoing concern that their neighborhood will fall into blighted condition (ORS. 457.010) due to Dangerous and Derelict Structures (City Code 29.40) and the criminal activity frequently associated with such properties.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 The East Precinct Neighborhood Response Team officers take action on distressed properties when they become the subject of neighborhood livability complaints. They do not typically seek out locations, but will take reasonable steps if they become aware of a property before it becomes a neighborhood problem. The goal is to make a timely, effective response to patrol and neighbors’ complaints associated with distressed dangerous properties.
@@ -50,7 +51,9 @@ Team officers use best practices and governance provided by the U.S. Department 
 Funding
 
 This activity is funded out of existing budgets, employing the resources listed. No special grants are used.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 The number-one complaint that comes to the Neighborhood Response Team is the disorder associated with distressed properties. The team’s initial response is locating, documenting, and securing the locations. Citizens have responded in an extremely positive manner, including applause. The Portland Police Bureau conducted a CompStat review of several distressed properties throughout the precinct. These properties each had at least two years of vacancy and related crime data. The following impacts within a 500-foot radius of properties were identified:

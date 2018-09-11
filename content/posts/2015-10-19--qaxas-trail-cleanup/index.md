@@ -41,7 +41,6 @@ Program Impact
 
 By inviting residents and showing our own dedication by participating, we empowered the residents to take responsibility for keeping their neighborhood safe. It also allowed the department the opportunity to show to residents that we care for their safety, and to tell us if anything compromises that perception of safety. The program encouraged increased conversations with residents and communication with the Tribal Housing Office and provided groundwork for addressing future problems.
 
-
 Critical Success Factors
 
 The primary factor of success regarding the program was coordinating with the housing department and going door-to-door to invite residents to participate. Even if they were unable to attend the clean-up day, it opened discussions between residents and the Police regarding not only the trail, but also other items of concern. It also created a reason to talk face-to-face with residents so that they could feel comfortable speaking with us about future concerns.

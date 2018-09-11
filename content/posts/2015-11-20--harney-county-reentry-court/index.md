@@ -30,7 +30,9 @@ Use of appropriate balance of services, treatment, and supervision. Refer to the
 Funding
 
 This program will be partially funded by a $58,410 grant through the 2015-2017 Justice Reinvestment Grant Program. Harney County will also be applying for additional grant funding to support the Court.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 Proposed outcomes include:

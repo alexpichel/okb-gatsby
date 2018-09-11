@@ -66,7 +66,6 @@ Funding
     Law Enforcement Services
     Treatment-Readiness In-custody
 
-
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 Program Impact

@@ -36,6 +36,7 @@ Based on Research
 Funding
 
 This program is funded by a $13,200 grant through the 2015-17 Justice Reinvestment Grant Program. Hood River estimates it will serve 40 low-risk offenders during a a two-year period.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 Program Impact

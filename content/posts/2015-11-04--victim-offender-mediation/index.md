@@ -36,6 +36,7 @@ Primary Research Question
 4. Do differences in VOM programs yield different outcomes?
 
 5. What are the primary obstacles and opportunities for VOM development?
+
 Research Design
 
 The programs included in this study operated in Clackamas County, Deschutes County, Jackson County, Lane County, Multnomah County, and Polk County. Data collection for this study began in late October 2000 and concluded in early May 2001. Four data sets were developed to address the above questions: stakeholder interviews; victim and offender interviews; record data; and VOM observations. One hundred and four victims and 93 offenders who had participated in VOM since July 1999 were interviewed. Interviews addressed questions of how participants are prepared for the VOM session, participant satisfaction with VOM, the perceived fairness of the mediator, the nature of the agreements, and the extent to which participation was perceived to be voluntary.

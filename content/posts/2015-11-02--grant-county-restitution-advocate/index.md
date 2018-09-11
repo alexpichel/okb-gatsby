@@ -22,6 +22,7 @@ Impact on the Community
 Victims are not always receiving, and offenders are not always being held accountable, for prompt and proper restitution.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 The Restitution Advocate position assists victims with the restitution process during a criminal case. This position works directly with victims to gather estimates and other documents. Once the documentation is compiled, the Restitution Advocate assists in submitting details to the court. This information is ultimately ordered and entered into a judgement.
@@ -33,6 +34,7 @@ Funding
 .11 FTE of the advocate’s salary is paid with a $14,000 grant through the 2015-17 Justice Reinvestment Grant Program.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 Proposed outcomes include:

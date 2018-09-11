@@ -31,7 +31,9 @@ The Tigard Police Department believes that this program is truly groundbreaking.
 Funding
 
 The CCU is funded entirely through business licensing fees. At the time of the unit’s inception, business licensing fees in Tigard had not changed for 10 years and were among the lowest in the area. By adding tiers based on the number of full-time-equivalent employees and modifying the fee structure slightly, the increased revenue allowed the Tigard Police Department to add staff and establish the CCU with two detectives and one sergeant. In 2015, the department requested and received overwhelming support from the business community to slightly increase the fees, which supported the third detective for the unit.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
    The unit conducted a major yearlong investigation into new-construction burglaries. Building on years of experience and extensive contacts in the business community, unit officers investigated and prosecuted a suspect in a large-scale burglary scheme wherein new-home construction sites were regularly being burglarized for new appliances, tools, and equipment. This investigation resulted in the recovery of several trailer loads of new appliances and numerous search warrants being executed. The primary suspect was arrested and more than $100,000 worth of goods was recovered.

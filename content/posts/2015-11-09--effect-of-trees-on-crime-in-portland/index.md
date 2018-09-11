@@ -28,6 +28,7 @@ The study was confined to the southeast precinct of Portland, which was chosen f
 Limitations
 
 Analysis was limited to single-family homes because the relationship between trees and crime may be different for multiple-family homes. The model could not take into account any crime-prevention measures taken by residents not observable by the analysts. The model also did not take into account the presence of street lights or increased foot traffic around some homes.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 Research Findings

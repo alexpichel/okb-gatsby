@@ -30,6 +30,7 @@ This study examines the 1976 CPTED demonstration project in Portland, OR, at the
     Clean Up Days and Sunday Markets were created to promote community spirit.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
+
 PRIMARY RESEARCH QUESTION
 
 The study sought to answer two primary research questions:
@@ -43,7 +44,9 @@ First, researchers analyzed the number, type, and quality of project activities,
 Limitations
 
 The final evaluation did not include a matched control area. The control would have helped to account for alternative explanations of findings which might have been affected by extraneous variables or side effects.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Proximate Goals Findings:
 
     Movement control: a majority of businesses made security improvements that were recommended by police.

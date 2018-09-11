@@ -28,6 +28,7 @@ Based on Research
     The Effectiveness of Functional Family Therapy for Youth with Behavioral Problems in a Community Practice Setting
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 Functional Family Probation engages youth and families holistically in motivating, assessing, and working toward goals. The family focus, based on respect and consideration, allows staff and clients to build alliances and encourages innovative problem solving to promote positive outcomes.

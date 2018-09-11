@@ -18,7 +18,9 @@ By understanding the factors that drive illegal drug market locations, police ca
 Response
 
 From 1992-1997, Portland introduced four drug free zones. Anyone arrested for a drug offense was excluded from any drug free zone for 90 days and, if convicted, was excluded from all drug free zones for one year. The only exceptions were if the person lives, works, or attends school in a drug free zone. If the police find a person who has been convicted of a drug offense in a drug free zone, they arrest them on a trespassing charge. Police were dispatched to drug free zones to target known drug offenders.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
+
 Primary Research Question
 
 The current study explores two questions: 1) Are customer location and accessibility to illegal drug markets related to drug sale arrests? 2) Do increased sanctions associated with drug free zones effective in decreasing drug sales arrests?
@@ -28,7 +30,9 @@ Growth curve modeling was used to explore changes in patterns of drug sales arre
 Limitations
 
 To measure the effects of drug free zones, for each year from 1990-1998 the researchers used a “yes/no” variable to represent whether a block group was in a drug free zone each year. However, it was likely these block groups were already under increased scrutiny before being designated as drug free zones. Researcher also did not study the effect of having visible drug free zone signage in businesses and stores. Lastly, the arrest data in the study represents visible drug markets that the police were able to intercept and does not account for “indoor” drug markets.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Research Findings
 
 Researchers found the following geographic explanations for arrest propensity: a block group’s arrest propensity increased the closer it was to a Central Business District, increased if it was located in the northeast precinct in Portland, increased with higher number of bus stops, and increased the further east it was relative to other block groups.

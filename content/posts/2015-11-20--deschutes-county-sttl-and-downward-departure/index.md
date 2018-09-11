@@ -18,7 +18,9 @@ This program was developed as part of a statewide effort to reduce prison utiliz
 Impact on the Community
 
 The increase in spending necessary to accommodate Oregon’s growing prison population threatened to have a serious impact on the state’s public safety budget and overall spending. According to a 2012 report by the Oregon Commission on Public Safety, prison population growth was anticipated to cost taxpayers up to an additional $600 million.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+
 Program Description
 
 This program creates a specialized caseload of Alternative Incarceration Program, Short Term Trans Leave, and Downward Departure offenders. Three parole officers supervise a population of up to 100-130 offenders. Once in the program, offenders are placed under intensive supervision and receive programming that may include cognitive behavioral therapy, weekend drug testing, alcohol and drug treatment, and transitional housing. The goal of the program is a balance of sanctions and services, as well as a high frequency of contact.
@@ -34,7 +36,9 @@ Based on Research
 Funding
 
 This program is funded by a $1,517,273 grant through the 2015-17 Justice Reinvestment Grant Program. This grant supports program staff including two of the three parole officers, a records technician, a parole specialist trained in MRT, and a community service worker, as well as drug testing, transitional housing, and program supplies, training and equipment.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
 Program Impact
 
 Portions of the Short Term Trans Leave program were implemented in 2013 with the first round of Justice Reinvestment funds. As a result of this investment, Deschutes County’s STTL acceptance rate rose to 54%, saving the Department of Corrections approximately 3,883 prison bed-days. With the expansion of the program, it is anticipated that these numbers will increase, maximizing the number of STTL applicants Deschutes County can accept.
