@@ -4,7 +4,7 @@ import injectSheet from "react-jss";
 
 import config from "../../../content/meta/config";
 
-import GithubIcon from "!svg-react-loader!../../images/svg-icons/github.svg?name=GithubIcon";
+import InstagramIcon from "!svg-react-loader!../../images/svg-icons/instagram.svg?name=InstagramIcon";
 import FacebookIcon from "!svg-react-loader!../../images/svg-icons/facebook.svg?name=FacebookIcon";
 import TwitterIcon from "!svg-react-loader!../../images/svg-icons/twitter.svg?name=TwitterIcon";
 
@@ -37,7 +37,7 @@ const Socialcons = props => {
   const icons = {
     twitter: TwitterIcon,
     facebook: FacebookIcon,
-    github: GithubIcon
+    instagram: InstagramIcon
   };
 
   return (

@@ -25,7 +25,7 @@ module.exports = {
   contactEmail: "okb@oregon.gov",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/alexpichel" },
+    { name: "instagram", url: "https://github.com/alexpichel" },
     { name: "twitter", url: "https://twitter.com/orknowledgebank" },
     { name: "facebook", url: "http://facebook.com/oregonknowledgebank" }
   ]
