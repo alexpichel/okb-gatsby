@@ -2,7 +2,7 @@
 title: Central Precinct Foot Patrol
 date: "2015-10-19"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/central-precinct-foot-patrol/"
 category: "Policing"
 tags:

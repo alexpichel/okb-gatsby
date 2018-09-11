@@ -2,13 +2,14 @@
 title: Exclusion Program
 date: "2015-11-19"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 category: "Policing"
 tags:
   - "Quality of Life"
   - "Victims"
 subTitle: "The exclusion program allows property owners/managers to engage the services of patrol to exclude individuals from their property for a period of one year."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 Problematic Behavior or Activity
@@ -25,15 +26,15 @@ Funding
 
 The cost for the program is minimal. There is an associated cost for an hour or two of salary per week for administering the program and for NCR forms used in the field.
 
-This program was implemented without the benefit of grant funds, but was quick to implement without much expense. 
+This program was implemented without the benefit of grant funds, but was quick to implement without much expense.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
 
-The exclusion program has been an effective tool for assisting properties in lessening or eliminating problematic individuals from coming back to their premises. Many business owners who use this program find it beneficial in keeping themselves, their staff, and customers safe. The exclusion program also has the effect of lessening repeat calls to law enforcement regarding individuals who habitually cause issues for property owners. 
+The exclusion program has been an effective tool for assisting properties in lessening or eliminating problematic individuals from coming back to their premises. Many business owners who use this program find it beneficial in keeping themselves, their staff, and customers safe. The exclusion program also has the effect of lessening repeat calls to law enforcement regarding individuals who habitually cause issues for property owners.
 
 Critical Success Factors
 
 The deputies on the street have been critical in spreading the word about this program to property owners they believe would benefit.
 Lessons Learned
 
-Be clear with businesses and other properties who wish to enroll in this program that this is only to assist them with individuals who meet the specific criteria as specified in the program. It does not apply to persons if they simply wish to decline service, or to persons they may have personal history with, unless the behavior clearly fits the criteria as spelled out in the program. Mobile home parks are one type of property that should not be enrolled in the exclusion program, since the customary arrangement is that persons lease the land, but own the structure of their home. They should have the right to invite whomever they choose to their residence. 
+Be clear with businesses and other properties who wish to enroll in this program that this is only to assist them with individuals who meet the specific criteria as specified in the program. It does not apply to persons if they simply wish to decline service, or to persons they may have personal history with, unless the behavior clearly fits the criteria as spelled out in the program. Mobile home parks are one type of property that should not be enrolled in the exclusion program, since the customary arrangement is that persons lease the land, but own the structure of their home. They should have the right to invite whomever they choose to their residence.

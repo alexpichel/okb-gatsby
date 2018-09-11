@@ -2,7 +2,7 @@
 title: Neighborhood Watch Programs
 date: "2015-11-30"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/neighborhood-watch-programs/"
 category: "Research"
 tags:
@@ -30,7 +30,7 @@ Research Design
 Researchers obtained crime data from the Medford Police Department, including total offenses in each patrol area, or beat, from the year 2007 through 2013. Researchers ran several regressions across the seven beats; each beat had varying numbers of neighborhood watch groups. Researchers also ran analyses to make sure their results were not significantly affected by the wealth of the beats/areas.
 Limitations
 
-This research does not explain why neighborhood watch groups in Medford are associated with reductions in crime. Further research is needed to determine what additional factors are contributing to the reduction in crime. 
+This research does not explain why neighborhood watch groups in Medford are associated with reductions in crime. Further research is needed to determine what additional factors are contributing to the reduction in crime.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
@@ -44,4 +44,4 @@ Research Findings
 
 Main Implications
 
-This research shows that neighborhood watch groups are effective in reducing crime for specific offenses such as robbery, theft, burglary, vandalism, trespassing, crime damage, and shoplifting. When organizing neighborhood watch groups it is helpful to look at the number of groups per kilometer within a patrol area, to account for differences in size of patrol areas. Some beats may be larger than others, and neighborhood watch groups are more effective when there is more than one group per kilometer. 
+This research shows that neighborhood watch groups are effective in reducing crime for specific offenses such as robbery, theft, burglary, vandalism, trespassing, crime damage, and shoplifting. When organizing neighborhood watch groups it is helpful to look at the number of groups per kilometer within a patrol area, to account for differences in size of patrol areas. Some beats may be larger than others, and neighborhood watch groups are more effective when there is more than one group per kilometer.

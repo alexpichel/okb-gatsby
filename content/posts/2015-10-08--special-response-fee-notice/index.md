@@ -2,7 +2,7 @@
 title: Special Response Fee Notice
 date: "2015-10-08"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/special-response-fee-notice/"
 category: "Policing"
 tags:
@@ -18,7 +18,7 @@ Problematic Behavior or Activity
 There is an ongoing issue with college parties causing disturbances in neighborhoods where college students and permanent residents cohabit. The parties lead to loud music, yelling and screaming, littering, fights, vandalism and other nuisance crimes. Citing the offending parties provides a temporary solution and does not create permanent changes in behavior. Additionally, warning offending parties was not tracked with any standardization, which led to multiple warnings being issued to chronic offenders. A mechanism was needed to go above and beyond normal enforcement and to create a way to more effectively keep track of repeated responses.
 Impact on the Community
 
-The quality of life in the neighborhoods surrounding campus was declining. Residents were becoming more vocal and outspoken about issues. The residents began to involve the Corvallis City Council and demand additional actions be taken to mitigate the problems. 
+The quality of life in the neighborhoods surrounding campus was declining. Residents were becoming more vocal and outspoken about issues. The residents began to involve the Corvallis City Council and demand additional actions be taken to mitigate the problems.
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
 Program Description

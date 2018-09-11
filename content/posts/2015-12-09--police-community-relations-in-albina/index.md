@@ -2,7 +2,7 @@
 title: Police-Community Relations in Albina, 1964-1985
 date: "2015-12-09"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/police-community-relations-albina/"
 category: "Research"
 tags:

@@ -2,7 +2,7 @@
 title: Grant County Restitution Advocate
 date: "2015-11-02"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/grant-restitution-advocate/"
 category: "Correctional"
 tags:
@@ -30,7 +30,7 @@ Based on Research
 Studies have shown that restitution can create awareness in offenders of the harmful consequences of their actions to the victim. It also holds offenders accountable by requiring them to take action to make amends to the victim and the community.
 Funding
 
-.11 FTE of the advocate’s salary is paid with a $14,000 grant through the 2015-17 Justice Reinvestment Grant Program. 
+.11 FTE of the advocate’s salary is paid with a $14,000 grant through the 2015-17 Justice Reinvestment Grant Program.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
@@ -39,4 +39,4 @@ Proposed outcomes include:
 
 25 unduplicated clients will receive assistance in organizing and documenting restitution.
 
-90% of victims will agree that the Victim Assistance Program provided them with services that helped them make informal choices about their situations. 
+90% of victims will agree that the Victim Assistance Program provided them with services that helped them make informal choices about their situations.

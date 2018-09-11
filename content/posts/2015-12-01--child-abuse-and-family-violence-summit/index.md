@@ -2,7 +2,7 @@
 title: Child Abuse and Family Violence Summit
 date: "2015-12-01"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/child-abuse-family-violence-summit/"
 category: "Policing"
 tags:

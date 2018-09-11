@@ -2,7 +2,7 @@
 title: Yamhill County SMART Sentencing Initiative
 date: "2016-02-17"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/yamhill-SMART/"
 category: "Correctional"
 tags:

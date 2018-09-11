@@ -2,7 +2,7 @@
 title: Central Precinct Entertainment Zone
 date: "2015-11-04"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/central-precinct-entertainment-zone/"
 category: "Policing"
 tags:

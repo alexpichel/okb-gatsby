@@ -2,7 +2,7 @@
 title: Union County Pre-Sentencing Assessment/STTL Supervision
 date: "2016-01-28"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/union-pre-sentencing/"
 category: "Correctional"
 tags:

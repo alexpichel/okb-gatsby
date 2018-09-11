@@ -74,13 +74,7 @@ export const postQuery = graphql`
         subTitle
         category
         tags
-        cover {
-          childImageSharp {
-            resize(width: 300) {
-              src
-            }
-          }
-        }
+        cover
       }
     }
     author: markdownRemark(id: { regex: "/author/" }) {

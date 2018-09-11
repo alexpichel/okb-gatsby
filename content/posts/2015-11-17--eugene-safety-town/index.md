@@ -2,12 +2,13 @@
 title: Eugene Safety Town
 date: "2015-11-17"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 category: "Policing"
 tags:
   - "Crime Prevention"
 subTitle: "Safety Town is an incredible two-week comprehensive educational program that introduces pre-Kindergarten children to safety awareness."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 Problematic Behavior or Activity
@@ -37,4 +38,4 @@ Critical Success Factors
 Support from the community and the families whose children have attended, along with great teachers and staff.
 Lessons Learned
 
-While the commitment is great, it's worth the investment in the safety and future of our children. Many in the community will help you out. Other agencies will help you get started. 
+While the commitment is great, it's worth the investment in the safety and future of our children. Many in the community will help you out. Other agencies will help you get started.

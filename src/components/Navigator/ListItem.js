@@ -152,12 +152,9 @@ class ListItem extends React.Component {
           <div className={`${classes.listItemPointer} pointer`}>
             <LazyLoad height={60} overflow={true} throttle={300} once={true} offset={100}>
               <picture>
-                <source
-                  type="image/webp"
-                  srcSet={post.node.frontmatter.cover.children[0].resolutions.srcSetWebp}
-                />
-                <source srcSet={post.node.frontmatter.cover.children[0].resolutions.srcSet} />
-                <img src={post.node.frontmatter.cover.children[0].resolutions.src} alt="" />
+                <source type="image/webp" srcSet={post.node.frontmatter.cover} />
+                <source srcSet={post.node.frontmatter.cover} />
+                <img src={post.node.frontmatter.cover} alt="" />
               </picture>
             </LazyLoad>
             {/*<Img sizes={post.node.frontmatter.cover.children[0].sizes} />*/}

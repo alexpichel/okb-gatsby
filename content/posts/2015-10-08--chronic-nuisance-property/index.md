@@ -2,7 +2,7 @@
 title: Chronic Nuisance Property
 date: "2015-10-08"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/chronic-nuisance-property/"
 category: "Policing"
 tags:

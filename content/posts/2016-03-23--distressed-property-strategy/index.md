@@ -2,7 +2,7 @@
 title: Distressed Property Strategy
 date: "2016-03-23"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/distressed-property-strategy/"
 category: "Policing"
 tags:

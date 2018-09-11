@@ -2,7 +2,7 @@
 title: Operation 911 Misuse Reduction
 date: "2015-09-22"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/operation-911-misuse/"
 category: "Policing"
 tags:
@@ -40,4 +40,4 @@ After the first few contacts when we educated the woman when to and when not to 
 
 Lessons Learned
 
-Single police point of contact. Police hounding NWDS to find a home for the woman. Working together with the fire department, son, and apartment manager so that we were all on the same page giving the woman the same information. 
+Single police point of contact. Police hounding NWDS to find a home for the woman. Working together with the fire department, son, and apartment manager so that we were all on the same page giving the woman the same information.

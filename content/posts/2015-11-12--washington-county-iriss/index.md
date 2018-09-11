@@ -2,7 +2,7 @@
 title: Washington County Integrated Re-Entry Intensive Supervision and Services (IRISS)
 date: "2015-11-12"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/iriss/"
 category: "Correctional"
 tags:

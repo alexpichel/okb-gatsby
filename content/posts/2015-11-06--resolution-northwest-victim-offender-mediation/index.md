@@ -2,7 +2,7 @@
 title: Resolution Northwest Victim-Offender Mediation Program
 date: "2015-11-06"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/resolution-northwest/"
 category: "Research"
 tags:

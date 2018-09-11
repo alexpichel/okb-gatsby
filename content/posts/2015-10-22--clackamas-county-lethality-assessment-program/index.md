@@ -2,7 +2,7 @@
 title: Clackamas County Lethality Assessment Program
 date: "2015-10-22"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/lethality-assessment-program/"
 category: "Policing"
 tags:

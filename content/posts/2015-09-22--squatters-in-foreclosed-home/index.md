@@ -2,7 +2,7 @@
 title: Squatters in Foreclosed Homes
 date: "2015-09-22"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/squatters-in-foreclosed-homes/"
 category: "Policing"
 tags:

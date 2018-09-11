@@ -3,7 +3,7 @@ title: CPTED - The Commercial Demonstration in Portland, Oregon
 author: "ppb"
 date: "2015-10-02"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/commercial-demonstration-in-portland-oregon"
 category: "Research"
 tags:

@@ -2,7 +2,7 @@
 title: Police Use of Force and People with Mental Illness
 date: "2015-11-30"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/use-of-force-mental-illness/"
 category: "Research"
 tags:
@@ -38,4 +38,4 @@ Research Findings
 The findings are consistent with the large body of literature examining the use of force: injury to a subject and/or injury to an officer are most likely when subjects are armed, resist police commands, assault an officer, or are involved in a foot chase. Mental illness alone is not predictive of injury for either police officers or subjects. The findings also show that when mental illness is co-occurring with substance use, the likelihood of injuries for both officers and subjects increases significantly. This is true for subjects without mental illness but who are under the influence of drugs or alcohol.
 Main Implications
 
-If incidents involving people with mental illness are not significantly more likely to end in injury to either the officer or the subject, then the perception of dangerousness is overstated and may result in unnecessary stigmatization of this population. Policies should be implemented that help to reduce the stigma attached to mental illness among police officers. Training for police should be expanded to include tools to identify mental illness across a larger range of calls for service. 
+If incidents involving people with mental illness are not significantly more likely to end in injury to either the officer or the subject, then the perception of dangerousness is overstated and may result in unnecessary stigmatization of this population. Policies should be implemented that help to reduce the stigma attached to mental illness among police officers. Training for police should be expanded to include tools to identify mental illness across a larger range of calls for service.

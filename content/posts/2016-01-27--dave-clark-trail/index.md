@@ -2,7 +2,7 @@
 title: Dave Clark Trail
 date: "2016-01-27"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/dave-clark-trail/"
 category: "Policing"
 tags:

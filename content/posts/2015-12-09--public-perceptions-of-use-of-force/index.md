@@ -2,7 +2,7 @@
 title: Public Perceptions of Use of Force
 date: "2015-12-09"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/public-perceptions-use-of-force/"
 category: "Research"
 tags:

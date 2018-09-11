@@ -2,7 +2,7 @@
 title: Naloxone Deployment
 date: "2015-10-19"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/naloxone-deployment/"
 category: "Policing"
 tags:
@@ -16,7 +16,7 @@ Problematic Behavior or Activity
 Deaths resulting from heroin overdoses within the State of Oregon increased substantially in the years 2003-2012. The number of deaths in Jackson County specifically increased from 19 to 27 between 2011 and 2012, while seizures of heroin by Medford Area Drug and Gang Enforcement increased from 2,935 grams in 2011 to 24,538 grams in 2012. As a nation, the US represents 4.6% of the world's population but consumes 80% of the world's opioid (narcotic) supply. In the years 1999-2011, deaths resulting from unintentional drug poisoning involving opioid analgesics have increased by 28% and those involving heroin have increased by 119%, while those involving cocaine have decreased by 35%.
 Impact on the Community
 
-Increased drug abuse in Jackson County has resulted in expanded sales of controlled substances, along with an increase in the number of deaths from overdoses and increased admissions into treatment centers. 
+Increased drug abuse in Jackson County has resulted in expanded sales of controlled substances, along with an increase in the number of deaths from overdoses and increased admissions into treatment centers.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
@@ -28,13 +28,13 @@ Based on Research
 Other departments and agencies nationwide have implemented similar naloxone deployment programs, and they have witnessed positive results.
 Funding
 
-Naloxone costs between $50 and $60 per dose. Reimbursement may be available from HIDTA, and there has been talk of reimbursement/subsidy from the Oregon Attorney General's Office. 
+Naloxone costs between $50 and $60 per dose. Reimbursement may be available from HIDTA, and there has been talk of reimbursement/subsidy from the Oregon Attorney General's Office.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 Program Impact
 
-By February 2015 the department was fully trained in the deployment of naloxone. The first deployment occurred on March 9, 2015. Since the program was initiated, Medford Police have deployed a total of 9 doses of naloxone, with 8 of those 9 having the desired effect of reversing the overdose. 
+By February 2015 the department was fully trained in the deployment of naloxone. The first deployment occurred on March 9, 2015. Since the program was initiated, Medford Police have deployed a total of 9 doses of naloxone, with 8 of those 9 having the desired effect of reversing the overdose.
 
 Critical Success Factors
 

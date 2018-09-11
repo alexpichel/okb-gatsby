@@ -2,7 +2,7 @@
 title: Nuisance Intervention Team (NIT)
 date: "2015-09-22"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/nit/"
 category: "Policing"
 tags:

@@ -2,7 +2,7 @@
 title: Deschutes County STTL and Downward Departure
 date: "2015-11-20"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/deschutes-sttl/"
 category: "Correctional"
 tags:
@@ -33,10 +33,10 @@ Based on Research
 
 Funding
 
-This program is funded by a $1,517,273 grant through the 2015-17 Justice Reinvestment Grant Program. This grant supports program staff including two of the three parole officers, a records technician, a parole specialist trained in MRT, and a community service worker, as well as drug testing, transitional housing, and program supplies, training and equipment. 
+This program is funded by a $1,517,273 grant through the 2015-17 Justice Reinvestment Grant Program. This grant supports program staff including two of the three parole officers, a records technician, a parole specialist trained in MRT, and a community service worker, as well as drug testing, transitional housing, and program supplies, training and equipment.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
 
 Portions of the Short Term Trans Leave program were implemented in 2013 with the first round of Justice Reinvestment funds. As a result of this investment, Deschutes County’s STTL acceptance rate rose to 54%, saving the Department of Corrections approximately 3,883 prison bed-days. With the expansion of the program, it is anticipated that these numbers will increase, maximizing the number of STTL applicants Deschutes County can accept.
 
-The Downward Departure portion of the program is currently being implemented and has no outcomes to report as of yet. However, of the 302 offenders who were sent to prison on a first sentence from January 2013 through December 2014, more than 200 would have been qualified to be considered for the program if it had existed. By instituting a presentence screening process and increasing available supervision and services, it is estimated that this program will substantially increase the number of downward departures granted in the county. 
+The Downward Departure portion of the program is currently being implemented and has no outcomes to report as of yet. However, of the 302 offenders who were sent to prison on a first sentence from January 2013 through December 2014, more than 200 would have been qualified to be considered for the program if it had existed. By instituting a presentence screening process and increasing available supervision and services, it is estimated that this program will substantially increase the number of downward departures granted in the county.

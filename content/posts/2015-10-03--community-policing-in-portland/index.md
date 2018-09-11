@@ -2,7 +2,7 @@
 title: Community Policing in Portland
 date: "2015-10-03"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/community-policing-in-portland/"
 category: "Research"
 tags:
@@ -61,4 +61,4 @@ Expected outcomes of community policing:
 
 MAIN IMPLICATIONS
 
-Researchers found that although community policing was the accepted standard in Portland, implementation was faltering. There was widespread support for the concept but a lack of in-depth understanding and accountability for community policing since its inception. Community policing philosophy and skills must be infused throughout all levels of the agency and incorporated into training. Despite challenges in implementation, the expected outcomes of community policing were met, signaling this approach is a worthwhile effort. 
+Researchers found that although community policing was the accepted standard in Portland, implementation was faltering. There was widespread support for the concept but a lack of in-depth understanding and accountability for community policing since its inception. Community policing philosophy and skills must be infused throughout all levels of the agency and incorporated into training. Despite challenges in implementation, the expected outcomes of community policing were met, signaling this approach is a worthwhile effort.

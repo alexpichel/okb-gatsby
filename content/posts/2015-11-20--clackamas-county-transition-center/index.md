@@ -2,7 +2,7 @@
 title: Clackamas County Transition Center
 date: "2015-11-20"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Justice Reinvestment"
@@ -19,7 +19,7 @@ Every year, 350 people are released from the Department of Corrections to Clacka
 In addition, a portion of those releasing from the local jail are considered “frequent flyers.” Many of these individuals suffer from undertreated mental illness and are primarily committing nuisance crimes that cause them to cycle in and out of the system. This population accounts for about 1,825 jail beds per year in Clackamas County. Currently, law enforcement lacks an alternative other than jail for this population.
 Impact on the Community
 
-Without ongoing, coordinated support in the community, individuals releasing from custody are more likely to recidivate. This increases victimization and places a strain on already tight criminal justice resources. 
+Without ongoing, coordinated support in the community, individuals releasing from custody are more likely to recidivate. This increases victimization and places a strain on already tight criminal justice resources.
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 Program Description
 

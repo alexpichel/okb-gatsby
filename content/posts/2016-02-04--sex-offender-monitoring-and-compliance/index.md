@@ -2,7 +2,7 @@
 title: Sex Offender Monitoring and Compliance
 date: "2016-02-04"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/sex-offender-monitoring/"
 category: "Policing"
 tags:

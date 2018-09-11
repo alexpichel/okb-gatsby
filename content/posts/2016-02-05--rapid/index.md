@@ -2,7 +2,7 @@
 title: Property Information Database (RAPID)
 date: "2016-02-05"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/RAPID/"
 category: "Policing"
 tags:
@@ -44,7 +44,7 @@ Program Impact
 
 RAPID is currently used by agencies serving 83 percent of the population of Oregon (Multnomah, Washington, Clackamas, and Lane Counties and the cities of Salem, Coos Bay, Newberg, McMinnville, and North Bend) and Clark County in Washington (Vancouver, Battle Ground, and Hazel Dell). The RAPID servers also contain dealer transaction information from a number of agencies outside of Oregon and Washington, including Sacramento County, California; Durango, Colorado; and Hawaii. By using RAPID to identify stolen property in a dealer’s possession and identifying the thieves selling the property, law enforcement is able to recover the property for victims and prosecute the thieves. The use of the database also deters people from selling to dealers, therefore removing a cash source from thieves.
 
-Portland has experienced a fourfold increase in property recoveries. Prior to using RAPID we would average about 4 recoveries per month from our pawn and secondhand dealers. Using RAPID, we now average about 4 recoveries per week. This may be an incentive for thieves to live and steal in places where they are not easily identified by RAPID. 
+Portland has experienced a fourfold increase in property recoveries. Prior to using RAPID we would average about 4 recoveries per month from our pawn and secondhand dealers. Using RAPID, we now average about 4 recoveries per week. This may be an incentive for thieves to live and steal in places where they are not easily identified by RAPID.
 
 Critical Success Factors
 

@@ -1,6 +1,5 @@
 import React from "react";
 import injectSheet from "react-jss";
-import { MuiThemeProvider } from "@material-ui/core/styles";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 
@@ -138,15 +137,7 @@ export const guery = graphql`
             title
             subTitle
             category
-            cover {
-              children {
-                ... on ImageSharp {
-                  resolutions(width: 90, height: 90) {
-                    ...GatsbyImageSharpResolutions_withWebp_noBase64
-                  }
-                }
-              }
-            }
+            cover
           }
         }
       }

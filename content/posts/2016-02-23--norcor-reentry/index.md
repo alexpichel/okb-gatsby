@@ -2,7 +2,7 @@
 title: NORCOR Reentry
 date: "2016-02-23"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/norcor-reentry/"
 category: "Correctional"
 tags:

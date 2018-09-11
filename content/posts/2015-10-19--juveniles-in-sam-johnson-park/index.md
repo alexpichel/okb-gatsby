@@ -2,7 +2,7 @@
 title: Juveniles in Sam Johnson Park
 date: "2015-10-19"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/juveniles-in-sam-johnson-park/"
 category: "Policing"
 tags:
@@ -35,7 +35,7 @@ Based on Research
 Crime prevention through environmental design (CPTED)
 Funding
 
-There were no additional costs for the increased patrols, just a reallocation of staffing. Staff also had to make time to collaborate and coordinate with organizations. 
+There were no additional costs for the increased patrols, just a reallocation of staffing. Staff also had to make time to collaborate and coordinate with organizations.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
 

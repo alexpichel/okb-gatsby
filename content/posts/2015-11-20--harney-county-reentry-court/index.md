@@ -2,7 +2,7 @@
 title: Harney County Reentry Court
 date: "2015-11-20"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/harney-reentry/"
 category: "Policing"
 tags:

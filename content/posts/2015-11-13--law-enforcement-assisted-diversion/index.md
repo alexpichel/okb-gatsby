@@ -2,13 +2,14 @@
 title: Law Enforcement Assisted Diversion
 date: "2015-11-13"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/law-enforcement-assisted-diversion/"
 category: "Policing"
 tags:
   - "Mental Illness"
 subTitle: "Law Enforcement Assisted Diversion (LEAD) is a pilot program within the Dallas municipal criminal justice system to divert some persons suffering from mental health issues from the criminal court system and into treatment intake."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 Problematic Behavior or Activity
@@ -38,11 +39,11 @@ This program will cost Polk County Behavioral Health an indeterminate amount. Ho
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
 
-The program was implemented in July 2015. Dallas PD has diverted one person for a crime so far and the department has begun to apply the LEAD process for city code offenses related to mental illness. The diverted person succeeded with the program and, to the department’s knowledge, has not had negative police contact since. 
+The program was implemented in July 2015. Dallas PD has diverted one person for a crime so far and the department has begun to apply the LEAD process for city code offenses related to mental illness. The diverted person succeeded with the program and, to the department’s knowledge, has not had negative police contact since.
 
 Critical Success Factors
 
 For the program to be used in greater numbers, it is critical for the entire criminal justice system and its stakeholders to become accustomed to LEAD – its philosophy and goals. LEAD’s success depends on the cooperation and collaboration of many system partners.
 Lessons Learned
 
-Start early recruiting the essential partners, especially behavioral health service providers. Expect to work hard to achieve officer buy-in, not everyone in the police department will agree immediately with the idea of diversion. Work with all stakeholders to develop consensus around the program’s protocol and policies. 
+Start early recruiting the essential partners, especially behavioral health service providers. Expect to work hard to achieve officer buy-in, not everyone in the police department will agree immediately with the idea of diversion. Work with all stakeholders to develop consensus around the program’s protocol and policies.

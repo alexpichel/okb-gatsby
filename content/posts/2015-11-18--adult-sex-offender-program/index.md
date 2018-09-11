@@ -2,12 +2,13 @@
 title: Adult Sex Offender Program
 date: "2015-11-18"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Sex Offenders"
 subTitle: "The Linn County Community Corrections’ Adult Sex Offender Program provides assessment, treatment, and aftercare for adults who experience a range of sexual behavioral problems of varying degrees."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 ### Problematic Behavior or Activity

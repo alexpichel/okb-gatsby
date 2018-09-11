@@ -2,7 +2,7 @@
 title: Klamath County Gender Specific Supervision
 date: "2016-02-02"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/klamath-gender-specific-supervision/"
 category: "Correctional"
 tags:

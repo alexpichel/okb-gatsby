@@ -2,7 +2,7 @@
 title: Qaxas Trail Cleanup
 date: "2015-10-19"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/qaxas-trail-cleanup/"
 category: "Policing"
 tags:
@@ -33,7 +33,7 @@ We utilized practices illustrated by the Crime Prevention through Environmental 
 We also utilized the SARA (Scan, Analyze, Respond, Assess) Model in implementing the program. Through scanning the problem, we decided to establish a meeting with department stakeholders in order to formulate a way to prevent further problems. Stakeholders included law enforcement, housing department, residents, and guests. Analyzing the problem involved meeting with the housing and police departments to discuss problems/solutions, contacting the residents to determine the extent/perception of the problem, and visiting the trail area in question with residents so that they could discuss their concerns. Responding to the problem involved establishing goals to be achieved through the implementation of CPTED, identifying a plan to create "Trail Clean-Up Day," establishing a timeline/date for clean-up, creating flyers, notifying staff, and contracting residents in person to explain the event. Finally, assessment of the program's effectiveness involved monitoring issues related to the trail, following up with residents, and identifying any displacement related problems.
 Funding
 
-The only funding utilized was by the housing department, which provided drinks and pizza for all who participated. Even if residents were not able to participate in the clean-up, we invited them to come have lunch with us. The housing office provided the tools and equipment. 
+The only funding utilized was by the housing department, which provided drinks and pizza for all who participated. Even if residents were not able to participate in the clean-up, we invited them to come have lunch with us. The housing office provided the tools and equipment.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
@@ -47,4 +47,4 @@ Critical Success Factors
 The primary factor of success regarding the program was coordinating with the housing department and going door-to-door to invite residents to participate. Even if they were unable to attend the clean-up day, it opened discussions between residents and the Police regarding not only the trail, but also other items of concern. It also created a reason to talk face-to-face with residents so that they could feel comfortable speaking with us about future concerns.
 Lessons Learned
 
-Communicate with your residents and community partners. Following the implementation of this program, we are able to hold each other responsible for the safety of the community. Although this project is small in scope, its principles can be modified and adapted to fit the needs of any community. 
+Communicate with your residents and community partners. Following the implementation of this program, we are able to hold each other responsible for the safety of the community. Although this project is small in scope, its principles can be modified and adapted to fit the needs of any community.

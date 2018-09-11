@@ -2,7 +2,7 @@
 title: Functional Family Probation (FFP)
 date: "2016-01-28"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/ffp/"
 category: "Correctional"
 tags:

@@ -2,7 +2,7 @@
 title: Specialized Crisis Response for Person with Mental Illness
 date: "2015-11-04"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/specialized-crisis-response/"
 category: "Research"
 tags:

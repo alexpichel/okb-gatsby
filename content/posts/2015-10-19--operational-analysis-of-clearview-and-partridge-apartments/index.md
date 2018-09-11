@@ -2,7 +2,7 @@
 title: Operational Analysis of Clearview and Partridge Apartments
 date: "2015-10-19"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/analysis-clearview-partridge/"
 category: "Policing"
 tags:
@@ -44,4 +44,4 @@ Critical Success Factors
 Landlord training, CPTED, and coordination with Rushing Real Estate.
 Lessons Learned
 
-Utilizing the SARA model helped the department define the problem and respond accordingly. Analyzing and reviewing the data helped the department convince others of the problem. Working with other members of the community was critical. 
+Utilizing the SARA model helped the department define the problem and respond accordingly. Analyzing and reviewing the data helped the department convince others of the problem. Working with other members of the community was critical.

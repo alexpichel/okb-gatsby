@@ -2,7 +2,7 @@
 title: Victim Offender Mediation
 date: "2015-11-04"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/victim-offender-mediation/"
 category: "Research"
 tags:
@@ -43,7 +43,7 @@ The programs included in this study operated in Clackamas County, Deschutes Coun
 Fifty-five stakeholders in the county-based programs and juvenile justice systems were interviewed, including program directors, judges, police officers, juvenile corrections personnel and volunteers. They provided information about the programs, their respective justice systems, and their assessments of how well VOM functioned. Program data files were tapped to develop descriptive statistics including types of cases referred, volume of caseload, and completion of restitution agreements. Limited data on offender recidivism was made available for four programs. In addition to the interview and record data described above, four VOM mediations and three offender VOM intake/preparation sessions were observed.
 Limitations
 
-This study provides a rich, descriptive accounting of VOM programs. It does not attempt to compare the experiences of those participating in VOM to those who do not; and it does not examine the extent to which VOM correlates to reduced recidivism. 
+This study provides a rich, descriptive accounting of VOM programs. It does not attempt to compare the experiences of those participating in VOM to those who do not; and it does not examine the extent to which VOM correlates to reduced recidivism.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 

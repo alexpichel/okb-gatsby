@@ -2,7 +2,7 @@
 title: Multnomah County Justice Reinvestment Program (MCJRP)
 date: "2015-11-20"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/MCJRP/"
 category: "Correctional"
 tags:
@@ -19,7 +19,7 @@ Problematic Behavior or Activity
 Prior to House Bill 3194 efforts, Multnomah County was sentencing 55% of its would-be MCJRP-eligible population to the Department of Corrections. The County had not yet identified a way to use offender risk and need information pre-trial.
 Impact on the Community
 
-Not using a pre-adjudication risk/needs assessment to identify who could be supervised in the community helped Multnomah County contribute to the population of Oregon’s strained prison system. 
+Not using a pre-adjudication risk/needs assessment to identify who could be supervised in the community helped Multnomah County contribute to the population of Oregon’s strained prison system.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
@@ -71,7 +71,7 @@ Funding
 
 Program Impact
 
-Prior to implementation in 2013, 55% of would-be MCJRP-eligible cases received prison sentences. Under MCJRP, 25% of eligible cases are sentenced to prison. 
+Prior to implementation in 2013, 55% of would-be MCJRP-eligible cases received prison sentences. Under MCJRP, 25% of eligible cases are sentenced to prison.
 
 Critical Success Factors
 

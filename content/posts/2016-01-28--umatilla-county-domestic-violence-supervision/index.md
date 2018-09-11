@@ -2,7 +2,7 @@
 title: Umatilla County Domestic Violence Supervision
 date: "2016-01-28"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/umatilla-dv-supervision/"
 category: "Correctional"
 tags:
