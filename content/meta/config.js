@@ -13,7 +13,7 @@ module.exports = {
   authorTwitterAccount: "@orknowledgebank",
   // info
   infoTitle: "Oregon Knowledge Bank",
-  infoTitleNote: "A local public safety resource",
+  infoTitleNote: "a local public safety resource",
   // manifest.json
   manifestName: "Oregon Knowledge Bank - a local public safety resource",
   manifestShortName: "OKB", // max 12 characters
@@ -25,8 +25,8 @@ module.exports = {
   contactEmail: "okb@oregon.gov",
   // social
   authorSocialLinks: [
-    { name: "instagram", url: "https://github.com/alexpichel" },
+    { name: "instagram", url: "https://instagram.com" },
     { name: "twitter", url: "https://twitter.com/orknowledgebank" },
-    { name: "facebook", url: "http://facebook.com/oregonknowledgebank" }
+    { name: "facebook", url: "https://facebook.com/oregonknowledgebank" }
   ]
 };
