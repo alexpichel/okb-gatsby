@@ -8,7 +8,7 @@ category: "Correctional"
 tags:
   - "Family Violence"
   - "Specialized Caseload"
-subTitle: "Offenders are assessed using the Level of Service/Case Management Inventory (LS/CMI) and the Ontario Domestic Assault Risk Assessment (ODARA), an actuarial risk-assessment tool specific to domestic violence offenders."
+subTitle: "A multi-faceted supervision program focused on the specific needs of DV offenders aims to increase accountability for victim reparation and reduce recidivism and prison bed use."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
