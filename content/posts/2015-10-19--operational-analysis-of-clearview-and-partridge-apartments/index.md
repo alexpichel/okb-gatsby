@@ -9,7 +9,7 @@ tags:
   - "Chronic"
   - "Quality of Life"
   - "Violent Crime"
-subTitle: "Our strategy had several components: increasing foot patrols and offender home visits, tracking activity within both complexes by all involved parties, identifying suitable crime targets, identifying motivated offenders within both complexes, and identifying repeat offenders that may be attacking different targets."
+subTitle: "A multi-faceted POP approach was used to address criminal activity in two separate apartment complexes."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
