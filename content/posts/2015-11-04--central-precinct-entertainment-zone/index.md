@@ -9,7 +9,7 @@ tags:
   - "Assault"
   - "Chronic Nuisance"
   - "Quality of Life"
-subTitle: "It entailed street closures at certain hours of the day coupled with a dedicated walking patrol in the area and crime prevention efforts to address the problems associated with the area."
+subTitle: "Strategic street closures, foot patrols, and crime prevention efforts reduced crime in a targeted urban area."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
