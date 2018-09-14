@@ -8,7 +8,7 @@ category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pre-Sentence Assessment"
-subTitle: "Under the Yamhill County SMART Sentencing Initiative, presumptively prison-bound cases involving non-person felony offenses (primarily Measure 57 property and drug offenses) are referred at the time of arraignment to the Department of Community Justice (DCJ) for completion of an Early Defendant Analysis (EDA)."
+subTitle: "A comprehensive multi-pronged pre-sentencing program successfully diverted offenders from prison, avoiding 1,082 months of prison use."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
