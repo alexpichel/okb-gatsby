@@ -7,7 +7,7 @@ path: "/posts/ffp/"
 category: "Correctional"
 tags:
   - "Specialized Caseload"
-subTitle: "Functional Family Probation (FFP) offers services that are community­-based, evidence­-based, and designed specifically for juveniles."
+subTitle: "An integrative supervision and case management model is used to engage, motivate, assess, and work successfully with high-risk youth and their families."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
