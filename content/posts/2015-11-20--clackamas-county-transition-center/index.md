@@ -7,7 +7,7 @@ category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"
-subTitle: "The Clackamas County Transition Center provides a centralized location where clients releasing from custody or who are at risk of returning to custody can seamlessly access reentry services."
+subTitle: "A centralized location for access to reentry services aims to decrease jail use by clients in mental health crisis and reduce recidivism for all program participants."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
