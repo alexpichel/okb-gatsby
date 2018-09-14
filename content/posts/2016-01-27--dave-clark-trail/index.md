@@ -7,7 +7,7 @@ path: "/posts/dave-clark-trail/"
 category: "Policing"
 tags:
   - "Crime Prevention"
-subTitle: "Crime Prevention Through Environmental Design (CPTED) principles were used to evaluate the whole of the trail."
+subTitle: "The application of focused patrol and CPTED principles, including improved lighting, aim to reduce misuse of a city trail and increase the public's perception of safety."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
