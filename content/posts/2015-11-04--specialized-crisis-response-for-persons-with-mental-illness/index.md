@@ -7,7 +7,7 @@ path: "/posts/specialized-crisis-response/"
 category: "Research"
 tags:
   - "Mental Illness"
-subTitle: "Do specialized police responses to mental health emergencies increase the effectiveness of facilitating collaboration between police and mental health professionals in crisis cases?"
+subTitle: "Specialized crisis response sites may be effective in facilitating collaboration between police and mental health professionals."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
