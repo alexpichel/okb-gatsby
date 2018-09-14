@@ -10,7 +10,7 @@ tags:
   - "Intensive Supervision"
   - "Justice Reinvestment"
   - "Pre-Sentence Assessment"
-subTitle: "As the state’s most populous county, Multnomah is positioned to have the greatest impact on prison utilization, recidivism, public safety, and holding offenders accountable. The infusion of justice reinvestment resources led to the development of effective community supervision for high risk/need offenders, rather than sending them to DOC."
+subTitle: "A program providing personalized supervision and treatment programs aims to reduce recidivism and prison use."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
