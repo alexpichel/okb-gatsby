@@ -7,7 +7,7 @@ path: "/posts/yamhill-pretrial/"
 category: "Correctional"
 tags:
   - "Pretrial Release"
-subTitle: "The Yamhill County pretrial services officer (PSO) conducts interviews and risk assessments on all detained defendants within 24 hours of initial arrest and booking at the local jail, for the purpose of providing a release recommendation to the court at initial arraignment."
+subTitle: "A comprehensive pre-trial assessment providing release recommendations shows a promising trend of contributing to a reduction of FTAs and daily jail population."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
