@@ -11,7 +11,7 @@ tags:
   - "Quality of Life"
   - "Homeless"
   - "Juvenile Justice"
-subTitle: "Instead of focusing on enforcing rules, we decided to treat houseless/unsheltered individuals as stakeholders in the community."
+subTitle: "Foot patrol positively impacted fear of crime and police-community relationships through an emphasis on providing services and relationship builiding."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
