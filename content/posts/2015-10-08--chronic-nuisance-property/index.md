@@ -8,7 +8,7 @@ category: "Policing"
 tags:
   - "Quality of Life"
   - "Chronic Nuisance"
-subTitle: "In combination with a special response fee program, a standardized method for tracking nuisance offenders lead to reductions in repeat nuisance calls associated with college rentals."
+subTitle: "In combination with the Special Response Fee program, a standardized method for tracking nuisance offenders lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
