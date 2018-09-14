@@ -7,7 +7,7 @@ path: "/posts/sex-offender-monitoring/"
 category: "Policing"
 tags:
   - "Sex Offenders"
-subTitle: "Officers from the Medford Police Department volunteer to monitor registered sex offenders residing in the city."
+subTitle: "Building compliance checks into patrol duties decreased the percentage of noncompliant sex offenders between 2006 and 2009."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
