@@ -7,7 +7,7 @@ category: "Policing"
 tags:
   - "Quality of Life"
   - "Victims"
-subTitle: "The exclusion program allows property owners/managers to engage the services of patrol to exclude individuals from their property for a period of one year."
+subTitle: "An exclusion program allowing property owners/managers to engage the services of patrol to exclude individuals for one year from their property reduced repeat calls and increased owners/managers perception of safety."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
