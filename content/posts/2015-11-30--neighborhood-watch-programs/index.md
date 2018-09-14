@@ -7,7 +7,7 @@ path: "/posts/neighborhood-watch-programs/"
 category: "Research"
 tags:
   - "Neighborhood Watch"
-subTitle: "Does an increase in the number of neighborhood watch groups have an effect on crime in the city? Are neighborhood watch groups effective?"
+subTitle: "Neighborhood Watch programs were shown to be associated with the reduction of type 1 crimes."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
