@@ -7,7 +7,7 @@ path: "/posts/illegal-drug-markets/"
 category: "Research"
 tags:
   - "Drugs"
-subTitle: "The current study explores two questions: 1) Are customer location and accessibility to illegal drug markets related to drug sale arrests? 2) Do increased sanctions associated with drug free zones effective in decreasing drug sales arrests?"
+subTitle: "The ease of customer accessibility outweighs the effect of possible sanctions in the presence and location of outdoor illegal drug markets."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
