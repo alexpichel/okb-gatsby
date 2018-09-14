@@ -9,7 +9,7 @@ tags:
   - "Justice Reinvestment"
   - "Restitution"
   - "Victims"
-subTitle: "The Restitution Advocate position assists victims with the restitution process during a criminal case."
+subTitle: "A Restitution Advocate position was created to asssist victims in navigating the restitution process."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
