@@ -8,7 +8,7 @@ category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"
-subTitle: "A Nuisance Intervention Team (NIT) was created to address the population creating nuisance offenses and victimizing citizens."
+subTitle: "A specialized team used hot spot policing to increase community safety and livability."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
