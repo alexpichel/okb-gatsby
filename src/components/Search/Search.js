@@ -1,7 +1,14 @@
 import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
-import { InstantSearch, SearchBox, Hits, Stats, Pagination } from "react-instantsearch/dom";
+import {
+  InstantSearch,
+  SearchBox,
+  RefinementList,
+  Hits,
+  Stats,
+  Pagination
+} from "react-instantsearch/dom";
 
 import Hit from "./Hit";
 
@@ -90,6 +97,7 @@ const Search = props => {
             indexName={algolia.indexName}
           >
             <SearchBox translations={{ placeholder: "Search" }} />
+            <RefinementList attribute="category" />
             <Stats />
             <Hits hitComponent={Hit} />
             <Pagination />
