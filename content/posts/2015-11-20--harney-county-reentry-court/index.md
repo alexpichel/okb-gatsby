@@ -8,7 +8,7 @@ category: "Policing"
 tags:
   - "Justice Reinvestment"
   - "Specialty Court"
-subTitle: "Harney County’s Reentry Court will serve individuals who have been released from prison or have violated their terms of supervision."
+subTitle: "A variety of services combined with incentives and/or a graduate sanction program aim to lower recidivism rates, decrease new violations, and decrease revocations."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

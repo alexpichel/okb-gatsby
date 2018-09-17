@@ -8,7 +8,7 @@ category: "Research"
 tags:
   - "Community Relations"
   - "Race Relations"
-subTitle: "What attempts did the black community in Albina make to reform policing and how were their efforts met? What were some key historical events that shaped police-community relations between African Americans and the Portland Police Bureau?"
+subTitle: "A retrospective study examined the relationship between the black community and police between 1964 and 1985, uncovering differences in the perception of the improvement or decline of that relationship."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

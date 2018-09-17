@@ -7,7 +7,7 @@ path: "/posts/distressed-property-strategy/"
 category: "Policing"
 tags:
   - "Abandoned Properties"
-subTitle: "The East Precinct Neighborhood Response Team officers take action on distressed properties when they become the subject of neighborhood livability complaints."
+subTitle: "A collaborative, systematic approach to addressing distressed properties produced a reduction in a number of call types in the area surrounding these properties."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

@@ -8,7 +8,7 @@ category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"
-subTitle: "The SRN allows for the addition of civil penalties for multiple responses to a residence for specific criminal offenses in a set time frame."
+subTitle: "In combination with the Chronic Nuisance Property program, the use of civil fees lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

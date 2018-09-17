@@ -7,7 +7,7 @@ path: "/posts/effect-of-trees-on-crime/"
 category: "Research"
 tags:
   - "Crime Prevention"
-subTitle: "What is the relationship between trees and crime? Specifically, is vegetation on a property associated with higher or lower crime rates?"
+subTitle: "Larger trees and street trees were shown to have a modest crime reduction impact."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

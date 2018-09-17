@@ -7,7 +7,7 @@ path: "/posts/naloxone-deployment/"
 category: "Policing"
 tags:
   - "Drugs"
-subTitle: "Naloxone blocks or reverses the effects of opioid medication (narcotics), including extreme drowsiness, slowed breathing, or loss of consciousness."
+subTitle: "Officers were trained to deploy naloxone to provide immediate treatment in the event of responding to an opoid overdose."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

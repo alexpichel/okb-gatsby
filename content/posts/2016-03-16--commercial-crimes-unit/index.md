@@ -9,7 +9,7 @@ tags:
   - "Crime Prevention"
   - "Theft"
   - "Trespass"
-subTitle: "The Tigard Police Department believes that its Commercial Crimes Unit (CCU) is unlike any other crime-fighting unit in the United States."
+subTitle: "A specialized investigative unit aims to reduce commercial crime and increase livability for local merchants and businesses."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

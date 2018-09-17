@@ -9,7 +9,7 @@ tags:
   - "Abandoned Properties"
   - "Quality of Life"
   - "Trespass"
-subTitle: "The Community Response Unit began an investigation with the aim of identifying who owned the property and resolving the growing community concerns."
+subTitle: "Investigation and cooperation with neighbors eliminated police calls to a foreclosed home and increased neighborhood quality of life."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

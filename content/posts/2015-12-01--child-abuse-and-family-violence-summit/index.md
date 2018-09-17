@@ -9,7 +9,7 @@ tags:
   - "Domestic Violence"
   - "Family Violence"
   - "Training"
-subTitle: "This conference brought together the many disciplines that work together on these cases and provided an arena for open dialogue and an opportunity to learn from some of the leading experts in the field."
+subTitle: "The Child Abuse and Family Violence Summit has allowed professionals to gather, collaborate, and become educated on the latest techniques and strategies to combat these crimes."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

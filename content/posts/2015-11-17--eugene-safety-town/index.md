@@ -6,7 +6,7 @@ cover: /assets/policing.png
 category: "Policing"
 tags:
   - "Crime Prevention"
-subTitle: "Safety Town is an incredible two-week comprehensive educational program that introduces pre-Kindergarten children to safety awareness."
+subTitle: "A two-week comprehensive educational program effectively introduced safety concepts to pre-Kindergarten aged children"
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

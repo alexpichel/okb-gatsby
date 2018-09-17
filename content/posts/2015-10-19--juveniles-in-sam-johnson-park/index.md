@@ -9,7 +9,7 @@ tags:
   - "Chronic Nuisance"
   - "Juvenile Justice"
   - "Quality of Life"
-subTitle: "Redmond Police developed a strategy using Crime Prevention through Environmental Design (CPTED)."
+subTitle: "A multi-faceted approach - including CPTED, relationship building, and focused patrols - was used to address juvenile problems and safety concerns at a local park."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

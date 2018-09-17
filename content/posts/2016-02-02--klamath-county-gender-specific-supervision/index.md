@@ -7,7 +7,7 @@ path: "/posts/klamath-gender-specific-supervision/"
 category: "Correctional"
 tags:
   - "Specialized Caseload"
-subTitle: "At that time the department started placing medium-risk and high-risk female offenders on one specific caseload."
+subTitle: "Use of more targeted supervision strategies increased compliance rates among adult female offenders."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

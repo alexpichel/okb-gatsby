@@ -7,7 +7,7 @@ path: "/posts/RAPID/"
 category: "Policing"
 tags:
   - "rapid"
-subTitle: "The Regional Automated Property Information Database (RAPID) was developed as an automated system to help police identify thieves and stolen property."
+subTitle: "An automated property database used by multiple agencies led to a fourfold increase of one agency's recvoeries of stolen property."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

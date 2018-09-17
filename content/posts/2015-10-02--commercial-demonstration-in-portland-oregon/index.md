@@ -9,7 +9,7 @@ category: "Research"
 tags:
     - "CPTED"
     - "Crime Prevention"
-subTitle: "CPTED aims to lower crime and fear of crime in an area by reducing the opportunity for offenders to commit crimes and by fostering positive social interaction."
+subTitle: "A 1976 CPTED demonstration was associated with the reduction of commercial and residential burlargies."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

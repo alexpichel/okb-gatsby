@@ -8,7 +8,7 @@ category: "Research"
 tags:
   - "Mediation"
   - "Victims"
-subTitle: "description text here."
+subTitle: "A comparative analysis demonstrated that victim-offender meditation is highly beneficial in the rehabilitative process of juvenile offenders."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

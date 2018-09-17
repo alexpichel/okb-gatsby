@@ -8,7 +8,7 @@ category: "Policing"
 tags:
   - "Domestic Violence"
   - "Victims"
-subTitle: "The Lethality Assessment Program (LAP) is a collaborative effort to prevent domestic violence homicides, serious injury, and re-assault by encouraging more victims to utilize the support and shelter services of domestic violence programs."
+subTitle: "A collaboratively developed screening protocol connected high-risk DV victims with services, both immediately after the incident and follow-up services."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
