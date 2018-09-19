@@ -26,10 +26,10 @@ PRIMARY RESEARCH QUESTION(S)
 
 The report describes community policing in Portland in great detail and discusses the following questions:
 
-  Is community policing right for Portland?
-  To what extent is the vision of community policing understood and articulated by stakeholders and community members?
-  To what extent is community policing effectively implemented in Portland?
-  Are current performance measures meaningful and effective?
+1. Is community policing right for Portland?
+2. To what extent is the vision of community policing understood and articulated by stakeholders and community members?
+3. To what extent is community policing effectively implemented in Portland?
+4. Are current performance measures meaningful and effective?
 
 RESEARCH DESIGN
 
@@ -54,10 +54,10 @@ Current state and challenges of implementing community policing:
 
 Expected outcomes of community policing:
 
-    Incidence of crime: From 1990 to 2001 the crime rate for Part I Person and Property crimes (such as murder, aggravated assault, arson, motor vehicle theft) had decreased significantly. Part 1 Person crime rates alone declined 47% from 1997-2001 and Part 1 Property crime rates declined 19%. Victimization rates, which include burglary and theft from vehicle, also declined, though not as dramatically.
-    Fear of crime: Portland residents also felt safer. From 1990-2002, the percentage of citizens who reported feeling safe walking in their neighborhood at night increased from 34% to 50%.
-    Neighborhood livability: Researchers looked at incidence of graffiti, complaints about drug houses, and citizen’s rating of physical conditions of their neighborhood as indicators of livability. The incidence of graffiti fell by 18% from 1995-1997. The number of drug house complaints dropped 39 percent from 1996 to 2000, but showed a 22 percent jump from 2000 to 2001. Finally, citizen's rating of the physical condition of their neighborhood barely changed between 1994 and 2000.
-    Citizen’s satisfaction with police: citizen satisfaction from 1990 to 1998 showed a 22% improvement, then the rating declined 7% from 1998 to 2001.
+* Incidence of crime: From 1990 to 2001 the crime rate for Part I Person and Property crimes (such as murder, aggravated assault, arson, motor vehicle theft) had decreased significantly. Part 1 Person crime rates alone declined 47% from 1997-2001 and Part 1 Property crime rates declined 19%. Victimization rates, which include burglary and theft from vehicle, also declined, though not as dramatically.
+* Fear of crime: Portland residents also felt safer. From 1990-2002, the percentage of citizens who reported feeling safe walking in their neighborhood at night increased from 34% to 50%.
+* Neighborhood livability: Researchers looked at incidence of graffiti, complaints about drug houses, and citizen’s rating of physical conditions of their neighborhood as indicators of livability. The incidence of graffiti fell by 18% from 1995-1997. The number of drug house complaints dropped 39 percent from 1996 to 2000, but showed a 22 percent jump from 2000 to 2001. Finally, citizen's rating of the physical condition of their neighborhood barely changed between 1994 and 2000.
+* Citizen’s satisfaction with police: citizen satisfaction from 1990 to 1998 showed a 22% improvement, then the rating declined 7% from 1998 to 2001.
 
 MAIN IMPLICATIONS
 
