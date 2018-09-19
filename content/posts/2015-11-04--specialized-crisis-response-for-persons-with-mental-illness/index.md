@@ -11,10 +11,11 @@ subTitle: "Specialized crisis response sites may be effective in facilitating co
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-Community Need
+COMMUNITY NEED
 
 Emergency departments have always served as a resource for the police in crisis situations for persons with mental illness. There are substantial barriers to using emergency services as a point of effective police referral to the mental health system. Transporting an individual in psychiatric crisis to an emergency department is often frustrating for both law enforcement and mental health professionals. Therefore, there is a need to facilitate effective collaboration between police and mental health professionals in crisis cases.
-Response
+
+RESPONSE
 
 The current study assesses three prebooking jail diversion programs that participated in the Substance Abuse and Mental Health Services Administration jail diversion knowledge development application initiative.
 
@@ -24,21 +25,24 @@ When a person is in crisis or someone is arrested who exhibits signs of mental i
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
-Primary Research Question
+PRIMARY RESEARCH QUESTION
 
 Do specialized police responses to mental health emergencies increase the effectiveness of facilitating collaboration between police and mental health professionals in crisis cases?
-Research Design
+
+RESEARCH DESIGN
 
 The observations reported in this study have emerged from site visits and training sessions at each program by three of the authors, from operation of these programs by two of the authors, and from involvement in the SAMHSA evaluation by one of the authors.
-Limitations
+
+LIMITATIONS
 
 No client outcome data are available to measure the impact of these specialized crisis response sites. The SAMHSA multisite study in which they are participating will provide some important data in the near future.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-Research Findings
+RESEARCH FINDINGS
 
 The authors conclude that the following elements contribute to successful prebooking jail diversion programs for individuals with serious mental illness and substance abuse problems: (1) an identifiable, central drop-off site; (2) the co-location of mental health and substance abuse services; (3) no-refusal policies for law enforcement referrals; (4) a streamlined intake process to minimize police officers’ time at the center; (5) appropriate legal foundations; (6) innovative and intensive cross-training between law enforcement and mental health staff; (7) 24-hour service; and (8) real linkages to community-based services.
-Main Implications
+
+MAIN IMPLICATIONS
 
 The availability of a specialized crisis response site in prebooking jail diversion programs may help to surmount many of the problems previously experienced in law enforcement- mental health interactions.
