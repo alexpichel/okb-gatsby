@@ -25,7 +25,7 @@ The quality of life in the neighborhoods surrounding campus was declining. Resid
 
 PROGRAM DESCRIPTION
 
-The SRN allows for the addition of civil penalties for multiple responses to a residence for specific criminal offenses in a set time frame. If more than one police response occurs within the time frame a civil penalty can be incurred by the residents present. Penalties can be retroactive to include the initial police response and any subsequent responses. Penalties can include the costs incurred by the city for the response (i.e. Police, Dispatch, Fire/EMT).
+The Special Response Fee Notice (SRN) allows for the addition of civil penalties for multiple responses to a residence for specific criminal offenses in a set time frame. If more than one police response occurs within the time frame a civil penalty can be incurred by the residents present. Penalties can be retroactive to include the initial police response and any subsequent responses. Penalties can include the costs incurred by the city for the response (i.e. Police, Dispatch, Fire/EMT).
 
 FUNDING
 
