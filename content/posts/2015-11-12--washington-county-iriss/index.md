@@ -12,19 +12,19 @@ subTitle: "To reduce the number of Department of Corrections prison intakes in W
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-Problematic Behavior or Activity
+#### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 To reduce the number of Department of Corrections prison intakes in Washington County, IRISS provides the Court an enhanced community supervision alternative to prison; uses risk, needs, and responsivity to determine viable sentence options; creates and enforces evidence-based conditions of supervision; and holds offenders accountable through improved matching of supervision, services, and sanctions based upon the needs of offenders.
 
 Successful transition into the community includes assessments of the following domains: Reduction in Risk/Needs Factors through the LS/CMI; Stages of Change; Stability-Independence; Sobriety-Support; Transition Coping Skills; and Attitude Orientation.
 
-Impact on the Community
+#### IMPACT ON THE COMMUNITY
 
 Without intensive supervision, this population of offenders is more likely to continue to victimize citizens in the community. Washington County is also less able to consider allowing more eligible offenders to be supervised locally through a downward departure or Short Term Trans Leave.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
-Program Description
+#### PROGRAM DESCRIPTION
 
 Community Corrections worked in partnership with other Washington County Public Safety organizations to evaluate their criminal justice system. Prior to sentencing, the Court refers felony drug and property offenders for a presentence IRISS assessment. The assessment provides the Court a recommendation regarding system response options to manage the defendant in the community if appropriate. Recommendations are based on individual criminogenic risk and needs criteria that identify whether the defendant may be a candidate for community supervision.
 
@@ -38,19 +38,19 @@ Each of the service components play a crucial role assisting the offender in rem
 
 4. Cognitive Behavioral Therapy: completion of two different but complementary cognitive behavioral experiences.
 
-Based on Research
+#### BASED ON RESEARCH
 
 Validated Risk Assessment Tools used include PSC, LS/CMI, URICA , and TCU Drug Screen.
 Case plans are entered into Corrections Information System (CIS) and Offender Management System (OMS).
 Cognitive Behavioral Therapy includes Moral Reconation Therapy (MRT) and Thinking for Change.
 
-Funding
+#### FUNDING
 
 2015-17 Justice Reinvestment Grant funds: $2,784,354
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-Program Impact
+#### PROGRAM IMPACT
 
 Measurable outcomes include:
 90% connection of IRISS participants to support groups within one week of intake;
@@ -65,10 +65,10 @@ IRISS participants placed in full time jobs will achieve a 75% retention rate wi
 80 IRISS participants annually will engage in the Twelve Step MRT Program and 75% will complete Step 3; 50% will complete Step 6; and 10% will complete Step 9 or above; and/or
 80 IRISS participants will engage in Thinking for Change and 75% will complete lesson 12; 50% will complete lesson 18; and 25% will complete lesson 24.
 
-Critical Success Factors
+#### CRITICAL SUCCESS FACTORS
 
 The program has not yet been implemented; it is too soon to identify the factors critical to its success.
 
-Lessons Learned
+#### LESSONS LEARNED
 
 The program has not yet been implemented; it is too soon to provide advice.
