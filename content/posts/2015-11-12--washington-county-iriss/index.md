@@ -17,6 +17,7 @@ Problematic Behavior or Activity
 To reduce the number of Department of Corrections prison intakes in Washington County, IRISS provides the Court an enhanced community supervision alternative to prison; uses risk, needs, and responsivity to determine viable sentence options; creates and enforces evidence-based conditions of supervision; and holds offenders accountable through improved matching of supervision, services, and sanctions based upon the needs of offenders.
 
 Successful transition into the community includes assessments of the following domains: Reduction in Risk/Needs Factors through the LS/CMI; Stages of Change; Stability-Independence; Sobriety-Support; Transition Coping Skills; and Attitude Orientation.
+
 Impact on the Community
 
 Without intensive supervision, this population of offenders is more likely to continue to victimize citizens in the community. Washington County is also less able to consider allowing more eligible offenders to be supervised locally through a downward departure or Short Term Trans Leave.
@@ -42,6 +43,7 @@ Based on Research
 Validated Risk Assessment Tools used include PSC, LS/CMI, URICA , and TCU Drug Screen.
 Case plans are entered into Corrections Information System (CIS) and Offender Management System (OMS).
 Cognitive Behavioral Therapy includes Moral Reconation Therapy (MRT) and Thinking for Change.
+
 Funding
 
 2015-17 Justice Reinvestment Grant funds: $2,784,354
@@ -66,6 +68,7 @@ IRISS participants placed in full time jobs will achieve a 75% retention rate wi
 Critical Success Factors
 
 The program has not yet been implemented; it is too soon to identify the factors critical to its success.
+
 Lessons Learned
 
 The program has not yet been implemented; it is too soon to provide advice.
