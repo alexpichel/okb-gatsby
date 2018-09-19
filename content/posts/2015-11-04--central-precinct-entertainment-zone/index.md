@@ -17,6 +17,7 @@ subTitle: "Strategic street closures, foot patrols, and crime prevention efforts
 Problematic Behavior or Activity
 
 Downtown Portland North of Burnside from the Willamette River to N.W. 5th Ave. was generating large amounts of crimes and calls for service associated with the nightlife/bar scene in the area.
+
 Impact on the Community
 
 The area was taking considerable resources to police, negatively impacting residents' quality of life and generating a number of drinking related crimes such as assault.
@@ -29,6 +30,7 @@ The program was modeled after a similar initiative in Vancouver, BC. It entailed
 Based on Research
 
 In addition to Vancouver, BC, other locations were consulted, such as Austin, Texas.
+
 Funding
 
 There is no cost estimate at this time. It did take several officers to patrol on the weekends but these officers were already spending considerable time in the area.
@@ -42,6 +44,7 @@ There were large reductions in Part I and II crimes in the area. Citizen calls f
 Critical Success Factors
 
 The approach was holistic (it contained enforcement, regulatory, CEPTD and educational components). It also involved close work between crime prevention specialists, police officers and the community.
+
 Lessons Learned
 
 Identify similar towns/counties and reach out to those agencies to see what approaches they are using. Then modify those approaches to fit with your jurisdiction.
