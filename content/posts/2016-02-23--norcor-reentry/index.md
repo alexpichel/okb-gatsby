@@ -14,37 +14,39 @@ subTitle: "NORCOR’s reentry program is designed to provide a seamless plan of 
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-Problematic Behavior or Activity
+#### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 The Northern Oregon Regional Correctional Center (NORCOR) has seen an increasing number of repeat offenders and parole/probation violators who are suffering from either a mental health condition or some form of substance abuse. The recidivism rate of those released from NORCOR is more than 60 percent. This has put an increased burden on the NORCOR facility and the counties it serves.
-Impact on the Community
+
+#### IMPACT ON THE COMMUNITY
 
 When offenders continue to cycle through the system, the result is increased victimization in the community and greater use of custody beds, at a cost to the county and state.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
-Program Description
+#### PROGRAM DESCRIPTION
 
 NORCOR’s reentry program is designed to provide a seamless plan of services and supervision from remand to discharge from community supervision. The program uses a three-phased approach. Phase One consists of an initial screening, assessment, and referral to inmate programming. In Phase Two, offenders complete programming, as well as release preparation and planning. In Phase Three, they are released to community supervision and services that continue through their transition, reintegration, and aftercare in the community.
 
 Offenders qualify for the program based on their Level of Service Inventory–Revised (LSI-R) score. All medium- and high-risk offenders enter into Phase One of the program. Depending on their assessment, offenders will be referred to substance abuse treatment, cognitive behavioral treatment, anger management, parenting classes, and/or job readiness/reentry programming.
-Research
 
-    Uses validated risk-assessment tool
-    Addresses specific criminogenic needs
+#### BASED ON RESEARCH
 
-Funding
+- Uses validated risk-assessment tool
+- Addresses specific criminogenic needs
+
+#### FUNDING
 
 This program is partially funded through the state’s 2015-17 Justice Reinvestment Grant Program. $38,116 from Wasco County and $76,828 from Hood River County’s Justice Reinvestment Initiative allocations help support a mental health clinician and program director.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-Program Impact
+#### PROGRAM IMPACT
 
 Proposed outcomes include:
 
-    Increase in number of medium- and high-risk offenders who access programming
-    Reduction in recidivism for those released from NORCOR
+- Increase in number of medium- and high-risk offenders who access programming
+- Reduction in recidivism for those released from NORCOR
 
 ## Year One Update
 
