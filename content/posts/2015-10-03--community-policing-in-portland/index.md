@@ -22,18 +22,22 @@ In 1989, Portland Mayor Bud Clark and the City Council passed two resolutions in
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
-PRIMARY RESEARCH QUESTION
+PRIMARY RESEARCH QUESTION(S)
 
 The report describes community policing in Portland in great detail and discusses the following questions:
 
-    Is community policing right for Portland?
-    To what extent is the vision of community policing understood and articulated by stakeholders and community members?
-    To what extent is community policing effectively implemented in Portland?
-    Are current performance measures meaningful and effective?
+Is community policing right for Portland?
+
+To what extent is the vision of community policing understood and articulated by stakeholders and community members?
+
+To what extent is community policing effectively implemented in Portland?
+
+Are current performance measures meaningful and effective?
 
 RESEARCH DESIGN
 
 In order to present a snapshot of community policing as it existed in the last half of 2002, researchers analyzed factual information and witness testimony. To evaluate the outcomes of community policing (lower incidence of crime and fear of crime, increased neighborhood livability and citizen’s satisfaction, increased partnership with citizens, and increased officer initiative), researchers analyzed crime and crime response data, various citizen surveys, employee surveys, and County Progress Board benchmarks.
+
 LIMITATIONS
 
 There were no rigorous evaluations of community and police partnerships. The report does not demonstrate that community policing was the cause of the outcomes, as it does not control for other variables and reasons for the outcomes.
