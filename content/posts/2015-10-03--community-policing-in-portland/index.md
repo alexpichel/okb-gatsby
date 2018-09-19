@@ -7,7 +7,7 @@ path: "/posts/community-policing-in-portland/"
 category: "Research"
 tags:
   - "Community Policing"
-subTitle: "In 1989, Portland Mayor Bud Clark and the City Council passed two resolutions introducing community policing to Portland."
+subTitle: "A non-rigorous evaluation found that despite problems with implementation, community policing met expected outcomes in areas such as incidence of crime, fear of crime, livability, and citizen satisfaction."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
