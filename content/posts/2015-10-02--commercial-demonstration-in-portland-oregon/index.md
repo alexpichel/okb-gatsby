@@ -49,6 +49,8 @@ The final evaluation did not include a matched control area. The control would h
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
+RESEARCH FINDINGS
+
 Proximate Goals Findings:
 
 * Movement control: a majority of businesses made security improvements that were recommended by police.
