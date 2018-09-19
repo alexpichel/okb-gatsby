@@ -14,11 +14,11 @@ subTitle: "A 1976 CPTED demonstration was associated with the reduction of comme
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-COMMUNITY NEED
+#### COMMUNITY NEED
 
 A number of organizations, including the Portland Mayor's Office and the Portland Police Bureau, were concerned with finding effective solutions to burglaries and robberies along Union Avenue in Portland, OR. As a result, the Union Avenue Corridor was chosen to be the site of a demonstration project for a Crime Prevention Through Environmental Design (CPTED) project. The purpose of this study is to evaluate the effectiveness of CPTED strategies and provide information on the planning and implementation of a CPTED project.
 
-RESPONSE
+#### RESPONSE
 
 CPTED aims to lower crime and fear of crime in an area by reducing the opportunity for offenders to commit crimes and by fostering positive social interaction. CPTED attempts to achieve these goals through the modification of the physical environment: e.g., street lighting, providing activity areas, and closing streets. There are four basic dimensions of CPTED: surveillance, movement control, activity support, and motivational reinforcement.
 
@@ -32,24 +32,24 @@ This study examines the 1976 CPTED demonstration project in Portland, OR, at the
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
-PRIMARY RESEARCH QUESTION(S)
+#### PRIMARY RESEARCH QUESTION(S)
 
 The study sought to answer two primary research questions:
 
 1. Was the CPTED demonstration project properly implemented and did it achieve its proximate goals (increasing movement, control, surveillance, activity support, and motivational reinforcement)?
 2. Did the demonstration project reduce crime and support the CPTED theory?
 
-RESEARCH DESIGN
+#### RESEARCH DESIGN
 
 First, researchers analyzed the number, type, and quality of project activities, as well as the time and cost involved in executing them. To determine whether the demonstration project achieved the proximate goals of CPTED as well as the ultimate goal of reducing crime, researchers used qualitative and quantitative measures. They conducted interviews with UAC business owners, patrol officers, and residents to measure physical security of the UAC and quality of life. Interviews were also conducted to gather data on whether people perceived the UAC to be more socially cohesive, safer, and physically appealing. Lastly, changes in the crime rate were measured through reports maintained by the police and through victimization surveys. Police file data on crime in the UAC was collected from October 1974 through September 1977.
 
-LIMITATIONS
+#### LIMITATIONS
 
 The final evaluation did not include a matched control area. The control would have helped to account for alternative explanations of findings which might have been affected by extraneous variables or side effects.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-RESEARCH FINDINGS
+#### RESEARCH FINDINGS
 
 Proximate Goals Findings:
 
@@ -64,6 +64,6 @@ Crime Reduction Findings:
 * Residential burglaries also decreased 14% during the same time frame.
 * These conclusions are also supported by business owners’ and residents' perceptions of the UAC crime rate.
 
-MAIN IMPLICATIONS
+#### MAIN IMPLICATIONS
 
 In summary, the researchers found the CPTED demonstration project to be a success that warrants further study and implementation. The project was more successful with the business community than residents, mostly because it was able to provide more social cohesion among business owners.
