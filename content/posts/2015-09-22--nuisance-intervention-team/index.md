@@ -16,6 +16,7 @@ subTitle: "A specialized team used hot spot policing to increase community safet
 Problematic Behavior or Activity
 
 Transients creating nuisance issues such as disorderly conduct, harassment, trespassing, offensive littering, and overall misdemeanor crimes.
+
 Impact on the Community
 
 Unsafe feelings expressed by residents and a perception of high crime, whether real or perceived.
@@ -25,9 +26,11 @@ Unsafe feelings expressed by residents and a perception of high crime, whether r
 Program Description
 
 A Nuisance Intervention Team (NIT) was created to address the population creating nuisance offenses and victimizing citizens. A special unit of officers patrol the hot spots and offenders committing the low-level misdemeanors where people feel unsafe.
+
 Based on Research
 
 Yes, Intelligence-Led Policing and Hot Spots policing programs were the foundation of the program. We created the special unit to address the specific issues.
+
 Funding
 
 Added three additional officers to make up the Unit. Originally tried to cover with overtime but found the program difficult to be consistent.
@@ -41,6 +44,7 @@ Nuisance offenders have relocated to other areas away from our City for the most
 Critical Success Factors
 
 Data, the Nuisance Intervention Team (NIT), communication within the department as to the ongoing problems or people.
+
 Lessons Learned
 
 Commit to the program and philosophy to see results. It was not originally embraced by officers, but when they saw the results and positive feedback from citizens, they were all in.
