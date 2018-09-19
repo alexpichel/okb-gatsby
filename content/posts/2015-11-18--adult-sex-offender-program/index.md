@@ -35,9 +35,9 @@ When a client is ready for discharge, a closure meeting is scheduled to address 
 
 #### BASED ON RESEARCH
 
-    - Risk and needs assessment tools
-    - Cognitive Behavioral Therapy
-    - Dialectical Behavior Therapy
+- Risk and needs assessment tools
+- Cognitive Behavioral Therapy
+- Dialectical Behavior Therapy
 
 #### FUNDING
 
@@ -51,12 +51,12 @@ Data is unavailable due to the fact this treatment program began in July 2015. T
 
 #### CRITICAL SUCCESS FACTORS
 
-    - To decrease and control deviant sexual interests
-    - To accept responsibility for all harmful behaviors
-    - To change beliefs and thinking that support abusive behavior
-    - To develop adaptive and non-abusive sexual functioning
-    - To solve non-sexual problems in non-sexual ways
-    - To develop a new set of internal/external controls that promote relapse prevention
+- To decrease and control deviant sexual interests
+- To accept responsibility for all harmful behaviors
+- To change beliefs and thinking that support abusive behavior
+- To develop adaptive and non-abusive sexual functioning
+- To solve non-sexual problems in non-sexual ways
+- To develop a new set of internal/external controls that promote relapse prevention
 
 #### LESSONS LEARNED
 
