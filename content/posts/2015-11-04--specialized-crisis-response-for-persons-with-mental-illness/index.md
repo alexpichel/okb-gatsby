@@ -25,7 +25,7 @@ When a person is in crisis or someone is arrested who exhibits signs of mental i
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
-PRIMARY RESEARCH QUESTION
+PRIMARY RESEARCH QUESTION(S)
 
 Do specialized police responses to mental health emergencies increase the effectiveness of facilitating collaboration between police and mental health professionals in crisis cases?
 
