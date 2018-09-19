@@ -45,13 +45,12 @@ RESEARCH FINDINGS
 
 Current state and challenges of implementing community policing:
 
-    There were mixed messages regarding the Chief of Police’s leadership to community policing and community policing was not consistently reinforced in various precincts.
-    Community members reported that police processes had become more bureaucratic and that there was no standardized way to solicit their input into police policy or practice.
-    Researchers found training of police officers to be one of the biggest weak links in implementing community policing because no concrete skills were being taught on the issue.
-    There were few financial or recognition incentives for police to use community policing, which was largely regarded as more work than traditional approaches.
-    The 2002 Portland Police Bureau survey found that employees believed both internal and external communication was inadequate.
-    Crime prevention specialists were the link between the community and the departments. They oversaw neighborhood watch groups, facilitated discussion, and led crime prevention efforts.
-    Minorities were under-represented in the Police Bureau. Researchers stress the importance of minority representation as an integral element of community policing.
+* There were mixed messages regarding the Chief of Police’s leadership to community policing and community policing was not consistently reinforced in various precincts. 
+* Community members reported that police processes had become more bureaucratic and that there was no standardized way to solicit their input into police policy or practice. 
+* Researchers found training of police officers to be one of the biggest weak links in implementing community policing because no concrete skills were being taught on the issue. 
+* There were few financial or recognition incentives for police to use community policing, which was largely regarded as more work than traditional approaches.
+* The 2002 Portland Police Bureau survey found that employees believed both internal and external communication was inadequate. Crime prevention specialists were the link between the community and the departments. They oversaw neighborhood watch groups, facilitated discussion, and led crime prevention efforts.
+* Minorities were under-represented in the Police Bureau. Researchers stress the importance of minority representation as an integral element of community policing.    
 
 Expected outcomes of community policing:
 
