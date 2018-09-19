@@ -24,7 +24,8 @@ The story begins in the mid 1960s, when policing became a major civil rights iss
 
 #### PRIMARY RESEARCH QUESTION(S)
 
-What attempts did the black community in Albina make to reform policing and how were their efforts met? What were some key historical events that shaped police-community relations between African Americans and the Portland Police Bureau?
+1. What attempts did the black community in Albina make to reform policing and how were their efforts met? 
+2. What were some key historical events that shaped police-community relations between African Americans and the Portland Police Bureau?
 
 #### RESEARCH DESIGN
 
