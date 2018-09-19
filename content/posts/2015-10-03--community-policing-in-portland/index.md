@@ -26,13 +26,10 @@ PRIMARY RESEARCH QUESTION(S)
 
 The report describes community policing in Portland in great detail and discusses the following questions:
 
-Is community policing right for Portland?
-
-To what extent is the vision of community policing understood and articulated by stakeholders and community members?
-
-To what extent is community policing effectively implemented in Portland?
-
-Are current performance measures meaningful and effective?
+  Is community policing right for Portland?
+  To what extent is the vision of community policing understood and articulated by stakeholders and community members?
+  To what extent is community policing effectively implemented in Portland?
+  Are current performance measures meaningful and effective?
 
 RESEARCH DESIGN
 
