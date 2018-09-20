@@ -25,7 +25,7 @@ These properties attract transient populations that use them for shelter and as 
 
 The East Precinct Neighborhood Response Team officers take action on distressed properties when they become the subject of neighborhood livability complaints. They do not typically seek out locations, but will take reasonable steps if they become aware of a property before it becomes a neighborhood problem. The goal is to make a timely, effective response to patrol and neighbors’ complaints associated with distressed dangerous properties.
 
-The Distressed Property Strategy identifies the many issues facing the distressed property and engages the expertise of outside agencies to address these issues.
+The [Distressed Property Strategy](https://popcenter.asu.edu/sites/default/files/portland_zombie_houses.pdf) identifies the many issues facing the distressed property and engages the expertise of outside agencies to address these issues.
 
 Most distressed properties involve some or all of the following:
 
