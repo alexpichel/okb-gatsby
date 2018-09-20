@@ -17,7 +17,7 @@ Emergency departments have always served as a resource for the police in crisis 
 
 #### RESPONSE
 
-The current study assesses three prebooking jail diversion programs that participated in the Substance Abuse and Mental Health Services Administration jail diversion knowledge development application initiative.
+The current[study](https://ps.psychiatryonline.org/doi/full/10.1176/appi.ps.52.2.219) assesses three prebooking jail diversion programs that participated in the Substance Abuse and Mental Health Services Administration jail diversion knowledge development application initiative.
 
 The Multnomah County prebooking jail diversion program, established in 1997, has a crisis triage center and a police crisis intervention team program. The crisis triage center is located on the hospital campus of Providence Medical Center. Among the services at the triage center are a 24-hour crisis line; crisis intervention and stabilization; mobile outreach; voluntary subacute treatment, which includes chemical dependency; detoxification; mental health treatment; referral to outpatient community providers; medication management clinics; three holding rooms; and secure transport.
 
