@@ -30,9 +30,9 @@ Offenders enter the program in two primary ways. First, they are accepted throug
 
 #### BASED ON RESEARCH
 
-- Use of transitional housing to reduce barriers to reentry – What Works: Effective Recidivism Reduction and Risk-Focused Prevention Programs – Roger Przybylski
-- Blending of risk management and accountability with rehabilitative or risk reducing strategies – Dosage Probation: Rethinking the Structure of Probation Sentences – Center for Effective Public Policy
-- Use of cognitive behavioral therapy, specifically Moral Reconation Therapy – What Works: Effective Recidivism Reduction and Risk-Focused Prevention Programs – Roger Przybylski
+- Use of transitional housing to reduce barriers to reentry – [What Works: Effective Recidivism Reduction and Risk-Focused Prevention Programs – Roger Przybylski](https://cdpsdocs.state.co.us/ccjj/Resources/Ref/WhatWorks2008.pdf)
+- Blending of risk management and accountability with rehabilitative or risk reducing strategies – [Dosage Probation: Rethinking the Structure of Probation Sentences – Center for Effective Public Policy](https://www.fppoa.org/sites/default/files/dosage.pdf)
+- Use of cognitive behavioral therapy, specifically Moral Reconation Therapy – [What Works: Effective Recidivism Reduction and Risk-Focused Prevention Programs – Roger Przybylski](https://cdpsdocs.state.co.us/ccjj/Resources/Ref/WhatWorks2008.pdf)
 - Use of validated risk-assessment tools
 
 #### FUNDING
