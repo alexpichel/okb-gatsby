@@ -28,7 +28,7 @@ Harney County’s Reentry Court will serve individuals who have been released fr
 
 #### BASED ON RESEARCH
 
-Use of appropriate balance of services, treatment, and supervision. Refer to the attached supporting document.
+Use of appropriate balance of services, treatment, and supervision.
 
 #### FUNDING
 
