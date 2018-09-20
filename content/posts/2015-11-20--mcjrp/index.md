@@ -41,6 +41,8 @@ Multnomah County’s MCJRP program is using funds to increase its capacity to do
 
 - Level of Service Case Management Inventory (LS/CMI)
 - Effective Practices for Correctional Supervision (EPICS)
+- [Putting Justice Reinvestment into Action](https://multco.us/file/48257/download)
+- [What Works: The Public Safety Culture Shift](https://multco.us/lpscc/what-works-public-safety-conference-2016)
 
 #### FUNDING
 
