@@ -18,7 +18,7 @@ In order to be successful in their efforts to enhance public safety, the police 
 
 #### RESPONSE
 
-The current study sought to assess public perceptions regarding the frequency of force used by members of the Portland Police Bureau and determine whether those beliefs are consistent with officially recorded data on force used by officers in recent years.
+The current [study](https://www.pdx.edu/cjpri/sites/www.pdx.edu.cjpri/files/Use_of_Force_Final.pdf) sought to assess public perceptions regarding the frequency of force used by members of the Portland Police Bureau and determine whether those beliefs are consistent with officially recorded data on force used by officers in recent years.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
