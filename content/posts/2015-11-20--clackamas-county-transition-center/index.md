@@ -32,6 +32,7 @@ The Transition Center also serves clients with low criminality but a high mental
 
 #### BASED ON RESEARCH
 
+- [What Works: Effective Recidivism Reduction and Risk-Focused Prevention Programs: A Compendium of Evidence-Based Options for Preventing New and Persistent Criminal Behavior](https://cdpsdocs.state.co.us/ccjj/Resources/Ref/WhatWorks2008.pdf)
 - Guided by the risk, need, responsivity principle
 - Use of validated risk/need tools including LS/CMI, LSI-R:SV, PSC, Proxy
 - Use of cognitive behavioral therapy, primarily Moral Reconation Therapy
