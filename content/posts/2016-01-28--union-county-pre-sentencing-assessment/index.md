@@ -31,9 +31,9 @@ For someone entering the program pre-sentencing, a screening assessment is condu
 #### BASED ON RESEARCH
 
 - Use of validated risk-assessment tools
-- Blending of risk management and accountability with rehabilitative or risk-reducing strategies (Dosage Probation: Rethinking the Structure of Probation Sentences, Center for Effective Public Policy)
-- Use of cognitive behavioral therapy, specifically Moral Reconation Therapy (What Works: Effective Recidivism Reduction and Risk-Focused Prevention Programs, Roger Przybylski)
-- Use of transitional housing to reduce barriers to reentry (What Works, Roger Przybylski)
+- [Blending of risk management and accountability with rehabilitative or risk-reducing strategies](https://www.fppoa.org/sites/default/files/dosage.pdf)
+- [Use of cognitive behavioral therapy, specifically Moral Reconation Therapy](https://cdpsdocs.state.co.us/ccjj/Resources/Ref/WhatWorks2008.pdf)
+- [Use of transitional housing to reduce barriers to reentry](https://cdpsdocs.state.co.us/ccjj/Resources/Ref/WhatWorks2008.pdf)
 - Use of balanced sanctions and services model
 
 #### FUNDING
