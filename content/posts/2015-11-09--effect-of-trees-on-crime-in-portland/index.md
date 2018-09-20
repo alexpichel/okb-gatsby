@@ -17,7 +17,7 @@ Research has shown that urban trees provide a range of benefits to communities, 
 
 #### RESPONSE
 
-The goal of this study is to evaluate the effects of different types of vegetation on crime in Portland, Oregon, while accounting for other relevant variables.
+The goal of [this study](https://www.fs.fed.us/pnw/ruwit/papers/donovan/TheEffectofTreesonCrime.pdf) is to evaluate the effects of different types of vegetation on crime in Portland, Oregon, while accounting for other relevant variables.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
