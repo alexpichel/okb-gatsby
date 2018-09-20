@@ -13,7 +13,7 @@ subTitle: "A comprehensive pre-trial assessment providing release recommendation
 
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
-As part of Yamhill County’s participation in the National Institution of Corrections (NIC) Evidence-Based Decision Making (EBDM) initiative, the county focused on improving its pretrial program. At the start of the EBDM initiative, approximately 45 percent of the local jail population was awaiting trial. Since implementing program improvements, pretrial jail population is at approximately 35%. The county hoped to promote cost-effective practices and ensure that defendants are released or held in jail appropriately.
+As part of Yamhill County’s participation in the National Institution of Corrections (NIC) [Evidence-Based Decision Making (EBDM)](https://info.nicic.gov/ebdm/) initiative, the county focused on improving its pretrial program. At the start of the EBDM initiative, approximately 45 percent of the local jail population was awaiting trial. Since implementing program improvements, pretrial jail population is at approximately 35%. The county hoped to promote cost-effective practices and ensure that defendants are released or held in jail appropriately.
 
 #### IMPACT ON THE COMMUNITY
 
@@ -38,11 +38,11 @@ Pretrial jail release decisions should be guided by risk assessment as opposed t
 
 Suggested Research and Resources:
 
-- Evidence-Based Decision Making Initiative framework
-- National Association of Pretrial Services Agencies Prerelease Standards
-- State of the Science of Pretrial Risk Assessment
-- Measuring What Matters
-- Pretrial Criminal Justice Research
+- [Evidence-Based Decision Making Initiative framework](https://info.nicic.gov/ebdm/)
+- [National Association of Pretrial Services Agencies Prerelease Standards](https://drive.google.com/file/d/0B1YIoljVNUF5NmJkY0wzRHR1Tmc/view)
+- [State of the Science of Pretrial Risk Assessment](https://www.bja.gov/publications/pji_pretrialriskassessment.pdf)
+- [Measuring What Matters](https://s3.amazonaws.com/static.nicic.gov/Library/025172.pdf)
+- [Pretrial Criminal Justice Research](https://www.arnoldfoundation.org/wp-content/uploads/2014/02/LJAF-Pretrial-CJ-Research-brief_FNL.pdf)
 
 #### FUNDING
 
