@@ -46,8 +46,8 @@ International studies have shown that when sex offenders know they are being mon
 The “Comprehensive Approach” involves members from multiple disciplines working in a collaborative effort to contain sex offenders as a means of ensuring victim and public safety and promoting offender accountability. The team should include, but is not limited to, law enforcement, probation or parole, child welfare, polygraph examiners, treatment providers, court officers, and community/family support systems.
 The primary role of law enforcement is actively checking offenders to confirm that they comply with registration requirements and other laws. Law enforcement should notify other team members when an offender is out of compliance or commits a new crime.
 
-- The Comprehensive Approach to Sex Offender Management
-- The Comprehensive Approach to Adult and Juvenile Sex Offender Management: An Overview
+- [The Comprehensive Approach to Sex Offender Management](http://www.csom.org/pubs/comp_approach_brief.pdf)
+- [The Comprehensive Approach to Adult and Juvenile Sex Offender Management: An Overview](http://www.csom.org/pubs/cap/overview.htm)
 
 #### FUNDING
 
