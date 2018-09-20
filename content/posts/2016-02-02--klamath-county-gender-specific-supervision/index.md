@@ -34,8 +34,8 @@ By partnering with several community agencies and bringing everyone together in 
 
 #### BASED ON RESEARCH
 
-- “What Works” for Female Probationers?
-- Supervision of Women Defendants and Offenders in the Community
+- [“What Works” for Female Probationers?](https://www.uc.edu/content/dam/uc/womenoffenders/docs/MOVING%20ON.pdf)
+- [Supervision of Women Defendants and Offenders in the Community](https://nicic.gov/supervision-women-defendants-and-offenders-community)
 
 #### FUNDING
 
