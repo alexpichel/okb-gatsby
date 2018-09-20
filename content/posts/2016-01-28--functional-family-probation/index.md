@@ -23,10 +23,10 @@ Functional Family Probation (FFP) offers services that are community­-based, ev
 
 #### BASED ON RESEARCH
 
-- Functional Family Probation and Parole model
-- Washington State report on FFP
-- Bringing Functional Family Probation Service to the Community
-- The Effectiveness of Functional Family Therapy for Youth with Behavioral Problems in a Community Practice Setting
+- [Functional Family Probation and Parole model](https://www.fftllc.com/ffp/model.html)
+- [Washington State report on FFP](http://www.wsipp.wa.gov/ReportFile/1420)
+- [Bringing Functional Family Probation Service to the Community](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2435&context=open_access_etds)
+- [The Effectiveness of Functional Family Therapy for Youth with Behavioral Problems in a Community Practice Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4172308/)
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
