@@ -14,7 +14,7 @@ subTitle: "A retrospective study examined the relationship between the black com
 
 #### COMMUNITY NEED
 
-While many historical studies discuss the role of police and community race relations in setting off riots throughout the twentieth century, few studies analyze in detail the relationship between the police and majority-black urban communities. This article adds to that work by chronicling the history of the black community’s attempts to reform policing in Portland’s Albina District.
+While many historical studies discuss the role of police and community race relations in setting off riots throughout the twentieth century, few studies analyze in detail the relationship between the police and majority-black urban communities. This [article](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1068&context=usp_fac) adds to that work by chronicling the history of the black community’s attempts to reform policing in Portland’s Albina District.
 
 #### RESPONSE
 
