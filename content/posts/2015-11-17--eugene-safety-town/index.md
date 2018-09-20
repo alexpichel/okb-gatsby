@@ -25,6 +25,7 @@ Many families are very appreciative of the opportunity. Teachers have told us th
 
 Safety Town is an incredible two-week comprehensive educational program that introduces pre-Kindergarten children to safety awareness. Children who will enter Kindergarten in the fall are eligible to attend this summer camp. (Sorry, no exceptions.) Safety Town is an important experience to help children prepare for their transition to a formal school environment and to make safe decisions as they spend more and more time apart from their parents. This program covers topics such as pedestrian safety, traffic safety, bicycle safety, gun safety, water safety, fire safety, personal safety, poison prevention, water safety, school safety, and much, more more! A certified school teacher provides most of the instruction and is supplemented by community experts and police department staff.
 
+For videos about Eugene Safety Town, visit [EST - Morning Session](https://www.youtube.com/watch?v=BIjGAglAyYo&feature=youtu.be) and [EST - Afternoon Session](https://www.youtube.com/watch?v=5r_KnceRQ9w&feature=youtu.be).
 #### FUNDING
 
 This year, camp expenses were $6,285.35. This was mostly funded by camper registration fees.
