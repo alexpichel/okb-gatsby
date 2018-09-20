@@ -13,7 +13,7 @@ subTitle: "Neighborhood Watch programs were shown to be associated with the redu
 
 #### COMMUNITY NEED
 
-Recognizing the need to keep Medford’s neighborhoods healthy and safe, Medford Police Department decided to start the Neighborhood Watch Program. According to Medford Police Department, Neighborhood Watch is not just the formation of a neighborhood patrol group. The program is a cooperative effort among citizens and the Medford Police Department. In recent years, there is a new increased priority on forming, organizing, and coordinating watch groups in Medford. In 2007 the number of neighborhood watches per beat ranged from 2 to 21 and by 2013 it was 2 to 27 per beat. As a result, this study aims to evaluate their effectiveness in reducing the city’s crime rates.
+Recognizing the need to keep Medford’s neighborhoods healthy and safe, Medford Police Department decided to start the Neighborhood Watch Program. According to Medford Police Department, Neighborhood Watch is not just the formation of a neighborhood patrol group. The program is a cooperative effort among citizens and the Medford Police Department. In recent years, there is a new increased priority on forming, organizing, and coordinating watch groups in Medford. In 2007 the number of neighborhood watches per beat ranged from 2 to 21 and by 2013 it was 2 to 27 per beat. As a result, this [study](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/18905/Neighborhood_Watch_2014.pdf?sequence=1) aims to evaluate their effectiveness in reducing the city’s crime rates.
 
 #### RESPONSE
 
