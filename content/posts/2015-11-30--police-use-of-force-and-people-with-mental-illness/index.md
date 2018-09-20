@@ -18,7 +18,7 @@ Police consider interactions with people with mental illnesses to be extremely d
 
 #### RESPONSE
 
-To address this limited knowledge and to understand more clearly the outcomes of police interactions with people with mental illnesses, this study examines use-of-force reports collected by the Portland Police Bureau between 2008 and 2011 to determine whether encounters with people with mental illnesses are more likely to result in injury to officers or subjects when force is used.
+To address this limited knowledge and to understand more clearly the outcomes of police interactions with people with mental illnesses, this [study](http://criminology.fsu.edu/wp-content/uploads/capp_v14_i2_Rev2.pdf#page=75) examines use-of-force reports collected by the Portland Police Bureau between 2008 and 2011 to determine whether encounters with people with mental illnesses are more likely to result in injury to officers or subjects when force is used.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
