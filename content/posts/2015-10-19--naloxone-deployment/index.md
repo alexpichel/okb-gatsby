@@ -27,7 +27,7 @@ Naloxone blocks or reverses the effects of opioid medication (narcotics), includ
 
 #### BASED ON RESEARCH
 
-Other departments and agencies nationwide have implemented similar naloxone deployment programs, and they have witnessed positive results.
+Other departments and agencies nationwide have implemented similar naloxone deployment programs, and they have witnessed positive results. The Bureau of Justice Assistance has also released a [toolkit](https://bjatta.bja.ojp.gov/tools/naloxone/Naloxone-Background) for law enforcement.
 
 #### FUNDING
 
