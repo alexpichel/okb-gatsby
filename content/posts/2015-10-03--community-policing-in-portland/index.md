@@ -24,7 +24,7 @@ In 1989, Portland Mayor Bud Clark and the City Council passed two resolutions in
 
 #### PRIMARY RESEARCH QUESTION(S)
 
-The report describes community policing in Portland in great detail and discusses the following questions:
+[The report](https://pdxscholar.library.pdx.edu/oscdl_cityclub/518/) describes community policing in Portland in great detail and discusses the following questions:
 
 1. Is community policing right for Portland?
 2. To what extent is the vision of community policing understood and articulated by stakeholders and community members?
