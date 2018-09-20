@@ -30,9 +30,9 @@ Under the Yamhill County SMART Sentencing Initiative, presumptively prison-bound
 
 - LSCMI (Level of Services Case Management Inventory)
 - ASAS (Adult Substance Abuse Survey, an evidence­-based instrument that supports LSCMI anti­social attitudes measurement, mental health disorder, and motivation. The ASAS also contains a truthfulness/defensiveness scale.)
-- The Carey Guides
+- [The Carey Guides](http://www.careygrouppublishing.com/)
 - Cognitive Behavioral Interventions (utilized to target identified criminogenic risk areas from the EDA for those defendants who receive a departure to probation)
-- Using Risk and Needs Assessment Information at Sentencing: Observations from Ten Jurisdictions
+- [Using Risk and Needs Assessment Information at Sentencing: Observations from Ten Jurisdictions](https://www.ncsc.org/~/media/Microsites/Files/CSI/RNA%202015/Final%20PEW%20Report%20updated%2010-5-15.ashx)
 
 #### FUNDING
 
