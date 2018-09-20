@@ -34,7 +34,7 @@ RAPID has a variety of other functions and searches to assist investigators. The
 #### BASED ON RESEARCH
 
 RAPID is the name given to BWI-provided software that was modified to meet the Portland Police Bureau specifications. The specifications were developed by analyzing best practices information from a wide number of transaction reporting systems in use at the time (2005-2007). The contract for RAPID was awarded to BWI through a competitive request for proposals in 2008. Since then, the RAPID name is now used in most instances where the BWI software is being used, including
-Maryland, Florida, Washington, DC, Michigan, and in Canada. Information on BWI is available at bwirapid.com.
+Maryland, Florida, Washington, DC, Michigan, and in Canada. Information on BWI is available [here](http://bwirapid.com/index.php/products/bwi-rapid).
 
 #### FUNDING
 
