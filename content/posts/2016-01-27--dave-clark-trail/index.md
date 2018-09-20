@@ -32,12 +32,9 @@ The most significant determination was that improved lighting would greatly impr
 #### BASED ON RESEARCH
 
 - National Institute of Crime Prevention CPTED Principles
-- Community CPTED
-- Crime Prevention through Environmental Design
-- (CPTED) as a Design Tool
-- CPTED Vancouver
-- Illustrated CPTED Guidelines
-- Parking Today: CPTED Lights the Way
+- [Crime Prevention through Environmental Design (CPTED) as a Design Tool](http://tacomapermits.org/wp-content/uploads/2013/09/L-1401-CPTED-Examples.pdf)
+- [Illustrated CPTED Guidelines](https://sarkissian.com.au/wp-content/uploads/2010/11/Working-paper-5-CPTED-final.pdf)
+- [Parking Today: CPTED Lights the Way](https://www.parkingtoday.com/articledetails.php?id=924)
 
 #### FUNDING
 
