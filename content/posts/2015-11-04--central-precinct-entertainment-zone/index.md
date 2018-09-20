@@ -26,7 +26,7 @@ The area was taking considerable resources to police, negatively impacting resid
 
 #### PROGRAM DESCRIPTION
 
-The program was modeled after a similar initiative in Vancouver, BC. It entailed street closures at certain hours of the day coupled with a dedicated walking patrol in the area and crime prevention efforts to address the problems associated with the area.
+The [program](https://live-cpop.ws.asu.edu/sites/default/files/org/15-09_portland.pdf) was modeled after a similar initiative in Vancouver, BC. It entailed street closures at certain hours of the day coupled with a dedicated walking patrol in the area and crime prevention efforts to address the problems associated with the area.
 
 #### BASED ON RESEARCH
 
