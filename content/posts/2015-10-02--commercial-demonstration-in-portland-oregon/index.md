@@ -16,7 +16,7 @@ subTitle: "A 1976 CPTED demonstration was associated with the reduction of comme
 
 #### COMMUNITY NEED
 
-A number of organizations, including the Portland Mayor's Office and the Portland Police Bureau, were concerned with finding effective solutions to burglaries and robberies along Union Avenue in Portland, OR. As a result, the Union Avenue Corridor was chosen to be the site of a demonstration project for a Crime Prevention Through Environmental Design (CPTED) project. The purpose of [this study] (http://www.popcenter.org/library/scp/pdf/186-Wallis_and_Ford.pdf) is to evaluate the effectiveness of CPTED strategies and provide information on the planning and implementation of a CPTED project.
+A number of organizations, including the Portland Mayor's Office and the Portland Police Bureau, were concerned with finding effective solutions to burglaries and robberies along Union Avenue in Portland, OR. As a result, the Union Avenue Corridor was chosen to be the site of a demonstration project for a Crime Prevention Through Environmental Design (CPTED) project. The purpose of [this study](http://www.popcenter.org/library/scp/pdf/186-Wallis_and_Ford.pdf) is to evaluate the effectiveness of CPTED strategies and provide information on the planning and implementation of a CPTED project.
 
 #### RESPONSE
 
