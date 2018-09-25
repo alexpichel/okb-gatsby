@@ -11,6 +11,10 @@ function encode(data) {
     .join("&");
 }
 
+// function checkChildisOdd(n) {
+//   return n % 2 != 0;
+// }
+
 const styles = theme => ({
   submit: {
     margin: "3em 0"
@@ -42,6 +46,7 @@ class ResearchForm extends React.Component {
     name: "",
     email: "",
     agency: "",
+    topic: "",
     message: "",
     submitError: ""
   };
@@ -78,7 +83,7 @@ class ResearchForm extends React.Component {
 
   render() {
     const { classes } = this.props;
-    const { email, name, agency, message, submitError } = this.state;
+    const { email, name, agency, topic, message, submitError } = this.state;
 
     return (
       <ValidatorForm
@@ -120,11 +125,23 @@ class ResearchForm extends React.Component {
           label="Agency"
           value={agency}
           onChange={this.handleChange}
-          validators={[]}
-          errorMessages={[]}
+          validators={["required"]}
+          errorMessages={["this field is required"]}
           fullWidth
           margin="normal"
           className={classes.singleLineInput}
+        />
+        <TextValidator
+          id="topic"
+          name="topic"
+          label="Topic"
+          value={topic}
+          onChange={this.handleChange}
+          validators={["required"]}
+          errorMessages={["this field is required"]}
+          fullWidth
+          margin="normal"
+          className={classes.multiLineInput}
         />
         <TextValidator
           id="message"
@@ -132,8 +149,8 @@ class ResearchForm extends React.Component {
           label="Message"
           value={message}
           onChange={this.handleChange}
-          validators={["required"]}
-          errorMessages={["this field is required"]}
+          validators={[]}
+          errorMessages={[]}
           multiline
           fullWidth
           margin="normal"

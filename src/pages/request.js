@@ -16,10 +16,10 @@ const Request = () => {
   return (
     <Main>
       <Article>
-        <PageHeader title="Request Research" />
+        <PageHeader title="Request Topic Summary" />
         <Content>
-          Feel free to contact us by email: <Obfuscate email={config.contactEmail} /> or use the
-          form below.
+          If you would like to have DPSST put together a summary of available reserach, contact us
+          here: <Obfuscate email={config.contactEmail} /> or use the form below.
         </Content>
         <Form />
       </Article>
