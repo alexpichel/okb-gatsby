@@ -25,7 +25,6 @@ const styles = theme => ({
     fontSize: "1.2em",
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       width: "47%",
-      marginLeft: "3%",
       "&:first-child": {
         marginRight: "3%",
         marginLeft: 0
@@ -38,10 +37,11 @@ const styles = theme => ({
   }
 });
 
-class RequestForm extends React.Component {
+class ResearchForm extends React.Component {
   state = {
     name: "",
     email: "",
+    agency: "",
     message: "",
     submitError: ""
   };
@@ -62,7 +62,7 @@ class RequestForm extends React.Component {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "Request", ...this.state })
+      body: encode({ "form-name": "research", ...this.state })
     })
       .then(() => {
         console.log("Form submission success");
@@ -78,13 +78,13 @@ class RequestForm extends React.Component {
 
   render() {
     const { classes } = this.props;
-    const { email, name, message, submitError } = this.state;
+    const { email, name, agency, message, submitError } = this.state;
 
     return (
       <ValidatorForm
         onSubmit={this.handleSubmit}
         onError={errors => console.log(errors)}
-        name="Request"
+        name="research"
         ref={f => (this.form = f)}
         data-netlify="true"
         data-netlify-honeypot="bot-field"
@@ -110,6 +110,18 @@ class RequestForm extends React.Component {
           onChange={this.handleChange}
           validators={["required", "isEmail"]}
           errorMessages={["this field is required", "email is not valid"]}
+          fullWidth
+          margin="normal"
+          className={classes.singleLineInput}
+        />
+        <TextValidator
+          id="agency"
+          name="agency"
+          label="Agency"
+          value={agency}
+          onChange={this.handleChange}
+          validators={[]}
+          errorMessages={[]}
           fullWidth
           margin="normal"
           className={classes.singleLineInput}
@@ -142,8 +154,8 @@ class RequestForm extends React.Component {
   }
 }
 
-RequestForm.propTypes = {
+ResearchForm.propTypes = {
   classes: PropTypes.object.isRequired
 };
 
-export default injectSheet(styles)(RequestForm);
+export default injectSheet(styles)(ResearchForm);

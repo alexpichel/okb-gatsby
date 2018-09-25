@@ -37,12 +37,21 @@ const styles = theme => ({
   }
 });
 
-class ContactForm extends React.Component {
+class ProgramForm extends React.Component {
   state = {
     name: "",
     email: "",
     agency: "",
-    message: "",
+    position: "",
+    programName: "",
+    dateImplemented: "",
+    problemBehavior: "",
+    community: "",
+    description: "",
+    research: "",
+    funding: "",
+    impact: "",
+    advice: "",
     submitError: ""
   };
 
@@ -62,7 +71,7 @@ class ContactForm extends React.Component {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", ...this.state })
+      body: encode({ "form-name": "Program", ...this.state })
     })
       .then(() => {
         console.log("Form submission success");
@@ -78,13 +87,13 @@ class ContactForm extends React.Component {
 
   render() {
     const { classes } = this.props;
-    const { email, name, agency, message, submitError } = this.state;
+    const { email, name, message, submitError } = this.state;
 
     return (
       <ValidatorForm
         onSubmit={this.handleSubmit}
         onError={errors => console.log(errors)}
-        name="contact"
+        name="Program"
         ref={f => (this.form = f)}
         data-netlify="true"
         data-netlify-honeypot="bot-field"
@@ -110,18 +119,6 @@ class ContactForm extends React.Component {
           onChange={this.handleChange}
           validators={["required", "isEmail"]}
           errorMessages={["this field is required", "email is not valid"]}
-          fullWidth
-          margin="normal"
-          className={classes.singleLineInput}
-        />
-        <TextValidator
-          id="agency"
-          name="agency"
-          label="Agency"
-          value={agency}
-          onChange={this.handleChange}
-          validators={[]}
-          errorMessages={[]}
           fullWidth
           margin="normal"
           className={classes.singleLineInput}
@@ -154,8 +151,8 @@ class ContactForm extends React.Component {
   }
 }
 
-ContactForm.propTypes = {
+ProgramForm.propTypes = {
   classes: PropTypes.object.isRequired
 };
 
-export default injectSheet(styles)(ContactForm);
+export default injectSheet(styles)(ProgramForm);

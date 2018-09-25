@@ -110,6 +110,26 @@ class TopMenu extends React.Component {
                         Contact
                       </MenuItem>
                     </a>
+                    <a href="/request/" style={{ display: "block" }}>
+                      <MenuItem
+                        onClick={e => {
+                          this.props.pageLinkOnClick(e);
+                          this.handleClose();
+                        }}
+                      >
+                        Research Request
+                      </MenuItem>
+                    </a>
+                    <a href="/submit/" style={{ display: "block" }}>
+                      <MenuItem
+                        onClick={e => {
+                          this.props.pageLinkOnClick(e);
+                          this.handleClose();
+                        }}
+                      >
+                        Submit Program
+                      </MenuItem>
+                    </a>
                   </MenuList>
                 </Paper>
               </Grow>
