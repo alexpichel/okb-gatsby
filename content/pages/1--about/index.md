@@ -18,7 +18,7 @@ The Program section provides the ability to submit, share, and search for public
 
 #### Research
 
-The Research section provides summaries of topics and research articles relevant to the needs of Oregon agncies and the communities they serve. From here, research assistance can also be requested.
+The Research section provides summaries of topics and research articles relevant to the needs of Oregon agencies and the communities they serve. From here, research assistance can also be requested.
 
 #### Agency Directory
 

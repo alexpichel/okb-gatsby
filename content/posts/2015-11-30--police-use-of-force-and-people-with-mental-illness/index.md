@@ -8,7 +8,7 @@ category: "Research"
 tags:
   - "Mental Illness"
   - "Use of Force"
-subTitle: "A retrospective study dispells the idea that use of force encounters with people with Mental Illness are significiantly more dangerous to the parties involved in the incident."
+subTitle: "A retrospective study dispels the idea that use of force encounters with people with Mental Illness are significantly more dangerous to the parties involved in the incident."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

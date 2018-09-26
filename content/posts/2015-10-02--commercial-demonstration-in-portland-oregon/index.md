@@ -1,5 +1,5 @@
 ---
-title: CPTED - The Commercial Demonstration in Portland, Oregon
+title: "CPTED - The Commercial Demonstration in Portland, Oregon"
 author: "ppb"
 date: "2015-10-02"
 layout: post
@@ -9,7 +9,7 @@ category: "Research"
 tags:
     - "CPTED"
     - "Crime Prevention"
-subTitle: "A 1976 CPTED demonstration was associated with the reduction of commercial and residential burlargies."
+subTitle: "A 1976 CPTED demonstration was associated with the reduction of commercial and residential burglaries."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -55,7 +55,7 @@ Proximate Goals Findings:
 
 * Movement control: a majority of businesses made security improvements that were recommended by police.
 * Surveillance: 69% of residents reported good quality of lighting in the UAC; 68% of businesses had outside lights turned on at night, and 84% had inside lights turned on at night.
-* Activity support: Researchers did not find many improvements or personalizations of the built environment. The UAC was frequented by customers due to its proximity, rather than its uniqueness or amenitites.
+* Activity support: Researchers did not find many improvements or personalizations of the built environment. The UAC was frequented by customers due to its proximity, rather than its uniqueness or amenities.
 * Motivational reinforcement: There was increased discussion of crime prevention among business owners, but not residents. Similarly, a sense of social cohesion improved among business owners but not among residents. Both residents and business owners had high perceptions of police, with 87% of business owners and 80% of residents rating police job performance as “highly favorable” or “favorable.” However, residents still had mixed opinions when asked the likelihood that an offender would be caught by police.
 
 Crime Reduction Findings:

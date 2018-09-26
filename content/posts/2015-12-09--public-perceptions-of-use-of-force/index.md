@@ -8,7 +8,7 @@ category: "Research"
 tags:
   - "Community Relations"
   - "Use of Force"
-subTitle: "A randomized survey study revealed a disparity between the public perception of the number of use of force events and the offically recorded data."
+subTitle: "A randomized survey study revealed a disparity between the public perception of the number of use of force events and the officially recorded data."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

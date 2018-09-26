@@ -9,7 +9,7 @@ tags:
   - "Chronic Nuisance"
   - "Homeless"
   - "Quality of Life"
-subTitle: "CPTED techniques and community partnerships were used to address crime and increase residents' perception of safety on a local receration trail."
+subTitle: "CPTED techniques and community partnerships were used to address crime and increase residents' perception of safety on a local recreation trail."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

@@ -8,7 +8,7 @@ category: "Correctional"
 tags:
   - "Community Supervision"
   - "Justice Reinvestment"
-subTitle: "Use of a minimally intrusive phone-based offender monitoring application aims to reduce recidivism in low risk offenders and make more resources available to high-rish offenders."
+subTitle: "Use of a minimally intrusive phone-based offender monitoring application aims to reduce recidivism in low risk offenders and make more resources available to high-risk offenders."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
