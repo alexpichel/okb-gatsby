@@ -40,8 +40,8 @@ const styles = theme => ({
     }
   },
   avatar: {
-    width: "36px",
-    height: "36px",
+    width: "48px",
+    height: "48px",
     // borderRadius: "65% 75%",
     // border: "1px solid #ddd",
     transition: "all .3s",

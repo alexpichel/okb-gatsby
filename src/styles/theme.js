@@ -25,11 +25,11 @@ const theme = createMuiTheme({
   },
   info: {
     colors: {
-      text: colors.gray,
+      text: colors.white,
       background: colors.background,
       socialIcons: colors.lightGray,
       socialIconsHover: colors.accent,
-      menuLink: colors.gray,
+      menuLink: colors.white,
       menuLinkHover: colors.accent
     },
     sizes: {
