@@ -96,7 +96,7 @@ const ListHeader = props => {
         </div>
       )}
       {navigatorShape === "open" &&
-        categoryFilter !== "all posts" && (
+        categoryFilter !== "All Posts" && (
           <div className={classes.filter}>
             <small>Active category filter:</small> <strong>{categoryFilter}</strong>
             <IconButton

@@ -68,8 +68,7 @@ const theme = createMuiTheme({
       contentHeading: colors.bright,
       blockquoteFrame: colors.dark,
       link: colors.accent,
-      linkHover: colors.dark,
-      fbCommentsColorscheme: "dark"
+      linkHover: colors.dark
     },
     sizes: {
       articleMaxWidth: "50em"
@@ -145,7 +144,7 @@ const theme = createMuiTheme({
   },
   palette: {
     primary: {
-      main: "#709425"
+      main: "#ffffff"
     },
     type: "dark",
     action: {
