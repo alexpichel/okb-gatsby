@@ -7,7 +7,7 @@ path: "/posts/specialized-crisis-response/"
 category: "Research"
 tags:
   - "Mental Illness"
-agency: "Psychiatric Services - 2001"
+agency: "Multnomah County, Psychiatric Services - 2001"
 subTitle: "Specialized crisis response sites may be effective in facilitating collaboration between police and mental health professionals."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
