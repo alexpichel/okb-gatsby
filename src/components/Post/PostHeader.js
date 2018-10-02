@@ -52,7 +52,7 @@ const styles = theme => ({
 });
 
 const PostHeader = props => {
-  const { classes, title, subTitle, category, tags, date } = props;
+  const { classes, title, agency, subTitle, category, tags, date } = props;
 
   const tagsBlock = (
     <div className="">
@@ -72,6 +72,7 @@ const PostHeader = props => {
   const categoryBlock = (
     <div>
       <ul>
+        <li key={agency}>{agency}</li>
         <li key={category}>
           <Link to={category}>{category}</Link>
         </li>
@@ -92,6 +93,7 @@ const PostHeader = props => {
   return (
     <header className={classes.header}>
       <h1 className={classes.title}>{title}</h1>
+      <h2 className={classes.agency}>{agency}</h2>
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div className={classes.category}>{category}</div>
       {categoryBlock}
@@ -104,6 +106,7 @@ const PostHeader = props => {
 PostHeader.propTypes = {
   classes: PropTypes.object.isRequired,
   title: PropTypes.string.isRequired,
+  agency: PropTypes.string.isRequired,
   subTitle: PropTypes.string,
   category: PropTypes.string,
   tags: PropTypes.string,
