@@ -6,6 +6,7 @@ cover: /assets/policing.png
 category: "Policing"
 tags:
   - "Crime Prevention"
+agency: "Eugene Police Department"
 subTitle: "A two-week comprehensive educational program effectively introduced safety concepts to pre-Kindergarten aged children"
 ---
 
