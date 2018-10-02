@@ -9,6 +9,7 @@ tags:
   - "Chronic Nuisance"
   - "Homeless"
   - "Quality of Life"
+agency: "Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department"
 subTitle: "CPTED techniques and community partnerships were used to address crime and increase residents' perception of safety on a local recreation trail."
 ---
 
