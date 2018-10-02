@@ -8,6 +8,7 @@ category: "Policing"
 tags:
   - "Quality of Life"
   - "Victims"
+agency: "Clackamas County Sheriff's Office"
 subTitle: "An exclusion program allowing property owners/managers to engage the services of patrol to exclude individuals for one year from their property reduced repeat calls and increased owners/managers perception of safety."
 ---
 

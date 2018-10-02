@@ -8,6 +8,7 @@ agency: ""
 category: "Research"
 tags:
   - "Crime Prevention"
+agency: "U.S. Department of Agriculture - 2012"
 subTitle: "Larger trees and street trees were shown to have a modest crime reduction impact."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -45,3 +46,6 @@ Variables that decreased the probability of a criminal being observed (high back
 #### MAIN IMPLICATIONS
 
 Although the effects of trees on crime were relatively modest, the crime-reduction impact that larger trees and street trees may have may provide a spur to tree planting. However, homeowners may be wise to prune trees to prevent them from obstructing views and select the species and locations of future trees with care. The study also suggests that some crime-prevention measures may reduce crime by giving signals to potential criminals.
+
+#### CITATION
+Donovan, G. H., & Prestemon, J. P. (2012). The effect of trees on crime in Portland, Oregon. Environment and Behavior, 44(1), 3-30.
