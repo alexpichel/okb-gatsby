@@ -4,7 +4,7 @@ date: "2015-11-20"
 layout: post
 cover: /assets/correctional.png
 path: "/posts/MCJRP/"
-agency: ""
+agency: "Multnomah County Local Public Safety Coordinating Council"
 category: "Correctional"
 tags:
   - "Community Supervision"
