@@ -4,7 +4,7 @@ date: "2016-02-25"
 layout: post
 cover: /assets/correctional.png
 path: "/posts/yamhill-pretrial/"
-agency: ""
+agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
 tags:
   - "Pretrial Release"
