@@ -4,11 +4,10 @@ date: "2015-11-13"
 layout: post
 cover: /assets/policing.png
 path: "/posts/law-enforcement-assisted-diversion/"
-agency: ""
+agency: "Dallas Police Department"
 category: "Policing"
 tags:
   - "Mental Illness"
-agency: "Dallas Police Department"
 subTitle: "Law Enforcement Assisted Diversion (LEAD) is a pilot program within the Dallas municipal criminal justice system to divert some persons suffering from mental health issues from the criminal court system and into treatment intake."
 ---
 
