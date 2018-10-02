@@ -18,7 +18,7 @@ const styles = theme => ({
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       display: "block",
       color: theme.info.colors.text,
-      background: "url(/assets/federico-bottos-415776-unsplash.gif)",
+      background: "url(/assets/federico-bottos-415776-unsplash.jpg)",
       position: "absolute",
       left: 0,
       top: 0,
