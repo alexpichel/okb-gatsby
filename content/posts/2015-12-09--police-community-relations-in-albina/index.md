@@ -4,7 +4,7 @@ date: "2015-12-09"
 layout: post
 cover: /assets/research.png
 path: "/posts/police-community-relations-albina/"
-agency: ""
+agency: "Portland State University - 2013"
 category: "Research"
 tags:
   - "Community Relations"
@@ -47,3 +47,6 @@ The colonial model is useful for understanding the historical continuities in po
 #### MAIN IMPLICATIONS
 
 It is important to understand Portland’s recent history when working to improve police and community relations today. Residential segregation, urban renewal bulldozers, and police harassment and brutality prompted many black urbanites in Albina, and nationwide, to think of themselves as living in a colony subject to external rule. This framework can help us understand how the relationship among the police, local politicians, and the black community in Albina was characterized by external power and control as well as relative powerlessness among residents.
+
+#### CITATIONS
+Serbulo, L. C., & Gibson, K. J. (2013). Black and Blue: Police-Community Relations in Portland's Albina District, 1964–1985. Oregon Historical Quarterly, 114(1), 6-37.
