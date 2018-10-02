@@ -44,3 +44,6 @@ The findings are consistent with the large body of literature examining the use 
 #### MAIN IMPLICATIONS
 
 If incidents involving people with mental illness are not significantly more likely to end in injury to either the officer or the subject, then the perception of dangerousness is overstated and may result in unnecessary stigmatization of this population. Policies should be implemented that help to reduce the stigma attached to mental illness among police officers. Training for police should be expanded to include tools to identify mental illness across a larger range of calls for service.
+
+#### CITATION
+Morabito, M. S., & Socia, K. M. (2015). Is dangerousness a myth? Injuries and police encounters with people with mental illnesses. Criminology & Public Policy, 14(2), 253-276.
