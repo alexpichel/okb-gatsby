@@ -47,3 +47,6 @@ The authors conclude that the following elements contribute to successful preboo
 #### MAIN IMPLICATIONS
 
 The availability of a specialized crisis response site in prebooking jail diversion programs may help to surmount many of the problems previously experienced in law enforcement- mental health interactions.
+
+#### CITATION
+Steadman, H. J., Stainbrook, K. A., Griffin, P., Draine, J., Dupont, R., & Horey, C. (2001). A specialized crisis response site as a core element of police-based diversion programs. Psychiatric Services, 52(2), 219-222.
