@@ -3,12 +3,11 @@ title: Exclusion Program
 date: "2015-11-19"
 layout: post
 cover: /assets/policing.png
-agency: ""
+agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
   - "Quality of Life"
   - "Victims"
-agency: "Clackamas County Sheriff's Office"
 subTitle: "An exclusion program allowing property owners/managers to engage the services of patrol to exclude individuals for one year from their property reduced repeat calls and increased owners/managers perception of safety."
 ---
 
