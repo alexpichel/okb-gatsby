@@ -8,6 +8,7 @@ category: "Policing"
 tags:
   - "Domestic Violence"
   - "Victims"
+agency: "Clackamas County Sheriff's Office"
 subTitle: "A collaboratively developed screening protocol connected high-risk DV victims with services, both immediately after the incident and follow-up services."
 ---
 
