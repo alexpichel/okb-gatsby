@@ -9,6 +9,7 @@ tags:
   - "Assault"
   - "Chronic Nuisance"
   - "Quality of Life"
+agency: "Portland Police Bureau"
 subTitle: "Strategic street closures, foot patrols, and crime prevention efforts reduced crime in a targeted urban area."
 ---
 
