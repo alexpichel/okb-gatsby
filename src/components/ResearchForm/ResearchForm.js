@@ -146,7 +146,7 @@ class ResearchForm extends React.Component {
         <TextValidator
           id="message"
           name="message"
-          label="Message"
+          label="Question to be answered"
           value={message}
           onChange={this.handleChange}
           validators={[]}

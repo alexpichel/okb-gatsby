@@ -71,6 +71,7 @@ export const postQuery = graphql`
       }
       frontmatter {
         title
+        agency
         subTitle
         category
         tags
