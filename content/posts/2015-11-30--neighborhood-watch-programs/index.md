@@ -1,10 +1,10 @@
 ---
-title: Neighborhood Watch Programs
+title: "Neighborhood Watch Programs in Medford, Oregon"
 date: "2015-11-30"
 layout: post
 cover: /assets/research.png
 path: "/posts/neighborhood-watch-programs/"
-agency: ""
+agency: "University of Oregon - 2014"
 category: "Research"
 tags:
   - "Neighborhood Watch"
