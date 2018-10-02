@@ -11,6 +11,7 @@ tags:
   - "Quality of Life"
   - "Homeless"
   - "Juvenile Justice"
+agency: "Portland Police Bureau"
 subTitle: "Foot patrol positively impacted fear of crime and police-community relationships through an emphasis on providing services and relationship builiding."
 ---
 
