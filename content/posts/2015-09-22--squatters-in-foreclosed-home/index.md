@@ -9,6 +9,7 @@ tags:
   - "Abandoned Properties"
   - "Quality of Life"
   - "Trespass"
+agency: "Keizer Police Department"
 subTitle: "Investigation and cooperation with neighbors eliminated police calls to a foreclosed home and increased neighborhood quality of life."
 ---
 
