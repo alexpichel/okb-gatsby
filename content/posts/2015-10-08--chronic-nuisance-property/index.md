@@ -4,6 +4,7 @@ date: "2015-10-08"
 layout: post
 cover: /assets/policing.png
 path: "/posts/chronic-nuisance-property/"
+agency: ""
 category: "Policing"
 tags:
   - "Quality of Life"

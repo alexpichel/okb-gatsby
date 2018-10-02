@@ -5,6 +5,7 @@ date: "2015-10-02"
 layout: post
 cover: /assets/research.png
 path: "/posts/commercial-demonstration-in-portland-oregon"
+agency: ""
 category: "Research"
 tags:
     - "CPTED"

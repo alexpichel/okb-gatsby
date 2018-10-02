@@ -4,6 +4,7 @@ date: "2016-02-25"
 layout: post
 cover: /assets/correctional.png
 path: "/posts/yamhill-pretrial/"
+agency: ""
 category: "Correctional"
 tags:
   - "Pretrial Release"

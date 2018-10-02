@@ -3,6 +3,7 @@ title: Eugene Safety Town
 date: "2015-11-17"
 layout: post
 cover: /assets/policing.png
+agency: ""
 category: "Policing"
 tags:
   - "Crime Prevention"

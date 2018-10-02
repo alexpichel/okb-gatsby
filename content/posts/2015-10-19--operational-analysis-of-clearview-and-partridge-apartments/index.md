@@ -4,6 +4,7 @@ date: "2015-10-19"
 layout: post
 cover: /assets/policing.png
 path: "/posts/analysis-clearview-partridge/"
+agency: ""
 category: "Policing"
 tags:
   - "Chronic"

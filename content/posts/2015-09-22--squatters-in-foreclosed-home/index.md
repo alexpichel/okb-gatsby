@@ -4,6 +4,7 @@ date: "2015-09-22"
 layout: post
 cover: /assets/policing.png
 path: "/posts/squatters-in-foreclosed-homes/"
+agency: ""
 category: "Policing"
 tags:
   - "Abandoned Properties"

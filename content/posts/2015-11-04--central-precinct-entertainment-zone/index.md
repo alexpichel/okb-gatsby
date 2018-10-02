@@ -4,6 +4,7 @@ date: "2015-11-04"
 layout: post
 cover: /assets/policing.png
 path: "/posts/central-precinct-entertainment-zone/"
+agency: ""
 category: "Policing"
 tags:
   - "Assault"

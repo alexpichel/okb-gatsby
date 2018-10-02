@@ -4,6 +4,7 @@ date: "2016-02-04"
 layout: post
 cover: /assets/policing.png
 path: "/posts/sex-offender-monitoring/"
+agency: ""
 category: "Policing"
 tags:
   - "Sex Offenders"

@@ -4,6 +4,7 @@ date: "2015-11-20"
 layout: post
 cover: /assets/policing.png
 path: "/posts/harney-reentry/"
+agency: ""
 category: "Policing"
 tags:
   - "Justice Reinvestment"

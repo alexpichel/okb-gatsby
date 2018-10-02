@@ -4,6 +4,7 @@ date: "2015-11-06"
 layout: post
 cover: /assets/research.png
 path: "/posts/resolution-northwest/"
+agency: ""
 category: "Research"
 tags:
   - "Mediation"

@@ -4,6 +4,7 @@ date: "2015-10-19"
 layout: post
 cover: /assets/policing.png
 path: "/posts/central-precinct-foot-patrol/"
+agency: ""
 category: "Policing"
 tags:
   - "Assault"

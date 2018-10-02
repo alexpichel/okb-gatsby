@@ -4,6 +4,7 @@ date: "2015-11-09"
 layout: post
 cover: /assets/research.png
 path: "/posts/effect-of-trees-on-crime/"
+agency: ""
 category: "Research"
 tags:
   - "Crime Prevention"
@@ -13,7 +14,7 @@ subTitle: "Larger trees and street trees were shown to have a modest crime reduc
 
 #### COMMUNITY NEED
 
-Research has shown that urban trees provide a range of benefits to communities, including moderating storm-water runoff, reducing heating and cooling costs, and increasing property values. However, less attention has been focused on the potential of urban trees to affect another important determinant of urban quality of life: crime occurrence. Results from studies that have looked at the effect of trees and other vegetation on crime have been mixed; some have shown that vegetation can increase fear of crime whereas others have shown that it can reduce the fear of crime or crime occurrence. 
+Research has shown that urban trees provide a range of benefits to communities, including moderating storm-water runoff, reducing heating and cooling costs, and increasing property values. However, less attention has been focused on the potential of urban trees to affect another important determinant of urban quality of life: crime occurrence. Results from studies that have looked at the effect of trees and other vegetation on crime have been mixed; some have shown that vegetation can increase fear of crime whereas others have shown that it can reduce the fear of crime or crime occurrence.
 
 #### RESPONSE
 

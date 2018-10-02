@@ -4,6 +4,7 @@ date: "2015-09-22"
 layout: post
 cover: /assets/policing.png
 path: "/posts/nit/"
+agency: ""
 category: "Policing"
 tags:
   - "Chronic Nuisance"

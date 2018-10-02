@@ -4,10 +4,11 @@ date: "2016-02-05"
 layout: post
 cover: /assets/policing.png
 path: "/posts/RAPID/"
+agency: ""
 category: "Policing"
 tags:
   - "rapid"
-subTitle: "An automated property database used by multiple agencies led to a fourfold increase of one agency's recvoeries of stolen property."
+subTitle: "An automated property database used by multiple agencies led to a fourfold increase of one agency's recoveries of stolen property."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

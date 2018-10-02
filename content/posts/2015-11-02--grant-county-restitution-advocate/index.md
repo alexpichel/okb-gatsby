@@ -4,6 +4,7 @@ date: "2015-11-02"
 layout: post
 cover: /assets/correctional.png
 path: "/posts/grant-restitution-advocate/"
+agency: ""
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

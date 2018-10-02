@@ -4,6 +4,7 @@ date: "2015-11-30"
 layout: post
 cover: /assets/research.png
 path: "/posts/illegal-drug-markets/"
+agency: ""
 category: "Research"
 tags:
   - "Drugs"
@@ -24,8 +25,8 @@ From 1992-1997, Portland introduced four drug free zones. Anyone arrested for a 
 
 #### PRIMARY RESEARCH QUESTION(S)
 
-The current [study](http://westerncriminology.org/documents/WCR/v07n1/wcr-071-4715-drugmarkets.pdf) explores two questions: 
-1. Are customer location and accessibility to illegal drug markets related to drug sale arrests? 
+The current [study](http://westerncriminology.org/documents/WCR/v07n1/wcr-071-4715-drugmarkets.pdf) explores two questions:
+1. Are customer location and accessibility to illegal drug markets related to drug sale arrests?
 2. Do increased sanctions associated with drug free zones effective in decreasing drug sales arrests?
 
 #### RESEARCH DESIGN

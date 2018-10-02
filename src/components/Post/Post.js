@@ -10,6 +10,7 @@ const Post = props => {
   const { post, author, slug } = props;
   // const frontmatter = (post || {}).frontmatter;
   const title = ((post || {}).frontmatter || {}).title;
+  const agency = ((post || {}).frontmatter || {}).agency;
   const subTitle = ((post || {}).frontmatter || {}).subTitle;
   const category = ((post || {}).frontmatter || {}).category;
   const tags = ((post || {}).frontmatter || {}).tags;
@@ -21,7 +22,14 @@ const Post = props => {
 
   return (
     <Article>
-      <PostHeader title={title} subTitle={subTitle} category={category} tags={tags} date={date} />
+      <PostHeader
+        title={title}
+        agency={agency}
+        subTitle={subTitle}
+        category={category}
+        tags={tags}
+        date={date}
+      />
       <Content html={html} />
       <PostFooter author={author} post={post} slug={slug} />
     </Article>
