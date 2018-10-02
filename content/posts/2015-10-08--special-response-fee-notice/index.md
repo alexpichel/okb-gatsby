@@ -8,6 +8,7 @@ category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"
+agency: "Corvallis Police Department"
 subTitle: "In combination with the Chronic Nuisance Property program, the use of civil fees lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 
