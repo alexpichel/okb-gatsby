@@ -7,6 +7,7 @@ path: "/posts/naloxone-deployment/"
 category: "Policing"
 tags:
   - "Drugs"
+agency: "Medford Police Department"
 subTitle: "Officers were trained to deploy naloxone to provide immediate treatment in the event of responding to an opioid overdose."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
