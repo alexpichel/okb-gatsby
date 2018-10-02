@@ -8,6 +8,7 @@ category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Mental Illness"
+agency: "Keizer Police Department"
 subTitle: "An individualized program helped find services for and reduce non-emergency 911 calls from a dementia patient."
 ---
 
