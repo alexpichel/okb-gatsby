@@ -64,6 +64,6 @@ Expected outcomes of community policing:
 
 Researchers found that although community policing was the accepted standard in Portland, implementation was faltering. There was widespread support for the concept but a lack of in-depth understanding and accountability for community policing since its inception. Community policing philosophy and skills must be infused throughout all levels of the agency and incorporated into training. Despite challenges in implementation, the expected outcomes of community policing were met, signaling this approach is a worthwhile effort.
 
-### CITATION
+#### CITATION
 
 City Club of Portland (Portland, Or.), "Community Policing in Portland" (2003). City Club of Portland. 518.https://pdxscholar.library.pdx.edu/oscdl_cityclub/518
