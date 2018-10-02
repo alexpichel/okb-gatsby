@@ -9,6 +9,7 @@ category: "Research"
 tags:
     - "CPTED"
     - "Crime Prevention"
+agency: "National Institute of Justice - 1980"
 subTitle: "A 1976 CPTED demonstration was associated with the reduction of commercial and residential burglaries."
 ---
 
@@ -67,3 +68,6 @@ Crime Reduction Findings:
 #### MAIN IMPLICATIONS
 
 In summary, the researchers found the CPTED demonstration project to be a success that warrants further study and implementation. The project was more successful with the business community than residents, mostly because it was able to provide more social cohesion among business owners.
+
+#### CITATION
+Wallis, A., & Ford, D. (Eds.). (1980). Crime Prevention Through Environmental Design: The Commercial Demonstration in Portland, Oregon; executive Summary. US Department of Justice, National Institute of Justice.
