@@ -9,6 +9,7 @@ tags:
   - "Chronic Nuisance"
   - "Juvenile Justice"
   - "Quality of Life"
+agency: "Redmond Police Department"
 subTitle: "A multi-faceted approach - including CPTED, relationship building, and focused patrols - was used to address juvenile problems and safety concerns at a local park."
 ---
 
