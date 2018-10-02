@@ -4,11 +4,10 @@ date: "2015-11-04"
 layout: post
 cover: /assets/research.png
 path: "/posts/specialized-crisis-response/"
-agency: ""
+agency: "Multnomah County - 2001"
 category: "Research"
 tags:
   - "Mental Illness"
-agency: "Multnomah County - 2001"
 subTitle: "Specialized crisis response sites may be effective in facilitating collaboration between police and mental health professionals."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
