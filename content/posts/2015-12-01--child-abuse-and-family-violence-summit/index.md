@@ -4,7 +4,7 @@ date: "2015-12-01"
 layout: post
 cover: /assets/policing.png
 path: "/posts/child-abuse-family-violence-summit/"
-agency: ""
+agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
   - "Domestic Violence"

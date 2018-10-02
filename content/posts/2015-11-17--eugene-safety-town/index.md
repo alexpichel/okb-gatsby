@@ -3,11 +3,10 @@ title: Eugene Safety Town
 date: "2015-11-17"
 layout: post
 cover: /assets/policing.png
-agency: ""
+agency: "Eugene Police Department"
 category: "Policing"
 tags:
   - "Crime Prevention"
-agency: "Eugene Police Department"
 subTitle: "A two-week comprehensive educational program effectively introduced safety concepts to pre-Kindergarten aged children"
 ---
 

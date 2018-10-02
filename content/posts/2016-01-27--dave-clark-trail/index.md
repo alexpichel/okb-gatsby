@@ -4,7 +4,7 @@ date: "2016-01-27"
 layout: post
 cover: /assets/policing.png
 path: "/posts/dave-clark-trail/"
-agency: ""
+agency: "Albany Police Department"
 category: "Policing"
 tags:
   - "Crime Prevention"

@@ -1,10 +1,10 @@
 ---
-title: Illegal Drug Markets
+title: "Illegal Drug Markets in Portland, Oregon"
 date: "2015-11-30"
 layout: post
 cover: /assets/research.png
 path: "/posts/illegal-drug-markets/"
-agency: ""
+agency: "Northeastern University - 2006"
 category: "Research"
 tags:
   - "Drugs"
@@ -50,3 +50,6 @@ With all other explanations of drug sales arrests controlled for, the study show
 #### MAIN IMPLICATIONS
 
 This study found that the location of illegal drug markets are driven by accessibility to their customers (such as a central business district with strong public transportation). The study also found that regarding drug free zones, increased sanctions for those arrested and convicted with drug offenses does not lower the number of drug sale arrests. The profitability of sought-after locations that are accessible to customers of the illegal drug market outweigh the threat of increased sanctions for drug offenders. Additionally, researchers found that there were many similarly desirable locations for offenders to set-up drug markets that were located very close to drug free zones.
+
+#### CITATION
+Robinson, J. B., & Rengert, G. F. (2006). Illegal drug markets: The geographic perspective and crime propensity. Western Criminology Review, 7(1), 20-32.

@@ -4,13 +4,12 @@ date: "2015-10-19"
 layout: post
 cover: /assets/policing.png
 path: "/posts/juveniles-in-sam-johnson-park/"
-agency: ""
+agency: "Redmond Police Department"
 category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Juvenile Justice"
   - "Quality of Life"
-agency: "Redmond Police Department"
 subTitle: "A multi-faceted approach - including CPTED, relationship building, and focused patrols - was used to address juvenile problems and safety concerns at a local park."
 ---
 

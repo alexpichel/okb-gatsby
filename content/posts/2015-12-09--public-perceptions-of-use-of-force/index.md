@@ -4,7 +4,7 @@ date: "2015-12-09"
 layout: post
 cover: /assets/research.png
 path: "/posts/public-perceptions-use-of-force/"
-agency: ""
+agency: "Criminal Justice Policy Research Institute, Portland State University - 2012"
 category: "Research"
 tags:
   - "Community Relations"
@@ -50,3 +50,7 @@ The error attributed to sampling for the survey as a whole is +/- 2.47 percentag
 #### MAIN IMPLICATIONS
 
 Portland police data indicates that officers are using force considerably less often than they did five years ago. Changes like this could enhance police legitimacy in the eyes of the public, a necessary ingredient for successful police-community partnerships addressing crime. In order to have an impact, however, the public has to: 1) be informed about the decline, and 2) trust that the data have been accurately collected and analyzed. To enhance their legitimacy and public trust, police agencies with positive trends and results need to be more proactive in disseminating their findings using traditional media sources, websites, social media, and community organizations. Second, to address potential lapses in public confidence, law enforcement agencies should strive for greater transparency and oversight in the collection and analysis of their use of force data.
+
+#### CITATION
+
+Stewart, G., Henning, K. R., & Renauer, B. (2012). Public perceptions regarding the use of force by police in Portland, Oregon.

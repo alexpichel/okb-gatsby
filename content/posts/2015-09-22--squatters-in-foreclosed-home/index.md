@@ -4,13 +4,12 @@ date: "2015-09-22"
 layout: post
 cover: /assets/policing.png
 path: "/posts/squatters-in-foreclosed-homes/"
-agency: ""
+agency: "Keizer Police Department"
 category: "Policing"
 tags:
   - "Abandoned Properties"
   - "Quality of Life"
   - "Trespass"
-agency: "Keizer Police Department"
 subTitle: "Investigation and cooperation with neighbors eliminated police calls to a foreclosed home and increased neighborhood quality of life."
 ---
 

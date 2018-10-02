@@ -4,13 +4,12 @@ date: "2015-11-04"
 layout: post
 cover: /assets/policing.png
 path: "/posts/central-precinct-entertainment-zone/"
-agency: ""
+agency: "Portland Police Bureau"
 category: "Policing"
 tags:
   - "Assault"
   - "Chronic Nuisance"
   - "Quality of Life"
-agency: "Portland Police Bureau"
 subTitle: "Strategic street closures, foot patrols, and crime prevention efforts reduced crime in a targeted urban area."
 ---
 

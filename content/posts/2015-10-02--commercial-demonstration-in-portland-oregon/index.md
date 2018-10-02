@@ -5,12 +5,11 @@ date: "2015-10-02"
 layout: post
 cover: /assets/research.png
 path: "/posts/commercial-demonstration-in-portland-oregon"
-agency: ""
+agency: "National Institute of Justice - 1980"
 category: "Research"
 tags:
     - "CPTED"
     - "Crime Prevention"
-agency: "National Institute of Justice - 1980"
 subTitle: "A 1976 CPTED demonstration was associated with the reduction of commercial and residential burglaries."
 ---
 

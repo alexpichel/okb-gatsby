@@ -4,12 +4,11 @@ date: "2015-09-22"
 layout: post
 cover: /assets/policing.png
 path: "/posts/nit/"
-agency: ""
+agency: "Grants Pass Department of Public Safety"
 category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"
-agency: "Grants Pass Department of Public Safety"
 subTitle: "A specialized team used hot spot policing to increase community safety and livability."
 ---
 

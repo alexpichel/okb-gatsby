@@ -4,7 +4,7 @@ date: "2016-02-17"
 layout: post
 cover: /assets/correctional.png
 path: "/posts/yamhill-SMART/"
-agency: ""
+agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

@@ -4,18 +4,17 @@ date: "2015-10-22"
 layout: post
 cover: /assets/policing.png
 path: "/posts/lethality-assessment-program/"
-agency: ""
+agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
   - "Domestic Violence"
   - "Victims"
-agency: "Clackamas County Sheriff's Office"
 subTitle: "A collaboratively developed screening protocol connected high-risk DV victims with services, both immediately after the incident and follow-up services."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-#### ROBLEMATIC BEHAVIOR OR ACTIVITY
+#### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 No specific criteria existed for assessing the potential risk to domestic violence victims that was available for deputies interacting with domestic violence victims. Although all victims are provided with written information by law enforcement first responders, many high-risk domestic violence victims were not being immediately connected with local domestic violence resources.
 

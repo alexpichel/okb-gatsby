@@ -4,7 +4,7 @@ date: "2016-02-05"
 layout: post
 cover: /assets/policing.png
 path: "/posts/RAPID/"
-agency: ""
+agency: "Portland Police Bureau"
 category: "Policing"
 tags:
   - "rapid"

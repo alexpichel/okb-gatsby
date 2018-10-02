@@ -1,10 +1,10 @@
 ---
-title: Neighborhood Watch Programs
+title: "Neighborhood Watch Programs in Medford, Oregon"
 date: "2015-11-30"
 layout: post
 cover: /assets/research.png
 path: "/posts/neighborhood-watch-programs/"
-agency: ""
+agency: "University of Oregon - 2014"
 category: "Research"
 tags:
   - "Neighborhood Watch"
@@ -49,3 +49,6 @@ This research does not explain why neighborhood watch groups in Medford are asso
 #### MAIN IMPLICATIONS
 
 This research shows that neighborhood watch groups are effective in reducing crime for specific offenses such as robbery, theft, burglary, vandalism, trespassing, crime damage, and shoplifting. When organizing neighborhood watch groups it is helpful to look at the number of groups per kilometer within a patrol area, to account for differences in size of patrol areas. Some beats may be larger than others, and neighborhood watch groups are more effective when there is more than one group per kilometer.
+
+#### CITATION
+Greene, S., Osterholm, J., Fan, Y., & Stone, J. A. (2014). The effect of neighborhood watch programs on neighborhood crime in Medford Oregon.

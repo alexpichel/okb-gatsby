@@ -4,12 +4,11 @@ date: "2015-10-08"
 layout: post
 cover: /assets/policing.png
 path: "/posts/chronic-nuisance-property/"
-agency: ""
+agency: "Corvallis Police Department"
 category: "Policing"
 tags:
   - "Quality of Life"
   - "Chronic Nuisance"
-agency: "Corvallis Police Department"
 subTitle: "In combination with the Special Response Fee program, a standardized method for tracking nuisance offenders lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 

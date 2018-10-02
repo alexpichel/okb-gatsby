@@ -4,7 +4,7 @@ date: "2015-10-19"
 layout: post
 cover: /assets/policing.png
 path: "/posts/central-precinct-foot-patrol/"
-agency: ""
+agency: "Portland Police Bureau"
 category: "Policing"
 tags:
   - "Assault"
@@ -12,7 +12,6 @@ tags:
   - "Quality of Life"
   - "Homeless"
   - "Juvenile Justice"
-agency: "Portland Police Bureau"
 subTitle: "Foot patrol positively impacted fear of crime and police-community relationships through an emphasis on providing services and relationship builiding."
 ---
 

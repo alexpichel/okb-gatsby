@@ -4,13 +4,12 @@ date: "2015-10-19"
 layout: post
 cover: /assets/policing.png
 path: "/posts/analysis-clearview-partridge/"
-agency: ""
+agency: "Keizer Police Department"
 category: "Policing"
 tags:
   - "Chronic"
   - "Quality of Life"
   - "Violent Crime"
-agency: "Keizer Police Department"
 subTitle: "A multi-faceted POP approach was used to address criminal activity in two separate apartment complexes."
 ---
 
