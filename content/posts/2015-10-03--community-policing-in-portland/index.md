@@ -66,4 +66,4 @@ Researchers found that although community policing was the accepted standard in 
 
 #### CITATION
 
-"City Club of Portland (Portland, Or.), "Community Policing in Portland" (2003). City Club of Portland. 518. https://pdxscholar.library.pdx.edu/oscdl_cityclub/518"
+City Club of Portland (Portland, Or.), "Community Policing in Portland" (2003). City Club of Portland. 518. https://pdxscholar.library.pdx.edu/oscdl_cityclub/518
