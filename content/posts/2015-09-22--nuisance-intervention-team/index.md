@@ -8,6 +8,7 @@ category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Quality of Life"
+agency: "Grants Pass Department of Public Safety"
 subTitle: "A specialized team used hot spot policing to increase community safety and livability."
 ---
 
