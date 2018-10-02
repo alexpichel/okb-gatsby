@@ -1,5 +1,5 @@
 ---
-title: Illegal Drug Markets
+title: "Illegal Drug Markets in Portland, Oregon"
 date: "2015-11-30"
 layout: post
 cover: /assets/research.png
