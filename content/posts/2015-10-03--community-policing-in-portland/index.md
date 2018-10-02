@@ -4,11 +4,10 @@ date: "2015-10-03"
 layout: post
 cover: /assets/research.png
 path: "/posts/community-policing-in-portland/"
-agency: ""
+agency: "Portland State University - 2000"
 category: "Research"
 tags:
   - "Community Policing"
-agency: "Portland State University - 2000"
 subTitle: "A non-rigorous evaluation found that despite problems with implementation, community policing met expected outcomes in areas such as incidence of crime, fear of crime, livability, and citizen satisfaction."
 ---
 
