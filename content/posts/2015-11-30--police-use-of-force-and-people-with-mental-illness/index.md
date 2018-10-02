@@ -4,12 +4,12 @@ date: "2015-11-30"
 layout: post
 cover: /assets/research.png
 path: "/posts/use-of-force-mental-illness/"
-agency: ""
+agency: "University of Massachusetts - 2015"
 category: "Research"
 tags:
   - "Mental Illness"
   - "Use of Force"
-subTitle: "A retrospective study dispels the idea that use of force encounters with people with Mental Illness are significantly more dangerous to the parties involved in the incident."
+subTitle: "A retrospective study of data from the Portland Police Bureau dispels the idea that use of force encounters with people with Mental Illness are significantly more dangerous to the parties involved in the incident."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
