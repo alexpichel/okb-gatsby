@@ -4,13 +4,12 @@ date: "2015-11-02"
 layout: post
 cover: /assets/correctional.png
 path: "/posts/grant-restitution-advocate/"
-agency: ""
+agency: "Grant County Community Corrections"
 category: "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Restitution"
   - "Victims"
-agency: "Grant County Community Corrections"
 subTitle: "A Restitution Advocate position was created to asssist victims in navigating the restitution process."
 ---
 
