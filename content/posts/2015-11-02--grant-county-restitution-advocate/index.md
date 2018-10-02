@@ -9,6 +9,7 @@ tags:
   - "Justice Reinvestment"
   - "Restitution"
   - "Victims"
+agency: "Grant County Community Corrections"
 subTitle: "A Restitution Advocate position was created to asssist victims in navigating the restitution process."
 ---
 
