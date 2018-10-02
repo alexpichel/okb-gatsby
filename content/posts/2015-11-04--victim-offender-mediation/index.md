@@ -9,6 +9,7 @@ tags:
   - "Juvenile Justice"
   - "Mediation"
   - "Victims"
+agency: "University of Minnesota - 2001"
 subTitle: "A descriptive evaluation of six victim-offender mediation programs revealed support for a flexible, open approach to mediation."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -59,3 +60,6 @@ The longer term outcomes are also varied. For victims, an important longer term 
 #### MAIN IMPLICATIONS
 
 In Oregon, both private non-profit and public justice system sponsored VOM programs demonstrated creativity and flexibility in finding ways that would help them reach their restorative justice goals. The results of this study support a flexible, open approach to how mediation is conceived. Programs must continue to assess the restorative balance across all the components and services experienced by program participants. In some instances, programs themselves may need to expand or change services to improve the restorative balance. For recidivism data, Oregon’s commitment to integrated juvenile and adult criminal justice data, sentencing support tools, and a Public Safety Data Warehouse may provide a more robust means by which to assess the extent to which VOM correlates with reduced recidivism, and for which offenders.
+
+#### CITATION
+Umbreit, M. S., Coates, R. B., & Vos, B. (2001). Juvenile victim offender mediation in six Oregon counties. National Organization for Victim Assistance.
