@@ -4,7 +4,7 @@ date: "2016-03-16"
 layout: post
 cover: /assets/policing.png
 path: "/posts/commercial-crimes-unit/"
-agency: ""
+agency: "Tigard Police Department"
 category: "Policing"
 tags:
   - "Crime Prevention"
