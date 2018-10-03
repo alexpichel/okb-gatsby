@@ -107,11 +107,11 @@ const PostHeader = props => {
       <h2 className={classes.agency}>
         <em>{agency}</em>
       </h2>
+      <div className={classes.meta}>{myDate(date)}</div>
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div className={classes.category}>{category}</div>
       {/* {categoryBlock} */}
       {tagsBlock}
-      <div className={classes.meta}>{myDate(date)}</div>
     </header>
   );
 };

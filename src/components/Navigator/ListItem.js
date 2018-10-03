@@ -106,6 +106,23 @@ const styles = theme => ({
         }
       }
     },
+    "& h3": {
+      lineHeight: 1.2,
+      display: "block",
+      fontSize: `${theme.navigator.sizes.postsListItemH3Font}em`,
+      margin: ".3em 0 0 0",
+      [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+        fontSize: `${theme.navigator.sizes.postsListItemH3Font *
+          theme.navigator.sizes.fontIncraseForM}em`
+      },
+      [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
+        fontSize: `${theme.navigator.sizes.postsListItemH3Font *
+          theme.navigator.sizes.fontIncraseForL}em`,
+        ".moving-featured &, .is-aside &": {
+          display: "none"
+        }
+      }
+    },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       ".moving-featured &, .is-aside &": {
         margin: "0 0 0 .5em"
@@ -161,7 +178,12 @@ class ListItem extends React.Component {
           </div>
           <div className={classes.listItemText}>
             <h1>{post.node.frontmatter.title}</h1>
-            {post.node.frontmatter.subTitle && <h2>{post.node.frontmatter.subTitle}</h2>}
+            {post.node.frontmatter.agency && (
+              <h2>
+                <em>{post.node.frontmatter.agency}</em>
+              </h2>
+            )}
+            {post.node.frontmatter.subTitle && <h3>{post.node.frontmatter.subTitle}</h3>}
           </div>
         </Link>
       </li>
