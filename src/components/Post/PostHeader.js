@@ -2,10 +2,45 @@ import React from "react";
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
 import injectSheet from "react-jss";
+import Avatar from "@material-ui/core/Avatar";
 
 const styles = theme => ({
   header: {
-    margin: "0 0 3em"
+    margin: "0 0 3em",
+    border: "4px solid #555",
+    padding: "1em",
+    [`@media (max-width: 292px)`]: {
+      border: "none"
+    }
+  },
+  logo: {
+    position: "relative",
+    flexShrink: 0,
+    overflow: "hidden",
+    width: "60px",
+    height: "60px",
+    margin: "0",
+    transition: "all .5s",
+    "& img": {
+      width: "100%",
+      height: "100%"
+    },
+    [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+      marginRight: ".5em",
+      width: "80px",
+      height: "80px"
+    },
+    [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
+      marginRight: ".8em",
+      width: "90px",
+      height: "90px",
+      transition: "all .3s",
+      transitionTimingFunction: "ease",
+      ".moving-featured &, .is-aside &": {
+        width: "30px",
+        height: "30px"
+      }
+    }
   },
   title: {
     color: theme.main.colors.title,
@@ -13,7 +48,7 @@ const styles = theme => ({
     letterSpacing: "-0.04em",
     fontWeight: theme.main.fonts.title.weight,
     lineHeight: theme.main.fonts.title.lineHeight,
-    margin: "0 0 0.4em",
+    margin: "0 0 0.2em",
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       fontSize: `${theme.main.fonts.title.sizeM}em`
     },
@@ -25,6 +60,7 @@ const styles = theme => ({
   agency: {
     color: theme.main.colors.subTitle,
     fontSize: `${theme.main.fonts.subTitle.size}em`,
+    margin: "0 0 0.4em",
     lineHeight: theme.main.fonts.subTitle.lineHeight,
     fontWeight: theme.main.fonts.subTitle.weight,
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
@@ -64,7 +100,7 @@ const styles = theme => ({
 });
 
 const PostHeader = props => {
-  const { classes, title, agency, subTitle, category, tags, date } = props;
+  const { classes, logo, title, agency, subTitle, category, tags, date } = props;
 
   const tagsBlock = (
     <div className="">
@@ -103,6 +139,7 @@ const PostHeader = props => {
 
   return (
     <header className={classes.header}>
+      <Avatar src={logo} className={classes.avatar} alt="" />
       <h1 className={classes.title}>{title}</h1>
       <h2 className={classes.agency}>
         <em>{agency}</em>
@@ -120,6 +157,7 @@ PostHeader.propTypes = {
   classes: PropTypes.object.isRequired,
   title: PropTypes.string.isRequired,
   agency: PropTypes.string,
+  logo: PropTypes.object,
   subTitle: PropTypes.string,
   category: PropTypes.string,
   tags: PropTypes.string,

@@ -11,6 +11,7 @@ const Post = props => {
   // const frontmatter = (post || {}).frontmatter;
   const title = ((post || {}).frontmatter || {}).title;
   const agency = ((post || {}).frontmatter || {}).agency;
+  const logo = ((post || {}).frontmatter || {}).logo;
   const subTitle = ((post || {}).frontmatter || {}).subTitle;
   const category = ((post || {}).frontmatter || {}).category;
   const tags = ((post || {}).frontmatter || {}).tags;
@@ -25,6 +26,7 @@ const Post = props => {
       <PostHeader
         title={title}
         agency={agency}
+        logo={logo}
         subTitle={subTitle}
         category={category}
         tags={tags}

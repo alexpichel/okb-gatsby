@@ -136,6 +136,7 @@ export const guery = graphql`
           frontmatter {
             title
             agency
+            logo
             subTitle
             category
             cover
