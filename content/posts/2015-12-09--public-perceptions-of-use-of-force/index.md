@@ -3,6 +3,7 @@ title: Public Perceptions of Use of Force
 date: "2015-12-09"
 layout: post
 cover: /assets/research.png
+logo: /assets/agency/psu-logo.png
 path: "/posts/public-perceptions-use-of-force/"
 agency: "Criminal Justice Policy Research Institute, Portland State University - 2012"
 category: "Research"
