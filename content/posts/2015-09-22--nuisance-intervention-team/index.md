@@ -3,6 +3,7 @@ title: Nuisance Intervention Team (NIT)
 date: "2015-09-22"
 layout: post
 cover: /assets/policing.png
+logo: /assets/agency/grantspass-pd-logo.png
 path: "/posts/nit/"
 agency: "Grants Pass Department of Public Safety"
 category: "Policing"
