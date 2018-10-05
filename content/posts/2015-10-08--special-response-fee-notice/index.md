@@ -3,6 +3,7 @@ title: Special Response Fee Notice
 date: "2015-10-08"
 layout: post
 cover: /assets/policing.png
+logo: /assets/agency/corvallis-pd-logo.png
 path: "/posts/special-response-fee-notice/"
 agency: "Corvallis Police Department"
 category: "Policing"
