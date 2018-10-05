@@ -3,6 +3,7 @@ title: Functional Family Probation (FFP)
 date: "2016-01-28"
 layout: post
 cover: /assets/correctional.png
+logo: /assets/agency/multnomach-logo.png
 path: "/posts/ffp/"
 agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
