@@ -3,6 +3,7 @@ title: Naloxone Deployment
 date: "2015-10-19"
 layout: post
 cover: /assets/policing.png
+logo: /assets/agency/medford-police-logo.png
 path: "/posts/naloxone-deployment/"
 agency: "Medford Police Department"
 category: "Policing"
