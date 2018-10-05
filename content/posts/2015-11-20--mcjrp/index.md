@@ -3,6 +3,7 @@ title: Multnomah County Justice Reinvestment Program (MCJRP)
 date: "2015-11-20"
 layout: post
 cover: /assets/correctional.png
+logo: /assets/agency/multnomah-logo.png
 path: "/posts/MCJRP/"
 agency: "Multnomah County Local Public Safety Coordinating Council"
 category: "Correctional"
