@@ -3,6 +3,7 @@ title: NORCOR Reentry
 date: "2016-02-23"
 layout: post
 cover: /assets/correctional.png
+logo: /assets/agency/norcor-logo.png
 path: "/posts/norcor-reentry/"
 agency: "Northern Oregon Regional Correction Facility"
 category: "Correctional"
