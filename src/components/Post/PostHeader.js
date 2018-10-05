@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
 import injectSheet from "react-jss";
-import Avatar from "@material-ui/core/Avatar";
+import LazyLoad from "react-lazyload";
 
 const styles = theme => ({
   header: {
@@ -13,7 +13,7 @@ const styles = theme => ({
       border: "none"
     }
   },
-  logo: {
+  listItemPointer: {
     position: "relative",
     flexShrink: 0,
     overflow: "hidden",
@@ -139,7 +139,16 @@ const PostHeader = props => {
 
   return (
     <header className={classes.header}>
-      <Avatar src={logo} className={classes.avatar} alt="" />
+      <div className={`${classes.listItemPointer} pointer`}>
+        <LazyLoad height={60} overflow={true} throttle={300} once={true} offset={100}>
+          <picture>
+            <source type="image/webp" srcSet={logo} />
+            <source srcSet={logo} />
+            <img src={logo} alt="" />
+          </picture>
+        </LazyLoad>
+        {/*<Img sizes={post.node.frontmatter.cover.children[0].sizes} />*/}
+      </div>
       <h1 className={classes.title}>{title}</h1>
       <h2 className={classes.agency}>
         <em>{agency}</em>
@@ -155,9 +164,11 @@ const PostHeader = props => {
 
 PostHeader.propTypes = {
   classes: PropTypes.object.isRequired,
+  post: PropTypes.object,
   title: PropTypes.string.isRequired,
   agency: PropTypes.string,
   logo: PropTypes.object,
+  cover: PropTypes.object,
   subTitle: PropTypes.string,
   category: PropTypes.string,
   tags: PropTypes.string,
