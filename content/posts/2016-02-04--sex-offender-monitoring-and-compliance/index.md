@@ -3,6 +3,7 @@ title: Sex Offender Monitoring and Compliance
 date: "2016-02-04"
 layout: post
 cover: /assets/policing.png
+logo: /assets/agency/medford-police-logo.png
 path: "/posts/sex-offender-monitoring/"
 agency: "Medford Police Department"
 category: "Policing"
