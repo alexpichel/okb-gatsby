@@ -3,6 +3,7 @@ title: Resolution Northwest Victim-Offender Mediation Program
 date: "2015-11-06"
 layout: post
 cover: /assets/research.png
+logo: /assets/agency/psu-logo.png
 path: "/posts/resolution-northwest/"
 agency: "Portland State University - 2000"
 category: "Research"
