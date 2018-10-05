@@ -76,6 +76,7 @@ export const postQuery = graphql`
         category
         tags
         cover
+        logo
       }
     }
     author: markdownRemark(id: { regex: "/author/" }) {
