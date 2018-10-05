@@ -3,6 +3,7 @@ title: Dave Clark Trail
 date: "2016-01-27"
 layout: post
 cover: /assets/policing.png
+logo: /assets/agency/albany-pd-logo.png
 path: "/posts/dave-clark-trail/"
 agency: "Albany Police Department"
 category: "Policing"
