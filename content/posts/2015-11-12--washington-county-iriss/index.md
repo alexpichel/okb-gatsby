@@ -3,6 +3,7 @@ title: Washington County Integrated Re-Entry Intensive Supervision and Services 
 date: "2015-11-12"
 layout: post
 cover: /assets/correctional.png
+logo: /assets/agency/washington-logo.png
 path: "/posts/iriss/"
 agency: "Washington County Community Corrections"
 category: "Correctional"
