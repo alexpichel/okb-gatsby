@@ -3,6 +3,7 @@ title: Law Enforcement Assisted Diversion
 date: "2015-11-13"
 layout: post
 cover: /assets/policing.png
+logo: /assets/agency/dallas-pd-logo.png
 path: "/posts/law-enforcement-assisted-diversion/"
 agency: "Dallas Police Department"
 category: "Policing"
