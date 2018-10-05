@@ -140,7 +140,7 @@ class ProgramForm extends React.Component {
         />
         <TextValidator
           id="position"
-          name="positiion"
+          name="position"
           label="Position"
           value={position}
           onChange={this.handleChange}
