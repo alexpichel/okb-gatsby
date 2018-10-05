@@ -4,6 +4,7 @@ author: "ppb"
 date: "2015-10-02"
 layout: post
 cover: /assets/research.png
+logo: /assets/agency/ppb.png
 path: "/posts/commercial-demonstration-in-portland-oregon"
 agency: "National Institute of Justice - 1980"
 category: "Research"
