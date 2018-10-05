@@ -3,6 +3,7 @@ title: Yamhill County Pretrial Justice Program
 date: "2016-02-25"
 layout: post
 cover: /assets/correctional.png
+logo: /assets/agency/yamhill-dcj-logo.png
 path: "/posts/yamhill-pretrial/"
 agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
