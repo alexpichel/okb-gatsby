@@ -42,8 +42,7 @@ const Seo = props => {
 };
 
 Seo.propTypes = {
-  data: PropTypes.object,
-  facebook: PropTypes.object.isRequired
+  data: PropTypes.object
 };
 
 export default Seo;

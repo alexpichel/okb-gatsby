@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Link from "gatsby-link";
+// import Link from "gatsby-link";
 import injectSheet from "react-jss";
 import LazyLoad from "react-lazyload";
+import moment from "moment";
 
 const styles = theme => ({
   header: {
@@ -13,32 +14,28 @@ const styles = theme => ({
       border: "none"
     }
   },
-  listItemPointer: {
+  logo: {
     position: "relative",
     flexShrink: 0,
     overflow: "hidden",
-    width: "60px",
-    height: "60px",
-    margin: "0",
+    height: "80px",
+    margin: "1.2em 0 0",
     transition: "all .5s",
     "& img": {
-      width: "100%",
       height: "100%"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       marginRight: ".5em",
-      width: "80px",
       height: "80px"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       marginRight: ".8em",
-      width: "90px",
-      height: "90px",
+      height: "110px",
       transition: "all .3s",
       transitionTimingFunction: "ease",
       ".moving-featured &, .is-aside &": {
-        width: "30px",
-        height: "30px"
+        width: "50px",
+        height: "50px"
       }
     }
   },
@@ -117,29 +114,28 @@ const PostHeader = props => {
     </div>
   );
 
-  const categoryBlock = (
-    <div>
-      <ul>
-        <li key={category}>
-          <Link to={category}>{category}</Link>
-        </li>
-      </ul>
-    </div>
-  );
-
-  function myDate(dateString) {
-    const dateObj = new Date(dateString).toUTCString();
-    const dateToShow = dateObj
-      .split(" ")
-      .slice(2, 4)
-      .join(" ");
-
-    return dateToShow;
-  }
+  // const categoryBlock = (
+  //   <div>
+  //     <ul>
+  //       <li key={category}>
+  //         <Link to={category}>{category}</Link>
+  //       </li>
+  //     </ul>
+  //   </div>
+  // );
 
   return (
     <header className={classes.header}>
-      <div className={`${classes.listItemPointer} pointer`}>
+      <h1 className={classes.title}>{title}</h1>
+      <h2 className={classes.agency}>
+        <em>{agency}</em>
+      </h2>
+      <div className={classes.meta}>
+        <time dateTime={moment(date).format("MMMM YYYY")}>
+          Added {moment(date).format("MMMM YYYY")}
+        </time>
+      </div>
+      <div className={classes.logo}>
         <LazyLoad height={60} overflow={true} throttle={300} once={true} offset={100}>
           <picture>
             <source type="image/webp" srcSet={logo} />
@@ -149,11 +145,6 @@ const PostHeader = props => {
         </LazyLoad>
         {/*<Img sizes={post.node.frontmatter.cover.children[0].sizes} />*/}
       </div>
-      <h1 className={classes.title}>{title}</h1>
-      <h2 className={classes.agency}>
-        <em>{agency}</em>
-      </h2>
-      <div className={classes.meta}>{myDate(date)}</div>
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div className={classes.category}>{category}</div>
       {/* {categoryBlock} */}

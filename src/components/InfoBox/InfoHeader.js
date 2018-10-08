@@ -42,8 +42,7 @@ const styles = theme => ({
   avatar: {
     width: "48px",
     height: "48px",
-    // borderRadius: "65% 75%",
-    // border: "1px solid #ddd",
+    border: "none",
     transition: "all .3s",
     transitionTimingFunction: "ease",
     display: "inline-block",
@@ -53,15 +52,17 @@ const styles = theme => ({
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       width: "44px",
-      height: "44px"
+      height: "44px",
+      border: "none"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       width: "60px",
-      height: "60px"
+      height: "60px",
+      border: "none"
     },
     "@media (hover: hover)": {
       "&:hover": {
-        // borderRadius: "75% 65%"
+        border: "none"
       }
     }
   },

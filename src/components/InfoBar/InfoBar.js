@@ -37,6 +37,7 @@ const styles = theme => ({
     float: "left",
     margin: "10px 0 0 15px",
     color: theme.bars.colors.text,
+    fontSize: "1.0em",
     "& small": {
       display: "block",
       fontSize: ".65em",
@@ -49,10 +50,9 @@ const styles = theme => ({
     margin: "13px 0 0 30px"
   },
   avatar: {
-    width: "36px",
-    // borderRadius: "65% 75%",
-    border: "1px solid #ddd",
-    height: "36px"
+    height: "36px",
+    borderRadius: "0%",
+    border: "none"
   }
 });
 
