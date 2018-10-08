@@ -10,7 +10,7 @@ tags:
   - "Justice Reinvestment"
   - "Pre-Sentence Assessment"
   - "Specialized Caseload"
-subTitle: "This program was developed as part of Justice Reinvestment, a statewide effort to reduce prison use after a nearly 50 percent increase in Oregon’s incarceration rate from 2000 to 2010."
+subTitle: "Increased communication between disciplines and expansion of service and treatment options aims to reduce the number of offenders sent to state prison from Union County."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
