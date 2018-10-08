@@ -8,7 +8,7 @@ agency: "Linn County Community Corrections"
 category: "Correctional"
 tags:
   - "Sex Offenders"
-subTitle: "The Linn County Community Corrections’ Adult Sex Offender Program provides assessment, treatment, and aftercare for adults who experience a range of sexual behavioral problems of varying degrees."
+subTitle: "A multi-disciplinary treatment program provides assessment, treatment, and aftercare for sex offenders with the goal of changing offender behavior and thinking associated with abusive behavior."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
