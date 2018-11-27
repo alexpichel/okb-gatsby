@@ -9,7 +9,7 @@ tags:
   - "DUII"
   - "Oregon
   - "traffic safety"
-subTitle: "Vehicle impoundement/immobilization are associated with declines in crashes and moving violation convictions."
+subTitle: "Vehicle impoundement and immobilization are associated with declines in crashes and moving violation convictions."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
