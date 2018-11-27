@@ -6,8 +6,8 @@ cover: policing.png
 path: "/posts/bend-officer-resilience/"
 category: "Policing"
 tags:
-  - "Training"
-  - "Wellness"
+  - "training"
+  - "wellness"
   - "retention"
 subTitle: "A multi-pronged approach including on-duty fitness classes, yoga classes, a contracted psychologist, family support, financial literacy, and mindfulness training aims to increase officer resillience."
 ---
