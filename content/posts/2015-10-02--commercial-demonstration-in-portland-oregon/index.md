@@ -10,7 +10,8 @@ agency: "National Institute of Justice - 1980"
 category: "Research"
 tags:
     - "CPTED"
-    - "Crime Prevention"
+    - "crime prevention"
+    - "Oregon"
 subTitle: "A 1976 CPTED demonstration was associated with the reduction of commercial and residential burglaries."
 ---
 
