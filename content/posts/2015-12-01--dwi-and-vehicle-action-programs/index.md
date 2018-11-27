@@ -6,8 +6,10 @@ cover: /assets/research.png
 path: "/posts/dwi-vehicle-action/"
 category: "Research"
 tags:
-  - "Driving"
-subTitle: "Are the studied vehicle action programs effective? After the vehicle action law is implemented, are there reductions in DWS or DUI offenses?"
+  - "DUII"
+  - "Oregon
+  - "traffic safety"
+subTitle: "Vehicle impoundement/immobilization are associated with declines in crashes and moving violation convictions."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
