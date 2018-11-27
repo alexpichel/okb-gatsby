@@ -6,10 +6,12 @@ cover: /assets/research.png
 path: "/posts/forecasting-street-robberies/"
 category: "Research"
 tags:
-  - "Hotspot Mapping"
-  - "Risk Terrain Modeling"
-  - "Robbery"
-subTitle: "Risk Terrain Modeling (RTM) was developed to assess risk geographically through the creation of a composite risk map."
+  - "crime analysis"
+  - "mapping"
+  - "Oregon"
+  - "risk terrain"
+  - "modeling"
+subTitle: "Risk terrain modeling is a promising crime analysis tool with potential to help improve targeting of law enforcement responses to this crime."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
