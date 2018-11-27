@@ -2,7 +2,7 @@
 title: Neighborhood Enforcement Team
 date: "2015-12-03"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/neighborhood-enforcement-team/"
 category: "Policing"
 tags:
@@ -48,11 +48,11 @@ In its first year, NET:
     Made 65 arrests, most for criminal trespassing or outstanding warrants
     Conducted three safety design checks for property managers and business owners
 
-    NET successes are many, from recovering stolen cars to dispersing drug dealers. Many cases involve abandoned homes or commercial properties, where squatters or thieves can take over. 
-    
+    NET successes are many, from recovering stolen cars to dispersing drug dealers. Many cases involve abandoned homes or commercial properties, where squatters or thieves can take over.
+
     Critical Success Factors
-    
+
     NET does not simply react to an issue and move on. The team gets deep into the community and strives to implement lasting solutions. The relationships and collaborations with other police units and city divisions are critical to NET’s success.
     Lessons Learned
-    
+
     Bring the other city divisions and police units into the planning process early on. Their support is critical. Equally important, take the time to talk to people on their porches, in their parks, at their businesses. In just the first four months of NET’s existence, the officers spent 50 hours at community meetings and made over 2,000 citizen contacts.

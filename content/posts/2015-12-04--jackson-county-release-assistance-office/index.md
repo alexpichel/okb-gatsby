@@ -2,7 +2,7 @@
 title: Jackson County Release Assistance Office
 date: "2015-12-04"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

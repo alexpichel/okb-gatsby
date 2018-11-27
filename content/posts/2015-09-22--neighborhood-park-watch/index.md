@@ -2,7 +2,7 @@
 title: Neighborhood Park Watch
 date: "2015-09-22"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/neighborhood-park-watch/"
 category: "Policing"
 tags:

@@ -44,16 +44,7 @@ class TagTemplate extends React.Component {
   };
 
   render() {
-    const {
-      tag,
-      nodes,
-      page,
-      pages,
-      total,
-      limit,
-      prev,
-      next
-    } = this.props.pageContext;
+    const { tag, nodes, page, pages, total, limit, prev, next } = this.props.pageContext;
     const authorsEdges = this.props.data.authors.edges;
     return (
       <Layout location={this.props.location}>
@@ -69,17 +60,12 @@ class TagTemplate extends React.Component {
               <MainHeader className="tag-head" cover={tag.featureImage}>
                 <MainNav>
                   <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
-                  <MenuButton
-                    navigation={config.siteNavigation}
-                    onClick={this.handleOnClick}
-                  />
+                  <MenuButton navigation={config.siteNavigation} onClick={this.handleOnClick} />
                 </MainNav>
                 <div className="vertical">
                   <div className="main-header-content inner">
                     <PageTitle text={tag} />
-                    <PageDescription
-                      text={tag.description || `A ${total}-program collection`}
-                    />
+                    <PageDescription text={tag.description || `A ${total}-program collection`} />
                   </div>
                 </div>
               </MainHeader>
@@ -97,10 +83,7 @@ class TagTemplate extends React.Component {
               </PaginatedContent>
             </div>
             {/* The tiny footer at the very bottom */}
-            <Footer
-              copyright={config.copyright}
-              promoteGatsby={config.promoteGatsby}
-            />
+            <Footer copyright={config.copyright} promoteGatsby={config.promoteGatsby} />
           </SiteWrapper>
         </Drawer>
       </Layout>

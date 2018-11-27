@@ -2,7 +2,7 @@
 title: System Integration and Resource Network (SIRN) Training
 date: "2015-12-01"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/SIRN/"
 category: "Policing"
 tags:

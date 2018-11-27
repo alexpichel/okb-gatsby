@@ -2,7 +2,7 @@
 title: Forecasting Street Robberies
 date: "2015-12-02"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/forecasting-street-robberies/"
 category: "Research"
 tags:
@@ -19,7 +19,7 @@ COMMUNITY NEED
 Risk Terrain Modeling (RTM) was developed to assess risk geographically through the creation of a composite risk map. RTM builds off of hotspot mapping, which is the practice of identifying areas with high concentrations of crime to predict the location of future crimes. The hotspot perspective suggests that crime is not evenly dispersed, but instead concentrated in small areas or hotspots. RTM goes beyond just identifying the locations of crime clusters. It identifies future locations that are conducive for a particular crime based on the changing environmental characteristics. This allows for a more proactive response to the crime. RTM builds off ideas from environmental criminology, problem-oriented policing, and hotspot mapping.
 RESPONSE
 
-RTM has been applied to forecast risk for a few crimes with varying success including residential burglary, aggravated assault, shootings, and street robbery. The predictive validity of the RTM for street robbery suggested for each unit increase in risk, there was a 127% increase in the likelihood of street robbery. The focus of the current project was to improve on the existing risk terrain model for street robbery, using data from Portland. The nature of street robbery, along with the prevalence of the problem in Portland, made it a good choice for risk terrain modeling. 
+RTM has been applied to forecast risk for a few crimes with varying success including residential burglary, aggravated assault, shootings, and street robbery. The predictive validity of the RTM for street robbery suggested for each unit increase in risk, there was a 127% increase in the likelihood of street robbery. The focus of the current project was to improve on the existing risk terrain model for street robbery, using data from Portland. The nature of street robbery, along with the prevalence of the problem in Portland, made it a good choice for risk terrain modeling.
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 PRIMARY RESEARCH QUESTION
 
@@ -34,7 +34,7 @@ RESEARCH DESIGN
 The methods for this project involved the creation of a risk terrain model for 2011 street robbery using 2010 risk data, statistical validation of the model, and finally cross-validation of the RTM for street robbery using 2011 risk data to forecast 2012 street robbery risk. The author of the study used the Risk Terrain Manual and its ten step process for creating a final risk terrain map. After the risk terrain model for 2011 street robbery was created, the statistical validity was checked. First, using a logistic regression analysis, the predictive power of the model was identified. Second, to assess whether the model was an improvement over simply identifying prior hotspots for street robbery, the final model was compared to a risk model created using only 2010 street robbery locations.
 LIMITATIONS
 
-This study used the risk factors that were previously identified by the literature; there may be other risk factors that could improve the predictability of the model. Future risk terrain models could assess if a different means of operationalizing the risk factors will lead to better results. 
+This study used the risk factors that were previously identified by the literature; there may be other risk factors that could improve the predictability of the model. Future risk terrain models could assess if a different means of operationalizing the risk factors will lead to better results.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 RESEARCH FINDINGS
 

@@ -2,7 +2,7 @@
 title: Trespass Letter of Consent
 date: "2015-12-04"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/trespass-letter-of-consent/"
 category: "Policing"
 tags:

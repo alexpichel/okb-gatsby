@@ -2,7 +2,7 @@
 title: Theft from Vehicle Prevention - Letter Program
 date: "2015-12-02"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/theft-from-vehicle-letter-program/"
 category: "Policing"
 tags:

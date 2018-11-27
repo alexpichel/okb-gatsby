@@ -2,7 +2,7 @@
 title: Police Use of Force
 date: "2015-12-02"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/police-use-of-force/"
 category: "Research"
 tags:
@@ -32,7 +32,7 @@ The system proposed in this project is a “Constitutional Force Analysis” (CF
 
 LIMITATIONS
 
-Coders were unable to code some variables with sufficient reliability. The constitutional factors developed for this system were based upon the author’s understanding of constitutional law regarding police use of force. Reliability is a necessary but insufficient measure for a system evaluating use of force. 
+Coders were unable to code some variables with sufficient reliability. The constitutional factors developed for this system were based upon the author’s understanding of constitutional law regarding police use of force. Reliability is a necessary but insufficient measure for a system evaluating use of force.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
@@ -44,4 +44,4 @@ RESEARCH FINDINGS
 
 MAIN IMPLICATIONS
 
-The use of force by police has real, often tragic, consequences. The community deserves more than an adoption of measures that have no actual evidence of their value. Developing a reliable, valid metric to assess both within and between agencies should be a priority for both local and federal law enforcement. Such an approach is consistent with the evidence-based policing approaches advocated by the Department of Justice’s National Institute of Justice. 
+The use of force by police has real, often tragic, consequences. The community deserves more than an adoption of measures that have no actual evidence of their value. Developing a reliable, valid metric to assess both within and between agencies should be a priority for both local and federal law enforcement. Such an approach is consistent with the evidence-based policing approaches advocated by the Department of Justice’s National Institute of Justice.

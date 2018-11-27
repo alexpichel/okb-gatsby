@@ -7,11 +7,7 @@ class AuthorImage extends React.Component {
     if (image) {
       return (
         <figure className="author-image">
-          <a
-            className="img"
-            href={url}
-            style={{ backgroundImage: `url("${image}")` }}
-          >
+          <a className="img" href={url} style={{ backgroundImage: `url("${image}")` }}>
             <span className="hidden">{`${name}'s Picture`}</span>
           </a>
         </figure>

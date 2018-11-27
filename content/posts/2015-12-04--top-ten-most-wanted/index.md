@@ -2,7 +2,7 @@
 title: Top Ten Most Wanted
 date: "2015-12-04"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/top-ten-most-wanted/"
 category: "Policing"
 tags:

@@ -9,11 +9,7 @@ const Bio = props => {
   }
   return (
     <p>
-      Read
-      {' '}
-      <Link to="/">more posts</Link>
-      {' '}
-      by this author.
+      Read <Link to="/">more posts</Link> by this author.
     </p>
   );
 };
@@ -61,11 +57,7 @@ class Author extends React.Component {
         return (
           <div>
             <figure className="author-image">
-              <Link
-                className="img"
-                to="/"
-                style={{ backgroundImage: `url( ${avatar} )` }}
-              >
+              <Link className="img" to="/" style={{ backgroundImage: `url( ${avatar} )` }}>
                 <span className="hidden">{`${name}'s Picture`}</span>
               </Link>
             </figure>

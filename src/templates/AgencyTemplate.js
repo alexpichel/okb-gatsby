@@ -52,8 +52,7 @@ class AuthorTemplate extends React.Component {
   render() {
     const { author, cover } = this.props.pageContext;
     const postEdges =
-      this.props.data.allMarkdownRemark &&
-      this.props.data.allMarkdownRemark.edges
+      this.props.data.allMarkdownRemark && this.props.data.allMarkdownRemark.edges
         ? this.props.data.allMarkdownRemark.edges
         : [];
     const authorsEdges =
@@ -74,10 +73,7 @@ class AuthorTemplate extends React.Component {
             <MainHeader className="author-head" cover={cover}>
               <MainNav>
                 <BlogLogo logo={config.siteLogo} title={config.siteTitle} />
-                <MenuButton
-                  navigation={config.siteNavigation}
-                  onClick={this.handleOnClick}
-                />
+                <MenuButton navigation={config.siteNavigation} onClick={this.handleOnClick} />
               </MainNav>
             </MainHeader>
 
@@ -99,10 +95,7 @@ class AuthorTemplate extends React.Component {
             <SocialMediaIcons urls={getAuthor().socialUrls} />
 
             {/* The tiny footer at the very bottom */}
-            <Footer
-              copyright={config.copyright}
-              promoteGatsby={config.promoteGatsby}
-            />
+            <Footer copyright={config.copyright} promoteGatsby={config.promoteGatsby} />
           </SiteWrapper>
         </Drawer>
       </Layout>
@@ -137,7 +130,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    allAuthorsJson(filter: { uid: { eq: $author } }) {
+    allAgenciesJson(filter: { uid: { eq: $agency } }) {
       edges {
         node {
           uid
@@ -153,4 +146,4 @@ export const pageQuery = graphql`
   }
 `;
 
-export default AuthorTemplate;
+export default AgencyTemplate;

@@ -2,7 +2,7 @@
 title: Jackson County Day Reporting - Managing
 date: "2015-12-04"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/jackson-day-reporting/"
 category: "Correctional"
 tags:
@@ -12,7 +12,7 @@ tags:
 subTitle: "The Day Reporting/Management Center (DRMC) is designed to divert offenders from jail into a community alternative, while maintaining public safety and reducing detention costs."
 ---
 
-## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") 
+## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem")
 
 Problematic Behavior or Activity
 
