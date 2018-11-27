@@ -6,8 +6,9 @@ cover: /assets/research.png
 path: "/posts/institutionalizing-community-policing/"
 category: "Research"
 tags:
-  - "Community Policing"
-subTitle: "What structural changes must be made for community policing to endure and succeed within a police department?"
+  - "community policing"
+  - "Oregon"
+subTitle: "Leadership, problem-solving, quality of service, and top-down change are key factors to total integration of community policing into normal police operations"
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
