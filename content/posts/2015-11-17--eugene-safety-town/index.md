@@ -7,8 +7,9 @@ logo: /assets/agency/eugene-pd-logo.png
 agency: "Eugene Police Department"
 category: "Policing"
 tags:
-  - "Crime Prevention"
-subTitle: "A two-week comprehensive educational program effectively introduced safety concepts to pre-Kindergarten aged children"
+  - "community outreach"
+  - "crime prevention"
+subTitle: "A two-week comprehensive educational program effectively introduced safety concepts to pre-Kindergarten aged children."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
