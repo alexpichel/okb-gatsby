@@ -8,8 +8,9 @@ path: "/posts/deschutes-sttl/"
 agency: "Deschutes County Adult Parole & Probation"
 category: "Correctional"
 tags:
-  - "Justice Reinvestment"
-  - "Specialized Caseload"
+  - "justice reinvestment"
+  - "specialized caseload"
+  - "supervision"
 subTitle: "A program offering a balanace of sanctions, a variety of services, and a high frequency of contact aims to reduce recidivism and prison bed-days for offenders in Deschutes County."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

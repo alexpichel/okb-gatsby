@@ -8,7 +8,9 @@ path: "/posts/illegal-drug-markets/"
 agency: "Northeastern University - 2006"
 category: "Research"
 tags:
-  - "Drugs"
+  - "crime prevention"
+  - "drugs"
+  - "Oregon"
 subTitle: "The ease of customer accessibility outweighs the effect of possible sanctions in the presence and location of outdoor illegal drug markets."
 ---
 
