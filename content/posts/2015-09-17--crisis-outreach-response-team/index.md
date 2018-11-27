@@ -2,7 +2,7 @@
 title: Crisis Outreach Response Team (CORT)
 date: "2015-09-17"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/cort/"
 author: "marion-s"
 category: "Policing"

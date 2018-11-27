@@ -2,7 +2,7 @@
 title: Crook County STTL/Downward Departure Specialized Caseload
 date: "2015-11-02"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/crook-sttl-downward-departure-caseload/"
 category: "Correctional"
 tags:
@@ -37,7 +37,7 @@ Based on Research
 
 Funding
 
-.5 FTE of the officer’s salary is paid with an $85,889 grant through the Justice Reinvestment Grant Program. 
+.5 FTE of the officer’s salary is paid with an $85,889 grant through the Justice Reinvestment Grant Program.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
 
