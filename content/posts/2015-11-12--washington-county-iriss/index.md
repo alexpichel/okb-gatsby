@@ -8,8 +8,9 @@ path: "/posts/iriss/"
 agency: "Washington County Community Corrections"
 category: "Correctional"
 tags:
-  - "Justice Reinvestment"
-  - "Reentry"
+  - "justice reinvestment"
+  - "reentry"
+  - "supervision"
 subTitle: "To reduce the number of Department of Corrections prison intakes in Washington County, IRISS provides the Court an enhanced community supervision alternative to prison."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
