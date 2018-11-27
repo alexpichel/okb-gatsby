@@ -2,7 +2,7 @@
 title: Douglas County In-Custody Treatment Beds
 date: "2016-07-25"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/douglas-in-custody-treatment-beds/"
 category: "Correctional"
 tags:

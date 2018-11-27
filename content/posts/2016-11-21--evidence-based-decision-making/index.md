@@ -2,7 +2,7 @@
 title: Evidence-Based Decision Making
 date: "2016-11-21"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/evidence-based-decision-making/"
 category: "Correctional"
 tags:
@@ -28,8 +28,8 @@ subTitle: "Yamhill County began its EBDM work by mapping the entire local crimin
     Mental health; and
     Correctional programming.
 
-Extensive efforts went into developing an implementation plan of evidence-based practices and data-driven policy changes for each focus area. Upon selection by NIC for Phase III (implementation) of the initiative, the work of the Department of Community Justice focused more directly on SMART Sentencing and pretrial justice. 
+Extensive efforts went into developing an implementation plan of evidence-based practices and data-driven policy changes for each focus area. Upon selection by NIC for Phase III (implementation) of the initiative, the work of the Department of Community Justice focused more directly on SMART Sentencing and pretrial justice.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
  SMART Sentencing: Since the program’s inception on November 1, 2013, 208 Defendant Analysis Reports (DARs) have been completed, 59 of which were prison-bound cases that received downward dispositional departure probation. As a result, 1,349 prison months were deferred, with only 7 cases being revoked (12 percent) and sent to the Department of Corrections.
 
-Pretrial justice: Since the pretrial justice work began in TK date, Yamhill County has reduced its court failure to appear rate from 17 percent to 4 percent. The county also implemented a court automated-notification system that resulted in approximately 80 percent successful court reminders received. The system is credited for improving court appearance rates in Yamhill County between November 2013 and September 2016, and has a cumulative overall concurrence rate of 87 percent. Additionally, the county’s pretrial jail population has decreased from 45 percent to approximately 35 percent. 
+Pretrial justice: Since the pretrial justice work began in TK date, Yamhill County has reduced its court failure to appear rate from 17 percent to 4 percent. The county also implemented a court automated-notification system that resulted in approximately 80 percent successful court reminders received. The system is credited for improving court appearance rates in Yamhill County between November 2013 and September 2016, and has a cumulative overall concurrence rate of 87 percent. Additionally, the county’s pretrial jail population has decreased from 45 percent to approximately 35 percent.

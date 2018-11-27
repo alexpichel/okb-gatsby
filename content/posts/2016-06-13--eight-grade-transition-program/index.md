@@ -2,7 +2,7 @@
 title: Eight-Grade Transition Program
 date: "2016-06-13"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/eight-grade-transition/"
 category: "Correctional"
 tags:

@@ -2,7 +2,7 @@
 title: Prescription Drug Turn-In Program
 date: "2016-06-20"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/prescription-drug-turn-in/"
 category: "Policing"
 tags:

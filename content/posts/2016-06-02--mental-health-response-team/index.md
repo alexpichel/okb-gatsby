@@ -2,7 +2,7 @@
 title: Mental Health Response Team
 date: "2016-06-02"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/mental-health-response-team/"
 category: "Policing"
 tags:

@@ -2,7 +2,7 @@
 title: Domestic Violence Police Units
 date: "2017-02-09"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/dv-police-units/"
 category: "Research"
 tags:

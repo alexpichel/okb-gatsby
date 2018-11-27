@@ -2,7 +2,7 @@
 title: Drug Court Costs and Promising Practices
 date: "2016-06-07"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/drug-court-costs/"
 category: "Research"
 tags:

@@ -2,7 +2,7 @@
 title: Transitional Housing
 date: "2016-05-12"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/transitional-housing/"
 category: "Research"
 tags:

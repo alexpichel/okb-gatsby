@@ -2,7 +2,7 @@
 title: Bend Officer Resilience Program
 date: "2016-03-31"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/bend-officer-resilience/"
 category: "Policing"
 tags:
@@ -34,9 +34,9 @@ Bend Police Department has adopted a multi-pronged approach to improve officer r
 Based on Research
 
    [Police Suicide Report](http://www.theiacp.org/Portals/0/documents/pdfs/Suicide_Project/Officer_Suicide_Report.pdf)
-   
+
    [Rates of Injury and Illness](http://www.bls.gov/ooh/protective-service/police-and-detectives.htm)
-   
+
    [Benefits of Mindfulness and Awareness](http://marc.ucla.edu/)
 
 Funding

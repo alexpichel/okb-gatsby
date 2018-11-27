@@ -2,7 +2,7 @@
 title: Gilliam County Justice Reinvestment Program
 date: "2016-02-05"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/gilliam-jri-program/"
 category: "Correctional"
 tags:

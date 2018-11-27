@@ -2,7 +2,7 @@
 title: Green Hornet Wilderness Law Enforcement Services and Search and Rescue Team
 date: "2016-11-08"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/green-hornet/"
 category: "Policing"
 tags:

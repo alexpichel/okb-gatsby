@@ -2,7 +2,7 @@
 title: Perceptions of Safety in Portland
 date: "2016-05-12"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/perceptions-of-safety/"
 category: "Research"
 tags:

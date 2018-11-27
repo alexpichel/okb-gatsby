@@ -2,7 +2,7 @@
 title: Multnomah County Juvenile Crime Prevention
 date: "2016-06-06"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/multnomah-juvenile-crime-prevention/"
 category: "Research"
 tags:
@@ -14,7 +14,7 @@ subTitle: "Do JCP programs and services help reduce youth risk factors and incre
 
 Community Need
 
-The Multnomah County Department of Community Justice Juvenile Services Division is responsible for approximately 360 youth on formal and informal community supervision and operates the Donald E. Long Juvenile Detention Facility. The Juvenile Crime Prevention Initiative is a statewide effort to prevent juvenile crime by targeting best practice services to high-risk youth, ages 10–17. Data about youth receiving Multnomah County Juvenile Crime Prevention (JCP) services was needed to assess young people’s risk indicators, protective indicators, and mental health indicators; and to help target resources and deliver services. 
+The Multnomah County Department of Community Justice Juvenile Services Division is responsible for approximately 360 youth on formal and informal community supervision and operates the Donald E. Long Juvenile Detention Facility. The Juvenile Crime Prevention Initiative is a statewide effort to prevent juvenile crime by targeting best practice services to high-risk youth, ages 10–17. Data about youth receiving Multnomah County Juvenile Crime Prevention (JCP) services was needed to assess young people’s risk indicators, protective indicators, and mental health indicators; and to help target resources and deliver services.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 

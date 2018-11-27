@@ -2,7 +2,7 @@
 title: Lance County Reentry Program
 date: "2016-07-20"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/lance-county-reentry/"
 category: "Correctional"
 tags:
@@ -43,7 +43,7 @@ The Reentry Program uses a variety of best practices and validated assessment to
 
 Funding
 
-This program is funded by a $935,855 grant through the state’s 2015-2017 Justice Reinvestment Grant Program. The grant supports transitional housing that include reentry services; three beds in a women’s program; funding for employment services, mentorship, MRT, Identification, bus passes, and crisis fund. In addition, matching funds are designated for the completion of the Oaks at 14th, a long-term, affordable 54- unit housing development. 
+This program is funded by a $935,855 grant through the state’s 2015-2017 Justice Reinvestment Grant Program. The grant supports transitional housing that include reentry services; three beds in a women’s program; funding for employment services, mentorship, MRT, Identification, bus passes, and crisis fund. In addition, matching funds are designated for the completion of the Oaks at 14th, a long-term, affordable 54- unit housing development.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Program Impact
 

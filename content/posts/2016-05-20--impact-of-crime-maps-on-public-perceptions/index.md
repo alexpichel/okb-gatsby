@@ -2,7 +2,7 @@
 title: Impact of Crime Maps on Public Perceptions
 date: "2016-05-20"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/impact-of-crime-maps/"
 category: "Research"
 tags:

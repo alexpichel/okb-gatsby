@@ -2,7 +2,7 @@
 title: Portland Area Canine Therapy Teams
 date: "2016-12-13"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Specialty Courts"
@@ -50,7 +50,7 @@ Feedback from participating treatment court programs:
 
     “The canine teams bring a welcomed sense of comfort to the drug court participants, their loved ones attending for support, and the staff in the courtroom. Even with just beginning this partnership I’ve already seen the therapy dogs assist in de-escalating a participant in a very anxious state, provide smiles to participants and their children, along with lots of excited tail wagging with the therapy dogs!”
     Natalie Reyes, START court program coordinator
-    
+
 Critical Success Factors
 
 A number of broad factors contribute to the success of the PACCT program, including the following:

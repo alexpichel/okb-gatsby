@@ -2,7 +2,7 @@
 title: Polk County Transition Services Specialist
 date: "2016-01-27"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/polk-transition-services/"
 category: "Correctional"
 tags:

@@ -2,7 +2,7 @@
 title: Benton County Drug Court
 date: "2016-04-07"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/benton-drug-court/"
 category: "Research"
 tags:

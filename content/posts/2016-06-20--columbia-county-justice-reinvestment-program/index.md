@@ -2,7 +2,7 @@
 title: Columbia County Justice Reinvestment Program
 date: "2016-06-20"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/columbia-jri/"
 category: "Correctional"
 tags:

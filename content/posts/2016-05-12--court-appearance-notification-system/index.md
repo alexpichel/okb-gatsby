@@ -2,7 +2,7 @@
 title: Court Appearance Notification System
 date: "2016-05-12"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/court-appearance-notification/"
 category: "Research"
 tags:

@@ -2,7 +2,7 @@
 title: Reducing Chronic Nuisance Through Regulatory Policy
 date: "2017-02-09"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/reducing-chronic-nuisance-through-regulatory/"
 category: "Research"
 tags:

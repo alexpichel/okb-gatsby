@@ -2,7 +2,7 @@
 title: Statewide Approach to Mental Health and Crisis Response
 date: "2017-10-10"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/statewide-approach-mental-health/"
 category: "Policing"
 tags:

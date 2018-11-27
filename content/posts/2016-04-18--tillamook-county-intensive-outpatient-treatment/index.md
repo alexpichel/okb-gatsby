@@ -2,7 +2,7 @@
 title: Tillamook County Intensive Outpatient Treatment
 date: "2016-04-18"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/tillamook-intensive-outpatient/"
 category: "Correctional"
 tags:

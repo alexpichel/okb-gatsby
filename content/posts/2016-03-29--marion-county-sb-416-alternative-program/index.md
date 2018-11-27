@@ -2,7 +2,7 @@
 title: Marion County SB 416 Alternative Program
 date: "2016-03-29"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/marion-sb-416/"
 category: "Correctional"
 tags:

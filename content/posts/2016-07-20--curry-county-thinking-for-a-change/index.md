@@ -2,7 +2,7 @@
 title: Curry County Thinking for a Change
 date: "2016-07-20"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/curry-thinking-for-a-change/"
 category: "Correctional"
 tags:
@@ -10,7 +10,7 @@ tags:
 subTitle: "The Curry County Thinking for a Change Program revolves around the cognitive behavioral curriculum Thinking for a Change."
 ---
 
-## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") 
+## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem")
 
 Problematic Behavior or Activity
 

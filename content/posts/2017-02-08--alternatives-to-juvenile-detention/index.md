@@ -2,7 +2,7 @@
 title: Alternatives to Juvenile Detention
 date: "2017-02-08"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/alternatives-to-juvenile-detention/"
 category: "Research"
 tags:

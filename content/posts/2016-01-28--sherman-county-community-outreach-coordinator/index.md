@@ -2,7 +2,7 @@
 title: Sherman County Community Outreach Coordinator
 date: "2016-01-28"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/sherman-community-outreach/"
 category: "Correctional"
 tags:

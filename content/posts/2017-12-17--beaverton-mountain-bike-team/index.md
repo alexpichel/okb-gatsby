@@ -2,7 +2,7 @@
 title: Beaverton Mountain Bike Team
 date: "2017-12-17"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/mountain-bike-team/"
 category: "Policing"
 tags:

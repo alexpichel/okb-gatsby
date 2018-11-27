@@ -2,7 +2,7 @@
 title: Yamhill County Court-Automated Notification System
 date: "2016-05-02"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/yamhill-court-notification/"
 category: "Correctional"
 tags:

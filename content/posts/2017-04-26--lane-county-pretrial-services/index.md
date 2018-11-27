@@ -2,7 +2,7 @@
 title: Lane County Pretrial Services
 date: "2017-04-26"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/lane-pretrial-services/"
 category: "Correctional"
 tags:

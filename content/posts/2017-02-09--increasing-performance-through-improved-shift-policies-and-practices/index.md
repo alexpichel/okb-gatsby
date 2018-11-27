@@ -2,7 +2,7 @@
 title: Increasing Performance Through Improved Shift Policies and Practices
 date: "2017-02-09"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/shift-policies/"
 category: "Research"
 tags:

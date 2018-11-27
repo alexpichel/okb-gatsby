@@ -2,7 +2,7 @@
 title: START Court
 date: "2016-04-19"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/start-court/"
 category: "Correctional"
 tags:
@@ -51,7 +51,7 @@ START is funded by a number of grants and funding sources:
     A $325,000 grant for parenting services from the federal Substance Abuse and Mental Health Services Administration (for three years beginning in September 2014 and shared with another local drug court); and
     A $200,000 federal Bureau of Justice Assistance alumni grant (for two years beginning in September 2014).
 
-Each agency also provides support with FTEs. The Multnomah County Department of Community Justice provides significant resources, including in-kind, training expenses, and more. 
+Each agency also provides support with FTEs. The Multnomah County Department of Community Justice provides significant resources, including in-kind, training expenses, and more.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 

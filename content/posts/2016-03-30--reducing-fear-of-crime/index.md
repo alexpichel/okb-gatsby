@@ -2,7 +2,7 @@
 title: Reducing Fear of Crime
 date: "2016-03-30"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/reducing-fear-of-crime/"
 category: "Research"
 tags:
@@ -52,4 +52,4 @@ Main Implications
 The responsibility for fear reduction should not be polarized between citizens and police, as both informal and formal social control relate to fear of crime. Social cohesion was an important factor in reducing fear of crime, therefore striving to build community cohesion in even the most disadvantaged neighborhoods should not be viewed as fantasy.
 Neighborhood organizations, police, and other government agencies should strive to find interactive and inclusive ways to create a sense of community cohesion among residents.
 
-For police to be effective in co-producing social order, they should consider addressing potential impediments regarding citizen perceptions of police legitimacy/procedural justice, particularly in the most disadvantaged neighborhoods. 
+For police to be effective in co-producing social order, they should consider addressing potential impediments regarding citizen perceptions of police legitimacy/procedural justice, particularly in the most disadvantaged neighborhoods.

@@ -2,7 +2,7 @@
 title: Jefferson County Native American Treatment
 date: "2016-08-17"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Jail"
@@ -19,7 +19,7 @@ Based on data provided by the Oregon Criminal Justice Commission, arrest rates a
 This program was developed as part of Oregon’s Justice Reinvestment Initiative, a statewide effort to reduce prison use after Oregon’s prison incarceration rate increased by nearly 50 percent from 2000 to 2010.
 Impact on the Community
 
-Most residents of the Warm Springs Indian Reservation live in Jefferson County. Residents of Warm Springs and members of federally recognized Indian tribes in other locations nearby constitute a significant percentage of the Jefferson County Adult Community Corrections caseload. Harmful use of alcohol and other drugs frequently results in individuals committing crimes to support their substance use. This compromises public safety and quality of life. 
+Most residents of the Warm Springs Indian Reservation live in Jefferson County. Residents of Warm Springs and members of federally recognized Indian tribes in other locations nearby constitute a significant percentage of the Jefferson County Adult Community Corrections caseload. Harmful use of alcohol and other drugs frequently results in individuals committing crimes to support their substance use. This compromises public safety and quality of life.
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 Program Description
 

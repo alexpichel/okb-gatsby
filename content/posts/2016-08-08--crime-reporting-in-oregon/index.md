@@ -2,7 +2,7 @@
 title: Crime Reporting in Oregon
 date: "2016-08-08"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/crime-reporting-oregon/"
 category: "Research"
 tags:

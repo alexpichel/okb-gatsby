@@ -2,7 +2,7 @@
 title: Measure 57 Drug Courts
 date: "2016-03-29"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/measure-57-drug-courts/"
 category: "Research"
 tags:

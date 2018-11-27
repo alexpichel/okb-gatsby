@@ -2,7 +2,7 @@
 title: Student Opportunity for Achieving Results (SOAR)
 date: "2016-04-13"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/soar/"
 category: "Correctional"
 tags:

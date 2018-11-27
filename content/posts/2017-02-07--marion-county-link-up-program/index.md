@@ -2,7 +2,7 @@
 title: Marion County Link Up Program
 date: "2017-02-07"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Reentry"

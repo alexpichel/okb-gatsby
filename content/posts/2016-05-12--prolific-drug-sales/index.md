@@ -2,7 +2,7 @@
 title: Prolific Drug Sales
 date: "2016-05-12"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/prolific-drug-sales/"
 category: "Policing"
 tags:
@@ -29,7 +29,7 @@ Less than a year later, based on additional complaints by neighbors and a second
 In an attempt to permanently resolve the problems, the Keizer Police Department and the City of Keizer initiated forfeiture procedures on the residence; the city and the police department then prepared an irrevocable trespass letter and presented it to the owner of the home. In the letter, the owner states that the person arrested for selling drugs (which happens to be the owner’s daughter) does not have permission to be on the property, and the agreement directs the Keizer Police Department to enforce the criminal trespass statute against that individual. In exchange for such statements, the City of Keizer agreed to drop all forfeiture proceedings on the residence. The letter solved the problem after other approaches had failed. Unlike previous efforts, this intervention had the effect of permanently resolving the issue at this home. The person who was dealing drugs may not enter or remain on the premises or she will be arrested for trespass.
 Based on Research
 
-Keizer Police Department is not aware of a similar resolution for a prolific drug house. The intent was not to seize the house, but to permanently resolve the issues that were affecting the neighborhood’s quality of life. 
+Keizer Police Department is not aware of a similar resolution for a prolific drug house. The intent was not to seize the house, but to permanently resolve the issues that were affecting the neighborhood’s quality of life.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 

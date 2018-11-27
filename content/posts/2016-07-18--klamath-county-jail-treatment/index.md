@@ -2,7 +2,7 @@
 title: Klamath County Jail Treatment
 date: "2016-07-18"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/klamath-jail-treatment/"
 category: "Correctional"
 tags:
@@ -19,7 +19,7 @@ For many years, Klamath County’s public safety agencies have suffered from sev
 As a result, from 2010 to 2015, Klamath County released numerous jail inmates early, based on a matrix system that scores inmates and identifies those who are the lowest threat to public safety. The county also implemented “do not lodge” criteria, which resulted in more than 349 offenders not being placed in the jail. The crimes that meet the “do not lodge” criteria included Burglary I, Burglary II, Theft I, Theft II, Theft III, all drug charges, and all driving charges; most failure to appear warrants and probation violation warrants for non-person crimes are also included.
 Impact on the Community
 
-With fewer jail beds, people on probation or parole were being booked and released for sanctions—or serving only a short period for significant violations. Court sentences were also not fully served and the county’s failure to appear rates increased due to limited capacity. This limited the ability to impose swift, certain sanctions for probation and post-prison supervision violations. Without the ability to lodge offenders for sanctions, violations, and warrants, it was impossible to meet Oregon’s goals of Justice Reinvestment and House Bill 3194 in Klamath County. 
+With fewer jail beds, people on probation or parole were being booked and released for sanctions—or serving only a short period for significant violations. Court sentences were also not fully served and the county’s failure to appear rates increased due to limited capacity. This limited the ability to impose swift, certain sanctions for probation and post-prison supervision violations. Without the ability to lodge offenders for sanctions, violations, and warrants, it was impossible to meet Oregon’s goals of Justice Reinvestment and House Bill 3194 in Klamath County.
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 Program Description
 
@@ -61,10 +61,10 @@ Proposed outcomes:
     100 offenders will be referred from jail to community treatment services for community-based mental health/substance use treatment services.
     100 offenders referred to community-based treatment will be monitored to see if their recidivism rate is lower than that of a comparison group
     100 offenders referred to community-based treatment will be monitored to determine whether the commitment rate to DOC for the group is lower than that of a comparison group.
-    
+
     Critical Success Factors
-    
+
     This program is in early implementation; it is too soon to identify the factors critical to its success.
     Lessons Learned
-    
+
     This program is in early implementation; it is too soon to provide advice.

@@ -2,7 +2,7 @@
 title: Public Contact and Perceptions of Police
 date: "2016-03-29"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/public-contact-and-perceptions/"
 category: "Research"
 tags:
@@ -29,7 +29,7 @@ Research Design
 Data for the report were obtained from a postal survey sent in July of 2013 to a random sample of Portland addresses, including an oversampling of Census tracks with higher percentages of African American, Hispanic/Latino, and younger residents.
 Limitations
 
-Causal relationships between perceiving a police contact as fair and police trust cannot be confirmed with cross-sectional data. Similarly, researchers cannot confirm that perceptions of unfair treatment “cause” lower evaluations of trust, quality of services, and use of force based on the correlations noted; the people surveyed may have had lower opinions of police prior to the contact. 
+Causal relationships between perceiving a police contact as fair and police trust cannot be confirmed with cross-sectional data. Similarly, researchers cannot confirm that perceptions of unfair treatment “cause” lower evaluations of trust, quality of services, and use of force based on the correlations noted; the people surveyed may have had lower opinions of police prior to the contact.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 

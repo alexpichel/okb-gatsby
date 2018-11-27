@@ -2,7 +2,7 @@
 title: Dallas PD Naloxone Deployment
 date: "2017-02-07"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 category: "Policing"
 tags:
   - "Drugs"

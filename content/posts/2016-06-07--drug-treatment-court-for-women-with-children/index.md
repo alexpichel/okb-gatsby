@@ -2,7 +2,7 @@
 title: Drug Treatment Court for Women with Children
 date: "2016-06-07"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/drug-court-women-with-children/"
 category: "Research"
 tags:
@@ -20,7 +20,7 @@ Primary Research Question
 Does the WCWCDTC follow national drug court best practices and standards? What were the lessons learned, challenges, and innovations for the WCWCDTC in its second year of operation?
 Research Design
 
-Information for this process evaluation came from several sources, including observations of court hearings and team meetings, key stakeholder interviews, program manuals, a key stakeholder survey, and the program database. 
+Information for this process evaluation came from several sources, including observations of court hearings and team meetings, key stakeholder interviews, program manuals, a key stakeholder survey, and the program database.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Findings
 

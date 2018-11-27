@@ -2,7 +2,7 @@
 title: Polk County Community Corrections Transitional Housing
 date: "2016-09-29"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Housing"
@@ -15,7 +15,7 @@ Problematic Behavior or Activity
 Polk County lacks sufficient transitional housing for male and female offenders, particularly sex offenders, after they leave jail or prison.
 Impact on the Community
 
-The shortage of housing for these populations resulted in an increase of homeless people in the community, included sex offenders without a reported address. 
+The shortage of housing for these populations resulted in an increase of homeless people in the community, included sex offenders without a reported address.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 

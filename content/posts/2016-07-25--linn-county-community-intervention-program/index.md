@@ -2,7 +2,7 @@
 title: Linn County Community Intervention Program
 date: "2016-07-25"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/linn-community-intervention/"
 category: "Correctional"
 tags:

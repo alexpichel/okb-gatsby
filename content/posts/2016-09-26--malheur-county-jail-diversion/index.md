@@ -2,7 +2,7 @@
 title: Malheur County Jail Diversion
 date: "2016-09-26"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 category: "Correctional"
 tags:
   - "Justice Reinvestment"

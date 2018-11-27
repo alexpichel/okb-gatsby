@@ -2,7 +2,7 @@
 title: Clatsop County Treatment Oriented Intensive Supervision
 date: "2016-01-28"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/clatsop-treatment-supervision/"
 category: "Correctional"
 tags:

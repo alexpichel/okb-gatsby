@@ -2,7 +2,7 @@
 title: Effective Case Management With Domestic Violence Offenders
 date: "2016-06-08"
 layout: post
-cover: research.png
+cover: /assets/research.png
 path: "/posts/effective-case-management-with-dv/"
 category: "Research"
 tags:
@@ -23,7 +23,7 @@ Primary Research Question
 Do DV offenders, and indirectly their victims, selected for DVERT’s enhaned case management have lower recidivism rates than similar offenders who do not participate in DVERT?
 Research Design
 
-The study used a quasi-experimental design to contrast the recidivism rate for 128 DVERT offenders (serviced between October 2004 and July 2007) with a matched comparison group of 128 DV offenders from the same locale who did not go through DVERT. Offenders in the comparison group were individually matched to DVERT offenders on demographic variables (gender, race, & current age) and established risk factors for DV recidivism. This matching process increased the likelihood that the two groups were similar to one another prior to the start of treatment (i.e., DVERT). The researcher obtained recidivism data for both groups using Portland Police Data System criminal incident reports. Follow-up times averaged 24.4 months for both groups. 
+The study used a quasi-experimental design to contrast the recidivism rate for 128 DVERT offenders (serviced between October 2004 and July 2007) with a matched comparison group of 128 DV offenders from the same locale who did not go through DVERT. Offenders in the comparison group were individually matched to DVERT offenders on demographic variables (gender, race, & current age) and established risk factors for DV recidivism. This matching process increased the likelihood that the two groups were similar to one another prior to the start of treatment (i.e., DVERT). The researcher obtained recidivism data for both groups using Portland Police Data System criminal incident reports. Follow-up times averaged 24.4 months for both groups.
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 Findings
 

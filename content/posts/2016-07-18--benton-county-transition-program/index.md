@@ -2,7 +2,7 @@
 title: Benton County Transition Program
 date: "2016-07-18"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/benton-transition-program/"
 category: "Correctional"
 tags:

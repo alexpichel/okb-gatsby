@@ -2,7 +2,7 @@
 title: Josephine County Secure Treatment
 date: "2016-04-08"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/josephine-secure-treatment/"
 category: "Correctional"
 tags:

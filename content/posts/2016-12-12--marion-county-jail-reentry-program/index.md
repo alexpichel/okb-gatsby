@@ -2,7 +2,7 @@
 title: Marion County Jail Reentry Program
 date: "2016-12-12"
 layout: post
-cover: correctional.png
+cover: /assets/correctional.png
 path: "/posts/marion-jail-reentry/"
 category: "Correctional"
 tags:

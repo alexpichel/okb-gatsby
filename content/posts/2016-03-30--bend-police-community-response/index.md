@@ -2,7 +2,7 @@
 title: Bend Community Response Team
 date: "2016-03-30"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/bend-community-response-team/"
 category: "Policing"
 tags:

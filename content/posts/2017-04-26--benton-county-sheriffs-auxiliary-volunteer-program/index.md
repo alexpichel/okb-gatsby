@@ -2,7 +2,7 @@
 title: Benton County Sheriff's Auxiliary Volunteer Program
 date: "2017-04-26"
 layout: post
-cover: policing.png
+cover: /assets/policing.png
 path: "/posts/benton-sheriff-auxiliary-volunteer/"
 category: "Policing"
 tags:
