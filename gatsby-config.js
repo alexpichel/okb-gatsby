@@ -16,7 +16,9 @@ const query = `{
           title
           subTitle
           cover
+          author
           category
+          tags
         }
       }
     }
