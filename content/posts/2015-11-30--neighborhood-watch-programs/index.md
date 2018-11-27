@@ -8,8 +8,10 @@ path: "/posts/neighborhood-watch-programs/"
 agency: "University of Oregon - 2014"
 category: "Research"
 tags:
-  - "Neighborhood Watch"
-subTitle: "Neighborhood Watch programs were shown to be associated with the reduction of type 1 crimes."
+  - "community outreach"
+  - "crime prevention"
+  - "Oregon"
+subTitle: "Neighborhood watch groups shown to be effective in reducing crime for specific property offenses."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
