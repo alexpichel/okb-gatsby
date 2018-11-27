@@ -8,9 +8,12 @@ path: "/posts/qaxas-trail-cleanup/"
 agency: "Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department"
 category: "Policing"
 tags:
-  - "Chronic Nuisance"
-  - "Homeless"
-  - "Quality of Life"
+  - "assault"
+  - "chronic nuisance"
+  - "homeless"
+  - "quality of life"
+  - "transients"
+  - "violent crime"
 subTitle: "CPTED techniques and community partnerships were used to address crime and increase residents' perception of safety on a local recreation trail."
 ---
 
