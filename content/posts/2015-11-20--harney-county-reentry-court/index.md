@@ -8,8 +8,9 @@ path: "/posts/harney-reentry/"
 agency: "Harney County Community Corrections"
 category: "Policing"
 tags:
-  - "Justice Reinvestment"
-  - "Specialty Court"
+  - "justice reinvestment"
+  - "reentry"
+  - "specialty court"
 subTitle: "A variety of services combined with incentives and/or a graduate sanction program aim to lower recidivism rates, decrease new violations, and decrease revocations."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
