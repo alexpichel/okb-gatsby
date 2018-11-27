@@ -6,9 +6,10 @@ cover: /assets/research.png
 path: "/posts/impact-anti-racial-profiling-training/"
 category: "Research"
 tags:
-  - "Training"
-  - "Racial Profiling"
-subTitle: "The purpose of the present research is to assess if officer perceptions of people-of-color are impacted by a currently practiced anti-racial profiling training model in the state of Oregon."
+  - "Oregon"
+  - "race"
+  - "training"
+subTitle: "Anti-racial training was well-received by participants and brought awareness to police-race issues, but did not impact indvidual police officers' personal perceptions of people-of-color."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
