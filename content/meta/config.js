@@ -11,6 +11,7 @@ module.exports = {
   // author
   authorName: "OKB",
   authorTwitterAccount: "@orknowledgebank",
+  blogAuthorDir: "agencies",
   // info
   infoTitle: "Oregon Knowledge Bank",
   infoTitleNote: "a local public safety resource",
