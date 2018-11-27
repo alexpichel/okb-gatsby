@@ -8,8 +8,10 @@ path: "/posts/use-of-force-mental-illness/"
 agency: "University of Massachusetts - 2015"
 category: "Research"
 tags:
-  - "Mental Illness"
-  - "Use of Force"
+  - "mental illness"
+  - "Oregon"
+  - "policy"
+  - "use of force"
 subTitle: "A retrospective study of data from the Portland Police Bureau dispels the idea that use of force encounters with people with Mental Illness are significantly more dangerous to the parties involved in the incident."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
