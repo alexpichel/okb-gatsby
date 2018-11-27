@@ -8,8 +8,10 @@ path: "/posts/resolution-northwest/"
 agency: "Portland State University - 2000"
 category: "Research"
 tags:
-  - "Mediation"
-  - "Victims"
+  - "juveniles"
+  - "mediation"
+  - "Oregon"
+  - "victims"
 subTitle: "A comparative analysis demonstrated that victim-offender meditation is highly beneficial in the rehabilitative process of juvenile offenders."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
