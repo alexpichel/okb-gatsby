@@ -8,7 +8,8 @@ category: "Policing"
 tags:
   - "Training"
   - "Wellness"
-subTitle: "Bend Police Department has adopted a multi-pronged approach to improve officer resilience."
+  - "retention"
+subTitle: "A multi-pronged approach including on-duty fitness classes, yoga classes, a contracted psychologist, family support, financial literacy, and mindfulness training aims to increase officer resillience."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
