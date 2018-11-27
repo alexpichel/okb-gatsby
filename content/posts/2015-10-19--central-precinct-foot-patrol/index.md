@@ -8,11 +8,12 @@ path: "/posts/central-precinct-foot-patrol/"
 agency: "Portland Police Bureau"
 category: "Policing"
 tags:
-  - "Assault"
-  - "Chronic Nuisance"
-  - "Quality of Life"
-  - "Homeless"
-  - "Juvenile Justice"
+  - "assault"
+  - "chronic nuisance"
+  - "homeless"
+  - "juveniles"
+  - "quality of life"
+  - "transients"
 subTitle: "Foot patrol positively impacted fear of crime and police-community relationships through an emphasis on providing services and relationship builiding."
 ---
 
