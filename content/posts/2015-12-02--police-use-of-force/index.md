@@ -6,8 +6,9 @@ cover: /assets/research.png
 path: "/posts/police-use-of-force/"
 category: "Research"
 tags:
-  - "Use of Force"
-subTitle: "Can a system for coding use of force incidents be created that will improve upon existing systems and will the instrument created be reliable and practical in a manner consistent with current police practices?"
+  - "Oregon"
+  - "policy"
+subTitle: "A reliable, valid metric to assess use of force incidents both within and between agencies is needed to be consistent with evidence-based poilcing approaches."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
