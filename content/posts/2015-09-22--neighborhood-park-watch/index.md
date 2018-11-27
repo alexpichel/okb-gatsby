@@ -6,9 +6,9 @@ cover: /assets/policing.png
 path: "/posts/neighborhood-park-watch/"
 category: "Policing"
 tags:
-  - "Chronic Nuisance"
-  - "Homeless"
-  - "Quality of Life"
+  - "chronic nuisance"
+  - "homeless"
+  - "quality of life"
 subTitle: "There are captains for each park and teams are trained to be the eyes and ears for the police department and report suspicious circumstances to the police."
 ---
 

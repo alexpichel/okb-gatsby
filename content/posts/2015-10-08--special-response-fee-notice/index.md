@@ -8,8 +8,8 @@ path: "/posts/special-response-fee-notice/"
 agency: "Corvallis Police Department"
 category: "Policing"
 tags:
-  - "Chronic Nuisance"
-  - "Quality of Life"
+  - "chronic nuisance"
+  - "quality of life"
 subTitle: "In combination with the Chronic Nuisance Property program, the use of civil fees lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 

@@ -8,9 +8,11 @@ path: "/posts/central-precinct-entertainment-zone/"
 agency: "Portland Police Bureau"
 category: "Policing"
 tags:
-  - "Assault"
-  - "Chronic Nuisance"
-  - "Quality of Life"
+  - "assault"
+  - "chronic nuisance"
+  - "CPTED"
+  - "quality of life"
+  - "violent crime"
 subTitle: "Strategic street closures, foot patrols, and crime prevention efforts reduced crime in a targeted urban area."
 ---
 

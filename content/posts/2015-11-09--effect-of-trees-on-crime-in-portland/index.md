@@ -8,7 +8,9 @@ path: "/posts/effect-of-trees-on-crime/"
 agency: "U.S. Department of Agriculture - 2012"
 category: "Research"
 tags:
-  - "Crime Prevention"
+  - "CPTED"
+  - "crime prevention"
+  - "Oregon"
 subTitle: "Larger trees and street trees were shown to have a modest crime reduction impact."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

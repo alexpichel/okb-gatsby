@@ -8,8 +8,8 @@ path: "/posts/lethality-assessment-program/"
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
-  - "Domestic Violence"
-  - "Victims"
+  - "domestic violence"
+  - "victims"
 subTitle: "A collaboratively developed screening protocol connected high-risk DV victims with services, both immediately after the incident and follow-up services."
 ---
 

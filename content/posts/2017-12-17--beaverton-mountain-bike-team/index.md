@@ -8,7 +8,10 @@ category: "Policing"
 tags:
   - "Homeless"
   - "Theft"
-subTitle: "The Mountain Bike Team does this by focusing on relationship building between the homeless population and the stakeholders in the area (such as business owners and the City of Beaverton)."
+  - "property crime"
+  - "quality of life"
+  - "transients"
+subTitle: "A focus on educating business owners and bringing needed resources to homeless communities has been associated with a reduction in calls for service related to homelessness, the number of illegal camps, and thefts."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

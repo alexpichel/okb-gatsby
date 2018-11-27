@@ -7,9 +7,10 @@ path: "/posts/victim-offender-mediation/"
 agency: "University of Minnesota - 2001"
 category: "Research"
 tags:
-  - "Juvenile Justice"
-  - "Mediation"
-  - "Victims"
+  - "juveniles"
+  - "mediation"
+  - "Oregon"
+  - "victims"
 subTitle: "A descriptive evaluation of six victim-offender mediation programs revealed support for a flexible, open approach to mediation."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

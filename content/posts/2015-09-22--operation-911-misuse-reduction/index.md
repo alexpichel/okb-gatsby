@@ -8,8 +8,9 @@ path: "/posts/operation-911-misuse/"
 agency: "Keizer Police Department"
 category: "Policing"
 tags:
-  - "Chronic Nuisance"
-  - "Mental Illness"
+  - "chronic nuisance"
+  - "dispatch"
+  - "mental illness"
 subTitle: "An individualized program helped find services for and reduce non-emergency 911 calls from a dementia patient."
 ---
 

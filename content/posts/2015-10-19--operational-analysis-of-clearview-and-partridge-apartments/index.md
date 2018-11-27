@@ -8,9 +8,9 @@ path: "/posts/analysis-clearview-partridge/"
 agency: "Keizer Police Department"
 category: "Policing"
 tags:
-  - "Chronic"
-  - "Quality of Life"
-  - "Violent Crime"
+  - "chronic nuisance"
+  - "quality of life"
+  - "violent crime"
 subTitle: "A multi-faceted POP approach was used to address criminal activity in two separate apartment complexes."
 ---
 
