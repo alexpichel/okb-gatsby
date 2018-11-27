@@ -6,7 +6,8 @@ cover: /assets/correctional.png
 path: "/posts/transgender-booking-policy/"
 category: "Correctional"
 tags:
-  - "Jail"
+  - "jail"
+  - "policy"
 subTitle: "The policy of the Multnomah County Sheriff's Office Corrections Division is to ensure the respectful, courteous, and professional treatment of transgender inmates, as well as respect for the sexual orientation or gender identity of any person in custody, while maintaining the safety, security, and orderly operation of all correctional facilities."
 ---
 
