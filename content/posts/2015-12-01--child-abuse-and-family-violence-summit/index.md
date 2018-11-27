@@ -8,9 +8,9 @@ path: "/posts/child-abuse-family-violence-summit/"
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
-  - "Domestic Violence"
-  - "Family Violence"
-  - "Training"
+  - "domestic violence"
+  - "family violence"
+  - "training"
 subTitle: "The Child Abuse and Family Violence Summit has allowed professionals to gather, collaborate, and become educated on the latest techniques and strategies to combat these crimes."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
