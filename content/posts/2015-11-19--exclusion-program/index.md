@@ -7,8 +7,9 @@ logo: /assets/agency/clackamas-sheriff-logo.png
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
-  - "Quality of Life"
-  - "Victims"
+  - "quality of life"
+  - "trespass"
+  - "transients"
 subTitle: "An exclusion program allowing property owners/managers to engage the services of patrol to exclude individuals for one year from their property reduced repeat calls and increased owners/managers perception of safety."
 ---
 
