@@ -6,9 +6,10 @@ cover: correctional.png
 path: "/posts/crook-sttl-downward-departure-caseload/"
 category: "Correctional"
 tags:
-  - "Justice Reinvestment"
-  - "Specialized Caseload"
-subTitle: "This program creates a new position and program structure designed to provide intensive supervision to offenders receiving a downward departure or Short Term Trans Leave."
+  - "justice reinvestment"
+  - "specialized caseload"
+  - "supervision"
+subTitle: "This program is designed to provide intensive supervision to offenders receiving a downward departure or Short Term Trans Leave."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
