@@ -8,10 +8,9 @@ path: "/posts/MCJRP/"
 agency: "Multnomah County Local Public Safety Coordinating Council"
 category: "Correctional"
 tags:
-  - "Community Supervision"
-  - "Intensive Supervision"
-  - "Justice Reinvestment"
-  - "Pre-Sentence Assessment"
+  - "justice reinvestment"
+  - "pre-sentence"
+  - "supervision"
 subTitle: "A program providing personalized supervision and treatment programs aims to reduce recidivism and prison use."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
