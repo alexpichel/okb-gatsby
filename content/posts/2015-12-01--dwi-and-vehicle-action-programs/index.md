@@ -7,7 +7,7 @@ path: "/posts/dwi-vehicle-action/"
 category: "Research"
 tags:
   - "DUII"
-  - "Oregon
+  - "Oregon"
   - "traffic safety"
 subTitle: "Vehicle impoundment and immobilization may be associated with declines in crashes and moving violation convictions."
 ---
