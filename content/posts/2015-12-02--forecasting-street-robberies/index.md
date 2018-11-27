@@ -8,9 +8,9 @@ category: "Research"
 tags:
   - "crime analysis"
   - "mapping"
+  - "modeling"
   - "Oregon"
   - "risk terrain"
-  - "modeling"
 subTitle: "Risk terrain modeling is a promising crime analysis tool with potential to help improve targeting of law enforcement responses to this crime."
 ---
 
