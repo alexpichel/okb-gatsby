@@ -7,8 +7,9 @@ logo: /assets/agency/clackamas-county-logo.svg
 agency: "Clackamas County Community Corrections"
 category: "Correctional"
 tags:
-  - "Justice Reinvestment"
-  - "Reentry"
+  - "justice reinvestment"
+  - "mental illness"
+  - "reentry"
 subTitle: "A centralized location for access to reentry services aims to decrease jail use by clients in mental health crisis and reduce recidivism for all program participants."
 ---
 
