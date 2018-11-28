@@ -6,7 +6,7 @@ cover: /assets/research.png
 path: "/posts/measure-57-drug-courts/"
 category: "Research"
 tags:
-  - "drugs
+  - "drugs"
   - "Oregon"
   - "specialty courts"
 subTitle: "The drug courts evaluated showed a reduction in recidivism when compared to offenders who received traditional probation."
