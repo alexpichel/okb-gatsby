@@ -35,10 +35,11 @@ Forty-two were placed in a control group, which received no treatment outside st
 
 Crime events were tracked for all properties for the three months prior to the original enforcement, three months after the original enforcement, and 30 months after the treatment. Additional information was also collected on each site, including:
 
-    A log of police interactions with the treatment groups.
-    Telephone survey of property owners to obtain information on management practices, methods for handling the tenant/drug dealer who was involved in original enforcement, and ability/willingness to spend money to make improvements to property.
-    Environmental surveys with data on the physical structures.
-    An attempted drug purchase by a narcotics detective to determine whether or not drugs were still available.
+* A log of police interactions with the treatment groups.
+* Telephone survey of property owners to obtain information on management practices, methods for handling the tenant/drug dealer who was
+involved in original enforcement, and ability/willingness to spend money to make improvements to property.
+* Environmental surveys with data on the physical structures.
+* An attempted drug purchase by a narcotics detective to determine whether or not drugs were still available.
 
 #### LIMITATIONS
 
