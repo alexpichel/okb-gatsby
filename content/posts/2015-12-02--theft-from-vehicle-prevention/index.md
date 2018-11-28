@@ -6,8 +6,9 @@ cover: /assets/policing.png
 path: "/posts/theft-from-vehicle-letter-program/"
 category: "Policing"
 tags:
-  - "Crime Prevention"
-  - "Theft"
+  - "crime prevention"
+  - "property crime"
+  - "theft"
 subTitle: "Security who patrol and monitor parking lots and garages will take a cursory look inside parked cars to be observant of valuable items left in view."
 ---
 
