@@ -8,6 +8,7 @@ category: "Research"
 tags:
   - "Oregon"
   - "policy"
+  - "use of force"
 subTitle: "A reliable, valid metric to assess use of force incidents both within and between agencies is needed to be consistent with evidence-based poilcing approaches."
 ---
 
