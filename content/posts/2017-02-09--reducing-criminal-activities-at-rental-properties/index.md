@@ -55,6 +55,6 @@ After pre-treatment crime levels were controlled for, the treatment group which 
 
 Both treatments showed promise, however crime reduction from a letter alone will be weaker than a treatment that includes a meeting. Considering the high cost of responding to drug events, the meeting intervention is not prohibitively expensive and may actually be cost effective when compared to the cost of reactive police responses. The results of this study confirmed the idea that decreased place management is related to increased crime. From the additional information gathered, it also upholds the idea that the lower the financial position of the property manager, the lower the place management, the greater the crime rate.
 
-#### CITIATION
+#### CITATION
 
 Eck, J. E., & Wartell, J. (1998). [Improving the management of rental properties with drug problems: A randomized experiment](https://www.researchgate.net/publication/246438955_Improving_the_management_of_rental_properties_with_drug_problems_A_randomized_experiment). Crime prevention studies, 9, 161-185.
