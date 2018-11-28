@@ -8,8 +8,9 @@ path: "/posts/public-perceptions-use-of-force/"
 agency: "Criminal Justice Policy Research Institute, Portland State University - 2012"
 category: "Research"
 tags:
-  - "Community Relations"
-  - "Use of Force"
+  - "community relations"
+  - "Oregon"
+  - "use of force"
 subTitle: "A randomized survey study revealed a disparity between the public perception of the number of use of force events and the officially recorded data."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
