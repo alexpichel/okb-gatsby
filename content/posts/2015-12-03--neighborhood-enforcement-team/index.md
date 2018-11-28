@@ -6,8 +6,10 @@ cover: /assets/policing.png
 path: "/posts/neighborhood-enforcement-team/"
 category: "Policing"
 tags:
-  - "Abandoned Properties"
-  - "Chronic Nuisance"
+  - "abandoned property"
+  - "chronic nuisance"
+  - "quality of life"
+  - "transients"
 subTitle: "Gresham Police Department were responding to an increasing number of calls and complaints from residents about abandoned properties, transient activity, drug dealing, chronic noise, and other problems."
 ---
 
