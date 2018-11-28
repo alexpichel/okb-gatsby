@@ -19,11 +19,11 @@ Response
 
 Practitioners are now seeking more effective alternatives to juvenile detention. One such alternative is being implemented in two counties in Southeast Washington State. The two participating counties consistently rank over the state average for juvenile arrests. The program, Fast Accountability Skills Training (FAST), aims to increase accountability and self-awareness in probation violators through a number of strength-based concepts and goal setting.
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
-Research Question(s)
+Primary Research Question(s)
 
-Does the FAST program reduce recidivism and/or future probation violations among participants?
+1. Does the FAST program reduce recidivism and/or future probation violations among participants?
 
-Is the FAST program equivalent to detention when evaluating outcomes?
+2. Is the FAST program equivalent to detention when evaluating outcomes?
 
 Research Design
 
