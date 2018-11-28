@@ -36,7 +36,7 @@ This program evaluation used a retrospective statistical matching approach. One 
 
 The authors acknowledge that certain aspects of the program design may have contributed to these results, including the short duration of FAST and the evolving program curriculum during the first few months. This limited the ability to ascertain specific strengths and weaknesses of the program.
 
-## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") OutcomeS
+## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcomes
 
 #### FINDINGS
 
