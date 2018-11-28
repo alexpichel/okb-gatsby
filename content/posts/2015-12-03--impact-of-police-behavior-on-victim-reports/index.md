@@ -6,9 +6,11 @@ cover: /assets/research.png
 path: "/posts/impact-of-police-behavior-victim-reports/"
 category: "Research"
 tags:
-  - "Domestic Violence"
-  - "Victims"
-subTitle: "Although it is perceived by many that police are the gatekeepers of the criminal justice system, victims - who decide whether to officially report crimes - actually control mobilization of the criminal justice system."
+  - "community relations"
+  - "domestic violence"
+  - "Oregon"
+  - "victims"
+subTitle: "Victims who get the outcomes they desire from police are more likely to utilize the police in the future than victims whose preferences did not match the outcome."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -26,8 +28,7 @@ PRIMARY RESEARCH QUESTION
 
 The study examines two common hypotheses about how police behavior may impact victim attitude or expectations, which in turn impact reporting.
 
-    One hypothesis is that police demeanor toward victims increases or decreases future reporting behavior. (The Process Hypothesis)
-    The second hypothesis is that victims who get the outcome they want from police (i.e., an arrest or an order of protection) are more likely to utilize the police in the future than victims whose preference did not match the outcome. (The Outcome Hypothesis)
+One hypothesis is that police demeanor toward victims increases or decreases future reporting behavior. This is referred to as the Process Hypothesis. The second hypothesis, known as the Outcome Hypothesis, is that victims who get the outcome they want from police (i.e., an arrest or an order of protection) are more likely to utilize the police in the future than victims whose preference did not match the outcome.
 
 RESEARCH DESIGN
 
