@@ -6,25 +6,32 @@ cover: /assets/research.png
 path: "/posts/measure-57-drug-courts/"
 category: "Research"
 tags:
-  - "Specialty Courts"
-subTitle: "Drug courts are designed to guide offenders who are struggling with substance abuse into treatment that will reduce drug dependence and improve their quality of life."
+  - "drugs
+  - "Oregon"
+  - "specialty courts"
+subTitle: "The drug courts evaluated showed a reduction in recidivism when compared to offenders who received traditional probation."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-Community Need
+#### COMMUNITY NEED
 
 More research has been published on the effects of adult Drug Courts than virtually all other criminal justice programs combined. By 2006, the scientific community had concluded beyond a reasonable doubt from advanced statistical procedures called meta-analyses that Drug Courts reduce criminal recidivism, typically measured by fewer re-arrests for new offenses and technical violations. Oregon’s drug courts have also been heavily researched. However, the research used quasi-experimental design or other research methods. No study ever used a randomized controlled trial evaluation, which is considered the “gold standard” in program evaluation. The design greatly mitigates threats to validity such as selection bias and unobserved bias.
-Response
+
+#### RESPONSE
 
 Drug courts are designed to guide offenders who are struggling with substance abuse into treatment that will reduce drug dependence and improve their quality of life. In 2008, Ballot Measure 57 required that certain offenders be provided substance abuse treatment services, and the state provided grant funds to Oregon counties to assist in offering post-adjudication services and treatment. Four sites received Measure 57 drug court funding and participated in this drug court evaluation: Douglas County, Jackson County, Multnomah County, and Umatilla County. This research uses a randomized control group to study drug court implementation and outcomes across these sites. All Measure 57 drug court participants must have a Measure 57-eligible offense (felony property or repeat drug delivery offense) and have scored a 3 or higher on the Texas Christian University (TCU) drug screen, deeming them moderate or high risk.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
-Primary Research Question
+#### PRIMARY RESEARCH QUESTION(S)
 
-The study was organized into four parts: 1) a process evaluation of each of the four participating sites; 2) an interview study designed to obtain participant perceptions of their court experiences through interviews with treatment and control group members; 3) an outcome evaluation based on data from administrative court records, and 4) a cost analysis that examined costs associated with the program and its outcomes.
+The study was organized into four parts: 
+1. a process evaluation of each of the four participating sites; 
+2. an interview study designed to obtain participant perceptions of their court experiences through interviews with treatment and control group members; 
+3. an outcome evaluation based on data from administrative court records, and 
+4. a cost analysis that examined costs associated with the program and its outcomes.
 
-Research Design
+#### RESEARCH DESIGN
 
 For the randomized controlled trial design, a total of 283 participants entered the study in time to be eligible to be interviewed. Of these, 172 (61%) had been randomly assigned to the treatment group and 111 (39%) had been randomly assigned to the control group. A total of 84 respondents completed both baseline and follow-up interviews (59 in the treatment group and 25 in the control group).
 
@@ -33,13 +40,14 @@ Regarding the process evaluation, information was collected from online program 
 For the outcome evaluation, data was gathered from a number of administrative databases and analyzed using statistical software.
 
 Researchers analyzed the cost-benefit analysis of drug courts using the Transactional and Institutional Cost Analysis methodology.
-Limitations
+
+#### LIMITATIONS
 
 The sample of participants included in the random assignment study at each site was small and may not have been representative of the participants in the drug court programs overall. This is one of the key limitations of this study, and it may have impacted the outcome findings significantly.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-Research Findings
+#### RESEARCH FINDINGS
 
 Process Evaluation:
 
@@ -59,6 +67,9 @@ Cost Analysis:
 
     The average total program cost per participant was $22,917 (the average cost ranged from $16,273 to $31,918 across sites). The largest average contributor to the cost of the program was outpatient treatment ($12,546). The second largest contributor to program costs was residential treatment ($2,985) followed by jail sanctions ($2,756).
 
-Main Implications
+#### MAIN IMPLICATIONS
 
 Many of the participants in the study were prison-eligible under Measure 57 and this evaluation provides support for drug courts as an effective alternative to prison. The Measure 57 Intensive Drug Court Program is one strategy within the continuum of services and programs for all offenders involved in the criminal justice system. This program is targeted toward a specific population and a specific point of involvement within the criminal justice system. Other types of offenders, including low risk and/or low need, and those at different points of involvement within the criminal justice system, may be better served with other types of services and programs.
+
+#### CITATION
+Prins, C., Officer, K., Einspruch, E. L., Jarvis, K. L., Waller, M. S., Mackin, J. R., & Carey, S. M. (March 2015) [Randomized Controlled Trial of Measure 57 Intensive Drug Court for Medium- to High-Risk Property Offenders: Process, Interviews, Costs, And Outcomes](http://npcresearch.com/wp-content/uploads/CJC_and_NPC_M57_drug_court_eval_March_20_2015.pdf). Portland, OR: NPC Research & Oregon Criminal Justice Commission
