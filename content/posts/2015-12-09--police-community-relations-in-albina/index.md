@@ -8,15 +8,16 @@ path: "/posts/police-community-relations-albina/"
 agency: "Portland State University - 2013"
 category: "Research"
 tags:
-  - "Community Relations"
-  - "Race Relations"
+  - "community relations"
+  - "Oregon"
+  - "race"
 subTitle: "A retrospective study examined the relationship between the black community and police between 1964 and 1985, uncovering differences in the perception of the improvement or decline of that relationship."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 #### COMMUNITY NEED
 
-While many historical studies discuss the role of police and community race relations in setting off riots throughout the twentieth century, few studies analyze in detail the relationship between the police and majority-black urban communities. This [article](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1068&context=usp_fac) adds to that work by chronicling the history of the black community’s attempts to reform policing in Portland’s Albina District.
+While many historical studies discuss the role of police and community race relations in setting off riots throughout the twentieth century, few studies analyze in detail the relationship between the police and majority-black urban communities. This article adds to that work by chronicling the history of the black community’s attempts to reform policing in Portland’s Albina District.
 
 #### RESPONSE
 
@@ -51,4 +52,4 @@ It is important to understand Portland’s recent history when working to improv
 
 #### CITATION
 
-Serbulo, L. C., & Gibson, K. J. (2013). Black and Blue: Police-Community Relations in Portland's Albina District, 1964–1985. Oregon Historical Quarterly, 114(1), 6-37.
+Serbulo, L. C., & Gibson, K. J. (2013). [Black and Blue: Police-Community Relations in Portland's Albina District, 1964–1985](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1068&context=usp_fac). Oregon Historical Quarterly, 114(1), 6-37.
