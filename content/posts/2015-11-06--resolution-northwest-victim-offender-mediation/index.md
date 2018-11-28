@@ -32,7 +32,7 @@ Do juvenile offenders who participate in Resolutions Northwest's victim-offender
 
 #### RESEARCH DESIGN
 
-[Research](https://pdxscholar.library.pdx.edu/open_access_etds/2291/) was conducted from 1996 to 1999 and used 455 completed victim-offender Resolutions Northwest mediation records. Records involved juveniles 17 years of age and younger. The juveniles were categorized into one of two groups: Juvenile Detention Alternative Initiative group (traditional justice system) or Resolution Northwest (participated in the program). The research investigated as to whether the juveniles in both groups reoffended a second, third or fourth time within a one-year period. Research provided a comparison of outcomes that examined whether or not juvenile offenders had a lower recidivism rate than youths.
+Research was conducted from 1996 to 1999 and used 455 completed victim-offender Resolutions Northwest mediation records. Records involved juveniles 17 years of age and younger. The juveniles were categorized into one of two groups: Juvenile Detention Alternative Initiative group (traditional justice system) or Resolution Northwest (participated in the program). The research investigated as to whether the juveniles in both groups reoffended a second, third or fourth time within a one-year period. Research provided a comparison of outcomes that examined whether or not juvenile offenders had a lower recidivism rate than youths.
 
 #### LIMITATIONS
 
@@ -47,3 +47,7 @@ There are too many other factors involved in the evaluation of a program to use 
 #### MAIN IMPLICATIONS
 
 Resolution Northwest's victim-offender mediation program is highly beneficial to the rehabilitative process of the juvenile offenders who participate in it.
+
+#### CITATION
+
+Stone, K. J. (2000). [An evaluation of recidivism rates for resolutions northwest's victim-offender mediation program](https://pdxscholar.library.pdx.edu/open_access_etds/2291/).
