@@ -45,3 +45,7 @@ Despite an 82% completion rate among participants, the FAST program was determin
 #### IMPLICATIONS
 
 In conjunction with analysis of similar studies, there is compelling evidence to conclude that community-based alternatives to detention are worth continuing exploration. Since the FAST program was shown to be no better or worse than detention when considering the two outcomes evaluated, it would be prudent to take additional outcomes into consideration. An alternative, such as the FAST program, is shown to be less costly and have fewer negative emotional and societal impacts than detention. As the researchers argue, this should be adequate motivation for courts to consider expanding the creation and utilization of alternative programs in the juvenile justice system, including FAST.
+
+#### CITATION
+
+van Wormer, J. G., & Campbell, C. (2016). [Developing an alternative juvenile programming effort to reduce detention overreliance](https://www.ncjrs.gov/pdffiles/251065.pdf#page=17). Journal of Juvenile Justice, 5(2), 12.
