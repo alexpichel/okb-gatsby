@@ -59,7 +59,7 @@ Utilizing a specialized DV unit shows promising results for reducing recidivism.
 
 3. Increases in victim assistance may have led to reducing target suitability. Although, a separate study showed that the DV unit did not decrease re-victimization.
 
-4.Charging based on the evidence regardless of victim’s wishes may have increased procedural justice, i.e. perceived fairness, in the eyes of the offender.
+4. Charging based on the evidence regardless of victim’s wishes may have increased procedural justice, i.e. perceived fairness, in the eyes of the offender.
     
 #### CITATION
 
