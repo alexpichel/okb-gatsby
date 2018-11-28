@@ -55,4 +55,4 @@ Portland police data indicates that officers are using force considerably less o
 
 #### CITATION
 
-Stewart, G., Henning, K. R., & Renauer, B. (2012). Public perceptions regarding the use of force by police in Portland, Oregon.
+Stewart, G., Henning, K. R., & Renauer, B. (2012). [Public perceptions regarding the use of force by police in Portland, Oregon](https://www.pdx.edu/cjpri/sites/www.pdx.edu.cjpri/files/Use_of_Force_Final.pdf).
