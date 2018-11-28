@@ -51,21 +51,21 @@ The sample of participants included in the random assignment study at each site 
 
 Process Evaluation:
 
-    Researchers examined 52 research-based best practices associated with the 10 Key Components (guidelines for the implementation drug courts) across the sites. Three of the four sites had implemented 44 (85%) of the best practices and one site had implemented 41 (79%) of the best practices. Thus, the sites had implemented drug courts with reasonable fidelity to the drug court model
+Researchers examined 52 research-based best practices associated with the 10 Key Components (guidelines for the implementation drug courts) across the sites. Three of the four sites had implemented 44 (85%) of the best practices and one site had implemented 41 (79%) of the best practices. Thus, the sites had implemented drug courts with reasonable fidelity to the drug court model
 
 Interview Study:
 
-    Drug court treatment group members were more likely than control group members to: perceive court members working as a team, have participated in a substance use assessment, indicate receiving outpatient group or individual substance use counseling, and to have been drug tested more frequently.
-    Control group members were more likely than treatment group to report participating in mental health treatment.
-    The drug court program did not impact treatment group members more strongly than traditional court processing affected the control group members in terms of attitudes toward the judge, the certainty of sanctions if they were not compliant with court instructions, substance use in the past 30 days, or reported criminal acts in the past 6 months.
+Drug court treatment group members were more likely than control group members to: perceive court members working as a team, have participated in a substance use assessment, indicate receiving outpatient group or individual substance use counseling, and to have been drug tested more frequently.
+Control group members were more likely than treatment group to report participating in mental health treatment.
+The drug court program did not impact treatment group members more strongly than traditional court processing affected the control group members in terms of attitudes toward the judge, the certainty of sanctions if they were not compliant with court instructions, substance use in the past 30 days, or reported criminal acts in the past 6 months.
 
 Outcome Evaluation:
 
-    This evaluation showed a reduction in recidivism when compared to the group of offenders who received traditional probation. For this study, recidivism included any new arrest with a criminal charge for 12 months after randomization. The treatment group had 28% fewer new charges, and 26% fewer new cases (cases can contain multiple charges), than the control group. The treatment group had 37% fewer new charges for drug crimes than the control group.
+This evaluation showed a reduction in recidivism when compared to the group of offenders who received traditional probation. For this study, recidivism included any new arrest with a criminal charge for 12 months after randomization. The treatment group had 28% fewer new charges, and 26% fewer new cases (cases can contain multiple charges), than the control group. The treatment group had 37% fewer new charges for drug crimes than the control group.
 
 Cost Analysis:
 
-    The average total program cost per participant was $22,917 (the average cost ranged from $16,273 to $31,918 across sites). The largest average contributor to the cost of the program was outpatient treatment ($12,546). The second largest contributor to program costs was residential treatment ($2,985) followed by jail sanctions ($2,756).
+The average total program cost per participant was $22,917 (the average cost ranged from $16,273 to $31,918 across sites). The largest average contributor to the cost of the program was outpatient treatment ($12,546). The second largest contributor to program costs was residential treatment ($2,985) followed by jail sanctions ($2,756).
 
 #### MAIN IMPLICATIONS
 
