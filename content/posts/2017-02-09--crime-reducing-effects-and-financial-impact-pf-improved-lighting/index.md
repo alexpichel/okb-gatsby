@@ -51,6 +51,6 @@ The capital costs of the street lighting were greatly outweighed by the benefit.
 
 The improved lighting decreased both crime itself and the fear of crime for residents. The researchers believe that the lighting increased community pride, community cohesion, and informal social control, which acted as a deterrent to potential criminals. The cost-benefit analysis of this project also indicates that, used appropriately, it is a cost efficient and practical way to address some crime problems.
 
-#### CITIATION
+#### CITATION
 
 Painter, K. A., & Farrington, D. P. (2001). [The financial benefits of improved street lighting, based on crime reduction. Transactions of the Illuminating Engineering Society](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.909.1679&rep=rep1&type=pdf), 33(1), 3-10.
