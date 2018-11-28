@@ -20,6 +20,7 @@ After decades of the belief that juvenile delinquents should be managed through 
 #### RESPONSE
 
 Practitioners are now seeking more effective alternatives to juvenile detention. One such alternative is being implemented in two counties in Southeast Washington State. The two participating counties consistently rank over the state average for juvenile arrests. The program, Fast Accountability Skills Training (FAST), aims to increase accountability and self-awareness in probation violators through a number of strength-based concepts and goal setting.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
 #### PRIMARY RESEARCH QUESTION(S)
@@ -34,7 +35,8 @@ This program evaluation used a retrospective statistical matching approach. One 
 #### LIMITATIONS
 
 The authors acknowledge that certain aspects of the program design may have contributed to these results, including the short duration of FAST and the evolving program curriculum during the first few months. This limited the ability to ascertain specific strengths and weaknesses of the program.
-## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
+
+## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") OutcomeS
 
 #### FINDINGS
 
