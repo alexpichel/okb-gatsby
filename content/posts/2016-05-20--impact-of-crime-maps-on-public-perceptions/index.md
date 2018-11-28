@@ -30,7 +30,7 @@ Violent crime data for Portland were used to create dot and density maps for a p
 2. high crime – aggregate count map
 3. low crime – dot map
 4. high crime – dot map 
-5. low crime – density map, or
+5. low crime – density map
 6. high crime – density map
 
 People were asked to imagine that they live in the given police precinct. After reviewing their assigned crime map the participants answered questions about safety, confidence in the police, trust in their neighbors, etc.
