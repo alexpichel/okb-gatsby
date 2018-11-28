@@ -22,6 +22,7 @@ Practitioners are now seeking more effective alternatives to juvenile detention.
 Research Question(s)
 
 Does the FAST program reduce recidivism and/or future probation violations among participants?
+
 Is the FAST program equivalent to detention when evaluating outcomes?
 
 Research Design
