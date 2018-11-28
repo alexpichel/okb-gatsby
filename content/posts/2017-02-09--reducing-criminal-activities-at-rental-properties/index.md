@@ -6,25 +6,28 @@ cover: /assets/research.png
 path: "/posts/reducing-criminal-activities-at-rental/"
 category: "Research"
 tags:
-  - "Crime Prevention"
-  - "Drugs"
-subTitle: "After pre-treatment crime levels were controlled for, the treatment group which included meetings underwent the largest crime reduction, which was statistically significant."
+  - "chronic nuisance"
+  - "crime prevention"
+  - "drugs"
+subTitle: "Enhanced place management involving multi-disciplinary meetings with property owners was associated with increased target hardening leading to crime reductions."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-Community Need
+#### COMMUNITY NEED
 
 Routine activity theory centers on conditions necessary for crime to occur – offenders without a handler and targets without a guardian coming together at a place without an effective controller, such as a property manager. The lack of regulation by a manager can therefore leave a place more susceptible to crimes, such as drug dealing. Common practices in place to combat this type of place-based crime include one-time training for property owners and/or compelling property owners through the enforcement of nuisance abatement statutes. Both have significant drawbacks both financially and in terms of sustainability.
-Response
+
+#### RESPONSE
 
 In response to the lack of options, the researchers developed a program that was less time-consuming and financially straining than nuisance abatement and provided more follow-up than one-time training sessions. The program was targeted towards properties that had already been contacted by law enforcement for drug activity. The full program included letters to property owners and a meeting between the property owner, a drug detective, and a code enforcement officer.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
-Research Question
+#### PRIMARY RESEARCH QUESTION(S)
 
 Does enhanced place management effectively reduce crime?
-Research Design
+
+#### RESEARCH DESIGN
 
 One hundred twenty-one properties that were subject to drug enforcement actions between June and November 1993 were included in this study. The properties were then randomly assigned to one of three groups – one control group, and two treatment groups.
 
@@ -37,15 +40,20 @@ Crime events were tracked for all properties for the three months prior to the o
     Environmental surveys with data on the physical structures.
     An attempted drug purchase by a narcotics detective to determine whether or not drugs were still available.
 
-Limitations
+#### LIMITATIONS
 
 There were few limitations noted by the researchers. The use of a research assistant working out of the police department reduced the amount of undocumented actions taken by involved law enforcement. Researchers addressed the issue of the meeting group having a lower pre-treatment crime rate through analytical means.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-Findings
+#### RESEARCH FINDINGS
 
 After pre-treatment crime levels were controlled for, the treatment group which included meetings underwent the largest crime reduction, which was statistically significant. Managers that participated in a meeting with police and code enforcement were more likely to renovate property and/or act on the management changed recommended by law enforcement. There was crime reduction following the letter-only treatment, however the significance was not significant and the hypothesis that it was due to chance could not be dismissed.
-Implications
+
+#### MAIN IMPLICATIONS
 
 Both treatments showed promise, however crime reduction from a letter alone will be weaker than a treatment that includes a meeting. Considering the high cost of responding to drug events, the meeting intervention is not prohibitively expensive and may actually be cost effective when compared to the cost of reactive police responses. The results of this study confirmed the idea that decreased place management is related to increased crime. From the additional information gathered, it also upholds the idea that the lower the financial position of the property manager, the lower the place management, the greater the crime rate.
+
+#### CITIATION
+
+Eck, J. E., & Wartell, J. (1998). [Improving the management of rental properties with drug problems: A randomized experiment](https://www.researchgate.net/publication/246438955_Improving_the_management_of_rental_properties_with_drug_problems_A_randomized_experiment). Crime prevention studies, 9, 161-185.
