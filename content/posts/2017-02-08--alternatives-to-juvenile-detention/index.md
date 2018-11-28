@@ -6,9 +6,9 @@ cover: /assets/research.png
 path: "/posts/alternatives-to-juvenile-detention/"
 category: "Research"
 tags:
-  - "Juvenile Justice"
-  - "Recidivism"
-subTitle: "Participation in the program was offered in lieu of a probation violation hearing and was facilitated by Probation Officers that were experienced in cognitive behavior intervention programs."
+  - "juveniles"
+  - "recidivism"
+subTitle: "Community-based juvenile programs focused on skill-building may be cost-effective alternatives to detention."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
