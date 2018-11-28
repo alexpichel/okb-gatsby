@@ -29,9 +29,9 @@ To implement the plan, the Portland Police Bureau created a special police unit 
 
 With respect to the DVRU, the study was designed to answer the following questions:
 
-    Do DVRU interventions increase prosecutions of misdemeanor domestic violence cases?
-    Do DVRU interventions increase victim empowerment?
-    Do DVRU interventions lead to reductions in domestic violence?
+1. Do DVRU interventions increase prosecutions of misdemeanor domestic violence cases?
+2. Do DVRU interventions increase victim empowerment?
+3. Do DVRU interventions lead to reductions in domestic violence?
 
 The study also permitted the testing of the following research hypothesis: Arrest followed by prosecution, conviction, and sentence for the offender and support services for the victim reduces the recurrence of domestic violence more effectively than arrest alone.
 
