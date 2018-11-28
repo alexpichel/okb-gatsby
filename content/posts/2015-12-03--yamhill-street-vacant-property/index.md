@@ -6,9 +6,10 @@ cover: /assets/policing.png
 path: "/posts/yamhill-street-vacant-property/"
 category: "Policing"
 tags:
-  - "Abandoned Properties"
-  - "Homeless"
-  - "Trespass"
+  - "abandoned property"
+  - "chronic nuisance"
+  - "quality of life"
+  - "transients"
 subTitle: "In 2014, the Neighborhood Enforcement Team (NET) at Gresham PD received complaints about people camping on a property at SE Yamhill St. The property was a vacant lot with a large lake and tree area that the local transient population began living on."
 ---
 
