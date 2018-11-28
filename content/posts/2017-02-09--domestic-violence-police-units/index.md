@@ -37,9 +37,11 @@ Data for the study came from electronic incident reports spanning the 18 to 30 m
 
 Researchers identified three limitations in particular.
 
-    Frequency of recidivism was limited to only three measurement benchmarks – 0, 1, or 2+. This impeded the researchers’ ability to identify any differences in the frequency rate between the two groups beyond reoffending one or more times.
-    Unlike previous studies, this study did not include victim interview, resulting in the possibility that recidivism may have occurred, but never resulted in an incident report.
-    This study was limited to the DV events in the jurisdiction of the Charlotte Police Department only, so any reoffending events outside of that jurisdiction were not counted.
+1. Frequency of recidivism was limited to only three measurement benchmarks – 0, 1, or 2+. This impeded the researchers’ ability to identify any differences in the frequency rate between the two groups beyond reoffending one or more times.
+
+2. Unlike previous studies, this study did not include victim interview, resulting in the possibility that recidivism may have occurred, but never resulted in an incident report.
+
+3. This study was limited to the DV events in the jurisdiction of the Charlotte Police Department only, so any reoffending events outside of that jurisdiction were not counted.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
@@ -51,10 +53,13 @@ Offenders whose cases went through the DV unit had a lower rate of recidivism th
 
 Utilizing a specialized DV unit shows promising results for reducing recidivism. The scope of this studied was limited to studying the effect of the DV unit as a whole, so there was a limited ability to identify the effectiveness of specific DV unit features. Four possibilities for the reduction in recidivism were identified:
 
-    Intensive investigation led to more case closures by arrest.
-    Offenders suspected of more serious crimes were routed to the DV unit; therefore increased incarceration terms could have reduced recidivism within the follow-up period.
-    Increases in victim assistance may have led to reducing target suitability. Although, a separate study showed that the DV unit did not decrease re-victimization.
-    Charging based on the evidence regardless of victim’s wishes may have increased procedural justice, i.e. perceived fairness, in the eyes of the offender.
+1. Intensive investigation led to more case closures by arrest.
+
+2. Offenders suspected of more serious crimes were routed to the DV unit; therefore increased incarceration terms could have reduced 
+
+3. Increases in victim assistance may have led to reducing target suitability. Although, a separate study showed that the DV unit did not decrease re-victimization.
+
+4.Charging based on the evidence regardless of victim’s wishes may have increased procedural justice, i.e. perceived fairness, in the eyes of the offender.
     
 #### CITATION
 
