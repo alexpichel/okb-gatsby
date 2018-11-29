@@ -13,14 +13,18 @@ subTitle: "A multi-pronged approach including on-duty fitness classes, yoga clas
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
-Problematic Behavior or Activity
+
+#### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 Rates of injury, illness, cardiac death, reduced life span, and suicide among law enforcement officers are staggering. These factors are far more likely to prematurely end officers’ lives than anything they face on patrol.
-Impact on the Community
+
+#### IMPACT ON THE COMMUNITY
 
 Citizens expect a healthy officer to arrive in their time of crisis. Many officers bear the cumulative physical and mental scars of the realities of police work. Improving officers’ mental and physical resilience contributes to improved performance and decision making on the street.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
-Program Description
+
+#### PROGRAM DESCRIPTION
 
 Bend Police Department has adopted a multi-pronged approach to improve officer resilience.
 
@@ -31,7 +35,7 @@ Bend Police Department has adopted a multi-pronged approach to improve officer r
    - Financial literacy was recognized through an officer survey as a need in the department. 90% of officers surveyed hoped for more financial training. A local financial advisor was used to deliver a four part training on budgeting, investments and retirement.
    - The department is conducting mindfulness training for officers. Guided mindfulness sessions are conducted at the end of day shifts with patrol teams. The department also hosts an annual three-day resilience immersion retreat that allows personnel to develop skills in awareness and mindfulness.
 
-Based on Research
+#### BASED ON RESEARCH
 
    [Police Suicide Report](http://www.theiacp.org/Portals/0/documents/pdfs/Suicide_Project/Officer_Suicide_Report.pdf)
 
@@ -39,17 +43,21 @@ Based on Research
 
    [Benefits of Mindfulness and Awareness](http://marc.ucla.edu/)
 
-Funding
+#### FUNDING
 
 This program has been funded through existing revenue in the department budget.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
-Program Impact
+
+#### PROGRAM IMPACT
 
 The programs are open to all department employees, about 120 people. Because the programs are in their infancy, measurable factors to assess their success are still being evaluated.
-Critical Success Factors
+
+#### CRITICAL SUCCESS FACTORS
 
 Administrative and financial support, in addition to officers being willing to try something different, are critical to these programs.
-Lessons Learned
+
+#### LESSONS LEARNED
 
 It would be worthwhile to redefine what police training is. Training officers’ minds and bodies is an essential part of them surviving their career and effectively serving our communities.
 
