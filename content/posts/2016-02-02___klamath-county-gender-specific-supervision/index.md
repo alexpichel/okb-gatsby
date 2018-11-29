@@ -15,6 +15,7 @@ subTitle: "Use of more targeted supervision strategies increased compliance rate
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 Klamath County Community Corrections has seen an increase in the number of females placed on community supervision.The department did not offer specialized supervision for females who are under community corrections supervision.
+
 With an increased use of risk and needs assessments, our officers began receiving a plethora of information about females under supervision, and we realized that we did not have the capacity to address many gender-specific issues.
 
 #### IMPACT ON THE COMMUNITY
@@ -26,11 +27,13 @@ More women are entering the criminal justice system and being placed on communit
 #### PROGRAM DESCRIPTION
 
 Klamath County Community Corrections created its first gender-specific caseload in January 2013. At that time the department started placing medium-risk and high-risk female offenders on one specific caseload. That caseload quickly grew to two and there are now three caseloads for women.
-The department contracts with the local crisis center to assist with emergency and transitional housing, to provide group and individual counseling services, and fora case manager to assist women returning to the community from jail and prison.
-The case manager helps remove barriers for females, such as transportation, clothing assistance, and other support services. The department also contracts for mentors, so that every female released from prison is assigned a mentor as part of Reach In services.
-In January 2016, Klamath County Community Corrections began using the evidence-based Moving On curriculum.The department also uses several moral reconation therapy curricula, including “Untangling Relationships” and “Parenting..
-The department provides all services related to criminogenic risk factors on-­site at the Community Corrections office. Among these services are drug and alcohol assessment and treatment, cognitive programming, mental health assessment and counseling, and tele­health.
+
+The department contracts with the local crisis center to assist with emergency and transitional housing, to provide group and individual counseling services, and fora case manager to assist women returning to the community from jail and prison. The case manager helps remove barriers for females, such as transportation, clothing assistance, and other support services. The department also contracts for mentors, so that every female released from prison is assigned a mentor as part of Reach In services.
+
+In January 2016, Klamath County Community Corrections began using the evidence-based Moving On curriculum. The department also uses several moral reconation therapy curricula, including “Untangling Relationships” and Parenting. The department provides all services related to criminogenic risk factors on-­site at the Community Corrections office. Among these services are drug and alcohol assessment and treatment, cognitive programming, mental health assessment and counseling, and tele­health.
+
 One probation/parole officer is going through the train-the-trainer process for administering the Women’s Risk Need Assessment and two other officers have been trained to use the tool.
+
 By partnering with several community agencies and bringing everyone together in one centralized location, Klamath County Community Corrections is seeing an increase in participation, a better use of resources, and a higher overall level of compliance.
 
 #### BASED ON RESEARCH
