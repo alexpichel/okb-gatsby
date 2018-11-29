@@ -25,12 +25,20 @@ Research indicates that youth who are successful in school are much less likely 
 The Linn County Eighth Grade Transition Program has these components:
 
 1. The nine-week program involves eight consecutive weeks beginning in March and one follow-up session in September/October (after the students begin high school).
+
 2. Middle schools select students based on who faculty and staff think is at greatest risk for school failure.
+
 3. Youth are assigned a 10th- or 11th-grade mentor. The mentor needs to be someone who will be at the high school the following year when the youth begins.
+
 4. During every week of the program, the youth are transported to the high school during its lunch hour and eat lunch with their mentor.
-5. During the lunch hour, a short group session takes place. Topics include how to make friends; how to handle conflict with a teacher or another student; organization of a school notebook; how to succeed in high school; and how to get involved with groups or clubs. Participating students also learn the school fight song and take a tour of the school.
-6. One week’s activities includes a tour of the local community college or university.
-7. Every week, mentors make efforts to introduce students to administrators, coaches, and people responsible for different school clubs (such as band, choir, and drama).
+
+5. During the lunch hour, a short group session takes place. Topics include how to make friends; how to handle conflict with a teacher or another student; organization of a school notebook; how to succeed in high school; and how to get involved with groups or clubs. 
+
+6. Participating students also learn the school fight song and take a tour of the school.
+
+7. One week’s activities includes a tour of the local community college or university.
+
+8. Every week, mentors make efforts to introduce students to administrators, coaches, and people responsible for different school clubs (such as band, choir, and drama).
 
 #### BASED ON RESEARCH
 
