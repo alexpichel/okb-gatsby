@@ -8,6 +8,7 @@ tags:
   - "crime prevention"
   - "property crime"
   - "theft"
+  - "trespass"
 subTitle: "Collaboration project between construction industry and neighborhoods to reduce property crime at consturction sites."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
