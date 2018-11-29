@@ -1,13 +1,14 @@
 ---
-title: Hot Spots Policing
+title: Topic Summary - Hot Spots Policing
 date: "2016-03-30"
 layout: post
 cover: /assets/policing.png
 path: "/posts/hot-spots-policing/"
 category: "Policing"
 tags:
-  - "Crime Prevention"
-  - "Hotspot Mapping"
+  - "crime analysis"
+  - "crime prevention"
+  - "hotspot mapping"
 subTitle: "Hot spot policing typically involves the assignment of additional police patrols and/or problem-­solving activities to small areas with higher crime."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Overview
@@ -25,6 +26,7 @@ Finally, important questions remain about potential negative outcomes associated
 In summary, the available research finds that supplemental police patrols directed to narrowly defined crime hot spots result in small but statistically significant short-­term reductions in crime and calls for service (Braga, Papachristos, & Hureau, 2012). At the same time, it is widely recognized that our current knowledge base regarding hot spot policing remains severely limited (Weisburd & Telep, 2014). We know relatively little about the impact of patrol dosages, the outcomes for different activities by officers at hot spot locations (e.g., traffic stops vs. problem­-solving vs. community engagement), whether crime reductions are sustained over longer periods, or how community attitudes about law enforcement are impacted by these interventions.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") References
+
 Bowers, K. J., Johnson, S. D., Guerette, R. T., Summers, L., & Poynton, S. (2011). Spatial displacement and diffusion of benefits among geographically focused policing initiatives: a meta-analytical review. Journal of Experimental Criminology, 7(4), 347–374.
 
 Braga, A. A., Papachristos, A. V., & Hureau, D. M. (2012). The effects of hot spots policing on crime: An updated systematic review and meta-analysis. Justice Quarterly, (ahead-of-print), 1–31.

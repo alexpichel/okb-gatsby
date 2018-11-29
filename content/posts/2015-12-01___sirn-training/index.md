@@ -6,8 +6,9 @@ cover: /assets/policing.png
 path: "/posts/SIRN/"
 category: "Policing"
 tags:
-  - "Training"
-subTitle: "It teaches officers how the parole, probation, and juvenile justice systems operate and creates continued opportunities for the agencies to build rapport."
+  - "technology"
+  - "training"
+subTitle: "This training teaches officers how the parole, probation, and juvenile justice systems operate and creates continued opportunities for the agencies to build rapport."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 

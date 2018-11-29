@@ -8,8 +8,9 @@ path: "/posts/public-perceptions-use-of-force/"
 agency: "Criminal Justice Policy Research Institute, Portland State University - 2012"
 category: "Research"
 tags:
-  - "Community Relations"
-  - "Use of Force"
+  - "community relations"
+  - "Oregon"
+  - "use of force"
 subTitle: "A randomized survey study revealed a disparity between the public perception of the number of use of force events and the officially recorded data."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -54,4 +55,4 @@ Portland police data indicates that officers are using force considerably less o
 
 #### CITATION
 
-Stewart, G., Henning, K. R., & Renauer, B. (2012). Public perceptions regarding the use of force by police in Portland, Oregon.
+Stewart, G., Henning, K. R., & Renauer, B. (2012). [Public perceptions regarding the use of force by police in Portland, Oregon](https://www.pdx.edu/cjpri/sites/www.pdx.edu.cjpri/files/Use_of_Force_Final.pdf).

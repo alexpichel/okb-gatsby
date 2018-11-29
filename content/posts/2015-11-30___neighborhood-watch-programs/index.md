@@ -25,7 +25,7 @@ Neighborhood Watch is a crime prevention program that stresses education and com
 
 The mission of the Neighborhood Watch programs in Medford is to enhance neighborhood security, heighten the community’s power of observation, and to encourage mutual assistance and concerns among neighbors.
 
-## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
+## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
 #### PRIMARY RESEARCH QUESTION(S)
 
@@ -54,4 +54,4 @@ This research does not explain why neighborhood watch groups in Medford are asso
 This research shows that neighborhood watch groups are effective in reducing crime for specific offenses such as robbery, theft, burglary, vandalism, trespassing, crime damage, and shoplifting. When organizing neighborhood watch groups it is helpful to look at the number of groups per kilometer within a patrol area, to account for differences in size of patrol areas. Some beats may be larger than others, and neighborhood watch groups are more effective when there is more than one group per kilometer.
 
 #### CITATION
-Greene, S., Osterholm, J., Fan, Y., & Stone, J. A. (2014). The effect of neighborhood watch programs on neighborhood crime in Medford Oregon.
+Greene, S., Osterholm, J., Fan, Y., & Stone, J. A. (2014). [The effect of neighborhood watch programs on neighborhood crime in Medford Oregon](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/18905/Neighborhood_Watch_2014.pdf?sequence=1).

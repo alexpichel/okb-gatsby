@@ -6,9 +6,10 @@ cover: /assets/correctional.png
 path: "/posts/HAT/"
 category: "Correctional"
 tags:
-  - "Community Supervision"
-  - "Healthcare"
-subTitle: "The Health Assessment and Treatment (HAT) team is a coordinated effort between the Department of Community Justice (DCJ) and the Multnomah County Health Department aimed at improving access to health care by connecting adults involved in the criminal justice system with community based support services and providers."
+  - "healthcare"
+  - "partnerships"
+  - "supervision"
+subTitle: "The Health Assessment and Treatment (HAT) team is a coordinated effort aimed at improving access to health care by connecting adults involved in the criminal justice system with community based support services and providers."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
