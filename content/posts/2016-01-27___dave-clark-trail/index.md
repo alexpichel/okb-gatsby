@@ -7,7 +7,10 @@ agency: "Albany Police Department"
 categories:
   - "Policing"
 tags:
-  - "Crime Prevention"
+  - "chronic nuisance"
+  - "CPTED"
+  - "crime prevention"
+  - "transients"
 subTitle: "The application of focused patrol and CPTED principles, including improved lighting, aim to reduce misuse of a city trail and increase the public's perception of safety."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
