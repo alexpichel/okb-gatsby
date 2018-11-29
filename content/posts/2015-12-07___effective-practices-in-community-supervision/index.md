@@ -5,8 +5,8 @@ cover: /assets/correctional.png
 categories:
   - "Correctional"
 tags:
-  - "Community Supervision"
-  - "Training"
+  - "community supervision"
+  - "training"
 subTitle: "EPICS combines the principles of effective intervention with core correctional practices to lead to more successful outcomes."
 ---
 
