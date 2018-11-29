@@ -1,10 +1,9 @@
 ---
 title: Health Assessment and Treatment (HAT) Team
 date: "2015-12-01"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/HAT/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "healthcare"
   - "partnerships"

@@ -1,10 +1,9 @@
 ---
 title: The Effect of Police Enforcement on Roadway Safety
 date: "2015-12-09"
-layout: post
 cover: /assets/research.png
-path: "/posts/police-enforcement-roadway-safety/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Oregon"
   - "speeding"

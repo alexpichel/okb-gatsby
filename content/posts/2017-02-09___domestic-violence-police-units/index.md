@@ -1,10 +1,9 @@
 ---
 title: Domestic Violence Police Units
 date: "2017-02-09"
-layout: post
 cover: /assets/research.png
-path: "/posts/dv-police-units/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "domestic violence"
   - "family violence"
@@ -55,12 +54,12 @@ Utilizing a specialized DV unit shows promising results for reducing recidivism.
 
 1. Intensive investigation led to more case closures by arrest.
 
-2. Offenders suspected of more serious crimes were routed to the DV unit; therefore increased incarceration terms could have reduced 
+2. Offenders suspected of more serious crimes were routed to the DV unit; therefore increased incarceration terms could have reduced
 
 3. Increases in victim assistance may have led to reducing target suitability. Although, a separate study showed that the DV unit did not decrease re-victimization.
 
 4. Charging based on the evidence regardless of victim’s wishes may have increased procedural justice, i.e. perceived fairness, in the eyes of the offender.
-    
+
 #### CITATION
 
 Exum, M. L., Hartman, J. L., Friday, P. C., & Lord, V. B. (2010). [Policing domestic violence in the post-SARP era: The impact of a domestic violence police unit[(https://www.researchgate.net/publication/273585666_Policing_Domestic_Violence_in_the_Post-SARP_Era_The_Impact_of_a_Domestic_Violence_Police_Unit). Crime & Delinquency, 60(7), 999-1032.

@@ -1,10 +1,9 @@
 ---
 title: Reducing Chronic Nuisance Through Regulatory Policy
 date: "2017-02-09"
-layout: post
 cover: /assets/research.png
-path: "/posts/reducing-chronic-nuisance-through-regulatory/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "chronic nuisance"
   - "crime prevention"
@@ -75,7 +74,7 @@ The researchers note that there are five major considerations for undertaking th
 3. Project staff must be stable.
 4. Developing partnerships with academic institutions can improve the amount and level of information available to understand and solve a problem.
 5. Varied methodology and measures can better capture the impact of a program and provide more compelling evidence regarding the change the program fostered.
-    
+
 #### CITATION
 
 Bichler, G., Schmerler, K., & Enriquez, J. (2013). [Curbing nuisance motels: An evaluation of police as place regulators. Policing: An International Journal of Police Strategies & Management](https://www.researchgate.net/publication/263300813_Curbing_nuisance_motels_An_evaluation_of_police_as_place_regulators), 36(2), 437-462.

@@ -1,10 +1,9 @@
 ---
 title: Top Ten Most Wanted
 date: "2015-12-04"
-layout: post
 cover: /assets/policing.png
-path: "/posts/top-ten-most-wanted/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
 subTitle: "The Top Ten Most Wanted lists the most sought after criminals who have prolifically committed crimes affecting the Salem community."

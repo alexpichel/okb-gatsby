@@ -1,11 +1,10 @@
 ---
 title: Victim Offender Mediation
 date: "2015-11-04"
-layout: post
 cover: /assets/research.png
-path: "/posts/victim-offender-mediation/"
 agency: "University of Minnesota - 2001"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "juveniles"
   - "mediation"

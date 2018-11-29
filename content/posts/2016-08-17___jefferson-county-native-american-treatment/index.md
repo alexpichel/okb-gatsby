@@ -1,9 +1,9 @@
 ---
 title: Jefferson County Native American Treatment
 date: "2016-08-17"
-layout: post
 cover: /assets/correctional.png
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Jail"
   - "Justice Reinvestment"

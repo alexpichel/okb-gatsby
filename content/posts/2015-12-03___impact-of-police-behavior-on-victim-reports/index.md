@@ -1,10 +1,9 @@
 ---
 title: Impact of Police Behavior on Victim Reports
 date: "2015-12-03"
-layout: post
 cover: /assets/research.png
-path: "/posts/impact-of-police-behavior-victim-reports/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "community relations"
   - "domestic violence"

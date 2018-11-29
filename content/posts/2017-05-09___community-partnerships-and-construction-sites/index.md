@@ -1,10 +1,9 @@
 ---
 title: Community Partnerships and Construction Sites
 date: "2017-05-09"
-layout: post
 cover: /assets/policing.png
-path: "/posts/community-partnerships-construction/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
   - "Theft"

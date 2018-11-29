@@ -1,10 +1,9 @@
 ---
 title: Lane County Pretrial Services
 date: "2017-04-26"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/lane-pretrial-services/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Pretrial Release"
 subTitle: "All circuit court defendants are interviewed using a risk-assessment tool. Release assistance officers have judicial authority to make release decisions regarding all crimes except murder and treason."

@@ -1,10 +1,9 @@
 ---
 title: Bend Officer Resilience Program
 date: "2016-03-31"
-layout: post
 cover: /assets/policing.png
-path: "/posts/bend-officer-resilience/"
-category: "Policing"
+categories:
+   - "Policing"
 tags:
   - "training"
   - "wellness"

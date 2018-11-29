@@ -1,10 +1,9 @@
 ---
 title: Benton County Transition Program
 date: "2016-07-18"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/benton-transition-program/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "justice reinvestment"
   - "reentry"

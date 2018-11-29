@@ -1,10 +1,9 @@
 ---
 title: Public Contact and Perceptions of Police
 date: "2016-03-29"
-layout: post
 cover: /assets/research.png
-path: "/posts/public-contact-and-perceptions/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "community relations"
   - "Oregon"

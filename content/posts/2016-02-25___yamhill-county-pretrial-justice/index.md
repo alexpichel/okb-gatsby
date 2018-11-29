@@ -1,12 +1,11 @@
 ---
 title: Yamhill County Pretrial Justice Program
 date: "2016-02-25"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-dcj-logo.png
-path: "/posts/yamhill-pretrial/"
 agency: "Yamhill County Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Pretrial Release"
 subTitle: "A comprehensive pre-trial assessment providing release recommendations shows a promising trend of contributing to a reduction of FTAs and daily jail population."

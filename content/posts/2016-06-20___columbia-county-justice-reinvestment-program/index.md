@@ -1,10 +1,9 @@
 ---
 title: Columbia County Justice Reinvestment Program
 date: "2016-06-20"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/columbia-jri/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
 subTitle: "This program was developed as part of Justice Reinvestment, a statewide initiative to reduce prison use after a nearly 50 percent increase in Oregon’s prison rate from 2000 and 2010."

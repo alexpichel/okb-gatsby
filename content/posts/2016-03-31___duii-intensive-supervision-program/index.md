@@ -1,10 +1,9 @@
 ---
 title: DUII Intensive Supervision Program
 date: "2016-03-31"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/duii-intensive-supervision/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Intensive Supervision"
   - "Specialty Court"

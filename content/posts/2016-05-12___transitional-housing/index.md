@@ -1,10 +1,9 @@
 ---
 title: Transitional Housing
 date: "2016-05-12"
-layout: post
 cover: /assets/research.png
-path: "/posts/transitional-housing/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "corrections"
   - "drugs"
@@ -51,7 +50,7 @@ Oxford Houses is a Cost Effective Use of Public Funds. Substance-free transition
 Programs Should Identify Strategies for Encouraging Longer Lengths of Stay in Substance-Free Transitional Housing. Results from this study indicate that longer lengths of stay in transitional housing predict greater reductions in substance use.
 
 Substance-Free Transitional Housing Should Be Part of a Constellation of Services. WCCC supervisees have access to a variety of services during their period of supervision. Many participants in this study used the Community Corrections Center (offering residential and programmatic services) and received a variety of ancillary services from WCCC.
-    
+
 #### CITATION
 
 Worcel, S. D., Burrus, S. W., Finigan, M., Sanders, M. B., & Allen, T. L. (2009). A study of substance-free transitional housing and community corrections in Washington County, Oregon. Portland, OR: NPC Research.

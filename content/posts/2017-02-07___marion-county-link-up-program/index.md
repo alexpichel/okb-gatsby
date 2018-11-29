@@ -1,9 +1,9 @@
 ---
 title: Marion County Link Up Program
 date: "2017-02-07"
-layout: post
 cover: /assets/correctional.png
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Reentry"
 subTitle: "Link Up provides mentoring and treatment services that support successful reentry for clients with co-occurring disorders."

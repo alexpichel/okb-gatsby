@@ -1,10 +1,9 @@
 ---
 title: Bend Community Response Team
 date: "2016-03-30"
-layout: post
 cover: /assets/policing.png
-path: "/posts/bend-community-response-team/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "crisis intervention"
   - "mental illness"

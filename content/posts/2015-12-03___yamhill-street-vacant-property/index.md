@@ -1,10 +1,9 @@
 ---
 title: Yamhill Street Vacant Property
 date: "2015-12-03"
-layout: post
 cover: /assets/policing.png
-path: "/posts/yamhill-street-vacant-property/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "abandoned property"
   - "chronic nuisance"

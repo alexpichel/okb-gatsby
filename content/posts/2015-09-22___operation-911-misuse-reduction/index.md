@@ -1,12 +1,11 @@
 ---
 title: Operation 911 Misuse Reduction
 date: "2015-09-22"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
-path: "/posts/operation-911-misuse/"
 agency: "Keizer Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "chronic nuisance"
   - "dispatch"

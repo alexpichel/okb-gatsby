@@ -1,12 +1,11 @@
 ---
 title: Sex Offender Monitoring and Compliance
 date: "2016-02-04"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
-path: "/posts/sex-offender-monitoring/"
 agency: "Medford Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Sex Offenders"
 subTitle: "Building compliance checks into patrol duties decreased the percentage of noncompliant sex offenders between 2006 and 2009."

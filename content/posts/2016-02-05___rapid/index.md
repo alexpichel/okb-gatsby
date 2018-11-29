@@ -1,12 +1,11 @@
 ---
 title: Property Information Database (RAPID)
 date: "2016-02-05"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
-path: "/posts/RAPID/"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "rapid"
 subTitle: "An automated property database used by multiple agencies led to a fourfold increase of one agency's recoveries of stolen property."

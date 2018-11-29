@@ -1,9 +1,9 @@
 ---
 title: Polk County Community Corrections Transitional Housing
 date: "2016-09-29"
-layout: post
 cover: /assets/correctional.png
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Housing"
 subTitle: "Polk County Community Corrections offers 30-day transitional housing in three locations. The department office has three beds for men, mainly sex offenders."

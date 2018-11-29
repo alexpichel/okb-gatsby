@@ -3,8 +3,8 @@ title: Neighborhood Park Watch
 date: "2015-09-22"
 layout: post
 cover: /assets/policing.png
-path: "/posts/neighborhood-park-watch/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "chronic nuisance"
   - "homeless"

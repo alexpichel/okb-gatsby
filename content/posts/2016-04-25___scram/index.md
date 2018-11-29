@@ -1,10 +1,9 @@
 ---
 title: Security Camera Registration and Mapping (SCRAM)
 date: "2016-04-25"
-layout: post
 cover: /assets/policing.png
-path: "/posts/scram/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
   - "Mapping"

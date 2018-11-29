@@ -1,10 +1,9 @@
 ---
 title: Measure 57 Drug Courts
 date: "2016-03-29"
-layout: post
 cover: /assets/research.png
-path: "/posts/measure-57-drug-courts/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "drugs"
   - "Oregon"
@@ -25,10 +24,10 @@ Drug courts are designed to guide offenders who are struggling with substance ab
 
 #### PRIMARY RESEARCH QUESTION(S)
 
-The study was organized into four parts: 
-1. a process evaluation of each of the four participating sites; 
-2. an interview study designed to obtain participant perceptions of their court experiences through interviews with treatment and control group members; 
-3. an outcome evaluation based on data from administrative court records, and 
+The study was organized into four parts:
+1. a process evaluation of each of the four participating sites;
+2. an interview study designed to obtain participant perceptions of their court experiences through interviews with treatment and control group members;
+3. an outcome evaluation based on data from administrative court records, and
 4. a cost analysis that examined costs associated with the program and its outcomes.
 
 #### RESEARCH DESIGN

@@ -1,10 +1,9 @@
 ---
 title: Lake County Treatment Court
 date: "2016-07-25"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/lake-treatment-court/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

@@ -1,12 +1,11 @@
 ---
 title: Klamath County Gender Specific Supervision
 date: "2016-02-02"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
-path: "/posts/klamath-gender-specific-supervision/"
 agency: "Klamath County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Specialized Caseload"
 subTitle: "Use of more targeted supervision strategies increased compliance rates among adult female offenders."

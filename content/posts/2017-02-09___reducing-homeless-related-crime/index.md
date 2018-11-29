@@ -1,10 +1,9 @@
 ---
 title: Reducing Homeless-Related Crime
 date: "2017-02-09"
-layout: post
 cover: /assets/research.png
-path: "/posts/reducing-homeless-related-crime/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "crime prevention"
   - "transients"

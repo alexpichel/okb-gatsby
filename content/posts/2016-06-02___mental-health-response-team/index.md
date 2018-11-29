@@ -1,10 +1,9 @@
 ---
 title: Mental Health Response Team
 date: "2016-06-02"
-layout: post
 cover: /assets/policing.png
-path: "/posts/mental-health-response-team/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention (CIT)"
   - "Mental Illness"

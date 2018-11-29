@@ -1,10 +1,9 @@
 ---
 title: Crook County STTL/Downward Departure Specialized Caseload
 date: "2015-11-02"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/crook-sttl-downward-departure-caseload/"
-category: "Correctional"
+categories:
+    - "Correctional"
 tags:
   - "justice reinvestment"
   - "specialized caseload"

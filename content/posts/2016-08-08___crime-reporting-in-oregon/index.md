@@ -1,10 +1,9 @@
 ---
 title: Crime Reporting in Oregon
 date: "2016-08-08"
-layout: post
 cover: /assets/research.png
-path: "/posts/crime-reporting-oregon/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "community relations"
   - "Oregon"
@@ -14,7 +13,7 @@ subTitle: "Education and use of social media may help police agencies increase s
 
 #### COMMUNITY NEED
 
-Local news media devote extensive coverage to individual criminal events, particularly crimes that involve atypical victims and offenders or severe acts of violence. Exposure to incident-based crime reporting commonly leads the public to an inaccurate assessment of crime facts, fear that is disproportionate to actual victimization rates, and increased support for punitive sanctions with offenders. There are other aspects of criminal justice news coverage that may have greater value for citizens, including reports on crime prevention, crime trends, the underlying factors that contribute to crime, and efforts by the community and police to reduce offending. 
+Local news media devote extensive coverage to individual criminal events, particularly crimes that involve atypical victims and offenders or severe acts of violence. Exposure to incident-based crime reporting commonly leads the public to an inaccurate assessment of crime facts, fear that is disproportionate to actual victimization rates, and increased support for punitive sanctions with offenders. There are other aspects of criminal justice news coverage that may have greater value for citizens, including reports on crime prevention, crime trends, the underlying factors that contribute to crime, and efforts by the community and police to reduce offending.
 
 #### RESPONSE
 

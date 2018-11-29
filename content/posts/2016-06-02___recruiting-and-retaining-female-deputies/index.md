@@ -1,10 +1,9 @@
 ---
 title: Recruiting and Retaining Female Deputies
 date: "2016-06-02"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/recruiting-and-retaining-female-deputies/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Recruitment"
   - "Training"

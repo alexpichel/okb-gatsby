@@ -1,10 +1,9 @@
 ---
 title: START Court
 date: "2016-04-19"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/start-court/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Intensive Supervision"
   - "Specialty Court"

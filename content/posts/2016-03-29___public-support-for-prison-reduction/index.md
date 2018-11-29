@@ -1,10 +1,9 @@
 ---
 title: Public Support for Prison Reduction
 date: "2016-03-29"
-layout: post
 cover: /assets/research.png
-path: "/posts/public-support-for-prison-reduction/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "corrections"
   - "Oregon"

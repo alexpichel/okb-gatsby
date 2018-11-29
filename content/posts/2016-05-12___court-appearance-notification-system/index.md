@@ -1,10 +1,9 @@
 ---
 title: Court Appearance Notification System
 date: "2016-05-12"
-layout: post
 cover: /assets/research.png
-path: "/posts/court-appearance-notification/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "corrections"
   - "Oregon"
@@ -23,27 +22,27 @@ The Court Appearance Notification System (CANS) was established in Multnomah Cou
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
-#### PRIMARY RESEARCH QUESTION(S) 
+#### PRIMARY RESEARCH QUESTION(S)
 
 Does the use of the Court Appearance Notification System reduce the FTA rate?
 
-#### RESEARCH DESIGN 
+#### RESEARCH DESIGN
 
 A quasi-experimental research design was used that consisted of three statistically relevant randomly selected sample groups: those who successfully received calls, those who missed the calls, and a non-treatment comparison group. Researchers analyzed whether there were any significant differences between groups and then examined to see if the defendant failed to attend their scheduled hearings.
 
-#### LIMITATIONS 
+#### LIMITATIONS
 
 The researchers cite several limitations including the study’s quasi-experimental design (as opposed to a more rigorous experimental design) and that the study was based on the first six months of the program before it was given a chance to address some of it’s issues.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-#### RESEARCH FINDINGS 
+#### RESEARCH FINDINGS
 
 The process evaluation results found that only a fraction of all possible calls occurred due to a lack of available phone numbers and lack of full program implementation. This limited the full potential of the program.
 
 However, even with limited implementation, the CANS participants’ overall FTA rate was reduced by approximately 37 percent. Those defendants who successfully received notification calls exhibited a 43 to 45 percent reduction in their failure to appear rate over two comparison groups. This resulted in a net cost-avoidance to the criminal justice system of as much as $264,000 in just a half-year of operation.
 
-#### MAIN IMPLICATIONS 
+#### MAIN IMPLICATIONS
 
 Making a modest investment in a court appearance notification system results in significant benefits to the criminal justice system and individuals. Defendants more often appear in court, reducing the costs of enforcement and reducing the need to detain defendants in jail for fear of their failure to appear in court. Researchers also issued several recommendations, including: increasing the number of available phone numbers of defendants, increasing language accessibility, & placing calls on weekends.
 

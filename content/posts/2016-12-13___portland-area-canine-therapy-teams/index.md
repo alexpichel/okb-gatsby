@@ -1,9 +1,9 @@
 ---
 title: Portland Area Canine Therapy Teams
 date: "2016-12-13"
-layout: post
 cover: /assets/correctional.png
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Specialty Courts"
 subTitle: "The animals are career-changed and retired guide dogs that have been bred for their calm temperament."

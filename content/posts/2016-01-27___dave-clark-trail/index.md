@@ -1,12 +1,11 @@
 ---
 title: Dave Clark Trail
 date: "2016-01-27"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/albany-pd-logo.png
-path: "/posts/dave-clark-trail/"
 agency: "Albany Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crime Prevention"
 subTitle: "The application of focused patrol and CPTED principles, including improved lighting, aim to reduce misuse of a city trail and increase the public's perception of safety."

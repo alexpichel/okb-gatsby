@@ -1,10 +1,9 @@
 ---
 title: Polk County Transition Services Specialist
 date: "2016-01-27"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/polk-transition-services/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
 subTitle: "The Transition Services Specialist acts as a service broker for medium- and high-risk felony offenders supervised by Polk County Community Corrections."

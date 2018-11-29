@@ -1,10 +1,9 @@
 ---
 title: Reducing Fear of Crime
 date: "2016-03-30"
-layout: post
 cover: /assets/research.png
-path: "/posts/reducing-fear-of-crime/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "community relations"
   - "Oregon"

@@ -1,10 +1,9 @@
 ---
 title: Beaverton Mountain Bike Team
 date: "2017-12-17"
-layout: post
 cover: /assets/policing.png
-path: "/posts/mountain-bike-team/"
-category: "Policing"
+categories:
+  - Policing
 tags:
   - "Homeless"
   - "Theft"

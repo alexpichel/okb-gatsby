@@ -1,10 +1,9 @@
 ---
 title: Curry County Thinking for a Change
 date: "2016-07-20"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/curry-thinking-for-a-change/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
 subTitle: "The Curry County Thinking for a Change Program revolves around the cognitive behavioral curriculum Thinking for a Change."

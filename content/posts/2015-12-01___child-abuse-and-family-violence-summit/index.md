@@ -1,12 +1,11 @@
 ---
 title: Child Abuse and Family Violence Summit
 date: "2015-12-01"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/clackamas-sheriff-logo.png
-path: "/posts/child-abuse-family-violence-summit/"
 agency: "Clackamas County Sheriff's Office"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "domestic violence"
   - "family violence"

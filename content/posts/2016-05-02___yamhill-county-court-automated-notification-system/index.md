@@ -1,10 +1,9 @@
 ---
 title: Yamhill County Court-Automated Notification System
 date: "2016-05-02"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/yamhill-court-notification/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Pretrial Release"
 subTitle: "Yamhill County instituted an automated court-notification system in 2015."

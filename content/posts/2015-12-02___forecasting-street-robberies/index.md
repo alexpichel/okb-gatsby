@@ -1,10 +1,9 @@
 ---
 title: Forecasting Street Robberies
 date: "2015-12-02"
-layout: post
 cover: /assets/research.png
-path: "/posts/forecasting-street-robberies/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "crime analysis"
   - "mapping"

@@ -1,12 +1,11 @@
 ---
 title: Central Precinct Entertainment Zone
 date: "2015-11-04"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
-path: "/posts/central-precinct-entertainment-zone/"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "assault"
   - "chronic nuisance"

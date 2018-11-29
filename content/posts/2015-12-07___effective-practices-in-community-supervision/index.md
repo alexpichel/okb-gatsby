@@ -1,10 +1,9 @@
 ---
 title: Effective Practices in Community Supervision (EPICS)
 date: "2015-12-07"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/EPICS/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Community Supervision"
   - "Training"

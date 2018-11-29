@@ -1,11 +1,11 @@
 ---
 title: Clackamas County Transition Center
 date: "2015-11-20"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/clackamas-county-logo.svg
 agency: "Clackamas County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "justice reinvestment"
   - "mental illness"

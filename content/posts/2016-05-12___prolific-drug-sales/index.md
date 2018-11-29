@@ -1,10 +1,9 @@
 ---
 title: Prolific Drug Sales
 date: "2016-05-12"
-layout: post
 cover: /assets/policing.png
-path: "/posts/prolific-drug-sales/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Drugs"
 subTitle: "The Keizer Police Community Response Unit completed a narcotics investigation on the residence; as a result, a search warrant was served and subjects were subsequently arrested."

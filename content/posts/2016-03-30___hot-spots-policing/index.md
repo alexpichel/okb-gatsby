@@ -1,10 +1,9 @@
 ---
 title: Topic Summary - Hot Spots Policing
 date: "2016-03-30"
-layout: post
 cover: /assets/policing.png
-path: "/posts/hot-spots-policing/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "crime analysis"
   - "crime prevention"

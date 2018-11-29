@@ -1,10 +1,9 @@
 ---
 title: Josephine County Secure Treatment
 date: "2016-04-08"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/josephine-secure-treatment/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Jail"

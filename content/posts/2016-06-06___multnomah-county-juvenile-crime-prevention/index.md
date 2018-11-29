@@ -1,10 +1,9 @@
 ---
 title: Multnomah County Juvenile Crime Prevention
 date: "2016-06-06"
-layout: post
 cover: /assets/research.png
-path: "/posts/multnomah-juvenile-crime-prevention/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "crime prevention"
   - "juveniles"

@@ -1,9 +1,9 @@
 ---
 title: Mobile Crisis Response Team
 date: "2017-02-07"
-layout: post
 cover: /assets/policing.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Crisis Intervention (CIT)"
 subTitle: "The teams consist of one mental health professional riding in the car with a deputy or officer. They take crisis calls from two dispatch centers throughout Marion County as they arise."

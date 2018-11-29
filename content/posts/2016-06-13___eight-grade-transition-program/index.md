@@ -1,10 +1,9 @@
 ---
 title: Eight-Grade Transition Program
 date: "2016-06-13"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/eight-grade-transition/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Juvenile Justice"
 subTitle: "Research on transitions from middle school/junior high to high school show that this period can be a time of high risk for youth."

@@ -1,10 +1,9 @@
 ---
 title: Institutionalizing Community Policing
 date: "2015-12-01"
-layout: post
 cover: /assets/research.png
-path: "/posts/institutionalizing-community-policing/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "community policing"
   - "Oregon"

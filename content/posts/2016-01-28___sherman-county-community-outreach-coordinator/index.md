@@ -1,10 +1,9 @@
 ---
 title: Sherman County Community Outreach Coordinator
 date: "2016-01-28"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/sherman-community-outreach/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
 subTitle: "Sherman County created the position of community outreach coordinator to provide services to offenders and other persons who are assessed as being at high risk of committing crimes."

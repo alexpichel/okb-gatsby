@@ -1,10 +1,9 @@
 ---
 title: Evidence-Based Decision Making
 date: "2016-11-21"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/evidence-based-decision-making/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Pre-Sentence Assessment"

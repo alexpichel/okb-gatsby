@@ -1,10 +1,9 @@
 ---
 title: Transgender Booking Policy
 date: "2015-12-01"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/transgender-booking-policy/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "jail"
   - "policy"

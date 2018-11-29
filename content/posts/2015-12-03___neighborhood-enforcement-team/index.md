@@ -1,10 +1,9 @@
 ---
 title: Neighborhood Enforcement Team
 date: "2015-12-03"
-layout: post
 cover: /assets/policing.png
-path: "/posts/neighborhood-enforcement-team/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "abandoned property"
   - "chronic nuisance"

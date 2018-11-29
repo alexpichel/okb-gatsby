@@ -1,12 +1,11 @@
 ---
 title: Harney County Reentry Court
 date: "2015-11-20"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/harney-cc-logo.png
-path: "/posts/harney-reentry/"
 agency: "Harney County Community Corrections"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "justice reinvestment"
   - "reentry"

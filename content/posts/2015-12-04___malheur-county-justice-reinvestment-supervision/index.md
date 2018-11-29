@@ -1,10 +1,9 @@
 ---
 title: Malheur County Justice Reinvestment Supervision
 date: "2015-12-04"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/malheur-jr-supervision/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Intensive Supervision"

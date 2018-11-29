@@ -1,12 +1,11 @@
 ---
 title: Functional Family Probation (FFP)
 date: "2016-01-28"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
-path: "/posts/ffp/"
 agency: "Multnomah County Department of Community Justice"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Specialized Caseload"
 subTitle: "An integrative supervision and case management model is used to engage, motivate, assess, and work successfully with high-risk youth and their families."

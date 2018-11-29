@@ -1,10 +1,9 @@
 ---
 title: Lincoln County Transition and Programming Services
 date: "2016-07-25"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/lincoln-transition-services/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

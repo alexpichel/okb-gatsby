@@ -1,10 +1,9 @@
 ---
 title: Klamath County Victim and Family Justice Program
 date: "2016-06-20"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/klamath-victim-and-family-justice/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Community Supervision"
   - "Victims"

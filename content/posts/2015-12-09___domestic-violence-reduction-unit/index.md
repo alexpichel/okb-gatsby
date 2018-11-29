@@ -1,10 +1,9 @@
 ---
 title: Domestic Violence Reduction Unit
 date: "2015-12-09"
-layout: post
 cover: /assets/research.png
-path: "/posts/domestic-violence-reduction-unit/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "community policing"
   - "domestic violence"

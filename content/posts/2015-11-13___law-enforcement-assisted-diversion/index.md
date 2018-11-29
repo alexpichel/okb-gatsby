@@ -1,12 +1,11 @@
 ---
 title: Law Enforcement Assisted Diversion
 date: "2015-11-13"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/dallas-pd-logo.png
-path: "/posts/law-enforcement-assisted-diversion/"
 agency: "Dallas Police Department"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "mental illness"
 subTitle: "A pilot program within the Dallas municipal criminal justice system to divert some persons suffering from mental health issues from the criminal court system and into treatment intake."

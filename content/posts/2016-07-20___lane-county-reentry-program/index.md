@@ -1,10 +1,9 @@
 ---
 title: Lance County Reentry Program
 date: "2016-07-20"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/lance-county-reentry/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Reentry"

@@ -1,10 +1,9 @@
 ---
 title: Impact of Anti-Racial Profiling Training
 date: "2015-12-01"
-layout: post
 cover: /assets/research.png
-path: "/posts/impact-anti-racial-profiling-training/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Oregon"
   - "race"

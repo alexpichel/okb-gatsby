@@ -1,10 +1,9 @@
 ---
 title: Student Opportunity for Achieving Results (SOAR)
 date: "2016-04-13"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/soar/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Reentry"
 subTitle: "SOAR is an intensive, collaborative 12-week cognitive-based treatment and employment program designed for drug-addicted offenders who are returning to the community from incarceration and have high criminogenic needs."

@@ -1,11 +1,11 @@
 ---
 title: Adult Sex Offender Program
 date: "2015-11-18"
-layout: post
 cover: /assets/correctional.png
 logo: /assets/agency/linn-logo.png
 agency: "Linn County Community Corrections"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "sex offenders"
   - "supervision"

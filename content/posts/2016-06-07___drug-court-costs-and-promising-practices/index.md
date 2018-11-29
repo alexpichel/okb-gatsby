@@ -1,10 +1,9 @@
 ---
 title: Drug Court Costs and Promising Practices
 date: "2016-06-07"
-layout: post
 cover: /assets/research.png
-path: "/posts/drug-court-costs/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "specialty courts"
   - "Oregon"
@@ -14,7 +13,7 @@ subTitle: "Oregon drug court programs show consistent decreases in recidivism an
 
 #### COMMUNITY NEED
 
-The economic and other societal consequences of harmful substance use are well documented. Untreated substance-use disorders generate costs to the individual, health systems, and taxpayers. The link between substance use and criminal behavior is well researched and the fiscal impact on the criminal justice system is profound. In Oregon (and in many other states), the costs of drug arrests have put a financial burden on the state’s trial courts. One of the efforts to address these issues has been through drug court programs. Drug courts are a proven and effective way to increase substance abuse treatment retention rates; and drug courts have been shown to be effective in reducing recidivism. However, drug court programs can require a large monetary investment. 
+The economic and other societal consequences of harmful substance use are well documented. Untreated substance-use disorders generate costs to the individual, health systems, and taxpayers. The link between substance use and criminal behavior is well researched and the fiscal impact on the criminal justice system is profound. In Oregon (and in many other states), the costs of drug arrests have put a financial burden on the state’s trial courts. One of the efforts to address these issues has been through drug court programs. Drug courts are a proven and effective way to increase substance abuse treatment retention rates; and drug courts have been shown to be effective in reducing recidivism. However, drug court programs can require a large monetary investment.
 
 #### RESPONSE
 

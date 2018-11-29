@@ -1,12 +1,11 @@
 ---
 title: Distressed Property Strategy
 date: "2016-03-23"
-layout: post
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
-path: "/posts/distressed-property-strategy/"
 agency: "Portland Police Bureau"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Abandoned Properties"
 subTitle: "A collaborative, systematic approach to addressing distressed properties produced a reduction in a number of call types in the area surrounding these properties."

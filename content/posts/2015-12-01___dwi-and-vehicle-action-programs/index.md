@@ -1,10 +1,9 @@
 ---
 title: DWI and Vehicle Action Programs
 date: "2015-12-01"
-layout: post
 cover: /assets/research.png
-path: "/posts/dwi-vehicle-action/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "DUII"
   - "Oregon"
@@ -24,7 +23,7 @@ In the past 10 years, more and more states have passed vehicle action programs, 
 
 #### PRIMARY RESEARCH QUESTION(S)
 
-1. Are the studied vehicle action programs effective? 
+1. Are the studied vehicle action programs effective?
 2. After the vehicle action law is implemented, are there reductions in DWS or DUI offenses?
 
 #### RESEARCH DESIGN

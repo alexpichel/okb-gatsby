@@ -1,10 +1,9 @@
 ---
 title: Coos County Downward Departure Specialized Caseload
 date: "2016-07-20"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/coos-downward-departure-caseload/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Justice Reinvestment"
   - "Specialized Caseload"

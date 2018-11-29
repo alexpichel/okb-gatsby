@@ -1,10 +1,9 @@
 ---
 title: Do Oregonians Know About the Crime Drop
 date: "2016-03-29"
-layout: post
 cover: /assets/research.png
-path: "/posts/oregonias-crime-drop/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "community relations"
   - "Oregon"

@@ -1,10 +1,9 @@
 ---
 title: Marion County Jail Reentry Program
 date: "2016-12-12"
-layout: post
 cover: /assets/correctional.png
-path: "/posts/marion-jail-reentry/"
-category: "Correctional"
+categories:
+  - "Correctional"
 tags:
   - "Reentry"
 subTitle: "The Jail Reentry Program involves 90 days of treatment delivered by multiple agencies to successfully prepare Marion County Transition Center inmates to transition when they return to the community."

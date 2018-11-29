@@ -1,10 +1,9 @@
 ---
 title: Police Use of Force
 date: "2015-12-02"
-layout: post
 cover: /assets/research.png
-path: "/posts/police-use-of-force/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "Oregon"
   - "policy"

@@ -1,10 +1,9 @@
 ---
 title: Responding to Mental Health Crisis Calls
 date: "2016-06-06"
-layout: post
 cover: /assets/research.png
-path: "/posts/responding-mental-health-calls/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "mental illness"
   - "Oregon"

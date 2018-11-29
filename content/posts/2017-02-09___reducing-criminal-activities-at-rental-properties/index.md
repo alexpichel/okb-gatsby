@@ -1,10 +1,9 @@
 ---
 title: Reducing Criminal Activities at Rental Properties
 date: "2017-02-09"
-layout: post
 cover: /assets/research.png
-path: "/posts/reducing-criminal-activities-at-rental/"
-category: "Research"
+categories:
+  - "Research"
 tags:
   - "chronic nuisance"
   - "crime prevention"

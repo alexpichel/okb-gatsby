@@ -1,9 +1,9 @@
 ---
 title: Bike Theft Reduction
 date: "2016-11-08"
-layout: post
 cover: /assets/policing.png
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "chronic nuisance"
   - "crime prevention"

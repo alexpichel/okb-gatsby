@@ -1,10 +1,9 @@
 ---
 title: Trespass Letter of Consent
 date: "2015-12-04"
-layout: post
 cover: /assets/policing.png
-path: "/posts/trespass-letter-of-consent/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Homeless"
   - "Trespass"

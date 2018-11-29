@@ -1,10 +1,9 @@
 ---
 title: Green Hornet Wilderness Law Enforcement Services and Search and Rescue Team
 date: "2016-11-08"
-layout: post
 cover: /assets/policing.png
-path: "/posts/green-hornet/"
-category: "Policing"
+categories:
+  - "Policing"
 tags:
   - "Training"
 subTitle: "The Green Hornet Wilderness Law Enforcement Services are a search team that can be deployed quickly in order to enhance law enforcement’s ability to detect and apprehend suspects and missing persons in wilderness areas or locations where there is no road access."
