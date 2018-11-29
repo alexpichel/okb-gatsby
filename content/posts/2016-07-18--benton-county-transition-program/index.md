@@ -8,7 +8,7 @@ category: "Correctional"
 tags:
   - "justice reinvestment"
   - "reentry"
-subTitle: "The Benton County Transition Program provides reach-ins and short-term financial assistance to individuals soon to be released from incarceration into Benton County to help ensure a smooth transition from custody to the community.
+subTitle: "The Benton County Transition Program provides reach-ins and short-term financial assistance to individuals soon to be released from incarceration into Benton County to help ensure a smooth transition from custody to the community."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
