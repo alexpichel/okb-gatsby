@@ -9,7 +9,8 @@ categories:
 tags:
   - "crime prevention"
   - "property crime"
-  - "Theft"
+  - "theft"
+  - "trespass"
 subTitle: "A specialized investigative unit aims to reduce commercial crime and increase livability for local merchants and businesses."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
