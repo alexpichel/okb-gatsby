@@ -7,7 +7,7 @@ agency: "Multnomah County Department of Community Justice"
 categories:
   - "Correctional"
 tags:
-  - "Specialized Caseload"
+  - "specialized caseload"
 subTitle: "An integrative supervision and case management model is used to engage, motivate, assess, and work successfully with high-risk youth and their families."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
