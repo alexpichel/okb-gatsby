@@ -7,7 +7,8 @@ agency: "Portland Police Bureau"
 categories:
   - "Policing"
 tags:
-  - "Abandoned Properties"
+  - "abandoned properties"
+  - "quality of life"
 subTitle: "A collaborative, systematic approach to addressing distressed properties produced a reduction in a number of call types in the area surrounding these properties."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
