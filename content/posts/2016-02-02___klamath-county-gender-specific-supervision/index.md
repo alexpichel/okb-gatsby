@@ -7,7 +7,7 @@ agency: "Klamath County Community Corrections"
 categories:
   - "Correctional"
 tags:
-  - "Specialized Caseload"
+  - "specialized caseload"
 subTitle: "Use of more targeted supervision strategies increased compliance rates among adult female offenders."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
