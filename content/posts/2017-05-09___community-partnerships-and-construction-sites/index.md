@@ -5,23 +5,24 @@ cover: /assets/policing.png
 categories:
   - "Policing"
 tags:
-  - "Crime Prevention"
-  - "Theft"
-  - "Trespass"
-subTitle: "City of Portland crime prevention coordinators are geographically assigned and work closely with people in their respective neighborhoods, providing crime prevention education and doing community organizing."
+  - "crime prevention"
+  - "property crime"
+  - "theft"
+subTitle: "Collaboration project between construction industry and neighborhoods to reduce property crime at consturction sites."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-Problematic Behavior or Activity
+#### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 Too often, community members are not informed of construction projects in their neighborhoods, in terms of who is in charge, the timeline for the project, and contact information. This makes residents feel disconnected from the project, does not foster a sense of ownership, and could increase the potential for illegal or suspicious activity at the site.
-Impact on the Community
+
+#### IMPACT ON THE COMMUNITY
 
 When problems arise at or near the construction site, such as suspicious activity, theft, vandalism, or other issues that may affect the neighborhood, community members do not know what to do or whether they should even get involved. The construction site can become an easy target for theft or vandalism, because neighbors are not acting as guardians. Such problems may even pose safety hazards that go unnoticed, such as unauthorized people entering the site and getting injured.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
-Program Description
+#### PROGRAM DESCRIPTION
 
 City of Portland crime prevention coordinators are geographically assigned and work closely with people in their respective neighborhoods, providing crime prevention education and doing community organizing. The Construction Industry Crime Prevention Program (CICP) works with contractors on crime prevention and property recovery efforts. Both programs work in partnership with law enforcement. The third key partner in this effort is the community.
 
@@ -38,27 +39,29 @@ Contractors participating in the CICP put up signs around the construction site 
 
 The next step is to get the message out to neighbors by way of flyers, the neighborhood association website, Nextdoor.com, and other means to inform and involve residents and businesses. In some cases, the contractor can have staff help distribute flyers in the neighborhood as a light-duty assignment.
 
-The following activities can also help get community members involved:
+If the site is near a school, the following activities can also help get community members involved:
 
-        If the site is near a school
-            Partner with the school to send a message to parents.
-            Consider scheduling a show-and-tell day for kids to see equipment. (This may require volunteers from the community.)
-            Consider providing jobsite tours.
-            Organize a school event when construction workers can talk with kids.
-            Develop special instructions regarding construction trucks for crosswalk workers.
-        Plan an open house for the neighborhood.
+* Partner with the school to send a message to parents.
+* Consider scheduling a show-and-tell day for kids to see equipment. (This may require volunteers from the community.)
+* Consider providing jobsite tours.
+* Organize a school event when construction workers can talk with kids.
+*  Develop special instructions regarding construction trucks for crosswalk workers.
+* Plan an open house for the neighborhood.
 
-Funding
+#### FUNDING
 
 This program does not need additional funding if existing resources are efficiently involved. For instance, if a crime prevention program, a law enforcement neighborhood team, or even an organized community group like the neighborhood association participates, more financial support may be unnecessary. For activities that may require funding, it is worth seeking community grants geared toward crime prevention efforts. The contractor or project manager may also be motivated to sponsor a community event, particularly when those parties weigh the risk of losing expensive equipment and tools, given that involving community members as guardians can help prevent theft.
+
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
-Program Impact
+
+#### PROGRAM IMPACT
 
 This collaborative partnership helps the neighborhood and the construction industry.
 
-Critical Success Factors
+#### CRITICAL SUCCESS FACTORS
 
 Collaboration in the early stages of the project helps develop a strategic timeline.
-Lessons Learned
+
+#### LESSONS LEARNED
 
 Once the plan is under way and outreach has been done, a community meeting may be helpful, to bring neighbors together to discuss any issues and to provide crime prevention education.
