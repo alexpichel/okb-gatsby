@@ -12,7 +12,7 @@ subTitle: "EPICS combines the principles of effective intervention with core cor
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-#### PROBLEMATICE BEHAVIOR OR ACTIVITY
+#### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 The Department of Community Justice (DCJ) implemented EPICS so that probation and parole officers can more effectively apply principles of effective intervention and core correctional practices to their supervision. These guiding standards are linked to more successful offender outcomes.
 
