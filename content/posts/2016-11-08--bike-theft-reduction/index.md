@@ -5,9 +5,10 @@ layout: post
 cover: /assets/policing.png
 category: "Policing"
 tags:
-  - "Chronic Nuisance"
-  - "Crime Prevention"
-  - "Theft"
+  - "chronic nuisance"
+  - "crime prevention"
+  - "property crime"
+  - "theft"
 subTitle: "Through the support and participation of community partners, in addition to a bait bike program, bike theft was reduced."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
