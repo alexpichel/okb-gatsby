@@ -5,9 +5,9 @@ cover: /assets/correctional.png
 categories:
   - "Correctional"
 tags:
-  - "Justice Reinvestment"
-  - "Mental Illness"
-  - "Jail"
+  - "jail"
+  - "justice reinvestment"
+  - "mental illness"
 subTitle: "The Jail Diversion team works closely with community partners, law enforcement agencies, courts, DHS, and Community Corrections, hospitals, acute psychiatric facilities, and the Veterans Administration to collaborate on achieving the best outcomes for those who will be released into the community."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
