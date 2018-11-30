@@ -5,8 +5,11 @@ cover: /assets/correctional.png
 categories:
   - "Correctional"
 tags:
+  - "alochol"
+  - "drugs"
   - "jail"
   - "justice reinvestment"
+  - "substance use treatment"
   - "supervision"
 subTitle: "Intervention programming for offenders was expanded to focus on intervening more effectively with repeat drug offenders through treatment and support services."
 ---
