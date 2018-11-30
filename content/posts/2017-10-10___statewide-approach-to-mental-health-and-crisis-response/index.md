@@ -5,9 +5,10 @@ cover: /assets/policing.png
 categories:
   - "Policing"
 tags:
-  - "Crisis Intervention"
-  - "Mental Illness"
-subTitle: "From January 2016 to February 2017, the Oregon Association of Chiefs of Police and the Oregon State Sheriffs Association formed a Task Force to develop a statewide policy framework that can be scaled for use by a 2-person, 20-person, or 600-person law enforcement agency."
+  - "CIT"
+  - "crisis intervention"
+  - "mental illness"
+subTitle: "A statewide policy framework for mental health and crisis response that can be scaled for use by a 2-person, 20-person, or 600-person law enforcement agency."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
@@ -25,17 +26,19 @@ Multiple studies in the U.S. have been conducted regarding mental health related
 
 From January 2016 to February 2017, the Oregon Association of Chiefs of Police and the Oregon State Sheriffs Association formed a Task Force to develop a statewide policy framework that can be scaled for use by a 2-person, 20-person, or 600-person law enforcement agency. According to the Task Force’s executive summary, “the goal of this task force was to assist law enforcement leaders to navigate these difficult topics, make good sound policy and response decisions for their communities, and to continue to engage their communities in conversation around police encounters involving persons in a mental health or behavioral crisis.” To this end, the Task Force recommended:
 
-   1. A common understanding amongst Oregon law enforcement in policy/protocol terminology
-   2. Communities and Law Enforcement agencies should have alternatives to arrest and jail, including developing community partnerships and resources.
-   3. Additional Psychiatric Crisis Centers should be created around Oregon, especially in areas where this type of service is limited.
+1. A common understanding amongst Oregon law enforcement in policy/protocol terminology
 
-These recommendations were incorporated into a policy framework made available to Oregon’s law enforcement agencies.
+2. Communities and Law Enforcement agencies should have alternatives to arrest and jail, including developing community partnerships and resources.
 
-Additionally, the Task Force developed training recommendations for basic academy, in-service, and Crisis Intervention Team (CIT) training. These recommendations include:
+3. Additional Psychiatric Crisis Centers should be created around Oregon, especially in areas where this type of service is limited.
 
-   1. Basic training should provide at least 25 hours of dedicated training regarding mental health issues and response scenarios.
-   2. Of the 84 maintenance training hours required every three years for police officers, three hours of training on addressing interactions with persons in crisis should be mandatory.
-   3. Oregon law enforcement leaders should support a standard for CIT training that includes curriculum elements defined by Oregon’s CIT Center Of Excellence (CITCOE).
+These recommendations were incorporated into a policy framework made available to Oregon’s law enforcement agencies. Additionally, the Task Force developed training recommendations for basic academy, in-service, and Crisis Intervention Team (CIT) training. These recommendations include:
+
+1. Basic training should provide at least 25 hours of dedicated training regarding mental health issues and response scenarios.
+
+2. Of the 84 maintenance training hours required every three years for police officers, three hours of training on addressing interactions with persons in crisis should be mandatory.
+
+3. Oregon law enforcement leaders should support a standard for CIT training that includes curriculum elements defined by Oregon’s CIT Center Of Excellence (CITCOE).
 
 These recommendations were proposed and approved by Oregon’s Board on Public Safety Standards and Training.
 
