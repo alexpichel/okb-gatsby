@@ -7,8 +7,8 @@ agency: "Yamhill County Department of Community Justice"
 categories:
   - "Correctional"
 tags:
-  - "Justice Reinvestment"
-  - "Pre-Sentence Assessment"
+  - "justice reinvestment"
+  - "pre-sentence assessment"
 subTitle: "A comprehensive multi-pronged pre-sentencing program successfully diverted offenders from prison, avoiding 1,082 months of prison use."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -44,19 +44,27 @@ The program is funded by dedicated state Justice Reinvestment grant funding and 
 #### PROGRAM IMPACT
 
 - Since project inception (November 2013) and as of February 2016, 49 defendants who were otherwise presumptively prison-bound have been diverted to community supervision upon review of an EDA report. Of those 49 individuals, only four have violated their conditions of probation to the extent that their original prison sentence was thereafter imposed. None of the four were connected to new criminal activity.
+
 - Approximately 50 percent of those diverted enter into a treatment court, such as Women’s Recovery Court or Enhanced Adult Drug Court.
+
 - Since project inception and as of February 2016, a total of 1,082 prison months have been avoided.
+
 - As of February 2016, the sentencing outcome for 80 percent of cases has been consistent with the recommendation from the EDA.
+
 - DCJ tracks more than 77 data elements for each defendant project participant.
 
 #### CRITICAL SUCCESS FACTORS
 
 - Participation in the EBDM initiative set the stage for effective working relationships with key players: judges, the district attorney’s office, members of the Defense Consortium, and others. Monthly policy team meetings with stakeholders and bimonthly project work groups have also allowed for ongoing development and success.
+
 - Data collection and analysis have been critical to decision making and policy development throughout the process.
+
 - Education and training of partners (on risk-and-needs assessments and effective utilization of the EDA) has also been key.
 
 #### LESSONS LEARNED
 
 - Having a third-party facilitate meetings has been useful in making policy decisions.
+
 - Collaboration among county stakeholders was critical to success.
+
 - Reaching out to learn from other counties and states was very helpful.
