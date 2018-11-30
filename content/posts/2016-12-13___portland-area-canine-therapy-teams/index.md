@@ -48,11 +48,9 @@ Speaking to a judge in court is often unfamiliar and stressful, creating anxiety
 
 Feedback from participating treatment court programs:
 
-* “You and everyone in the DoveLewis program really do care.…The B-SOBR program is tough, requires accountability and change, and restores lives—but it cannot really happen or be sustained without caring. This is why having your program present and as part of our court review is a perfect fit.”
-  Judge John Mercer, who oversees the B-SOBR program, addressing PACTT coordinator Kathy Loter
+* “You and everyone in the DoveLewis program really do care.…The B-SOBR program is tough, requires accountability and change, and restores lives—but it cannot really happen or be sustained without caring. This is why having your program present and as part of our court review is a perfect fit.” - Judge John Mercer, who oversees the B-SOBR program, addressing PACTT coordinator Kathy Loter
 
-* “The canine teams bring a welcomed sense of comfort to the drug court participants, their loved ones attending for support, and the staff in the courtroom. Even with just beginning this partnership I’ve already seen the therapy dogs assist in de-escalating a participant in a very anxious state, provide smiles to participants and their children, along with lots of excited tail wagging with the therapy dogs!”
-    Natalie Reyes, START court program coordinator
+* “The canine teams bring a welcomed sense of comfort to the drug court participants, their loved ones attending for support, and the staff in the courtroom. Even with just beginning this partnership I’ve already seen the therapy dogs assist in de-escalating a participant in a very anxious state, provide smiles to participants and their children, along with lots of excited tail wagging with the therapy dogs!” - Natalie Reyes, START court program coordinator
 
 #### CRITICAL SUCCESS FACTORS
 
