@@ -7,8 +7,10 @@ agency: "Umatilla County Community Corrections"
 categories:
   - "Correctional"
 tags:
-  - "Family Violence"
-  - "Specialized Caseload"
+  - "domestic violence"
+  - "family violence"
+  - "justice reinvestment"
+  - "specialized caseload"
 subTitle: "A multi-faceted supervision program focused on the specific needs of DV offenders aims to increase accountability for victim reparation and reduce recidivism and prison bed use."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
