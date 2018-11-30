@@ -1,13 +1,15 @@
 ---
-title: 
+title: "Deschutes County Crisis Intervention Team"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "CIT"
+  - "crisis intervention"
+  - "mental health"
+  - "training"
+subTitle: "CIT training was provided to officers and deputies around Deschutes County in order to positively enhance encounters with those in crisis"
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
