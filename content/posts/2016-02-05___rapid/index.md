@@ -7,7 +7,9 @@ agency: "Portland Police Bureau"
 categories:
   - "Policing"
 tags:
-  - "rapid"
+  - "property crime"
+  - "technology"
+  - "theft"
 subTitle: "An automated property database used by multiple agencies led to a fourfold increase of one agency's recoveries of stolen property."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
