@@ -7,9 +7,9 @@ agency: "Union County Community Corrections"
 categories:
   - "Correctional"
 tags:
-  - "Justice Reinvestment"
-  - "Pre-Sentence Assessment"
-  - "Specialized Caseload"
+  - "justice reinvestment"
+  - "specialized caseload"
+  - "supervision"
 subTitle: "Increased communication between disciplines and expansion of service and treatment options aims to reduce the number of offenders sent to state prison from Union County."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
