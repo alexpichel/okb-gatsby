@@ -7,7 +7,7 @@ categories:
 tags:
   - "justice reinvestment"
   - "supervision"
-subTitle: "The Marion County Sheriff’s Office, in partnership with the Marion County District Attorney’s Office and Bridgeway Recovery Services, constructed the SB 416 program to develop and implement evidence-based strategies to improve the supervision of probationers and reduce recidivism."
+subTitle: "A program constructed to develop and implement evidence-based strategies to improve the supervision of probationers and reduce recidivism."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
