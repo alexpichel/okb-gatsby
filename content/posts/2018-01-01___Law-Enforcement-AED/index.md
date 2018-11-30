@@ -1,13 +1,14 @@
 ---
-title: 
+title: "Law Enforcement AED Program"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "medical response"
+  - "technology"
+  - "training"
+subTitle: "All patrol officers have been trained on how to provide High Performance CPR and use an AED to save citizens suffering from a cardiac event."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
