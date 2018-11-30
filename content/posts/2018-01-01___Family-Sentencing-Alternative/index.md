@@ -1,13 +1,12 @@
 ---
-title: 
+title: "Family Sentencing Alternative Program"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Correctional"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "specialized caseload"
+subTitle: "In an effort to reduce the traumatic effects that the incarceration of a parent can have on children, other family members, and caregivers, FSAP provides wraparound treatment, mentoring, and employment services to address the drivers of criminal conduct."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
