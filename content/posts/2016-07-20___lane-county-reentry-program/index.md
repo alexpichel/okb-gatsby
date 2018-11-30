@@ -7,7 +7,7 @@ categories:
 tags:
   - "justice reinvestment"
   - "reentry"
-subTitle: "The Lane County Reentry Program is a partnership between Sponsors, Inc. (a nonprofit providing transitional housing and employment opportunities to people returning to Lane County from Oregon jails and prisons), the Oregon Department of Corrections (DOC), Lane County Parole and Probation, Lane County Sheriff’s Office, and several community-based programs."
+subTitle: "A partnership between multiple public and private agencies to provide services to offenders released in Lane County in order to reduce recidivism."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
