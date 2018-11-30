@@ -9,15 +9,16 @@ tags:
   - "chronic nuisance"
   - "homeless"
   - "quality of life"
-subTitle: "There are captains for each park and teams are trained to be the eyes and ears for the police department and report suspicious circumstances to the police."
+subTitle: "In a community partnership similar to Neighborhood Watch, teams are trained to be the eyes and ears for the police department and report suspicious circumstances to the police."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-Problematic Behavior or Activity
+#### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
 Neighborhood parks were being vandalized and destroyed by homeless people and others.
-Impact on the Community
+
+#### IMPACT ON THE COMMUNITY
 
 In addition to the financial impact of damage to the parks, the public was afraid to use the parks because the offenders were intimidating, harassing, and threatening. The public did not feel safe for themselves or their children.
 
@@ -25,25 +26,28 @@ Within six months, the number of incidents increased greatly at neighborhood par
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
-Program Description
+#### PROGRAM DESCRIPTION
 
 Park Watch operates like Neighborhood Watch. There are captains for each park and teams are trained to be the eyes and ears for the police department and report suspicious circumstances to the police. We are in the beginning stages of this program at this time.
-Based on Research
+
+#### BASED ON RESEARCH
 
 It is based on National Neighborhood Watch Programs.
-Funding
+
+#### FUNDING
 
 Costs included the staff time needed to put the program together and implement it. The community is helping to absorb the cost by sponsoring the shirts, etc., needed to advertise the program.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-Program Impact
+#### PROGRAM IMPACT
 
 This program has started to send a message to those who are coming into our parks that such behavior will not be tolerated.
 
-Critical Success Factors
+#### CRITICAL SUCCESS FACTORS
 
 Community involvement and partnership are key to this program being successful.
-Lessons Learned
+
+#### LESSONS LEARNED
 
 This appears to be a rarity in law enforcement to have a structured program like this. It’s a great buy-in for the community and for police partnerships.
