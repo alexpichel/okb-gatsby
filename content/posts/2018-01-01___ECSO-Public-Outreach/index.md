@@ -1,13 +1,13 @@
 ---
-title: 
+title: "Emergency Communications of Southern Oregon Public Outreach"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "community outreach"
+  - "dispatch"
+subTitle: "Outreach programs were utilized to educate citizens on the various ways to contact emergency service, leading to a more efficient use of the 911 and the non-emergency numbers."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
