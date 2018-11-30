@@ -1,13 +1,14 @@
 ---
-title: 
+title: "Parkrose Initiative"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "chronic nuisance"
+  - "property crime"
+  - "quality of life"
+subTitle: "A problem-oriented policing approach was used to address livability issues, including camping and businesses that contributed to crime and high call loads."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
