@@ -5,10 +5,10 @@ cover: /assets/correctional.png
 categories:
   - "Correctional"
 tags:
-  - "Intensive Supervision"
-  - "Jail"
-  - "Justice Reinvestment"
-subTitle: "In 2014, Linn County revamped its Community Intervention Program (CIP) in order to offer services targeted at the county’s problems."
+  - "jail"
+  - "justice reinvestment"
+  - "supervision"
+subTitle: "Intervention programming for offenders was expanded to focus on intervening more effectively with repeat drug offenders through treatment and support services."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
