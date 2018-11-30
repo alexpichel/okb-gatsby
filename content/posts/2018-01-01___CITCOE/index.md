@@ -3,11 +3,12 @@ title:
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "CIT"
+  - "crisis intervention"
+  - "mental illness"
+subTitle: "Crisis Intervention Team Center of Excellence (CITCOE) provides structure, support and technical assistance to Law Enforcement agencies and their local Behavioral Health agencies in the development of a local CIT program."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
