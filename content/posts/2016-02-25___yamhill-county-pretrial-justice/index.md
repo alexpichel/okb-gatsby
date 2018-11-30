@@ -7,7 +7,8 @@ agency: "Yamhill County Department of Community Justice"
 categories:
   - "Correctional"
 tags:
-  - "Pretrial Release"
+  - "justice reinvestment"
+  - "pretrial release"
 subTitle: "A comprehensive pre-trial assessment providing release recommendations shows a promising trend of contributing to a reduction of FTAs and daily jail population."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
