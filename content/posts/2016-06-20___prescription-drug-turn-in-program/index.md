@@ -79,7 +79,7 @@ As a result of the program, the Crime Prevention Program formed a partnership wi
 
 * The events were also bolstered by sharing best practices with area police agencies, providing guidance on standard operating procedures for disposal, and offering advice.
 
-Lessons Learned
+#### LESSONS LEARNED
 
 * It was difficult to get local news stations to provide advance coverage of the events because of requests for exclusivity. Exclusive story rights could not be granted for a City of Portland–sponsored event. When the DEA started holding nationwide drug turn-in days, the promotion and media coverage became easier.
 
