@@ -1,13 +1,13 @@
 ---
-title: 
+title: "LEADS and Associated Services"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Correctional"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "diversion"
+  - "justice reinvestment"
+subTitle: "In addition to a law enforcement assisted diversion program, a Resource Navigator helped individuals successfully transition back to the community."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
