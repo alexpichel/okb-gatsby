@@ -6,7 +6,7 @@ categories:
     - "Correctional"
 tags:
   - "justice reinvestment"
-subTitle: "Gilliam County funded a full-time clinician at Community Counseling Solutions (CCS) who will receive additional training and experience in working with criminal offenders."
+subTitle: "A full-time clinician was hired to work as part of a multi-agency partnership to better assess a person’s risk of reoffending and providing a more comprehensive treatment plan unique to each offender."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
