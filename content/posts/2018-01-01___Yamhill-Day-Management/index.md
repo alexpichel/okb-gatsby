@@ -1,13 +1,13 @@
 ---
-title: 
+title: "Yamhill County Day Management Center"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "supervision"
+  - "job training"
+subTitle: "The DMC was created to assist with correctional client employment and educational goals and provide an additional layer of accountability and support to probation officers by using enhanced contact standards."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
