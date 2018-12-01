@@ -1,13 +1,14 @@
 ---
-title: 
+title: "Portland Police Bureau Behavioral Health Unit"
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "CIT"
+  - "crisis intervention"
+  - "mental health"
+subTitle: "The BHU coordinates the response of law enforcement and the behavioral health system to aid people in behavioral crisis stemming from known or suspected mental illness and/or substance use."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
