@@ -1,13 +1,13 @@
 ---
-title: 
+title: "Speeds Signs on Rhododendron Drive" 
 date: "2018-01-01"
 cover: /assets/policing.png
 categories:
-  - ""
+  - "Policing"
 tags:
-  - ""
-  - ""
-subTitle: ""
+  - "technology"
+  - "traffic safety"
+subTitle: "Two radar-equipped electronic display speed signs with data collection capability were placed at the north and south ends of a crash prone roadway."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
