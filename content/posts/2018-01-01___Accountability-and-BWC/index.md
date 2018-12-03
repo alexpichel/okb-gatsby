@@ -77,4 +77,4 @@ Ariel, B., Sutherland, A., Henstock, D., Young, J., Drover, P., Sykes, J., ... &
 
 #### ADDITIONAL RESOURCES
 
-[Police Foundation's "Quantifying and Justifyinf the Cost of Body-worn Cameras](https://www.policefoundation.org/quantifying-justifying-cost-of-body-worn-cameras/)
+[Police Foundation's "Quantifying and Justifying the Cost of Body-worn Cameras](https://www.policefoundation.org/quantifying-justifying-cost-of-body-worn-cameras/)
