@@ -42,10 +42,10 @@ This paper reviewed three areas and their relationship to fitness and exercise: 
 
 This article from the National Institute of Health provides a fair amount of research to support a wellness program. Some of the points that are brought up include:
 
-•	Police have the highest risk of cardiovascular disease (CVD) of any occupation.
-•	Police experience high-levels of stress due to shift work and the potential to witness or experience violent events
-•	Police are more likely to sleep less than 6 hours in a 24-hour period.
-•	Police smoke more than employees is other work forces.
+* Police have the highest risk of cardiovascular disease (CVD) of any occupation.
+* Police experience high-levels of stress due to shift work and the potential to witness or experience violent events
+* Police are more likely to sleep less than 6 hours in a 24-hour period.
+* Police smoke more than employees is other work forces.
 
 **Citation**: Hartley, T. A., Burchfiel, C. M., Fekedulegn, D., Andrew, M. E., & Violanti, J. M. (2011). Health disparities in police officers: comparisons to the US general population. International journal of emergency mental health, 13(4), 211.
 
