@@ -19,7 +19,8 @@ const styles = theme => ({
     flexShrink: 0,
     overflow: "hidden",
     height: "80px",
-    margin: "1.2em 0 0",
+    margin: "0 0 0",
+    float: "right",
     transition: "all .5s",
     "& img": {
       height: "100%"
@@ -80,14 +81,15 @@ const styles = theme => ({
     }
   },
   category: {
-    fontSize: `${theme.main.fonts.content.size}em`,
-    fontWeight: theme.main.fonts.content.weight,
+    fontSize: `1.1em`,
+    fontWeight: `700`,
     color: theme.main.colors.content
   },
   tags: {
-    fontSize: `${theme.main.fonts.content.size}em`,
+    fontSize: `0.9em`,
     fontWeight: theme.main.fonts.content.weight,
-    color: theme.main.colors.content
+    color: theme.main.colors.content,
+    lineHeight: `0.5em`
   },
   meta: {
     fontSize: `${theme.main.fonts.meta.size}em`,
@@ -101,17 +103,23 @@ const PostHeader = props => {
 
   const tagsBlock = (
     <div className="">
-      <ul className="">
-        {tags &&
-          tags.map((tag, i) => (
-            <li className={classes.tags} key={tag}>
-              {/* <Link to={tag} className={classes.tags}> */}
-              {tags[i]}
-              {/* </Link> */}
-            </li>
-          ))}
-      </ul>
+      {tags &&
+        tags.map((tag, i) => (
+          <p className={classes.tags} key={tag}>
+            {tags[i]}
+          </p>
+        ))}
     </div>
+    // <div className="">
+    //   <ul className="">
+    //     {tags &&
+    //       tags.map((tag, i) => (
+    //         <li className={classes.tags} key={tag}>
+    //           {tags[i]}
+    //         </li>
+    //       ))}
+    //   </ul>
+    // </div>
   );
 
   // const categoryBlock = (
@@ -126,15 +134,6 @@ const PostHeader = props => {
 
   return (
     <header className={classes.header}>
-      <h1 className={classes.title}>{title}</h1>
-      <h2 className={classes.agency}>
-        <em>{agency}</em>
-      </h2>
-      <div className={classes.meta}>
-        <time dateTime={moment(date).format("MMMM YYYY")}>
-          Added {moment(date).format("MMMM YYYY")}
-        </time>
-      </div>
       <div className={classes.logo}>
         <LazyLoad height={60} overflow={true} throttle={300} once={true} offset={100}>
           <picture>
@@ -145,10 +144,20 @@ const PostHeader = props => {
         </LazyLoad>
         {/*<Img sizes={post.node.frontmatter.cover.children[0].sizes} />*/}
       </div>
+      <h1 className={classes.title}>{title}</h1>
+      <h2 className={classes.agency}>
+        <em>{agency}</em>
+      </h2>
+      <div className={classes.meta}>
+        <time dateTime={moment(date).format("MMMM YYYY")}>
+          Added {moment(date).format("MMMM YYYY")}
+        </time>
+      </div>
       <h2 className={classes.subTitle}>{subTitle}</h2>
-      <div className={classes.category}>{category}</div>
-      {/* {categoryBlock} */}
-      {tagsBlock}
+      <div className={classes.category}>
+        <p>{category}</p>
+        <p>{tagsBlock}</p>
+      </div>
     </header>
   );
 };

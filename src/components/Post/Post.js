@@ -33,7 +33,7 @@ const Post = props => {
         date={date}
       />
       <Content html={html} />
-      <PostFooter author={author} post={post} slug={slug} />
+      <PostFooter author={author} post={post} slug={slug} tags={tags} />
     </Article>
   );
 };
