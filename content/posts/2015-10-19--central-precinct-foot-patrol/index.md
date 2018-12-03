@@ -50,3 +50,6 @@ Community Policing is based on a philosophy that recognizes the interdependence 
 #### LESSONS LEARNED
 
 This is a resource-intensive endeavor that is not likely to be sustainable for long periods of time by most agencies. It requires buy-in from officers and a cultural shift from a law-enforcement emphasis to relationship-building. Officers report that the work, while rewarding, is also psychologically and emotionally demanding. It requires a significant staffing commitment.
+
+#### Submitted by
+Sgt. Jim Quackenbush, Portland Police Bureau
