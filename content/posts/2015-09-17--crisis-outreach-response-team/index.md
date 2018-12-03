@@ -12,7 +12,7 @@ tags:
 subTitle: "The Crisis Outreach Response Team (CORT) made up of one deputy, one mental health professional, and a part-time data entry position has increased referrals to services for persons suffering from mental illness, as well as reduced jail bed usage."
 ---
 
-# ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
+## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
@@ -47,3 +47,6 @@ We have two factors that have led to our success. First, we have department head
 #### LESSONS LEARNED
 
 I would start with finding the people that share your concern over the issues and build from there. Make sure to invite others into the collaboration. Look at all funding options and be creative.
+
+#### Submitted by
+Lt. Tad Larson, Marion County Sheriff's Office
