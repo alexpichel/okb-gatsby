@@ -53,3 +53,6 @@ Backing from the listed organizations, time, and an acceptance that the plan wil
 #### LESSONS LEARNED
 
 We faced challenges implementing the plan such as an acknowledgement of the problem, manpower, backing from the various community organizations, time, and an acceptance that the plan will work when done in coordination with all groups involved.
+
+#### Submitted by
+Sgt. Hank Majetich, Redmond Police Department
