@@ -81,13 +81,12 @@ const styles = theme => ({
     }
   },
   category: {
-    fontSize: `1.1em`,
+    fontSize: `${theme.main.fonts.meta.size}em`,
     fontWeight: theme.main.fonts.title.weight,
-    color: theme.main.colors.subTitle,
-    textTransform: `uppercase`
+    color: theme.main.colors.subTitle
   },
   tags: {
-    fontSize: `1em`,
+    fontSize: `${theme.main.fonts.meta.size}em`,
     fontWeight: theme.main.fonts.subTitle.weight,
     color: theme.main.colors.subTitle,
     lineHeight: `0.5em`
@@ -120,7 +119,7 @@ const PostHeader = props => {
           <picture>
             <source type="image/webp" srcSet={logo} />
             <source srcSet={logo} />
-            <img src={logo} alt="" />
+            <img src={logo} alt="logo" />
           </picture>
         </LazyLoad>
         {/*<Img sizes={post.node.frontmatter.cover.children[0].sizes} />*/}
@@ -135,9 +134,9 @@ const PostHeader = props => {
         </time>
       </div>
       <h2 className={classes.subTitle}>{subTitle}</h2>
-      <div className={classes.category}>
-        <p>{category}</p>
-        <p>{tagsBlock}</p>
+      <div>
+        <p className={classes.category}>{category}</p>
+        <p className={classes.tags}>{tagsBlock}</p>
       </div>
     </header>
   );

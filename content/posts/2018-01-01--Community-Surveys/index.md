@@ -3,12 +3,7 @@ title: "Topic Summary - Community Surveys"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/dpsst.png
-<<<<<<< HEAD:content/posts/2018-01-01--Community-Surveys/index.md
 category: "Research"
-=======
-category:
-  - "research"
->>>>>>> 58918fb9df5731514a8c2ad85c3487ae0ee8066f:content/posts/2018-01-01___Recruitment/index.md
 tags:
   - "policy"
   - "community relations"
