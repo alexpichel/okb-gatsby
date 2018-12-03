@@ -47,3 +47,6 @@ We have two factors that have led to our success. First, we have department head
 #### LESSONS LEARNED
 
 I would start with finding the people that share your concern over the issues and build from there. Make sure to invite others into the collaboration. Look at all funding options and be creative.
+
+#### Submitted by
+Lt. Tad Larson, Marion County Sheriff's Office
