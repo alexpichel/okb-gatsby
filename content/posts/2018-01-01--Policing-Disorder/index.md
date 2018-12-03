@@ -1,16 +1,9 @@
 ---
 title: "Policing Disorder"
 date: "2018-01-01"
-<<<<<<< HEAD:content/posts/2018-01-01--Policing-Disorder/index.md
 cover: /assets/research.png
 logo: /assets/agency/dpsst.png
 category: "Research"
-=======
-cover: /assets/policing.png
-logo: /assets/agency/
-category:
-  - "research"
->>>>>>> 58918fb9df5731514a8c2ad85c3487ae0ee8066f:content/posts/2018-01-01___Community-Surveys/index.md
 tags:
   - "community relations"
   - "topic summary"
