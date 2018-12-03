@@ -7,7 +7,6 @@ category: "Research"
 tags:
   - "policy"
   - "staffing"
-  - "topic summary"
 subTitle: ""
 ---
 
@@ -79,7 +78,7 @@ This is a summary of a National Summit on Police Recruitment and Retention in th
 
 [IACP Recruitment Resources](http://www.theiacp.org/Recruitment)
 
-[Recruiting and Retaining Female Deputies, Oregon Knowledge Bank Program, Jackson County Sheriff’s Office]
+[Recruiting and Retaining Female Deputies, Oregon Knowledge Bank Program, Jackson County Sheriff’s Office](/recruiting-and-retaining-female-deputies)
 
 [Website Recruiting Example](http://discoverpolicing.org/)
 
