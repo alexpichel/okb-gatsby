@@ -47,10 +47,8 @@ This article demonstrates that the lower the officer perceives community satisfa
 
 [Criminal Justice Police Research institute](https://www.pdx.edu/cjpri/cjpri-home)
 
-[IACP Guide for Public Safety Surveys for Smaller Law Enforcement Agencies](http://www.theiacp.org/International-and-Community-Surveys}
+[IACP Guide for Public Safety Surveys for Smaller Law Enforcement Agencies](http://www.theiacp.org/International-and-Community-Surveys)
 
-[Parkrose Initiative]
-
-[Public Contact with and Perceptions Regarding Police in Portland Oregon](https://www.pdx.edu/cjpri/sites/www.pdx.edu.cjpri/files/PSU_PPB Contact Survey Results_2013_full report.pdf)
+[Public Contact With and Perceptions Regarding Police in Portland Oregon](https://www.pdx.edu/cjpri/sites/www.pdx.edu.cjpri/files/PSU_PPB Contact Survey Results_2013_full report.pdf)
 
 
