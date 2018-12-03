@@ -71,12 +71,12 @@ This is a summary of a National Summit on Police Recruitment and Retention in th
     a stay with the department.
   - Identify internal reasons that negatively affect retention and may also work against successful recruitment.
   
-  Agency:
-- Recruitment videos that highlight certain aspects of department culture that may appeal to the population an agency is aiming to
+- Agency:
+  - Recruitment videos that highlight certain aspects of department culture that may appeal to the population an agency is aiming to
   attract.
-- Marketing strategies that highlight values that are important to both the department and the candidates.
-- Administering exams used in the application process monthly
-- Offering recruitment bonuses to employees, establishing a department recruiting team
+  - Marketing strategies that highlight values that are important to both the department and the candidates.
+  - Administering exams used in the application process monthly
+  - Offering recruitment bonuses to employees, establishing a department recruiting team
 
 **Citation**: Wilson, J. M., & Grammich, C. A. (2009). Police recruitment and retention in the Contemporary Urban environment. (In Conference Proceedings). Santa Monica, CA: RAND Corporation.
 
