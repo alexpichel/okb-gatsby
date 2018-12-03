@@ -82,13 +82,14 @@ const styles = theme => ({
   },
   category: {
     fontSize: `1.1em`,
-    fontWeight: `700`,
-    color: theme.main.colors.content
+    fontWeight: theme.main.fonts.title.weight,
+    color: theme.main.colors.subTitle,
+    textTransform: `uppercase`
   },
   tags: {
-    fontSize: `0.9em`,
-    fontWeight: theme.main.fonts.content.weight,
-    color: theme.main.colors.content,
+    fontSize: `1em`,
+    fontWeight: theme.main.fonts.subTitle.weight,
+    color: theme.main.colors.subTitle,
     lineHeight: `0.5em`
   },
   meta: {
@@ -110,27 +111,7 @@ const PostHeader = props => {
           </p>
         ))}
     </div>
-    // <div className="">
-    //   <ul className="">
-    //     {tags &&
-    //       tags.map((tag, i) => (
-    //         <li className={classes.tags} key={tag}>
-    //           {tags[i]}
-    //         </li>
-    //       ))}
-    //   </ul>
-    // </div>
   );
-
-  // const categoryBlock = (
-  //   <div>
-  //     <ul>
-  //       <li key={category}>
-  //         <Link to={category}>{category}</Link>
-  //       </li>
-  //     </ul>
-  //   </div>
-  // );
 
   return (
     <header className={classes.header}>
