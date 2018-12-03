@@ -119,7 +119,7 @@ const PostHeader = props => {
           <picture>
             <source type="image/webp" srcSet={logo} />
             <source srcSet={logo} />
-            <img src={logo} alt="logo" />
+            <img src={logo} alt="" />
           </picture>
         </LazyLoad>
         {/*<Img sizes={post.node.frontmatter.cover.children[0].sizes} />*/}
