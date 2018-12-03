@@ -1,5 +1,5 @@
 ---
-title: Community Surveys
+title: "Topic Summary - Community Surveys"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/dpsst.png
