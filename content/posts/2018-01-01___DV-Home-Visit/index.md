@@ -8,6 +8,7 @@ category:
 tags:
   - "family violence"
   - "domestic violence"
+  - "victims"
 subTitle: "Home visits by teams composed of a police officer and a victim advocate were shown to empower victims to engage in support services and notify police sooner in subsequent DV incidents."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
