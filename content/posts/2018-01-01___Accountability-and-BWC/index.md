@@ -4,10 +4,10 @@ date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/
 category:
-  - ""
+  - "Research"
 tags:
-  - ""
-  - ""
+  - "technology"
+  - "topic summary"
 subTitle: ""
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
