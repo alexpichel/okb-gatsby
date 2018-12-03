@@ -1,16 +1,9 @@
 ---
 title: "Topic Summary - Recruitment for Public Safety Agencies"
 date: "2018-01-01"
-<<<<<<< HEAD:content/posts/2018-01-01--Recruitment/index.md
 cover: /assets/research.png
 logo: /assets/agency/dpsst.png
 category: "Research"
-=======
-cover: /assets/policing.png
-logo: /assets/agency/
-category:
-  - "research"
->>>>>>> 58918fb9df5731514a8c2ad85c3487ae0ee8066f:content/posts/2018-01-01___Performance-Evaulations/index.md
 tags:
   - "policy"
   - "staffing"
@@ -20,7 +13,7 @@ subTitle: ""
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-The difficulties of recruitment are a well-recognized issue in the public safety community for both police and corrections agencies. In recent years, a shortage of qualified applicants has been identified as a main difficulty. Effective recruitment strategies include a clear vision of the agency’s brand and ideal candidate, as well as community input in what they, as community members, believe is a desirable candidate. 
+The difficulties of recruitment are a well-recognized issue in the public safety community for both police and corrections agencies. In recent years, a shortage of qualified applicants has been identified as a main difficulty. Effective recruitment strategies include a clear vision of the agency’s brand and ideal candidate, as well as community input in what they, as community members, believe is a desirable candidate.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Resources
 
@@ -43,7 +36,7 @@ This report stems from a workgroup sponsored by the National Institute of Correc
   - High Schools
   - Military/Veterans
   - Social Media
-  
+
 - Consider tracking where applicants were recruited to determine effectiveness of recruitment tactics.
 
 **Citation**: Stinchcomb, J. B., McCampbell, S. W., & Layman, E. P. (2006). Future force: A guide to building the 21st century community corrections workforce. Center for Innovative Public Policies.
@@ -60,7 +53,7 @@ This is a summary of a National Summit on Police Recruitment and Retention in th
   - When visiting website, users should have no problem figuring out  if you are hiring, understand goals, standards, candidate
     requirements and selection, as well as wages and benefit packages (Recruitment Toolkit)
 
-- School-based: 
+- School-based:
   - After-school and Summer employment for students interested in police work
   - Post-high school employment as civilian employees
   - Support for college education in exchange for a commitment to the department
@@ -70,7 +63,7 @@ This is a summary of a National Summit on Police Recruitment and Retention in th
   - “Stay” interviews with current employee to paint a picture of what officers are looking for and what type of candidate would fit in
     a stay with the department.
   - Identify internal reasons that negatively affect retention and may also work against successful recruitment.
-  
+
 - Agency:
   - Recruitment videos that highlight certain aspects of department culture that may appeal to the population an agency is aiming to
   attract.
