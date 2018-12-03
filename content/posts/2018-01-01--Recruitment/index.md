@@ -78,6 +78,8 @@ This is a summary of a National Summit on Police Recruitment and Retention in th
 - Administering exams used in the application process monthly
 - Offering recruitment bonuses to employees, establishing a department recruiting team
 
+**Citation**: Wilson, J. M., & Grammich, C. A. (2009). Police recruitment and retention in the Contemporary Urban environment. (In Conference Proceedings). Santa Monica, CA: RAND Corporation.
+
 #### ONLINE RESOURCES
 
 [COPS Recruitment Toolkit](https://cops.usdoj.gov/pdf/vets-to-cops/e080921223-RecruitmentToolkit.pdf)
