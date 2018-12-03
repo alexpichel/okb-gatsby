@@ -1,26 +1,18 @@
 ---
-<<<<<<< HEAD:content/posts/2018-01-01--Accountability-and-BWC/index.md
 title: "Accountability and BWC"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/
-category: ""
-=======
-title: Topic Summary -  Wellness Programs at Public Safety Agencies
-date: "2018-01-01"
-cover: /assets/policing.png
-logo: /assets/agency/
-category:
-  - "research"
->>>>>>> 58918fb9df5731514a8c2ad85c3487ae0ee8066f:content/posts/2018-01-01___Wellness-Programs/index.md
+category: "Policing"
 tags:
   - "retention"
   - "health"
 subTitle: ""
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-It has become a very apparent to researchers that wellness and stress management are of considerable importance to the longevity of a law enforcement agency and the professionals therein. One review noted, “public safety personnel are in need of workplace health and wellness programs that are tailored to their unique organizational and occupational needs.” 
+It has become a very apparent to researchers that wellness and stress management are of considerable importance to the longevity of a law enforcement agency and the professionals therein. One review noted, “public safety personnel are in need of workplace health and wellness programs that are tailored to their unique organizational and occupational needs.”
 
 In 2014, just under 20% of officer fatalities were job-related illnesses, such as heart attacks. It would be worth noting, that the costs of an in-service heart attack has been calculated between $40,000 and $750,000. This, and cost for other related health conditions, should be included when weighing the costs and benefits of an agency wellness program.
 
@@ -32,7 +24,7 @@ Unfortunately, not many wellness programs have been rigorously evaluated, so inc
 
 [Health, Safety, Wellness Program Case Studies in Law Enforcement](https://www.valorforblue.org/Documents/Publications/Public/Health_Safety_and_Wellness_Program_Case_Studies_in_Law_Enforcement.pdf)
 
-This report includes four examples of wellness programs around the nation and some of the results. Costs will vary based on agency and the extent that a wellness program is implemented. 
+This report includes four examples of wellness programs around the nation and some of the results. Costs will vary based on agency and the extent that a wellness program is implemented.
 
 [The impact on work outcomes, cognition, and psychological well-being for police](http://d.scribd.com/docs/1u7w5067v7kem3185d6h.pdf)
 
@@ -61,7 +53,7 @@ This article from the National Institute of Health provides a fair amount of res
 
 [IACP’s Center for Officer Safety & Wellness](http://www.theiacp.org/COSW)
 
-The IACP has compiled numerous guides on wellness topics ranging from creating a fitness program to eating well on the go to mental health to officer safety. A number of topics even have attractive, quick-to-read brochures for officers and their families. 
+The IACP has compiled numerous guides on wellness topics ranging from creating a fitness program to eating well on the go to mental health to officer safety. A number of topics even have attractive, quick-to-read brochures for officers and their families.
 
 [National Institute of Corrections – Health and Wellness for Corrections Professionals](https://nicic.gov/health-and-wellness-for-corrections-professionals)
 
@@ -69,11 +61,11 @@ Like the IACP, the NIC has assembled a number of resources, including webinars a
 
 [PERF’s Guide to Occupational Health and Safety for Law Enforcement Executives](https://www.bja.gov/publications/perf_le_occhealth.pdf)
 
-For something a little more in depth, this 2010 guide from the Police Executive Research Forum provides a detailed overview of the importance of health and safety programs, as well as the nuts and bolts of what such programs should include. 
+For something a little more in depth, this 2010 guide from the Police Executive Research Forum provides a detailed overview of the importance of health and safety programs, as well as the nuts and bolts of what such programs should include.
 
 [BJA’s VALOR Officer Safety Initiative](https://www.bja.gov/programs/valor.html)
 
-Health and wellness isn’t just about exercising and eating right, it is also about stress management, officer safety, and resiliency. This site from the VALOR Initiative is a hub for a number of officer wellness programs, many promoting the mental health side of officer wellness. 
+Health and wellness isn’t just about exercising and eating right, it is also about stress management, officer safety, and resiliency. This site from the VALOR Initiative is a hub for a number of officer wellness programs, many promoting the mental health side of officer wellness.
 
 [National Alliance on Mental Illness (NAMI): Support for Law Enforcement Officers](https://www.nami.org/find-support/law-enforcement-officers)
 
