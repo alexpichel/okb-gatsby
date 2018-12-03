@@ -3,70 +3,78 @@ title: "Accountability and BWC"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/
-category: "Policing"
+category: "Research"
 tags:
-  - "retention"
-  - "health"
-subTitle: ""
+  - "technology"
+subTitle: "The use of body-worn cameras reduced citizen complaints against police in a multisite randomized controlled trial."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-It has become a very apparent to researchers that wellness and stress management are of considerable importance to the longevity of a law enforcement agency and the professionals therein. One review noted, “public safety personnel are in need of workplace health and wellness programs that are tailored to their unique organizational and occupational needs.”
+#### COMMUNITY NEED(S)
 
-In 2014, just under 20% of officer fatalities were job-related illnesses, such as heart attacks. It would be worth noting, that the costs of an in-service heart attack has been calculated between $40,000 and $750,000. This, and cost for other related health conditions, should be included when weighing the costs and benefits of an agency wellness program.
+Complaints can negatively affect police-public relations for both officers and the community. High complaint numbers can erode public trust while at the same time wear away officers’ willingness to engage with the public. Body-worn cameras (BWC) have been recently adopted across the nation as a means to improve police-public interactions and reduce complaints.
 
-Unfortunately, not many wellness programs have been rigorously evaluated, so included here are some examples of programs that have been instituted at law enforcement agencies around the nation, as well as resources that provide some helpful guidelines for starting a wellness program at your agency.
+#### RESPONSE
 
-## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Resources
+This study expanded on similar efforts made by a study in Rialto, California. For the current study, researchers partnered with seven different agencies in two countries and used a randomized controlled trial to evaluate the effects of BWC on complaints made against officers.
 
-#### ARTICLES
+## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
-[Health, Safety, Wellness Program Case Studies in Law Enforcement](https://www.valorforblue.org/Documents/Publications/Public/Health_Safety_and_Wellness_Program_Case_Studies_in_Law_Enforcement.pdf)
+#### PRIMARY RESEARCH QUESTION(S)
 
-This report includes four examples of wellness programs around the nation and some of the results. Costs will vary based on agency and the extent that a wellness program is implemented.
+1. Do BWC reduce complaints filed against officers?
+2. Whose behavior is most affect by the use of BWC - officers, suspects, or both?
 
-[The impact on work outcomes, cognition, and psychological well-being for police](http://d.scribd.com/docs/1u7w5067v7kem3185d6h.pdf)
+#### RESEARCH DESIGN
 
-This paper reviewed three areas and their relationship to fitness and exercise: non-physical work outcomes, cognition, and psychological well-being. It should be noted that most of the research was done with companies outside the public safety realm.
+Researchers invited ten police departments to participate in the 12-month study and of these, seven agreed to the experimental protocol. These seven departments covered four jurisdictions in two English-speaking countries and included 1,429,868 officer hours across 4,264 shifts. Researchers collected the number of complaints at each site for the 12-months prior to the study and the number of complaints for both the treatment and control groups over the course of the study.  Shifts were randomly assigned to be treatment or control groups on a weekly basis, with equal numbers of day and night shifts.
 
-1. Non-physical work outcomes: Participants in a fitness regime saw increased job satisfaction, lower rate of absenteeism, lower rate of turnover, and increased productivity.
+When officers were on shifts assigned to having cameras on, they were directed to have cameras on during all public interactions for the entirety of the interaction. Officers were also instructed not only to have the cameras on, but to also provide a verbal notification to subjects that the interaction was being recorded. Exceptions were to these rules were prearranged with senior agency staff and included interactions such as talking to informant and serious sexual assaults.
 
-2. Cognition: More studies than not show exercise has a positive impact on mental function. However, the effects seem dependent on a number of factors including intensity of the exercise, complexity of the cognitive test, and timing of the cognitive assessment.
+Each trial was monitored by a “pracademic” at each agency – graduate students who were also police officers or civilian staff. Additionally, trial integrity was monitored by comparing BWC metadata (date and time) with the date and times of experimental assignments.
 
-3. Psychological well-being: Exercise participants saw a reduction in perceived stress, as well as psychological symptoms. Again, these results were dependent on a number of factors such as intensity of exercise and baseline psychological health and fitness levels of participants.
+#### LIMITATIONS
 
-**Citation**: Boni, N. (2004). Exercise and physical fitness: The impact on work outcomes, cognition, and psychological well-being for police. Marden,, South Australia: Australasian Centre for Policing Research.
+1. Researchers were not given information on the type of complaint (e.g. use of force, incivility, lack of fairness, etc.). It would be worth studying whether or not BWC affect specific types of complaints.
 
-[Health disparities in police officers: comparisons to the US general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734372/)
+2. Individual officers were part of both treatment and control groups over the course of the study.
 
-This article from the National Institute of Health provides a fair amount of research to support a wellness program. Some of the points that are brought up include:
+3. However unlikely, policies on the complaint process could have changed over the course of the experiment.
 
-* Police have the highest risk of cardiovascular disease (CVD) of any occupation.
-* Police experience high-levels of stress due to shift work and the potential to witness or experience violent events
-* Police are more likely to sleep less than 6 hours in a 24-hour period.
-* Police smoke more than employees is other work forces.
+## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
-**Citation**: Hartley, T. A., Burchfiel, C. M., Fekedulegn, D., Andrew, M. E., & Violanti, J. M. (2011). Health disparities in police officers: comparisons to the US general population. International journal of emergency mental health, 13(4), 211.
+#### RESEARCH FINDINGS
 
-#### ONLINE RESOURCES
+Across all seven sites, complaints were reduced from 1,539 complaints in the 12-months preceding the study to 113 complaints over the course of the study. This represents a 93% decrease in complaints between time periods. There were no significant differences between treatment and control groups.
 
-[IACP’s Center for Officer Safety & Wellness](http://www.theiacp.org/COSW)
+#### MAIN IMPLICATIONS
 
-The IACP has compiled numerous guides on wellness topics ranging from creating a fitness program to eating well on the go to mental health to officer safety. A number of topics even have attractive, quick-to-read brochures for officers and their families.
+Ultimately, the goal of altering behavior in a way that reduced citizen complaints was reached. To examine these results, the authors divided their discussion of results into three main sections:
 
-[National Institute of Corrections – Health and Wellness for Corrections Professionals](https://nicic.gov/health-and-wellness-for-corrections-professionals)
+A Technical Solution for Police Accountability, Legitimacy, & Police-Community Relations?
 
-Like the IACP, the NIC has assembled a number of resources, including webinars and reports, focusing on the stressors that face correctional officers. Topic resources range from officer safety to maintaining work-life balance.
+The authors discuss, at length, the tenuous relationship between complaints and police legitimacy, citing the fact that legitimacy is based on a number of factors outside of a single event that may lead to a complaint. This includes the fact that police legitimacy also relies on the views of individuals not directly involved in police interactions, recorded or not. The authors contend that further research is needed on this link, given the fact that it is so deeply entwined with the argument for implementing the use of BWC.
 
-[PERF’s Guide to Occupational Health and Safety for Law Enforcement Executives](https://www.bja.gov/publications/perf_le_occhealth.pdf)
+Contagious Accountability
 
-For something a little more in depth, this 2010 guide from the Police Executive Research Forum provides a detailed overview of the importance of health and safety programs, as well as the nuts and bolts of what such programs should include.
+Separate from the issue of legitimacy, the authors argue that BWCs do have a positive effect on police accountability, and this is a leading factor in the observed reduction in citizen complaints. The authors believe that accountability is increased due to a heightened self-awareness of officer’s actions stemming from the use of BWC.
+The authors take this argument further when explaining the lack of significant differences between treatment and control groups with a term coined “contagious accountability.” The authors assert that because all officers took part in both the treatment and control, they became “acutely aware of being observed more closely” even when not wearing the BWC, which meant the effect of BWC spread to all of the officer’s interactions, as well as co-workers’ interactions. It is also hypothesized that when officers wore the BWC they learned, by repeated exposure and practice, how to better handle situations, which carried over into the encounters during which they wore no BWC.
 
-[BJA’s VALOR Officer Safety Initiative](https://www.bja.gov/programs/valor.html)
+Untangling Observer Effects
 
-Health and wellness isn’t just about exercising and eating right, it is also about stress management, officer safety, and resiliency. This site from the VALOR Initiative is a hub for a number of officer wellness programs, many promoting the mental health side of officer wellness.
+The authors explore three possibilities about whose behavior is affected most by BWC in an interaction – the officer, the subject, or both. The conclusion reached is that the most affected party is the officer in the interaction since the effects of BWC carried over to no-treatment shifts. The authors assert that the “causal chain” would be:
 
-[National Alliance on Mental Illness (NAMI): Support for Law Enforcement Officers](https://www.nami.org/find-support/law-enforcement-officers)
+BWC + verbal warning --> officer’s reaction to suspect’s demeanor is “cooler” --> fewer complaints than without BWCs
 
-This section of the NAMI website provides an overview of officer mental health, as well as links to research on officer wellness. In partnership with the DOJ, NAMI also provides a report for leadership titled Preparing for the Unimaginable: A Report on Officer Mental Health.
+Additional Implications
+
+The fact that the effects of the BWC appeared in both treatment and control groups may lend itself to the argument that an entire department does not need to be outfitted with BWC, reducing costs in a time of economic constraints. Research needs to continue in the effects of BWC and police legitimacy.
+
+#### CITATION
+
+Ariel, B., Sutherland, A., Henstock, D., Young, J., Drover, P., Sykes, J., ... & Henderson, R. (2016). [“Contagious Accountability” A Global Multisite Randomized Controlled Trial on the Effect of Police Body-Worn Cameras on Citizens’ Complaints Against the Police](https://www.repository.cam.ac.uk/bitstream/handle/1810/260710/Ariel_et_al-Journal_of_Criminal_Justice_and_Behavior-AM.pdf?sequence=1). Criminal Justice and Behavior, 0093854816668218.
+
+#### ADDITIONAL RESOURCES
+
+[Police Foundation's "Quantifying and Justifying the Cost of Body-worn Cameras](https://www.policefoundation.org/quantifying-justifying-cost-of-body-worn-cameras/)
