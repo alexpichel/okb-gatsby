@@ -46,10 +46,6 @@ export function setCategoryFilter(val) {
   return { type: SET_CATEGORY_FILTER, val };
 }
 
-export function setTagFilter(val) {
-  return { type: SET_TAG_FILTER, val };
-}
-
 /*
  * reducer
  */
@@ -97,12 +93,6 @@ const reducer = (state, action) => {
         categoryFilter: action.val
       };
 
-    case SET_TAG_FILTER:
-      return {
-        ...state,
-        tagFilter: action.val
-      };
-
     default:
       return state;
   }
@@ -115,8 +105,7 @@ const initialState = {
   isWideScreen: false,
   scrollToTop: false,
   fontSizeIncrease: 1,
-  categoryFilter: "All Posts",
-  tagFilter: "All Posts"
+  categoryFilter: "All Posts"
 };
 
 const createStore = () =>

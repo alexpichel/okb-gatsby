@@ -56,7 +56,6 @@ class List extends React.Component {
       linkOnClick,
       expandOnClick,
       categoryFilter,
-      tagFilter,
       navigatorShape,
       removeFilter
     } = this.props;
@@ -83,20 +82,6 @@ class List extends React.Component {
                 ))}
             </ul>
           </div>
-          <div className={classes.inner}>
-            <ListHeader
-              expandOnClick={expandOnClick}
-              tagFilter={tagFilter}
-              navigatorShape={navigatorShape}
-              removeFilter={removeFilter}
-            />
-            <ul className={classes.list}>
-              {posts &&
-                posts.map((post, i) => (
-                  <ListItem key={i} post={post} linkOnClick={linkOnClick} tagFilter={tagFilter} />
-                ))}
-            </ul>
-          </div>
         </SpringScrollbars>
       </div>
     );
@@ -111,7 +96,6 @@ List.propTypes = {
   navigatorPosition: PropTypes.string.isRequired,
   navigatorShape: PropTypes.string.isRequired,
   categoryFilter: PropTypes.string.isRequired,
-  tagFilter: PropTypes.string.isRequired,
   removeFilter: PropTypes.func.isRequired
 };
 

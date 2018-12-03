@@ -18,13 +18,11 @@ import {
   setNavigatorShape,
   setScrollToTop,
   setFontSizeIncrease,
-  setCategoryFilter,
-  setTagFilter
+  setCategoryFilter
 } from "../../state/store";
 import { featureNavigator, moveNavigatorAside } from "./../../utils/shared";
 import FontSetter from "./FontSetter";
 import CategoryFilter from "./CategoryFilter";
-import TagFilter from "./TagFilter";
 
 const styles = theme => ({
   actionsBar: {
@@ -123,10 +121,6 @@ class ActionsBar extends React.Component {
     this.props.setCategoryFilter(val);
   };
 
-  tagFilterOnClick = val => {
-    this.props.setTagFilter(val);
-  };
-
   render() {
     const {
       classes,
@@ -150,9 +144,6 @@ class ActionsBar extends React.Component {
           </IconButton>
           {((isWideScreen && navigatorShape === "open") || navigatorPosition !== "is-aside") && (
             <CategoryFilter categories={categories} filterCategory={this.categoryFilterOnClick} />
-          )}
-          {((isWideScreen && navigatorShape === "open") || navigatorPosition !== "is-aside") && (
-            <TagFilter tags={tags} filterTag={this.tagFilterOnClick} />
           )}
           <IconButton
             aria-label="Search"
@@ -196,10 +187,7 @@ ActionsBar.propTypes = {
   setFontSizeIncrease: PropTypes.func.isRequired,
   categories: PropTypes.array.isRequired,
   setCategoryFilter: PropTypes.func.isRequired,
-  categoryFilter: PropTypes.string.isRequired,
-  tags: PropTypes.array.isRequired,
-  setTagFilter: PropTypes.func.isRequired,
-  tagFilter: PropTypes.string.isRequired
+  categoryFilter: PropTypes.string.isRequired
 };
 
 const mapStateToProps = (state, ownProps) => {
@@ -207,8 +195,7 @@ const mapStateToProps = (state, ownProps) => {
     navigatorPosition: state.navigatorPosition,
     navigatorShape: state.navigatorShape,
     isWideScreen: state.isWideScreen,
-    categoryFilter: state.categoryFilter,
-    tagFilter: state.tagFilter
+    categoryFilter: state.categoryFilter
   };
 };
 
@@ -217,8 +204,7 @@ const mapDispatchToProps = {
   setNavigatorShape,
   setScrollToTop,
   setFontSizeIncrease,
-  setCategoryFilter,
-  setTagFilter
+  setCategoryFilter
 };
 
 export default connect(
