@@ -51,4 +51,3 @@ This article demonstrates that the lower the officer perceives community satisfa
 
 [Public Contact With and Perceptions Regarding Police in Portland Oregon](https://www.pdx.edu/cjpri/sites/www.pdx.edu.cjpri/files/PSU_PPB%20Contact%20Survey%20Results_2013_full%20report.pdf)
 
-
