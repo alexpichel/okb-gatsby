@@ -36,7 +36,7 @@ This paper reviewed three areas and their relationship to fitness and exercise: 
 
 3. Psychological well-being: Exercise participants saw a reduction in perceived stress, as well as psychological symptoms. Again, these results were dependent on a number of factors such as intensity of exercise and baseline psychological health and fitness levels of participants.
 
-Citation: Boni, N. (2004). Exercise and physical fitness: The impact on work outcomes, cognition, and psychological well-being for police. Marden,, South Australia: Australasian Centre for Policing Research.
+**Citation**: Boni, N. (2004). Exercise and physical fitness: The impact on work outcomes, cognition, and psychological well-being for police. Marden,, South Australia: Australasian Centre for Policing Research.
 
 [Health disparities in police officers: comparisons to the US general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734372/)
 
@@ -47,7 +47,7 @@ This article from the National Institute of Health provides a fair amount of res
 •	Police are more likely to sleep less than 6 hours in a 24-hour period.
 •	Police smoke more than employees is other work forces.
 
-Citation: Hartley, T. A., Burchfiel, C. M., Fekedulegn, D., Andrew, M. E., & Violanti, J. M. (2011). Health disparities in police officers: comparisons to the US general population. International journal of emergency mental health, 13(4), 211.
+**Citation**: Hartley, T. A., Burchfiel, C. M., Fekedulegn, D., Andrew, M. E., & Violanti, J. M. (2011). Health disparities in police officers: comparisons to the US general population. International journal of emergency mental health, 13(4), 211.
 
 #### ONLINE RESOURCES
 
