@@ -2,7 +2,8 @@
 title: Polk County Community Corrections Transitional Housing
 date: "2016-09-29"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/polk.png
+category:
   - "Correctional"
 tags:
   - "housing"

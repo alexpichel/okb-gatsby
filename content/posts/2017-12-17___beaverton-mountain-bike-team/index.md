@@ -2,7 +2,8 @@
 title: Beaverton Mountain Bike Team
 date: "2017-12-17"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/beaverton-pd.png
+category:
   - Policing
 tags:
   - "Homeless"

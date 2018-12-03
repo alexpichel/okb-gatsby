@@ -4,7 +4,7 @@ date: "2016-02-04"
 cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
 agency: "Medford Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "sex offenders"

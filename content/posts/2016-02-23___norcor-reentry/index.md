@@ -4,7 +4,7 @@ date: "2016-02-23"
 cover: /assets/correctional.png
 logo: /assets/agency/norcor-logo.png
 agency: "Northern Oregon Regional Correction Facility"
-categories:
+category:
   - "Correctional"
 tags:
   - "jail"

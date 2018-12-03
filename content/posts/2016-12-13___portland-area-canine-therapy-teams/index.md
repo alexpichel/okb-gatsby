@@ -2,7 +2,8 @@
 title: Portland Area Canine Therapy Teams
 date: "2016-12-13"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/pactt.png
+category:
   - "Correctional"
 tags:
   - "specialty courts"

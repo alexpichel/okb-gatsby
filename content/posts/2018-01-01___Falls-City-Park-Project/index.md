@@ -2,7 +2,8 @@
 title: "Falls City Park Project" 
 date: "2018-01-01"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "CPTED"

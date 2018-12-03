@@ -4,7 +4,7 @@ date: "2015-11-30"
 cover: /assets/research.png
 logo: /assets/agency/ppb.png
 agency: "University of Massachusetts - 2015"
-categories:
+category:
   - "Research"
 tags:
   - "mental illness"

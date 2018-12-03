@@ -2,7 +2,8 @@
 title: Measure 57 Drug Courts
 date: "2016-03-29"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "drugs"

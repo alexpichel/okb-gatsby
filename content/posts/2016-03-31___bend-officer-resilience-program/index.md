@@ -2,7 +2,8 @@
 title: Bend Officer Resilience Program
 date: "2016-03-31"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/bend-pd.png
+category:
    - "Policing"
 tags:
   - "training"

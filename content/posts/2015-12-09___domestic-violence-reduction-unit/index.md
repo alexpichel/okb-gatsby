@@ -2,7 +2,8 @@
 title: Domestic Violence Reduction Unit
 date: "2015-12-09"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "community policing"

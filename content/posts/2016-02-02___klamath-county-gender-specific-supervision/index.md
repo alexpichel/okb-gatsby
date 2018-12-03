@@ -4,7 +4,7 @@ date: "2016-02-02"
 cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
 agency: "Klamath County Community Corrections"
-categories:
+category:
   - "Correctional"
 tags:
   - "specialized caseload"

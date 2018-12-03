@@ -2,7 +2,8 @@
 title: Marion County Link Up Program
 date: "2017-02-07"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/marion.png
+category:
   - "Correctional"
 tags:
   - "alcohol"

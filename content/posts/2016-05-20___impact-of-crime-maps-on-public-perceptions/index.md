@@ -2,7 +2,8 @@
 title: Impact of Crime Maps on Public Perceptions
 date: "2016-05-20"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "community relations"

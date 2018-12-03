@@ -2,7 +2,8 @@
 title: Crime Reporting in Oregon
 date: "2016-08-08"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "community relations"

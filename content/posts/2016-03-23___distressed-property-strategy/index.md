@@ -4,7 +4,7 @@ date: "2016-03-23"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
 agency: "Portland Police Bureau"
-categories:
+category:
   - "Policing"
 tags:
   - "abandoned properties"

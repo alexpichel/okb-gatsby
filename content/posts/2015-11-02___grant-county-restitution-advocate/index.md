@@ -4,7 +4,7 @@ date: "2015-11-02"
 cover: /assets/correctional.png
 logo: /assets/agency/doc-logo.png
 agency: "Grant County Community Corrections"
-categories:
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

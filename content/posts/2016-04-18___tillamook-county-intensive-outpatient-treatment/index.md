@@ -2,7 +2,8 @@
 title: Tillamook County Intensive Outpatient Treatment
 date: "2016-04-18"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

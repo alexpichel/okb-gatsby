@@ -4,7 +4,7 @@ date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/union-county-logo.png
 agency: "Union County Community Corrections"
-categories:
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

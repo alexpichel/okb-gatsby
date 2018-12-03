@@ -4,7 +4,7 @@ date: "2015-11-13"
 cover: /assets/policing.png
 logo: /assets/agency/dallas-pd-logo.png
 agency: "Dallas Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "mental illness"

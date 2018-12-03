@@ -2,7 +2,8 @@
 title: Jefferson County Native American Treatment
 date: "2016-08-17"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/jefferson.png
+category:
   - "Correctional"
 tags:
   - "alcohol"

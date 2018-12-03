@@ -2,7 +2,8 @@
 title: Marion County SB 416 Alternative Program
 date: "2016-03-29"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/marion.png
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

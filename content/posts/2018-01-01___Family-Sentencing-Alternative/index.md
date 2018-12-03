@@ -2,7 +2,8 @@
 title: "Family Sentencing Alternative Program"
 date: "2018-01-01"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "specialized caseload"

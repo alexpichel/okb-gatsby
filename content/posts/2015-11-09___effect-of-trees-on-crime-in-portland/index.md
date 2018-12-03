@@ -4,7 +4,7 @@ date: "2015-11-09"
 cover: /assets/research.png
 logo: /assets/agency/ppb.png
 agency: "U.S. Department of Agriculture - 2012"
-categories:
+category:
   - "Research"
 tags:
   - "CPTED"

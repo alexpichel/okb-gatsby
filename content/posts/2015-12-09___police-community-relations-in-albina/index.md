@@ -4,7 +4,7 @@ date: "2015-12-09"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agency: "Portland State University - 2013"
-categories:
+category:
   - "Research"
 tags:
   - "community relations"

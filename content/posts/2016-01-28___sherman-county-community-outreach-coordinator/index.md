@@ -2,7 +2,8 @@
 title: Sherman County Community Outreach Coordinator
 date: "2016-01-28"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

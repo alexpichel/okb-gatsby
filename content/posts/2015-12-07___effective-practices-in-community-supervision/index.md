@@ -2,7 +2,8 @@
 title: Effective Practices in Community Supervision (EPICS)
 date: "2015-12-07"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "community supervision"

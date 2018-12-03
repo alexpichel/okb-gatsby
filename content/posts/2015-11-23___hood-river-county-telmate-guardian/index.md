@@ -4,7 +4,7 @@ date: "2015-11-23"
 cover: /assets/correctional.png
 logo: /assets/agency/hoodriver-sheriff-logo.png
 agency: "Hood River County Sheriff's Office"
-categories:
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

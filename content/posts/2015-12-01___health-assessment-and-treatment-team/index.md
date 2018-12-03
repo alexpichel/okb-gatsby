@@ -2,7 +2,8 @@
 title: Health Assessment and Treatment (HAT) Team
 date: "2015-12-01"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/multnomah.png
+category:
   - "Correctional"
 tags:
   - "healthcare"

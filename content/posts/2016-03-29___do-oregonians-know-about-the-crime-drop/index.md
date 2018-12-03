@@ -2,7 +2,8 @@
 title: Do Oregonians Know About the Crime Drop
 date: "2016-03-29"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/psu.png
+category:
   - "Research"
 tags:
   - "community relations"

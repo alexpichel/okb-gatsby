@@ -2,7 +2,8 @@
 title: Theft from Vehicle Prevention - Letter Program
 date: "2015-12-02"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "crime prevention"

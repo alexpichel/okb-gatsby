@@ -1,8 +1,9 @@
 ---
-title: 
+title: Community Surveys
 date: "2018-01-01"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - ""
 tags:
   - ""

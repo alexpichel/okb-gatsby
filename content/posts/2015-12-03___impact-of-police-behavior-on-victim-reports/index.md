@@ -2,7 +2,8 @@
 title: Impact of Police Behavior on Victim Reports
 date: "2015-12-03"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "community relations"

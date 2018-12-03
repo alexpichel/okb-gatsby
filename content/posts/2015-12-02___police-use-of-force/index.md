@@ -2,7 +2,8 @@
 title: Police Use of Force
 date: "2015-12-02"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "Oregon"

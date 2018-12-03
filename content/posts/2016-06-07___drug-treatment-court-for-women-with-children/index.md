@@ -2,7 +2,8 @@
 title: Drug Treatment Court for Women with Children
 date: "2016-06-07"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "specialty courts"

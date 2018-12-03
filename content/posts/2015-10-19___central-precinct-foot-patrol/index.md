@@ -4,7 +4,7 @@ date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
 agency: "Portland Police Bureau"
-categories:
+category:
   - "Policing"
 tags:
   - "assault"

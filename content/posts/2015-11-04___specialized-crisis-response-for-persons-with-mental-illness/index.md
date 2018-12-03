@@ -4,7 +4,7 @@ date: "2015-11-04"
 cover: /assets/research.png
 logo: /assets/agency/multnomah-logo.png
 agency: "Multnomah County - 2001"
-categories:
+category:
   - "Research"
 tags:
   - "crisis intervention"

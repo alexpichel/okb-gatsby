@@ -4,7 +4,7 @@ date: "2015-11-20"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
 agency: "Multnomah County Local Public Safety Coordinating Council"
-categories:
+category:
    - "Correctional"
 tags:
   - "justice reinvestment"

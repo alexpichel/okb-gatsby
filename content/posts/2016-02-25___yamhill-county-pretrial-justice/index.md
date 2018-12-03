@@ -4,7 +4,7 @@ date: "2016-02-25"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-dcj-logo.png
 agency: "Yamhill County Department of Community Justice"
-categories:
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

@@ -2,7 +2,8 @@
 title: Polk County Transition Services Specialist
 date: "2016-01-27"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

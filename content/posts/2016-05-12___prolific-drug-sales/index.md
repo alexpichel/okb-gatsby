@@ -2,7 +2,8 @@
 title: Prolific Drug Sales
 date: "2016-05-12"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "Drugs"

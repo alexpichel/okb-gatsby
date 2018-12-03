@@ -4,7 +4,7 @@ date: "2015-10-22"
 cover: /assets/policing.png
 logo: /assets/agency/clackamas-sheriff-logo.png
 agency: "Clackamas County Sheriff's Office"
-categories:
+category:
   - "Policing"
 tags:
   - "domestic violence"

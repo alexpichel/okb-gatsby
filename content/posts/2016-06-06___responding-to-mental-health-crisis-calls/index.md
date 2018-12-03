@@ -2,7 +2,8 @@
 title: Responding to Mental Health Crisis Calls
 date: "2016-06-06"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/ppb.png
+category:
   - "Research"
 tags:
   - "mental illness"

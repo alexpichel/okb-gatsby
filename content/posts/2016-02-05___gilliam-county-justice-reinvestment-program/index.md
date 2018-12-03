@@ -2,7 +2,8 @@
 title: Gilliam County Justice Reinvestment Program
 date: "2016-02-05"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
     - "Correctional"
 tags:
   - "justice reinvestment"

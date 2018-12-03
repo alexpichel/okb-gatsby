@@ -4,7 +4,7 @@ date: "2015-11-20"
 cover: /assets/correctional.png
 logo: /assets/agency/clackamas-county-logo.svg
 agency: "Clackamas County Community Corrections"
-categories:
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

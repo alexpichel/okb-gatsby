@@ -2,7 +2,8 @@
 title: Clatsop County Treatment Oriented Intensive Supervision
 date: "2016-01-28"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "intensive supervision"

@@ -2,7 +2,8 @@
 title: Reducing Fear of Crime
 date: "2016-03-30"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "community relations"

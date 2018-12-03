@@ -1,9 +1,9 @@
 ---
 title: Neighborhood Park Watch
 date: "2015-09-22"
-layout: post
+logo: /assets/agency/ppb.png
 cover: /assets/policing.png
-categories:
+category:
   - "Policing"
 tags:
   - "chronic nuisance"

@@ -2,7 +2,8 @@
 title: Yamhill County Court-Automated Notification System
 date: "2016-05-02"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "pretrial release"

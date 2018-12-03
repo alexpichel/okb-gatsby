@@ -2,7 +2,8 @@
 title: Statewide Approach to Mental Health and Crisis Response
 date: "2017-10-10"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "CIT"

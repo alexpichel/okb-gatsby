@@ -2,7 +2,8 @@
 title: Alternatives to Juvenile Detention
 date: "2017-02-08"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "juveniles"

@@ -2,7 +2,8 @@
 title: Domestic Violence Police Units
 date: "2017-02-09"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "domestic violence"

@@ -2,7 +2,8 @@
 title: Jackson County Day Reporting - Managing
 date: "2015-12-04"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

@@ -2,7 +2,8 @@
 title: "Portland Police Bureau Behavioral Health Unit"
 date: "2018-01-01"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/ppb.png
+category:
   - "Policing"
 tags:
   - "CIT"

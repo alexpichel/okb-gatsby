@@ -2,7 +2,8 @@
 title: Forecasting Street Robberies
 date: "2015-12-02"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "crime analysis"

@@ -2,7 +2,8 @@
 title: Bike Theft Reduction
 date: "2016-11-08"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/bend-pd.png
+category:
   - "Policing"
 tags:
   - "chronic nuisance"

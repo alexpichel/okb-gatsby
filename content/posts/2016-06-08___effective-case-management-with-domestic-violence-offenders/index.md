@@ -2,7 +2,8 @@
 title: Effective Case Management With Domestic Violence Offenders
 date: "2016-06-08"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/mult.png
+category:
   - "Research"
 tags:
   - "domestic violence"

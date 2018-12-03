@@ -4,7 +4,7 @@ date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
 agency: "Keizer Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "chronic nuisance"

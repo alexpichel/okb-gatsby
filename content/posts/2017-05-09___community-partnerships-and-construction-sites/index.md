@@ -2,7 +2,8 @@
 title: Community Partnerships and Construction Sites
 date: "2017-05-09"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "crime prevention"

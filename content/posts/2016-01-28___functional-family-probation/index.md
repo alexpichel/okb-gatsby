@@ -4,7 +4,7 @@ date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
 agency: "Multnomah County Department of Community Justice"
-categories:
+category:
   - "Correctional"
 tags:
   - "specialized caseload"

@@ -2,8 +2,9 @@
 title: Crisis Outreach Response Team (CORT)
 date: "2015-09-17"
 cover: /assets/policing.png
+logo: /assets/agency/marion-s.png
 author: "marion-s"
-categories:
+category:
   - "Policing"
 tags:
   - "mental illness"

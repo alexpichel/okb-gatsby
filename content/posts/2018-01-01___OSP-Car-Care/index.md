@@ -2,7 +2,8 @@
 title: "Oregon State Police Car Care Program" 
 date: "2018-01-01"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "policing"
 tags:
   - "community outreach"

@@ -4,7 +4,7 @@ date: "2015-11-30"
 cover: /assets/research.png
 logo: /assets/agency/ppb.png
 agency: "Northeastern University - 2006"
-categories:
+category:
   - "Research"
 tags:
   - "crime prevention"

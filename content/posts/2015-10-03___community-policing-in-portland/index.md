@@ -4,7 +4,7 @@ date: "2015-10-03"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
 agency: "Portland State University - 2000"
-categories:
+category:
   - "Research"
 tags:
   - "community policing"

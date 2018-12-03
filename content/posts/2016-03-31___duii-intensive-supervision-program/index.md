@@ -2,7 +2,8 @@
 title: DUII Intensive Supervision Program
 date: "2016-03-31"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "intensive supervision"

@@ -2,7 +2,8 @@
 title: Mental Health Response Team
 date: "2016-06-02"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "crisis intervention"

@@ -2,7 +2,8 @@
 title: Benton County Sheriff's Auxiliary Volunteer Program
 date: "2017-04-26"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "community outreach"

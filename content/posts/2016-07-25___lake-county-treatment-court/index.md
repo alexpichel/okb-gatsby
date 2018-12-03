@@ -2,7 +2,8 @@
 title: Lake County Treatment Court
 date: "2016-07-25"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/lake.png
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

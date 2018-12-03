@@ -2,7 +2,8 @@
 title: Curry County Thinking for a Change
 date: "2016-07-20"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/curry.png
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

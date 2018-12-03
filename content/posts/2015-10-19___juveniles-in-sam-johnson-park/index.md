@@ -4,7 +4,7 @@ date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/redmond-pd-logo.png
 agency: "Redmond Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "chronic nuisance"

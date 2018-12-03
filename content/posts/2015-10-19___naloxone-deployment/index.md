@@ -4,7 +4,7 @@ date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
 agency: "Medford Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "drugs"

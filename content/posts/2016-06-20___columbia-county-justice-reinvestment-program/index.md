@@ -2,7 +2,8 @@
 title: Columbia County Justice Reinvestment Program
 date: "2016-06-20"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/columbia.png
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

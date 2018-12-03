@@ -2,7 +2,8 @@
 title: "Yamhill County Day Management Center"
 date: "2018-01-01"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/yamhill.png
+category:
   - "Policing"
 tags:
   - "supervision"

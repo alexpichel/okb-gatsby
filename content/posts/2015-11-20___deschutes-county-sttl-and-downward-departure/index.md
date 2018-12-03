@@ -4,7 +4,7 @@ date: "2015-11-20"
 cover: /assets/correctional.png
 logo: /assets/agency/deschutes-pp-logo.PNG
 agency: "Deschutes County Adult Parole & Probation"
-categories:
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

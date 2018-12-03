@@ -4,7 +4,7 @@ date: "2015-11-19"
 cover: /assets/policing.png
 logo: /assets/agency/clackamas-sheriff-logo.png
 agency: "Clackamas County Sheriff's Office"
-categories:
+category:
   - "Policing"
 tags:
   - "quality of life"

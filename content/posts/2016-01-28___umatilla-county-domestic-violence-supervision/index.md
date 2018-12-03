@@ -4,7 +4,7 @@ date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/umatilla-county-logo.png
 agency: "Umatilla County Community Corrections"
-categories:
+category:
   - "Correctional"
 tags:
   - "domestic violence"

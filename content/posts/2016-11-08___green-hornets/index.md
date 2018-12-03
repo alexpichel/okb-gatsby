@@ -2,7 +2,8 @@
 title: Green Hornet Wilderness Law Enforcement Services and Search and Rescue Team
 date: "2016-11-08"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/mult-s.png
+category:
   - "Policing"
 tags:
   - "search and rescue"

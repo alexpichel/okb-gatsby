@@ -2,7 +2,8 @@
 title: Recruiting and Retaining Female Deputies
 date: "2016-06-02"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "recruitment"

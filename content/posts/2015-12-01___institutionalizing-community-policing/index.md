@@ -2,7 +2,8 @@
 title: Institutionalizing Community Policing
 date: "2015-12-01"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "community policing"

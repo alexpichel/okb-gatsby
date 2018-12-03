@@ -4,7 +4,7 @@ date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/conftribes-pd-logo.png
 agency: "Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "assault"

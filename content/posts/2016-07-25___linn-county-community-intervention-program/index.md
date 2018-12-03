@@ -2,7 +2,8 @@
 title: Linn County Community Intervention Program
 date: "2016-07-25"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/linn.png
+category:
   - "Correctional"
 tags:
   - "alochol"

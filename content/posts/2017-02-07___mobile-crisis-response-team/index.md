@@ -2,7 +2,8 @@
 title: Mobile Crisis Response Team
 date: "2017-02-07"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/marion.png
+category:
   - "Policing"
 tags:
   - "crisis intervention"

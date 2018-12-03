@@ -2,7 +2,8 @@
 title: Student Opportunity for Achieving Results (SOAR)
 date: "2016-04-13"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "alcohol"

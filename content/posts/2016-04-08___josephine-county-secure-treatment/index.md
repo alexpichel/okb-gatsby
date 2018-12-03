@@ -2,7 +2,8 @@
 title: Josephine County Secure Treatment
 date: "2016-04-08"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "jail"

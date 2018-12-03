@@ -2,7 +2,8 @@
 title: Lane County Pretrial Services
 date: "2017-04-26"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "pretrial release"

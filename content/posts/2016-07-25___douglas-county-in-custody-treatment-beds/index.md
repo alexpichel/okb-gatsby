@@ -2,7 +2,8 @@
 title: Douglas County In-Custody Treatment Beds
 date: "2016-07-25"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/douglas.png
+category:
   - "Correctional"
 tags:
   - "jail"

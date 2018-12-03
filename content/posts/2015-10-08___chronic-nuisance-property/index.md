@@ -4,7 +4,7 @@ date: "2015-10-08"
 cover: /assets/policing.png
 logo: /assets/agency/corvallis-pd-logo.png
 agency: "Corvallis Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "chronic nuisance"

@@ -2,7 +2,8 @@
 title: Increasing Performance Through Improved Shift Policies and Practices
 date: "2017-02-09"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "officer wellness"

@@ -4,7 +4,7 @@ date: "2015-11-17"
 cover: /assets/policing.png
 logo: /assets/agency/eugene-pd-logo.png
 agency: "Eugene Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "community outreach"

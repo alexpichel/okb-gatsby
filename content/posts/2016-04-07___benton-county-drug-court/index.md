@@ -2,7 +2,8 @@
 title: Benton County Drug Court
 date: "2016-04-07"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/benton.png
+category:
   - "Research"
 tags:
   - "Oregon"

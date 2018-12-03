@@ -4,7 +4,7 @@ date: "2016-03-16"
 cover: /assets/policing.png
 logo: /assets/agency/tigard-pd-logo.png
 agency: "Tigard Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "crime prevention"

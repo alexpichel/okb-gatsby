@@ -2,7 +2,8 @@
 title: Prescription Drug Turn-In Program
 date: "2016-06-20"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "community outreach"

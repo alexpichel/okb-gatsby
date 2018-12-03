@@ -4,7 +4,7 @@ date: "2016-02-05"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
 agency: "Portland Police Bureau"
-categories:
+category:
   - "Policing"
 tags:
   - "property crime"

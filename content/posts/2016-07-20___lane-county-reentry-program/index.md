@@ -1,8 +1,9 @@
 ---
-title: Lance County Reentry Program
+title: Lane County Reentry Program
 date: "2016-07-20"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/lane.png
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

@@ -2,7 +2,8 @@
 title: DWI and Vehicle Action Programs
 date: "2015-12-01"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "DUII"

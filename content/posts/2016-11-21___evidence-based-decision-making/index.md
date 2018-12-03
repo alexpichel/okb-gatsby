@@ -2,7 +2,8 @@
 title: Evidence-Based Decision Making
 date: "2016-11-21"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

@@ -4,7 +4,7 @@ date: "2016-01-27"
 cover: /assets/policing.png
 logo: /assets/agency/albany-pd-logo.png
 agency: "Albany Police Department"
-categories:
+category:
   - "Policing"
 tags:
   - "chronic nuisance"

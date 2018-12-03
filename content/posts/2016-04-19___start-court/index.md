@@ -2,7 +2,8 @@
 title: START Court
 date: "2016-04-19"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/
+category:
   - "Correctional"
 tags:
   - "specialty court"

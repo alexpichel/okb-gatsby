@@ -2,7 +2,8 @@
 title: Top Ten Most Wanted
 date: "2015-12-04"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "crime prevention"

@@ -4,7 +4,7 @@ date: "2015-09-22"
 cover: /assets/policing.png
 logo: /assets/agency/grantspass-pd-logo.png
 agency: "Grants Pass Department of Public Safety"
-categories:
+category:
   - "Policing"
 tags:
   - "chronic nuisance"

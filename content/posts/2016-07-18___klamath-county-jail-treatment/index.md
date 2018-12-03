@@ -2,7 +2,8 @@
 title: Klamath County Jail Treatment
 date: "2016-07-18"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/klamath.png
+category:
   - "Correctional"
 tags:
   - "jail"

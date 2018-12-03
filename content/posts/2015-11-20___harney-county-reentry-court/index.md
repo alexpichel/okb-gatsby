@@ -4,7 +4,7 @@ date: "2015-11-20"
 cover: /assets/policing.png
 logo: /assets/agency/harney-cc-logo.png
 agency: "Harney County Community Corrections"
-categories:
+category:
   - "Policing"
 tags:
   - "justice reinvestment"

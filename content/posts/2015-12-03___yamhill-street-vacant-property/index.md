@@ -2,7 +2,8 @@
 title: Yamhill Street Vacant Property
 date: "2015-12-03"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "Policing"
 tags:
   - "abandoned property"

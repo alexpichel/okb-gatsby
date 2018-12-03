@@ -4,7 +4,7 @@ date: "2015-11-12"
 cover: /assets/correctional.png
 logo: /assets/agency/washington-logo.png
 agency: "Washington County Community Corrections"
-categories:
+category:
   - "Correctional"
 tags:
   - "justice reinvestment"

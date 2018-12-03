@@ -2,7 +2,8 @@
 title: Eight-Grade Transition Program
 date: "2016-06-13"
 cover: /assets/correctional.png
-categories:
+logo: /assets/agency/linn.png
+category:
   - "Correctional"
 tags:
   - "juveniles"

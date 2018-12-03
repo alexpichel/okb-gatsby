@@ -2,7 +2,8 @@
 title: "Emergency Communications of Southern Oregon Public Outreach"
 date: "2018-01-01"
 cover: /assets/policing.png
-categories:
+logo: /assets/agency/
+category:
   - "policing"
 tags:
   - "community outreach"

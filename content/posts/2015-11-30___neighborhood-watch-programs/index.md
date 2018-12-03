@@ -4,7 +4,7 @@ date: "2015-11-30"
 cover: /assets/research.png
 logo: /assets/agency/medford-police-logo.png
 agency: "University of Oregon - 2014"
-categories:
+category:
   - "Research"
 tags:
   - "community outreach"

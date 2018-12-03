@@ -2,7 +2,8 @@
 title: Perceptions of Safety in Portland
 date: "2016-05-12"
 cover: /assets/research.png
-categories:
+logo: /assets/agency/
+category:
   - "Research"
 tags:
   - "community relations"

@@ -5,7 +5,7 @@ date: "2015-10-02"
 cover: /assets/research.png
 logo: /assets/agency/ppb.png
 agency: "National Institute of Justice - 1980"
-categories:
+category:
     - "Research"
 tags:
     - "CPTED"
