@@ -8,7 +8,7 @@ tags:
   - "crime prevention"
   - "juveniles"
   - "Oregon"
-subTitle: "Do JCP programs and services help reduce youth risk factors and increase their protective factors?"
+subTitle: "A performance measurement of the Juvenile Crime Prevention program showed that it was effective at addressing some of the risk and protective indicators, but further exploration of increasing protective indicators is needed."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
