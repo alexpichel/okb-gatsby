@@ -25,10 +25,15 @@ The literature that does exist focuses primarily on changes in juvenile use as a
 [Monitoring health concerns related to marijuana in Colorado: 2016 changes in marijuana use patterns, systematic literature review, and possible marijuana-related health effects](https://drive.google.com/file/d/0B0tmPQ67k3NVQlFnY3VzZGVmdFk/view)
 
 This report is released every two years by the Colorado Department of Public Health and Environment and includes a descriptive analysis of a number of health surveys that include question regarding marijuana. This summary focuses on the portions of Section Two examining “Marijuana Use among Adolescents and Young Adults.” Comparing Colorado to its own past survey results, authors found:
-•	No significant overall change in the rates of self-reported use in the past-month between 2013 and 2015. However, when separated by grade, Colorado 11th graders did have a significant increase between 2013 and 2015. 
-•	No discernable trend across the frequency of use in the past month reported between 2005 and 2015.
-•	The rate of past-month use in adolescents is almost identical to the national average. 
-•	The current marijuana use remains lower than the current rates for alcohol consumption and higher than the current rate for tobacco use. 
+
+- No significant overall change in the rates of self-reported use in the past-month between 2013 and 2015. However, when separated by grade, Colorado 11th graders did have a significant increase between 2013 and 2015. 
+
+- No discernable trend across the frequency of use in the past month reported between 2005 and 2015.
+
+- The rate of past-month use in adolescents is almost identical to the national average. 
+
+- The current marijuana use remains lower than the current rates for alcohol consumption and higher than the current rate for tobacco use. 
+
 Prevention efforts are still advocated as more than five percent of high school students use marijuana daily or near daily and approximately one-third of adolescents who use marijuana first used it by 14 years of age. 
 
 **Citation**: Retail Marijuana Public Health Advisory Committee. (2017) *Monitoring health concerns related to marijuana in Colorado: 2016 changes in marijuana use patterns, systematic literature review, and possible marijuana-related health effects*.Denver: Colorado State Board of Health.
@@ -52,11 +57,14 @@ The conclusions of the study support prior studies asserting that legalizing mar
 #### ONLINE GUIDES
 
 [Oregon Healthy Teens Survey](https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/SURVEYS/OREGONHEALTHYTEENS/Pages/index.aspx)
+
 Survey of 8th and 11th graders across Oregon.
 
 [Colorado’s Legalization of Marijuana and the Impact on Public Safety](http://www.nccpsafety.org/assets/files/library/Legalized_Marijuana_Practical_Guide_for_Law_Enforcement.pdf)
+
 This guide was prepared by the Police Foundation and the Colorado Association of Chiefs of Police in 2015.
 
 [Washington State Healthy Youth Survey Data Brief: Marijuana](https://www.doh.wa.gov/DataandStatisticalReports/DataSystems/HealthyYouthSurvey/Reports)
+
 This one-page data brief summarizes the results of the 2016 Healthy Youth Survey in Washington State. It reflects the research and survey results above – steady rates of use, similar to Colorado, but a notable decrease in perceived risk of use.
 
