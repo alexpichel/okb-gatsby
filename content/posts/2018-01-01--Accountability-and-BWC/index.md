@@ -1,7 +1,7 @@
 ---
 title: "Accountability and BWC"
 date: "2018-01-01"
-cover: /assets/policing.png
+cover: /assets/research.png
 logo: /assets/agency/
 category: "Research"
 tags:

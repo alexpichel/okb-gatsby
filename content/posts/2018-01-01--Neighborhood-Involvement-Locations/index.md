@@ -3,12 +3,7 @@ title: "Neighborhood Involvement Locations"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/dpsst.png
-<<<<<<< HEAD:content/posts/2018-01-01--Neighborhood-Involvement-Locations/index.md
 category: "Policing"
-=======
-category:
-  - "research"
->>>>>>> 58918fb9df5731514a8c2ad85c3487ae0ee8066f:content/posts/2018-01-01___Policing-Disorder/index.md
 tags:
   - "crime prevention"
 subTitle: "Policing strategies targeting disorder have a moderate crime reduction effect."

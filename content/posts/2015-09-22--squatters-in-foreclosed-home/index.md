@@ -43,3 +43,6 @@ The program needs to be a cooperative effort between the police and the neighbor
 #### LESSONS LEARNED
 
 Lock in the bank on ownership and have them submit a letter/email indicating they have had no relationship with the subjects you are investigating.
+
+#### Submitted by
+Sgt. Bob Trump, Keizer Police Department

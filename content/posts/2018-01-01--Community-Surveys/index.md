@@ -1,7 +1,7 @@
 ---
 title: "Topic Summary - Community Surveys"
 date: "2018-01-01"
-cover: /assets/policing.png
+cover: /assets/research.png
 logo: /assets/agency/dpsst.png
 category: "Research"
 tags:

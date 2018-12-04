@@ -1,8 +1,8 @@
 ---
-title: Topic Summary -  Wellness Programs at Public Safety Agencies
+title: "Topic Summary -  Wellness Programs at Public Safety Agencies"
 date: "2018-01-01"
-cover: /assets/policing.png
-logo: /assets/agency/
+cover: /assets/research.png
+logo: /assets/agency/dpsst.png
 category: "Research"
 tags:
   - "retention"

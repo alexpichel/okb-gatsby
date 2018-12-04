@@ -1,7 +1,7 @@
 ---
 title: "Neighborhood Park Watch"
 date: "2015-09-22"
-logo: /assets/agency/ppb.png
+logo: /assets/agency/lebanon-pd-logo.png
 cover: /assets/policing.png
 category: "Policing"
 tags:
