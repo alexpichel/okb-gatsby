@@ -51,6 +51,14 @@ const InfoMenu = props => {
       <Link to="/submit/" onClick={linkOnClick} className={classes.link} data-shape="closed">
         Submit Program
       </Link>
+      {/* <Link
+        to="https://okb.oregon.gov/#"
+        onClick={linkOnClick}
+        className={classes.link}
+        data-shape="closed"
+      >
+        Return to OKB 1.0
+      </Link> */}
     </nav>
   );
 };
