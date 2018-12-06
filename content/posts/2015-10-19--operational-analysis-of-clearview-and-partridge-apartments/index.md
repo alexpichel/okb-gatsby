@@ -49,3 +49,6 @@ Landlord training, CPTED, and coordination with Rushing Real Estate.
 #### LESSONS LEARNED
 
 Utilizing the SARA model helped the department define the problem and respond accordingly. Analyzing and reviewing the data helped the department convince others of the problem. Working with other members of the community was critical.
+
+#### Submitted by
+Lt. Andrew Copeland & Sgt. Bob Trump, Keizer Police Department
