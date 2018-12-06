@@ -33,8 +33,6 @@ Park Watch operates like Neighborhood Watch. There are captains for each park an
 
 It is based on National Neighborhood Watch Programs.
 
-[Neighborhood Watch Programs](/neighborhood-watch-programs)
-
 #### FUNDING
 
 Costs included the staff time needed to put the program together and implement it. The community is helping to absorb the cost by sponsoring the shirts, etc., needed to advertise the program.
