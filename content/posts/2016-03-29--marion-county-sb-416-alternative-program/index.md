@@ -54,21 +54,21 @@ All program participants receive an appropriate level of case management that he
 
 * LS/CMI risk and needs assessment
 * EPICS
-* The Carey Guides
-* University of Rhode Island Change Assessment
-* Texas Christian University (TCU) Drug Screen V
-* TCU Criminal Thinking Scales
-* The Matrix Model
-* Interactive Journaling (Change Companies)
-* Group Treatment for Substance Abuse: A Stages-of-Change Therapy Manual
-* Cognitive Behavioral Therapy for People with Co-Occurring Disorders (Hazelden Publishing)
-* Dialectical Behavior Therapy
-* TCU Treatment Interventions matrix
-* Seeking Safety: A Treatment Model for PTSD and Substance Abuse
-* Untangling Relationships (moral reconation therapy)
-* Anger Management for Substance Abuse and Mental Health Clients (published by the Substance Abuse and Mental Health Services Administration)
-* Living in Balance (Hazelden Publishing)
-* Mindfulness-Based Relapse Prevention (MBRP)
+* [The Carey Guides](http://www.careygrouppublishing.com/)
+* [University of Rhode Island Change Assessment](https://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/75_URICA.pdf)
+* [Texas Christian University (TCU) Drug Screen 5](https://ibr.tcu.edu/forms/tcu-drug-screen/)
+* [TCU Criminal Thinking Scales](https://ibr.tcu.edu/forms/tcu-criminal-thinking-scales/)
+* [The Matrix Model](https://www.matrixinstitute.org/matrixtraining/matrix-manuals/)
+* [Interactive Journaling (Change Companies)](https://www.changecompanies.net/interactivejournaling/)
+* [Group Treatment for Substance Abuse: A Stages-of-Change Therapy Manual](https://www.amazon.com/Treatment-Substance-Edition-Stages-Change/dp/1462523404/ref=pd_sim_14_4?ie=UTF8&dpID=51QeAP3WDrL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&refRID=19J6NAMN43DM7TNVPC7J)
+* [Cognitive Behavioral Therapy for People with Co-Occurring Disorders (Hazelden Publishing)](https://www.hazelden.org/OA_HTML/item/308131)
+* [Dialectical Behavior Therapy](https://www.amazon.com/Dialectical-Behavior-Therapy-Clinicians-Guidebook/dp/0979021847)
+* [TCU Treatment Interventions matrix](http://ibr.tcu.edu/wp-content/uploads/2014/09/Interventions-Matrix-linked-9-4-14.pdf)
+* [Seeking Safety: A Treatment Model for PTSD and Substance Abuse](https://www.treatment-innovations.org/seeking-safety.html)
+* [Untangling Relationships (moral reconation therapy)](https://www.ccimrt.com/product/untangling-relationships/)
+* [Anger Management for Substance Abuse and Mental Health Clients (published by the Substance Abuse and Mental Health Services Administration)](https://store.samhsa.gov/product/Anger-Management-for-Substance-Abuse-and-Mental-Health-Clients-Participant-Workbook/SMA14-4210)
+* [Living in Balance (Hazelden Publishing)](https://www.hazelden.org/web/public/livinginbalance.page)
+* [Mindfulness-Based Relapse Prevention (MBRP)](https://www.mindfulrp.com/)
 
 #### FUNDING
 
@@ -94,3 +94,7 @@ The program team is driven by these core principles:
 #### LESSONS LEARNED
 
 Remember that collaboration is time-intensive, sometimes with competing priorities and philosophical beliefs and even passionate disagreements. Never give up on a good program and always give your collaborative partnerships the benefit of their positive intent.
+
+---
+#### Submitted by
+Sgt. Matt Meier, Marion County Sheriff's Office
