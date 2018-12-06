@@ -58,5 +58,9 @@ For the program to be used in greater numbers, it is critical for the entire cri
 
 Start early recruiting the essential partners, especially behavioral health service providers. Expect to work hard to achieve officer buy-in, not everyone in the police department will agree immediately with the idea of diversion. Work with all stakeholders to develop consensus around the program’s protocol and policies.
 
+#### ADDITIONAL DOCUMENTS
+
+[LEADS Agreement Form](lead-agreement-form-final.pdf)
+
 #### Submitted by
 Lt. Jerry Mott, Dallas Police Department
