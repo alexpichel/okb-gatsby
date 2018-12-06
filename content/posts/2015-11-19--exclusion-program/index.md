@@ -50,7 +50,7 @@ Be clear with businesses and other properties who wish to enroll in this program
 
 #### ADDITIONAL DOCUMENTS
 
-[Criteria for Exclusion](okb-gatsby/content/posts/2015-11-19--exclusion-program/CRITERIA_FOR_EXCLUSION_FROM_BUSINESSES.pdf) 
+[Criteria for Exclusion](CRITERIA_FOR_EXCLUSION_FROM_BUSINESSES.pdf) 
 
 ---
 
