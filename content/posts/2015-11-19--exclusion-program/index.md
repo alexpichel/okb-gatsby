@@ -47,3 +47,8 @@ The deputies on the street have been critical in spreading the word about this p
 #### LESSONS LEARNED
 
 Be clear with businesses and other properties who wish to enroll in this program that this is only to assist them with individuals who meet the specific criteria as specified in the program. It does not apply to persons if they simply wish to decline service, or to persons they may have personal history with, unless the behavior clearly fits the criteria as spelled out in the program. Mobile home parks are one type of property that should not be enrolled in the exclusion program, since the customary arrangement is that persons lease the land, but own the structure of their home. They should have the right to invite whomever they choose to their residence.
+
+---
+
+#### Submitted by
+Community Service Officer / Crime Prevention Coordinator Sara McClurg, Clackamas County Sheriff's Office
