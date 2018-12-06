@@ -52,5 +52,9 @@ The approach was holistic (it contained enforcement, regulatory, CEPTD and educa
 
 Identify similar towns/counties and reach out to those agencies to see what approaches they are using. Then modify those approaches to fit with your jurisdiction.
 
+#### ADDITIONAL DOCUMENTS
+
+[2015 Goldstein Award Submission](https://live-cpop.ws.asu.edu/sites/default/files/org/15-09_portland.pdf)
+
 #### Submitted by
 Sgt. Erik Strohmeyer, Portland Police Bureau
