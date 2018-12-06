@@ -46,3 +46,8 @@ Proposed outcomes include:
 * Decrease in recidivism
 * Increase in offenders accessing treatment
 * Increase in offender accountability
+
+---
+
+#### Submitted by
+Lt. Holly Rico, Tillamook County Community Corrections
