@@ -58,6 +58,8 @@ Communicate with your residents and community partners. Following the implementa
 #### ADDITIONAL DOCUMENTS
 
 [Qaxas Trail Cleanup Proprosal](Qaxas_Cleanup.pdf)
-      
+
+---
+
 #### Submitted by
 Lt. Brian Dubray, Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department
