@@ -52,3 +52,8 @@ Proposed outcomes include:
 - Increase in STTL applicants accepted
 - Decrease in recidivism rates
 - Decrease in county prison usage
+
+---
+
+#### Submitted by
+Travis Miller, Director, Union County Community Corrections
