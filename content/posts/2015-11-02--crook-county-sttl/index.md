@@ -55,5 +55,7 @@ Proposed outcomes for supervised population include:
 * Decrease in revocations
 * Decrease in offender drug use
 
-#### Submitted By
+---
+
+#### Submitted by
 Director Rhonda Belanger, Crook County Community Corrections
