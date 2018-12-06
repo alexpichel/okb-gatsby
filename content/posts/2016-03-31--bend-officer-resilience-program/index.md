@@ -61,3 +61,8 @@ Administrative and financial support, in addition to officers being willing to t
 It would be worthwhile to redefine what police training is. Training officers’ minds and bodies is an essential part of them surviving their career and effectively serving our communities.
 
 [video](https://cityofbendoregon.podbean.com/e/city-edition-police-department-wellness-program/)
+
+---
+
+#### Submitted by
+Sgt. Brian Beekman, Bend Police Department
