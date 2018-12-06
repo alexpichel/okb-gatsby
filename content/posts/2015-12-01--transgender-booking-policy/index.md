@@ -83,3 +83,8 @@ The policy has been a success for the county. The policy has been challenged by 
 Our policy was developed with the hope of staff training being introduced before the release of the policy, but we had budgetary constraints that didn’t make it possible to implement the policy after staff were trained. Although a lieutenant spoke at every shift briefing prior to the policy being released, training needed to be launched prior to the policy in order to give staff clear guidelines for how the policy would be operationalized.
 
 Another lesson learned is that picking a core group of sergeants and deputies to help advocate for a policy this challenging for staff would be helpful in getting staff buy-in. Staff will be problematic when dealing with individuals or issues they don’t understand, so having trained supervisory and peer staff to work closely with deputies could help offset some of these challenges.
+
+---
+
+#### Submitted by
+Sgt. Joey De Armond, Multnomah County Sheriff's Office
