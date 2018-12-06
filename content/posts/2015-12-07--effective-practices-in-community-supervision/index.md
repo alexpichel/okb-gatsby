@@ -58,3 +58,8 @@ Train-the-trainer sessions took our department to a new level and are critical i
 #### LESSONS LEARNED
 
 Invest in the success of your coaches. When the initial implementation ends, the coaches will step up and lead boosters, listen to tapes, and provide coaching. Their time and commitment is reflected in the officers’ time and commitment to this initiative.
+
+---
+
+#### Submitted by
+Pat Schreiner, District Manager, Multnomah County Department of Community Justice
