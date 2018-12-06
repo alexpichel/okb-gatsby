@@ -33,7 +33,7 @@ Park Watch operates like Neighborhood Watch. There are captains for each park an
 
 It is based on National Neighborhood Watch Programs.
 
-[Neighborhood Watch Programs](2015-11-30--neighborhood-watch-programs/index.md)
+[Neighborhood Watch Programs](posts/2015-11-30--neighborhood-watch-programs/index.md)
 
 #### FUNDING
 
