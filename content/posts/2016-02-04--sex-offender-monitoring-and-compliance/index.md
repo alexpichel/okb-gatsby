@@ -71,3 +71,8 @@ Allow the officers involved in this program to be volunteers and to join or drop
 #### LESSONS LEARNED
 
 The program manager should request a user name and password to access the State of Oregon Sex Offender Inquiry System. The public online system does not include all registered sex offenders in Oregon and does not have the search features required to obtain accurate information.
+
+---
+
+#### Submitted by
+Officer Tom Sweeney, Medford Police Department
