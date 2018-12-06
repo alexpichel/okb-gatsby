@@ -46,5 +46,7 @@ Proposed outcomes include:
 
 90% of victims will agree that the Victim Assistance Program provided them with services that helped them make informal choices about their situations.
 
+---
+
 #### Submitted by
 Director Dean Hoodenpyl, Grant County Community Corrections
