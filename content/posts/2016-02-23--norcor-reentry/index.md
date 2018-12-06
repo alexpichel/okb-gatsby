@@ -57,3 +57,8 @@ A treatment cohort formed every six weeks and involved a treatment group and a c
 As of February 2017, 87 participants have completed treatment and been released for at least 60 days. Of those people, only 33 (37 percent) have returned. In the first year, 147 people have been placed in the control group and have been out for at least 60 days; 64 individuals (44 percent) have returned to jail. Both groups have significantly lower recidivism rates than NORCOR’s typical 70 percent rate over 60 days.
 
 The program will expand its focus and treatment resources to the chronically mentally ill population and to people who are dually diagnosed. By employing an enhanced case management model and collaborating with the program’s community provider, NORCOR has reduced the severely and persistently mentally ill population from 43 in February 2016 to 17 in December 2016. With enhanced in-house treatment services, it is hoped that the program will be able to reduce that number even further.
+
+---
+
+#### Submitted by
+Bryan Brandenburg, Administrator, Northern Oregon Regional Correctional Facility
