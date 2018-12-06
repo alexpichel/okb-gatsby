@@ -66,8 +66,6 @@ A multi-disciplinary approach is essential to the treatment of individuals who h
 
 ---
 
-#### Program Submitted by
+#### Submitted by
 
-Maureen Robb, Director at Linn County Community Corrections
-
-Email at <a href="mailto:Maureen.M.Robb@doc.state.or.us"><img src="https://github.com/google/material-design-icons/raw/master/communication/1x_web/ic_email_black_48dp.png" width="24" /> Maureen.M.Robb@doc.state.or.us</a>
+Director Maureen Robb, Linn County Community Corrections
