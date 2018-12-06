@@ -61,3 +61,8 @@ NET does not simply react to an issue and move on. The team gets deep into the c
 #### LESSONS LEARNED
 
 Bring the other city divisions and police units into the planning process early on. Their support is critical. Equally important, take the time to talk to people on their porches, in their parks, at their businesses. In just the first four months of NET’s existence, the officers spent 50 hours at community meetings and made over 2,000 citizen contacts.
+
+---
+
+#### Submitted by
+Officer James Leake, Gresham Police Department
