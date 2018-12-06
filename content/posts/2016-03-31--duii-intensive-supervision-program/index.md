@@ -36,6 +36,8 @@ A multidisciplinary team meets weekly to discuss upcoming hearings and decide up
 
 DISP was not created based on research or evidence-based practices, but it has evolved into a program that assimilates evidence-based principles extensively. The program’s use of these principles appears to be consistent with research presented in Adult Drug Court Best Practice Standards, Volume 1 and recommendations set forth by the Bureau of Justice Assistance and the National Institutes of Health as program components that are consistent with success. DISP looks to the National Association of Drug Court Professionals (NADCP) (nadcp.org) and the National Center for DWI Courts (dwicourts.org ) for the latest information, studies, and best practices.
 
+[Crimesolutions.gov DISP Program Profile](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=48)
+
 According to the National Center for DWI Courts, three discrete studies have found DWI courts effective in reducing recidivism among DWI offenders.
 
 #### FUNDING
@@ -66,3 +68,8 @@ With an investment in dedicated staff and judge time, a circuit court or municip
 #### LESSONS LEARNED
 
 Getting the support of the community and assembling a comprehensive team is critical and it can be accomplished by presenting valid, relevant outcome data on recidivism for DUII offenders in a treatment court versus traditional probation.
+
+---
+
+#### Submitted by
+John Dieter, Director, Oregon Judicial Department
