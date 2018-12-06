@@ -56,5 +56,7 @@ Identify similar towns/counties and reach out to those agencies to see what appr
 
 [2015 Goldstein Award Submission](https://live-cpop.ws.asu.edu/sites/default/files/org/15-09_portland.pdf)
 
+---
+
 #### Submitted by
 Sgt. Erik Strohmeyer, Portland Police Bureau
