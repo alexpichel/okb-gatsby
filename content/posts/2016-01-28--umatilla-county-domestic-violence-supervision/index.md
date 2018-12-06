@@ -48,3 +48,8 @@ Proposed outcomes include:
 - Reduction in recidivism that leads to new felony domestic violence arrests and convictions
 - Reduction in prison-bed usage for repeat offenders who commit a new domestic violence offense
 - Increased accountability for victim reparations
+
+---
+
+#### Submitted by
+Dale Primmer, Director, Umatilla County Community Corrections
