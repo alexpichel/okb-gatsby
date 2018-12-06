@@ -59,3 +59,8 @@ Another key element to this program’s success is having the support of probati
 Have realistic expectations. This is a mostly high-risk, antisocial, pro-criminal population you are dealing with. Don’t expect results overnight. The results will come over time.
 
 Develop and maintain good community-partner relationships. We could not make this program successful without the commitment, encouragement, and dedication of our community partners.
+
+---
+
+#### Submitted by
+Nate Gaoiran, Director, Josephine County Community Corrections
