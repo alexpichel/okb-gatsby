@@ -55,5 +55,9 @@ The primary factor of success regarding the program was coordinating with the ho
 
 Communicate with your residents and community partners. Following the implementation of this program, we are able to hold each other responsible for the safety of the community. Although this project is small in scope, its principles can be modified and adapted to fit the needs of any community.
 
+#### ADDITIONAL DOCUMENTS
+
+[Qaxas Trail Cleanup Proprosal](okb-gatsby/content/posts/2015-10-19--qaxas-trail-cleanup/Qaxas_Cleanup.pdf)
+      
 #### Submitted by
 Lt. Brian Dubray, Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department
