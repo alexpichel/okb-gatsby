@@ -86,3 +86,12 @@ It is critical to have an explicit programmatic approach to these problems. When
 #### LESSONS LEARNED
 
 When I designed the program, I interviewed and drew from the team members’ experience dealing with properties, neighbors, and partners, Then I sought advice from civil attorneys and prosecutors at the city level, to see if they had any concerns about the process. The final step was researching the problem on a national level and extracting best practices from work conducted by other organizations. Finally, the police team must be a reliable partner, so that they can expect the other partners to be reliable too.
+
+#### ADDITIONAL DOCUMENTS
+
+[2016 Goldstein Award Submission - Zombie Houses](https://popcenter.asu.edu/sites/default/files/16-01_portland.pdf)
+
+---
+
+#### Submitted by
+Sgt. Randy Teig, Portland Police Bureau
