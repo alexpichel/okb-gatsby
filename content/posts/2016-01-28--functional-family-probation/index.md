@@ -38,3 +38,8 @@ Functional Family Probation engages youth and families holistically in motivatin
 #### CRITICAL SUCCESS FACTORS
 
 Fidelity to the model, buy­-in from staff, and continued training and support from management are critical to the success of the FFP model.
+
+---
+
+#### Submitted by
+Tracey Freeman, Senior Manager, Multnomah County Department of Community Justice
