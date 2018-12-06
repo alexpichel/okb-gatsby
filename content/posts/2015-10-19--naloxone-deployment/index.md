@@ -51,5 +51,7 @@ Find a physician willing to oversee the program early in the process, so they ca
 
 Get your local fire department on board; they can assist in training and ordering of the naloxone.
 
+---
+
 #### Submitted by
 Sgt. Geoff Kirkpatrick & Cpl. Chris Dode, Medford Police Department
