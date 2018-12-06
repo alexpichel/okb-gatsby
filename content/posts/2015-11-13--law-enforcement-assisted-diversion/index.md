@@ -62,5 +62,7 @@ Start early recruiting the essential partners, especially behavioral health serv
 
 [LEADS Agreement Form](lead-agreement-form-final.pdf)
 
+---
+
 #### Submitted by
 Lt. Jerry Mott, Dallas Police Department
