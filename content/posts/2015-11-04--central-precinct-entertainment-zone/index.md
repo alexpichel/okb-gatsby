@@ -51,3 +51,6 @@ The approach was holistic (it contained enforcement, regulatory, CEPTD and educa
 #### LESSONS LEARNED
 
 Identify similar towns/counties and reach out to those agencies to see what approaches they are using. Then modify those approaches to fit with your jurisdiction.
+
+#### Submitted by
+Sgt. Erik Strohmeyer, Portland Police Bureau
