@@ -52,3 +52,8 @@ Proposed outcomes include:
 #### CRITICAL SUCCESS FACTORS
 
 The program has not yet been implemented; it is too soon to identify the factors critical to its success.
+
+---
+
+#### Submitted by
+Lt. Kristen Hanthorn, Clatsop County Parole and Probation
