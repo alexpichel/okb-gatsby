@@ -50,5 +50,7 @@ Data, the Nuisance Intervention Team (NIT), communication within the department 
 
 Commit to the program and philosophy to see results. It was not originally embraced by officers, but when they saw the results and positive feedback from citizens, they were all in.
 
+---
+
 #### Submitted by
 Chief Bill Landis, Grants Pass Department of Public Safety

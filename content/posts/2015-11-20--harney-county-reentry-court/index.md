@@ -45,3 +45,8 @@ Proposed outcomes include:
 - Lower short- and long-term recidivism rates
 - Decrease in new violations
 - Decrease in revocations
+
+---
+
+#### Submitted by
+Director Lodi Presley, Harney County Community Corrections

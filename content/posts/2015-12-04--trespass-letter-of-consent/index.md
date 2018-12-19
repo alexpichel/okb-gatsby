@@ -74,3 +74,8 @@ The TLC program is not intended for use in multi-family dwelling properties.
 * Multi-family housing is not a business with regular hours of operation, thus the TLC would not apply.
 
 * If property owners/managers have a repeated issue with an unwanted individual in their tenant’s contractual premises, then the owner/manager must deal with the situation via the particulars of tenant’s rental agreement.
+
+---
+
+#### Submitted by
+Angela Maria Hedrick, Community Relations Analyst, Salem Police Department

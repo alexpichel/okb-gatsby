@@ -49,3 +49,8 @@ Proposed outcomes include:
 * Increased number of “reach-ins” conducted
 * Decrease in recidivism
 * Decrease in use of custody beds, locally and statewide
+
+---
+
+#### Submitted by
+Sheriff Gary Bettencourt, Gilliam County Sheriff's Office

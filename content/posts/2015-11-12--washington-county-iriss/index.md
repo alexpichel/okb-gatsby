@@ -74,3 +74,8 @@ The program has not yet been implemented; it is too soon to identify the factors
 #### LESSONS LEARNED
 
 The program has not yet been implemented; it is too soon to provide advice.
+
+---
+
+#### Submitted by
+Director Steve Berger, Washington County Community Corrections & LPSCC

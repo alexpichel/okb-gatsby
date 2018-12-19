@@ -52,3 +52,8 @@ Networking and partnering with businesses, especially their loss-prevention pers
 #### LESSONS LEARNED
 
 Don’t be afraid to look at the problem for what it is and find creative ways to address it. Be willing to partner with businesses and apply creative solutions to chronic criminal activity that affects them. Think outside the box to find nontraditional revenue streams, but be willing to sell your approach to the stakeholders and listen to their ideas on how to mold it.
+
+---
+
+#### Submitted by
+Sgt. Leigh Erickson, Tigard Police Department

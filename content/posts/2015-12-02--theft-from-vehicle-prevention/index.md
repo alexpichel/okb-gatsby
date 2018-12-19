@@ -44,3 +44,8 @@ Cost of letterhead and mailing is absorbed through the Crime Prevention Unit bud
 #### PROGRAM IMPACT
 
 137 letters have been sent year to date (Jan-Nov) for 2015, based on observations by our Volunteer Senior Patrol Team alone. Stats for private security letters are not available at this time.
+
+---
+
+#### Submitted by
+Debbie Janecek, Acting Crime Prevention Unity Supervisor, Eugene Police Department

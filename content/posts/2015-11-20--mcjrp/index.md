@@ -78,3 +78,8 @@ Prior to implementation in 2013, 55% of would-be MCJRP-eligible cases received p
 - Collaboration
 - Ongoing, consistent meetings with key players
 - Decision-making agreement
+
+---
+
+#### Submitted by
+Abbey Stamp, LPSCC Executive Director - Multnomah County

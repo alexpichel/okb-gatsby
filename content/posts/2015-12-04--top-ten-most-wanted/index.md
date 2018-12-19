@@ -88,3 +88,8 @@ Top Ten Most Wanted was resurrected after building the following into the progra
 Use of the e-tip system has worked well for citizens who prefer not to speak directly with police. Anyone viewing the poster online simply needs to click on the photo of the subject, and an email form pops up allowing the user to provide information, such as the location, type of vehicle being used, or the names of any known associates.
 
 Promotion of the program is necessary to maintain attention to these prolific criminals with valid warrants. Social media has been very beneficial to the program as it allows for posting of the list, but also to make known when these subjects are arrested. Statistical evidence aside, public confidence in police competency to combat crime can be fostered when an agency can demonstrate successes in keeping the community safe.
+
+---
+
+#### Submitted by
+Angela Maria Hedrick, Community Relations Analyst, Salem Police Department

@@ -68,3 +68,8 @@ The program is funded by dedicated state Justice Reinvestment grant funding and 
 - Collaboration among county stakeholders was critical to success.
 
 - Reaching out to learn from other counties and states was very helpful.
+
+---
+
+#### Submitted by
+Brian Rucker, Community Justice Manager, Yamhill County Department of Community Justice

@@ -56,3 +56,8 @@ It was quickly determined that there was no money in the Police or Parks & Recre
 #### LESSONS LEARNED
 
 Giving an on-site demo of what your area could look like with proper lighting had a great impact.
+
+---
+
+#### Submitted by
+Sandy Roberts, Community Education Specialist, Albany Police Department

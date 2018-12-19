@@ -47,3 +47,13 @@ The officers chosen for this assignment are passionate about the mission of the 
 #### LESSONS LEARNED
 
 Staffing the unit with officers who believe in the program is a must—as is communication within the ranks, so that patrol officers understand the role of the unit and how they can support each other.
+
+#### ADDITIONAL INFORMATION
+
+[*Bend Police Launch Crisis Response Team* - KTVZ-TV Report](https://www.ktvz.com/news/bend/bend-police-launch-crisis-response-team/69142348)
+[*Bend PD Forms Response Team for Mental Health Crises* - KTVZ-TC Report](https://www.ktvz.com/health/bend-pd-forms-response-team-for-mental-health-crises/69150132)
+
+---
+
+#### Submitted by
+Sgt. Elizabeth Lawrence, Bend Police Department

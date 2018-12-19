@@ -36,3 +36,8 @@ The Day Reporting/Management Center (DRMC) is designed to divert offenders from 
 #### PROGRAM IMPACT
 
 The Day Reporting/Management Center is expected to provide additional contacts, oversight and resources to medium/high risk offenders on supervision and those defendants on pretrial release.
+
+---
+
+#### Submitted by
+Jodi Merritt, Research/Project Analyst, Jackson County Community Justice

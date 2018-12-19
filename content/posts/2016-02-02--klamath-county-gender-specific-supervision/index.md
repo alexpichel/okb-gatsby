@@ -59,3 +59,8 @@ Work closely with local providers.
 #### LESSONS LEARNED
 
 Thoroughly research what is already provided in the community and bring all of the partners to the table. This decreases duplication and improves resource allocation.
+
+---
+
+#### Submitted by
+Kiki Parker-Rose, Director, Klamath County Community Corrections

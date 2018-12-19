@@ -48,3 +48,12 @@ Support from the community and the families whose children have attended, along 
 #### LESSONS LEARNED
 
 While the commitment is great, it's worth the investment in the safety and future of our children. Many in the community will help you out. Other agencies will help you get started.
+
+#### ADDITIONAL DOCUMENTS
+
+[Eugene Safety Town After Action Report](AAR-SAFETY-TOWN-2015.pdf)
+
+---
+
+#### Submitted by
+Acting Supervisor Debbie Janecek, Eugene Police Department

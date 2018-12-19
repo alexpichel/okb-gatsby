@@ -64,3 +64,8 @@ The program has not yet been implemented; it is too soon to identify the factors
 #### LESSONS LEARNED
 
 The program has not yet been implemented; it is too soon to provide advice.
+
+---
+
+#### Submitted by
+Director Chris Hoy, Clackamas County Community Corrections

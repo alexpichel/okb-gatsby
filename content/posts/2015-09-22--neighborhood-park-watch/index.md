@@ -51,5 +51,7 @@ Community involvement and partnership are key to this program being successful.
 
 This appears to be a rarity in law enforcement to have a structured program like this. It’s a great buy-in for the community and for police partnerships.
 
+---
+
 #### Submitted by
 Community Policing Officer Dala Johnson, Lebanon Police Department

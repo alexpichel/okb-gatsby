@@ -47,3 +47,8 @@ The cooperation of the new landowner and his willingness to partner with NET was
 #### LESSONS LEARNED
 
 Solicit the assistance of your code enforcement team and get the landowners involved. The threat of arrest is not enough unless you have the support from the landowners.
+
+---
+
+#### Submitted by
+Officer James Leake, Gresham Police Department

@@ -45,5 +45,7 @@ The two-pronged enforcement approach and getting buy in from property owners and
 
 Get the property owners and managers on board from the start and provide them with a way of getting the information about CNP houses in a timely manner.
 
+---
+
 #### Submitted by
 Sgt. Ryan Eaton, Corvallis Police Department

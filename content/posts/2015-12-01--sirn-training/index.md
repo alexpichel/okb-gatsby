@@ -35,3 +35,8 @@ Including all of the agencies that interact with the justice-involved population
 #### LESSONS LEARNED
 
 This program is not about changing the minds or practices of the other agencies that interact with the clients we serve. This program is about information sharing and fostering relationships.
+
+---
+
+#### Submitted by
+Tina Edge, Senior Program Analyst, Multnomah County Department of Community Justice

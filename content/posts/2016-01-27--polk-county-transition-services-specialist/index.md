@@ -40,4 +40,7 @@ Proposed outcomes include:
 * Participants will miss fewer treatment meetings.
 * Fewer offenders will be sanctioned to jail or returned to court for probation violations.
 
+---
 
+#### Submitted by
+Martin D. Silbernagel, Director, Polk County Community Corrections

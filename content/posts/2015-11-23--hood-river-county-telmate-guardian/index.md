@@ -49,3 +49,8 @@ Proposed outcome measures:
 
 - Reduced recidivism
 - More officer time and resources targeted toward high-risk population
+
+---
+
+#### Submitted by
+Commander Jamie Hepner, Hood River County Sheriff's Office
