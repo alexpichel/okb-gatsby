@@ -2,30 +2,36 @@
 title: Resources
 ---
 
-This is a beta site of the [Oregon Knowledge Bank](http://okb.oregon.gov).
+## OREGON-BASED RESOURCES
+•	[DPSST Criminal Justice Researcher](mailto:annie.rexford@state.or.us?subject=Project%20Research%20Assistance%20Request) (Topic summaries created upon request)
+•	[Criminal Justice Commission](http://www.oregon.gov/cjc/Pages/index.aspx) (Data Dashboards)
+•	[Criminal Justice Policy Research Institute](http://www.pdx.edu/cjpri/cjpri_research) (Portland State University)
+•	[Oregon Prospector](http://www.oregonprospector.com/) (General community data by the State of Oregon)
 
-The test site is an experiment in using a [progressive web app](https://developers.google.com/web/progressive-web-apps/) to deliver the OKB programs.
 
-The Oregon Knowledge Bank (OKB) is a resource for and created by the public safety community in Oregon. The OKB focuses on Oregon: its innovative policing, corrections, and community supervision programs; research conducted on criminal justice initiatives here; and public safety agency profiles.
-
-The OKB strives to be the go-to resource for public safety practitioners statewide for evidence-based practices and problem-solving inspiration.
-
-## Our Features
+## NATIONAL AND INTERNATIONAL RESOURCES
 
 #### Programs
 
-The Program section provides the ability to submit, share, and search for public safety programs from around Oregon.
+* [Center for Problem-Oriented Policing](http://www.popcenter.org/) (POP)
+* [crimesolutions.gov](http://www.crimesolutions.gov/) (Evaluated Programs)
+* [National Institute of Corrections](https://nicic.gov/topics/) (Popular Topics)
+* [Office of Community Oriented Policing Services](https://cops.usdoj.gov/COPSpublications) (COPS)
+* [Police Foundation](http://www.policefoundation.org/) (Research and existing programs)
+* [UK What Works Centre for Crime Reduction](http://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx) (Impact and costs of programs)
 
-#### Research
 
-The Research section provides summaries of topics and research articles relevant to the needs of Oregon agencies and the communities they serve. From here, research assistance can also be requested.
+#### Data & Research
 
-#### Agency Directory
+* [Bureau of Justice Statistics](https://www.bjs.gov/)
+* [Campbell Collaboration](https://campbellcollaboration.org/component/jak2filter/?Itemid=1352&issearch=1&isc=1&category_id=101&xf_4%5b0%5d=1&xf_8%5b0%5d=3&ordering=publishUp) (Summaries of systematic reviews)
+* [Center for Evidence-Based Crime Policy](http://cebcp.org/evidence-based-policing/what-works-in-policing/research-evidence-review/) (One-page topic summaries & resources)
+* [Center for Evidence-Based Crime Policy](http://cebcp.org/one-pagers/) (One-page research article summaries)
+* [Crime and Justice Research Alliance](http://crimeandjusticeresearchalliance.org/explore-research/) (Article summaries by topic)
+* [FBI – Uniform Crime Reporting](https://ucr.fbi.gov/ucr) (National data)
 
-Profiles of Oregon public safety agencies
 
-## History
+## RESOURCE HUBS
 
-Oregon’s 2014 Justice Reinvestment Act (HB 3194) strongly promotes the use of evidence-based practices and cost-effective programs. The statute charges the newly created Center for Policing Excellence (or CPE, an initiative of the Oregon Department of Public Safety Standards and Training) with fostering interaction between law enforcement researchers and practitioners. The law also holds the Oregon Criminal Justice Commission (CJC) responsible for tasks related to sharing information and encouraging the use of best practices throughout the state’s criminal justice system.
-
-In 2015, the CPE and CJC collaborated to design and develop the Oregon Knowledge Bank as a resource to fulfill these mandates.
+* [crimesolutions.gov Resource Page](https://www.crimesolutions.gov/resources.aspx)
+* [Police Foundation Resource Page](https://www.policefoundation.org/general-resources/)
