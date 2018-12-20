@@ -15,11 +15,14 @@ title: Resources
 #### Programs
 
 * [Center for Problem-Oriented Policing](http://www.popcenter.org/) (POP)
-* [crimesolutions.gov](http://www.crimesolutions.gov/) (Evaluated Programs)
-* [National Institute of Corrections](https://nicic.gov/topics/) (Popular Topics)
+* [Council of State Governments](https://csgjusticecenter.org/) - Justice Center
+* [crimesolutions.gov](http://www.crimesolutions.gov/) - Evaluated Programs
+* [National Crime Prevention Council](https://www.ncpc.org/) - Programs & Resources
+* [National Institute of Corrections](https://nicic.gov/topics/) - Popular Topics
 * [Office of Community Oriented Policing Services](https://cops.usdoj.gov/COPSpublications) (COPS)
-* [Police Foundation](http://www.policefoundation.org/) (Research and existing programs)
-* [UK What Works Centre for Crime Reduction](http://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx) (Impact and costs of programs)
+* [Office of Justice Programs](http://www.ojp.gov/)
+* [Police Foundation](http://www.policefoundation.org/) - Research and existing programs
+* [UK What Works Centre for Crime Reduction](http://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx) - Impact and costs of programs
 
 #### Data & Research
 
@@ -29,9 +32,24 @@ title: Resources
 * [Center for Evidence-Based Crime Policy](http://cebcp.org/one-pagers/) (One-page research article summaries)
 * [Crime and Justice Research Alliance](http://crimeandjusticeresearchalliance.org/explore-research/) (Article summaries by topic)
 * [FBI – Uniform Crime Reporting](https://ucr.fbi.gov/ucr) (National data)
-
+* [Police Executive Research Forum](https://www.policeforum.org/)
+* [RAND Corporation](https://www.rand.org/topics/public-safety.html) - Public Safety
+* [Vera Institute of Justice](https://www.vera.org/research) - Research & Analysis
 
 ## RESOURCE HUBS
 
 * [crimesolutions.gov Resource Page](https://www.crimesolutions.gov/resources.aspx)
+* [National Criminal Justice Reference Service (NCJRS)](https://www.ncjrs.gov/)
 * [Police Foundation Resource Page](https://www.policefoundation.org/general-resources/)
+
+
+## GRANTS AND TECHNICAL ASSISTANCE
+
+* [Bureau of Justice Assistance](https://www.bja.gov/default.aspx)
+
+## ASSOCIATIONS
+
+* [American Academy of Probation and Parole](https://www.appa-net.org/eweb/)
+* [International Association of Chiefs of Police](https://www.theiacp.org/)
+* [International Association of Crime Analysts](https://www.iaca.net/)
+* [International Community Corrections Association](https://www.iccalive.org/icca/)
