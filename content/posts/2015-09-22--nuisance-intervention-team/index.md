@@ -4,6 +4,8 @@ date: "2015-09-22"
 layout: post
 cover: /assets/policing.png
 logo: /assets/agency/grantspass-pd-logo.png
+author: "Chief Bill Landis"
+agencyID: "grants-pass-ps"
 agency: "Grants Pass Department of Public Safety"
 category: "Policing"
 tags:
@@ -49,8 +51,3 @@ Data, the Nuisance Intervention Team (NIT), communication within the department 
 #### LESSONS LEARNED
 
 Commit to the program and philosophy to see results. It was not originally embraced by officers, but when they saw the results and positive feedback from citizens, they were all in.
-
----
-
-#### Submitted by
-Chief Bill Landis, Grants Pass Department of Public Safety
