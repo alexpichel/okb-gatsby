@@ -3,12 +3,14 @@ title: "Grant County Restitution Advocate"
 date: "2015-11-02"
 cover: /assets/correctional.png
 logo: /assets/agency/grant-sheriff-logo.png
+author: "Dean Hoodenpyl, Director (Former)"
+agencyID: "grant-s"
 agency: "Grant County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "restitution"
-  - "victims"
+  - "Justice Reinvestment"
+  - "Restitution"
+  - "Victims"
 subTitle: "A Restitution Advocate position was created to assist victims in navigating the restitution process."
 ---
 
@@ -45,8 +47,3 @@ Proposed outcomes include:
 25 unduplicated clients will receive assistance in organizing and documenting restitution.
 
 90% of victims will agree that the Victim Assistance Program provided them with services that helped them make informal choices about their situations.
-
----
-
-#### Submitted by
-Director Dean Hoodenpyl, Grant County Community Corrections
