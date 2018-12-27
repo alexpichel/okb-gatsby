@@ -5,6 +5,7 @@ cover: /assets/policing.png
 logo: /assets/agency/marion-sheriff-logo.png
 author: "Lt. Tad Larson"
 agencyID: "marion-s"
+agency: "Marion County Sheriff's Office"
 category: "Policing"
 tags:
   - "Mental Illness"
