@@ -3,11 +3,13 @@ title: "Crook County STTL/Downward Departure Specialized Caseload"
 date: "2015-11-02"
 cover: /assets/correctional.png
 logo: /assets/agency/crook-sheriff-logo.png
+author: "Rhonda Belanger, Director"
+agencyID: "crook-s"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "specialized caseload"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Specialized Caseload"
+  - "Supervision"
 subTitle: "This program is designed to provide intensive supervision to offenders receiving a downward departure or Short Term Trans Leave."
 ---
 
@@ -54,8 +56,3 @@ Proposed outcomes for supervised population include:
 * Decrease in new violations
 * Decrease in revocations
 * Decrease in offender drug use
-
----
-
-#### Submitted by
-Director Rhonda Belanger, Crook County Community Corrections
