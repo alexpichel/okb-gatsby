@@ -10,6 +10,7 @@ category: "Policing"
 tags:
   - "Chronic Nuisance"
   - "Homeless"
+  - "Transients"
   - "Quality of Life"
 subTitle: "In a community partnership similar to Neighborhood Watch, teams are trained to be the eyes and ears for the police department and report suspicious circumstances to the police."
 ---
