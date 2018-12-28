@@ -3,10 +3,13 @@ title: "Klamath County Gender Specific Supervision"
 date: "2016-02-02"
 cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
+author: "Kiki Parker-Rose, Director"
+agencyid: "klamath-cc"
 agency: "Klamath County Community Corrections"
 category: "Correctional"
 tags:
-  - "specialized caseload"
+  - "Specialized Caseload"
+  - "Supervision"
 subTitle: "Use of more targeted supervision strategies increased compliance rates among adult female offenders."
 ---
 
@@ -59,8 +62,3 @@ Work closely with local providers.
 #### LESSONS LEARNED
 
 Thoroughly research what is already provided in the community and bring all of the partners to the table. This decreases duplication and improves resource allocation.
-
----
-
-#### Submitted by
-Kiki Parker-Rose, Director, Klamath County Community Corrections
