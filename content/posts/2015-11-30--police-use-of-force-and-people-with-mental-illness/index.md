@@ -3,13 +3,14 @@ title: "Police Use of Force and People with Mental Illness"
 date: "2015-11-30"
 cover: /assets/research.png
 logo: /assets/agency/umass.png
+agencyid: "ppb"
 agency: "University of Massachusetts - 2015"
 category: "Research"
 tags:
-  - "mental illness"
-  - "Oregon"
-  - "policy"
-  - "use of force"
+  - "Mental Illness"
+  - "Oregon Research"
+  - "Policy"
+  - "Use of Force"
 subTitle: "A retrospective study of data from the Portland Police Bureau dispels the idea that use of force encounters with people with Mental Illness are significantly more dangerous to the parties involved in the incident."
 ---
 
