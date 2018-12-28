@@ -3,11 +3,13 @@ title: "Distressed Property Strategy"
 date: "2016-03-23"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
+author: "Sgt. Randy Teig"
+agencyid: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
 tags:
-  - "abandoned properties"
-  - "quality of life"
+  - "Abandoned Property"
+  - "Quality of Life"
 subTitle: "A collaborative, systematic approach to addressing distressed properties produced a reduction in a number of call types in the area surrounding these properties."
 ---
 
@@ -90,8 +92,3 @@ When I designed the program, I interviewed and drew from the team members’ exp
 #### ADDITIONAL DOCUMENTS
 
 [2016 Goldstein Award Submission - Zombie Houses](https://popcenter.asu.edu/sites/default/files/16-01_portland.pdf)
-
----
-
-#### Submitted by
-Sgt. Randy Teig, Portland Police Bureau
