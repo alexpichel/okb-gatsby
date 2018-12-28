@@ -3,12 +3,14 @@ title: "Multnomah County Justice Reinvestment Program (MCJRP)"
 date: "2015-11-20"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
+author: "Abbey Stamp, Executive Director"
+agencyid: "multnomah-lpscc"
 agency: "Multnomah County Local Public Safety Coordinating Council"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "pre-sentence"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Pre-sentence"
+  - "Supervision"
 subTitle: "A program providing personalized supervision and treatment programs aims to reduce recidivism and prison use."
 ---
 
@@ -78,8 +80,3 @@ Prior to implementation in 2013, 55% of would-be MCJRP-eligible cases received p
 - Collaboration
 - Ongoing, consistent meetings with key players
 - Decision-making agreement
-
----
-
-#### Submitted by
-Abbey Stamp, LPSCC Executive Director - Multnomah County
