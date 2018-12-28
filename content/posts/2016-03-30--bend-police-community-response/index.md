@@ -3,10 +3,13 @@ title: "Bend Community Response Team"
 date: "2016-03-30"
 cover: /assets/policing.png
 logo: /assets/agency/bend-pd-logo.png
+author: "Sgt. Elizabeth Lawrence"
+agencyid: "bend-pd"
+agency: "Bend Police Department"
 category: "Policing"
 tags:
-  - "crisis intervention"
-  - "mental illness"
+  - "Crisis Intervention"
+  - "Mental Illness"
 subTitle: "A specialized team trained in crisis intervention and de-escalation respond to crisis events as they occur as well as provide follow-up support."
 ---
 
@@ -52,8 +55,3 @@ Staffing the unit with officers who believe in the program is a must—as is com
 
 [*Bend Police Launch Crisis Response Team* - KTVZ-TV Report](https://www.ktvz.com/news/bend/bend-police-launch-crisis-response-team/69142348)
 [*Bend PD Forms Response Team for Mental Health Crises* - KTVZ-TC Report](https://www.ktvz.com/health/bend-pd-forms-response-team-for-mental-health-crises/69150132)
-
----
-
-#### Submitted by
-Sgt. Elizabeth Lawrence, Bend Police Department
