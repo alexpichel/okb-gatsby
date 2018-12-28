@@ -3,10 +3,13 @@ title: "Clatsop County Treatment Oriented Intensive Supervision"
 date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/clatsop-logo.png
+author: "Lt. Kristen Hanthorn"
+agencyid: "clatsop-cc"
+agency: "Clatsop County Parole and Probation"
 category: "Correctional"
 tags:
-  - "intensive supervision"
-  - "justice reinvestment"
+  - "Justice Reinvestment"
+  - "Supervision"
 subTitle: "Shifting the focus of supervision officers to rehabilitative efforts and support services aims to increase the number of clients who successfully complete probation and treatment, as well as find housing and employment."
 ---
 
@@ -52,8 +55,3 @@ Proposed outcomes include:
 #### CRITICAL SUCCESS FACTORS
 
 The program has not yet been implemented; it is too soon to identify the factors critical to its success.
-
----
-
-#### Submitted by
-Lt. Kristen Hanthorn, Clatsop County Parole and Probation
