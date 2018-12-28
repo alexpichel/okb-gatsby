@@ -2,12 +2,14 @@
 title: "Police Use of Force"
 date: "2015-12-02"
 cover: /assets/research.png
-logo: /assets/agency/ppb.png
+logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2013"
 category: "Research"
 tags:
-  - "Oregon"
-  - "policy"
-  - "use of force"
+  - "Oregon Research
+  - "Policy"
+  - "Use of Force"
 subTitle: "A reliable, valid metric to assess use of force incidents both within and between agencies is needed to be consistent with evidence-based policing approaches."
 ---
 
