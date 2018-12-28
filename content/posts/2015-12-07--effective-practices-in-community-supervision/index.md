@@ -3,10 +3,13 @@ title: "Effective Practices in Community Supervision (EPICS)"
 date: "2015-12-07"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
+author: "Pat Schreiner, District Manager"
+agencyid: "mult-dcj"
+agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
 tags:
-  - "community supervision"
-  - "training"
+  - "Supervision"
+  - "Training"
 subTitle: "EPICS combines the principles of effective intervention with core correctional practices to lead to more successful outcomes."
 ---
 
@@ -58,8 +61,3 @@ Train-the-trainer sessions took our department to a new level and are critical i
 #### LESSONS LEARNED
 
 Invest in the success of your coaches. When the initial implementation ends, the coaches will step up and lead boosters, listen to tapes, and provide coaching. Their time and commitment is reflected in the officers’ time and commitment to this initiative.
-
----
-
-#### Submitted by
-Pat Schreiner, District Manager, Multnomah County Department of Community Justice
