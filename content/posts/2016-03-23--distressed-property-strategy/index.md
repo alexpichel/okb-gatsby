@@ -1,5 +1,5 @@
 ---
-title: "Distressed Property Strategy"
+title: "Distressed Property Strategy (Zombie Houses)"
 date: "2016-03-23"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
