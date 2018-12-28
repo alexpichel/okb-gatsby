@@ -3,11 +3,14 @@ title: "Jackson County Day Reporting - Managing"
 date: "2015-12-04"
 cover: /assets/correctional.png
 logo: /assets/agency/jackson-sheriff-logo.png
+author: "Jodi Merritt, Research/Project Analyst"
+agencyid: "jackson-cj"
+agency: "Jackson County Community Justice"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "pretrial release"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Pretrial Release"
+  - "Supervision"
 subTitle: "The Day Reporting/Management Center (DRMC) is designed to divert offenders from jail into a community alternative, while maintaining public safety and reducing detention costs."
 ---
 
@@ -36,8 +39,3 @@ The Day Reporting/Management Center (DRMC) is designed to divert offenders from 
 #### PROGRAM IMPACT
 
 The Day Reporting/Management Center is expected to provide additional contacts, oversight and resources to medium/high risk offenders on supervision and those defendants on pretrial release.
-
----
-
-#### Submitted by
-Jodi Merritt, Research/Project Analyst, Jackson County Community Justice
