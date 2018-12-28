@@ -2,9 +2,9 @@
 title: "Domestic Violence Reduction Unit"
 date: "2015-12-09"
 cover: /assets/research.png
-logo: /assets/agency/ppb.png
-agencyid: "ppb"
-agency: "National Institute of Justice - 1998"
+logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 1998"
 category: "Research"
 tags:
   - "Domestic Violence"
