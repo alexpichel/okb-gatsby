@@ -8,7 +8,7 @@ agency: "Multnomah County - 2001"
 category: "Research"
 tags:
   - "Crisis Intervention"
-  - "Mental Illness
+  - "Mental Illness"
   - "Oregon Research"
 subTitle: "The availability of a specialized crisis response site in pre-booking jail diversion programs may help overcome common issues in law enforcement-mental illness interactions"
 ---
