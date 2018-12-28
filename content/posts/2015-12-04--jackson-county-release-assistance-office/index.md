@@ -3,10 +3,12 @@ title: "Jackson County Release Assistance Office"
 date: "2015-12-04"
 cover: /assets/correctional.png
 logo: /assets/agency/jackson-sheriff-logo.png
+agencyid: "jackson-cj"
+agency: "Jackson County Community Justice"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "pretrial release"
+  - "Justice Reinvestment"
+  - "Pretrial Release"
 subTitle: "This program aims to reduce jail overcrowding, minimize the failure to appear rate by providing informed release decisions and appropriate community supervision."
 ---
 
@@ -39,4 +41,3 @@ This program is fully supported by the Justice Reinvestment grant and funds the 
 #### PROGRAM IMPACT
 
 The Release Assistance Office is a program expected to reduce jail overcrowding, minimize the failure to appear rate by providing informed release decisions and appropriate community supervision.
-
