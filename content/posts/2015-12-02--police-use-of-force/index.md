@@ -7,7 +7,7 @@ agencyid: "psu"
 agency: "Portland State University - 2013"
 category: "Research"
 tags:
-  - "Oregon Research
+  - "Oregon Research"
   - "Policy"
   - "Use of Force"
 subTitle: "A reliable, valid metric to assess use of force incidents both within and between agencies is needed to be consistent with evidence-based policing approaches."
