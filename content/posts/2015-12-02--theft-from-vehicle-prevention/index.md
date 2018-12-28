@@ -3,7 +3,7 @@ title: "Theft from Vehicle Prevention - Letter Program"
 date: "2015-12-02"
 cover: /assets/policing.png
 logo: /assets/agency/eugene-pd-logo.png
-author: "Debbie Janecek, Acting Crime Prevention Unit Supervisor"
+author: "Debbie Janecek, Prevention and Safety Acting Supervisor"
 agencyid: "eugene-pd"
 agency: "Eugene Police Department"
 category: "Policing"
