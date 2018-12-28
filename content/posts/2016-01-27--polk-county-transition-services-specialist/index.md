@@ -4,7 +4,7 @@ date: "2016-01-27"
 cover: /assets/correctional.png
 logo: /assets/agency/polk-sheriff-logo2.png
 author: "Martin D. Silbernagel, Director (Retired)"
-agencyid: "polk-s"
+agencyid: "polk-cc"
 agency: "Polk County Community Corrections"
 category: "Correctional"
 tags:
