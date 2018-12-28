@@ -3,12 +3,13 @@ title: "Domestic Violence Reduction Unit"
 date: "2015-12-09"
 cover: /assets/research.png
 logo: /assets/agency/ppb.png
+agencyid: "ppb"
+agency: "National Institute of Justice - 1998"
 category: "Research"
 tags:
-  - "community policing"
-  - "domestic violence"
-  - "family violence"
-  - "Oregon"
+  - "Domestic Violence"
+  - "Family Violence"
+  - "Oregon Research"
 subTitle: "A domestic violence reduction unit in Portland, Oregon demonstrates that police responses that go beyond arrest and include victim services are more effective than arrests alone."
 ---
 
