@@ -4,7 +4,7 @@ date: "2016-02-17"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
 author: "Brian Rucker, Community Justice Manager"
-agencyid: "yamhill-dcj
+agencyid: "yamhill-dcj"
 agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
 tags:
