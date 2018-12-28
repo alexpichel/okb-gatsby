@@ -3,12 +3,15 @@ title: "Impact of Police Behavior on Victim Reports"
 date: "2015-12-03"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2003"
 category: "Research"
 tags:
-  - "community relations"
-  - "domestic violence"
-  - "Oregon"
-  - "victims"
+  - "Community Outreach"
+  - "Domestic Violence"
+  - "Family Violence"
+  - "Oregon Research"
+  - "Victims"
 subTitle: "Victims who get the outcomes they desire from police are more likely to utilize the police in the future than victims whose preferences did not match the outcome."
 ---
 
