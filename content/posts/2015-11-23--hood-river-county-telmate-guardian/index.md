@@ -3,12 +3,14 @@ title: "Hood River County Telmate Guardian"
 date: "2015-11-23"
 cover: /assets/correctional.png
 logo: /assets/agency/hoodriver-sheriff-logo.png
+author: "Commander Jamie Hepner"
+agencyid: "hood-river-s"
 agency: "Hood River County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "supervision"
-  - "technology"
+  - "Justice Reinvestment"
+  - "Supervision"
+  - "Technology"
 subTitle: "Use of a minimally intrusive phone-based offender monitoring application aims to reduce recidivism in low risk offenders and make more resources available to high-risk offenders."
 ---
 
@@ -49,8 +51,3 @@ Proposed outcome measures:
 
 - Reduced recidivism
 - More officer time and resources targeted toward high-risk population
-
----
-
-#### Submitted by
-Commander Jamie Hepner, Hood River County Sheriff's Office
