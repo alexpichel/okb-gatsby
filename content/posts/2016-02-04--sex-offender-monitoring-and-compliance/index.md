@@ -3,11 +3,13 @@ title: "Sex Offender Monitoring and Compliance"
 date: "2016-02-04"
 cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
+author: "Officer Tom Sweeney"
+agencyid: "medford-pd"
 agency: "Medford Police Department"
 category: "Policing"
 tags:
-  - "sex offenders"
-  - "supervision"
+  - "Sex Offenders"
+  - "Supervision"
 subTitle: "Building compliance checks into patrol duties decreased the percentage of noncompliant sex offenders between 2006 and 2009."
 ---
 
@@ -71,8 +73,3 @@ Allow the officers involved in this program to be volunteers and to join or drop
 #### LESSONS LEARNED
 
 The program manager should request a user name and password to access the State of Oregon Sex Offender Inquiry System. The public online system does not include all registered sex offenders in Oregon and does not have the search features required to obtain accurate information.
-
----
-
-#### Submitted by
-Officer Tom Sweeney, Medford Police Department
