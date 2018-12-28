@@ -3,13 +3,16 @@ title: "Dave Clark Trail"
 date: "2016-01-27"
 cover: /assets/policing.png
 logo: /assets/agency/albany-pd-logo.png
+author: "Sandy Roberts, Community Education Specialist"
+agencyid: "albany-pd"
 agency: "Albany Police Department"
 category: "Policing"
 tags:
-  - "chronic nuisance"
+  - "Chronic Nuisance"
   - "CPTED"
-  - "crime prevention"
-  - "transients"
+  - "Crime Prevention"
+  - "Homeless"
+  - "Transients"
 subTitle: "The application of focused patrol and CPTED principles, including improved lighting, aim to reduce misuse of a city trail and increase the public's perception of safety."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -56,8 +59,3 @@ It was quickly determined that there was no money in the Police or Parks & Recre
 #### LESSONS LEARNED
 
 Giving an on-site demo of what your area could look like with proper lighting had a great impact.
-
----
-
-#### Submitted by
-Sandy Roberts, Community Education Specialist, Albany Police Department
