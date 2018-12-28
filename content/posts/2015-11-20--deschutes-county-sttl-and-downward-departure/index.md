@@ -3,12 +3,14 @@ title: "Deschutes County STTL and Downward Departure"
 date: "2015-11-20"
 cover: /assets/correctional.png
 logo: /assets/agency/deschutes-pp-logo.PNG
+author: "Tanner Wark, Administrator"
+agencyid: "deschutes-pp"
 agency: "Deschutes County Adult Parole & Probation"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "specialized caseload"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Specialized Caseload"
+  - "Supervision"
 subTitle: "A program offering a balance of sanctions, a variety of services, and a high frequency of contact aims to reduce recidivism and prison bed-days for offenders in Deschutes County."
 ---
 
@@ -48,8 +50,3 @@ This program is funded by a $1,517,273 grant through the 2015-17 Justice Reinves
 Portions of the Short Term Trans Leave program were implemented in 2013 with the first round of Justice Reinvestment funds. As a result of this investment, Deschutes County’s STTL acceptance rate rose to 54%, saving the Department of Corrections approximately 3,883 prison bed-days. With the expansion of the program, it is anticipated that these numbers will increase, maximizing the number of STTL applicants Deschutes County can accept.
 
 The Downward Departure portion of the program is currently being implemented and has no outcomes to report as of yet. However, of the 302 offenders who were sent to prison on a first sentence from January 2013 through December 2014, more than 200 would have been qualified to be considered for the program if it had existed. By instituting a presentence screening process and increasing available supervision and services, it is estimated that this program will substantially increase the number of downward departures granted in the county.
-
----
-
-#### Submitted by
-Administrator Tanner Wark, Deschutes County Adult Parole and Probation
