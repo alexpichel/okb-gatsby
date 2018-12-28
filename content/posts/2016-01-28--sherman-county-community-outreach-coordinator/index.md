@@ -3,9 +3,13 @@ title: "Sherman County Community Outreach Coordinator"
 date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/sherman-sheriff-logo.png
+author: "Katie Paul, Community Outreach Coordinator"
+agencyid: "sherman-s"
+agency: "Sherman County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
+  - "Community Outreach"
+  - "Justice Reinvestment"
 subTitle: "Coordinator provides services to offenders and other persons who are assessed as being at high risk of committing crimes."
 ---
 
@@ -47,8 +51,3 @@ Proposed outcomes include:
 * Decrease in recidivism for individuals receiving services
 * Increase in percentage of population attending at least one training/class
 * Completion of program by half of offenders engaged in services services
-
----
-
-#### Submitted by
-Katie Paul, Community Outreach Coordinator, Sherman County Sheriff's Office
