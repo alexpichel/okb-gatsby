@@ -3,11 +3,15 @@ title: "Health Assessment and Treatment (HAT) Team"
 date: "2015-12-01"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
+author: "Liv Jenssen, Community Justice Manager"
+agencyid: "mult-dcj"
+agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
 tags:
-  - "healthcare"
-  - "partnerships"
-  - "supervision"
+  - "Healthcare"
+  - "Mental Illness"
+  - "Substance Use Treatment"
+  - "Supervision"
 subTitle: "The Health Assessment and Treatment (HAT) team is a coordinated effort aimed at improving access to health care by connecting adults involved in the criminal justice system with community based support services and providers."
 ---
 
@@ -44,8 +48,3 @@ The first year of the HAT team was paid for by a grant from Health Share of Oreg
 Since its inception, the HAT team has enrolled more than 200 individuals in the Oregon Health Plan. More than 500 individual drug and alcohol evaluations have been completed, and 44 individuals have been connected with primary care physicians and other care providers.
 
 Having access to a PCP results in the reduction of emergency-service utilization because clients may get the health care and medications they need before an issue spirals out of control. Additionally, there has been a positive correlation with a reduction in jail-bed usage and the HAT team’s efforts.
-
----
-
-#### Submitted by
-Liv Jenssen, Community Justice Analyst, Multnomah County Department of Community Justice
