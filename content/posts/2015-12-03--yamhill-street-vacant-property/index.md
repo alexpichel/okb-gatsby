@@ -3,12 +3,16 @@ title: "Yamhill Street Vacant Property"
 date: "2015-12-03"
 cover: /assets/policing.png
 logo: /assets/agency/gresham-pd-logo.png
+author: "Officer James Leake"
+agencyid: "gresham-pd"
+agency: "Gresham Police Department"
 category: "Policing"
 tags:
-  - "abandoned property"
-  - "chronic nuisance"
-  - "quality of life"
-  - "transients"
+  - "Abandoned Property"
+  - "Chronic Nuisance"
+  - "Homeless"
+  - "Quality of Life"
+  - "Transients"
 subTitle: "Partnering with Code Enforcement and the landowners, NET was able to successfully address illegal camping on a vacant lot."
 ---
 
@@ -38,8 +42,6 @@ The owner of the property was responsible for all cleanup efforts.
 
 The before and after photos show the real story of the combined efforts of Code, NET and the property owner.
 
-NEEDS PHOTOS ADDED
-
 #### CRITICAL SUCCESS FACTORS
 
 The cooperation of the new landowner and his willingness to partner with NET was critical to the success of this project.
@@ -47,8 +49,3 @@ The cooperation of the new landowner and his willingness to partner with NET was
 #### LESSONS LEARNED
 
 Solicit the assistance of your code enforcement team and get the landowners involved. The threat of arrest is not enough unless you have the support from the landowners.
-
----
-
-#### Submitted by
-Officer James Leake, Gresham Police Department
