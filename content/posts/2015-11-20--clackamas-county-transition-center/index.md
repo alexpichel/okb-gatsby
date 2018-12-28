@@ -3,12 +3,14 @@ title: "Clackamas County Transition Center"
 date: "2015-11-20"
 cover: /assets/correctional.png
 logo: /assets/agency/clackamas-county-logo.svg
+author: "Undersheriff Chris Hoy"
+agencyid: "clackamas-cc"
 agency: "Clackamas County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "mental illness"
-  - "reentry"
+  - "Justice Reinvestment"
+  - "Mental Illness"
+  - "Reentry"
 subTitle: "A centralized location for access to reentry services aims to decrease jail use by clients in mental health crisis and reduce recidivism for all program participants."
 ---
 
@@ -64,8 +66,3 @@ The program has not yet been implemented; it is too soon to identify the factors
 #### LESSONS LEARNED
 
 The program has not yet been implemented; it is too soon to provide advice.
-
----
-
-#### Submitted by
-Director Chris Hoy, Clackamas County Community Corrections
