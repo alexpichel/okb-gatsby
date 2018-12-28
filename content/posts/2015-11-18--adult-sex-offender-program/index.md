@@ -3,11 +3,13 @@ title: "Adult Sex Offender Program"
 date: "2015-11-18"
 cover: /assets/correctional.png
 logo: /assets/agency/linn-logo.png
+author: "Maureen Robb, Director"
+agencyid: "linn-cc"
 agency: "Linn County Community Corrections"
 category: "Correctional"
 tags:
-  - "sex offenders"
-  - "supervision"
+  - "Sex Offenders"
+  - "Supervision"
 subTitle: "A multi-disciplinary treatment program provides assessment, treatment, and aftercare for sex offenders with the goal of changing offender behavior and thinking associated with abusive behavior."
 ---
 
@@ -63,9 +65,3 @@ Data is unavailable due to the fact this treatment program began in July 2015. T
 #### LESSONS LEARNED
 
 A multi-disciplinary approach is essential to the treatment of individuals who have engaged in inappropriate sexual behaviors. Weekly staffing meetings with the treatment provider, Probation Officer, and Department of Human Services are recommended to discuss a client’s progress and presenting issues. In an ideal world, groups would comprise offenders with similar risk levels and each offender would have an individualized treatment plans.
-
----
-
-#### Submitted by
-
-Director Maureen Robb, Linn County Community Corrections
