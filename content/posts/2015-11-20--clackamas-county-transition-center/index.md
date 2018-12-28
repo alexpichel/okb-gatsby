@@ -2,7 +2,7 @@
 title: "Clackamas County Transition Center"
 date: "2015-11-20"
 cover: /assets/correctional.png
-logo: /assets/agency/clackamas-county-logo.svg
+logo: /assets/agency/clackamas-sheriff-logo.png
 author: "Undersheriff Chris Hoy"
 agencyid: "clackamas-cc"
 agency: "Clackamas County Community Corrections"
