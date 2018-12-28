@@ -3,12 +3,13 @@ title: "Illegal Drug Markets in Portland, Oregon"
 date: "2015-11-30"
 cover: /assets/research.png
 logo: /assets/agency/dpsst.png
+agencyid: "ppb"
 agency: "Northeastern University - 2006"
 category: "Research"
 tags:
-  - "crime prevention"
-  - "drugs"
-  - "Oregon"
+  - "Crime Prevention"
+  - "Drugs"
+  - "Oregon Research"
 subTitle: "The ease of customer accessibility outweighs the effect of possible sanctions in the presence and location of outdoor illegal drug markets."
 ---
 
