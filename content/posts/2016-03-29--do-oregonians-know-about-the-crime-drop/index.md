@@ -3,10 +3,12 @@ title: "Do Oregonians Know About the Crime Drop"
 date: "2016-03-29"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2011"
 category: "Research"
 tags:
-  - "community relations"
-  - "Oregon"
+  - "Community Outreach"
+  - "Oregon Research"
 subTitle: "At the time of a drop in crime in 2011, a survey showed that most Oregonians believed that crime in Oregon increased and very few believed it decreased."
 ---
 
