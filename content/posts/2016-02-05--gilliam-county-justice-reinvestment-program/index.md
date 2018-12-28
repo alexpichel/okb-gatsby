@@ -3,9 +3,13 @@ title: "Gilliam County Justice Reinvestment Program"
 date: "2016-02-05"
 cover: /assets/correctional.png
 logo: /assets/agency/gilliam.png
+author: "Sheriff Gary Bettencourt"
+agencyid: "gilliam-s"
+agency: "Gilliam County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
+  - "Justice Reinvestment"
+  - "Recidivism"
 subTitle: "A full-time clinician was hired to work as part of a multi-agency partnership to better assess a person’s risk of reoffending and providing a more comprehensive treatment plan unique to each offender."
 ---
 
@@ -49,8 +53,3 @@ Proposed outcomes include:
 * Increased number of “reach-ins” conducted
 * Decrease in recidivism
 * Decrease in use of custody beds, locally and statewide
-
----
-
-#### Submitted by
-Sheriff Gary Bettencourt, Gilliam County Sheriff's Office
