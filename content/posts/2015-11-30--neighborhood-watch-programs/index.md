@@ -2,7 +2,7 @@
 title: "Neighborhood Watch Programs in Medford, Oregon"
 date: "2015-11-30"
 cover: /assets/research.png
-logo: /assets/agency/medford-police-logo.png
+logo: /assets/agency/uo-logo.jpg
 agencyid: "medford-pd"
 agency: "University of Oregon - 2014"
 category: "Research"
