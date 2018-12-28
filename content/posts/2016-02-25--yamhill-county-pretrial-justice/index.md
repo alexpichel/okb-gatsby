@@ -3,7 +3,7 @@ title: "Yamhill County Pretrial Justice Program"
 date: "2016-02-25"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
-author:"Jessica Beach, Director"
+author: "Jessica Beach, Director"
 agencyid: "yamhill-dcj"
 agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
