@@ -3,11 +3,14 @@ title: "Bend Officer Resilience Program"
 date: "2016-03-31"
 cover: /assets/policing.png
 logo: /assets/agency/bend-pd-logo.png
+author: "Lt. Brian Beekman"
+agencyID: "bend-pd"
+agency: "Bend Police Department"
 category: "Policing"
 tags:
-  - "training"
-  - "wellness"
-  - "retention"
+  - "Training"
+  - "Wellness"
+  - "Retention"
 subTitle: "A multi-pronged approach including on-duty fitness classes, yoga classes, a contracted psychologist, family support, financial literacy, and mindfulness training aims to increase officer resilience."
 ---
 
@@ -61,8 +64,3 @@ Administrative and financial support, in addition to officers being willing to t
 It would be worthwhile to redefine what police training is. Training officers’ minds and bodies is an essential part of them surviving their career and effectively serving our communities.
 
 [Bend PD Video](https://cityofbendoregon.podbean.com/e/city-edition-police-department-wellness-program/)
-
----
-
-#### Submitted by
-Sgt. Brian Beekman, Bend Police Department
