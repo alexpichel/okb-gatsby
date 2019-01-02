@@ -3,8 +3,8 @@ title: "DUII Intensive Supervision Program"
 date: "2016-03-31"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
-author: "John Dieter, Director, Oregon Judicial Department"
-agency: "Mutlnomah County"
+author: "John Dieter, Director"
+agency: "Oregon Judicial Department"
 category: "Correctional"
 tags:
   - "Supervision"
