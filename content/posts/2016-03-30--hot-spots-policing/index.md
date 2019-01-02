@@ -1,7 +1,7 @@
 ---
 title: "Topic Summary - Hot Spots Policing"
 date: "2016-03-30"
-cover: /assets/policing.png
+cover: /assets/research.png
 logo: /assets/agency/ppb.png
 author: "Sgt. Greg Stewart"
 agencyID: "ppb"
