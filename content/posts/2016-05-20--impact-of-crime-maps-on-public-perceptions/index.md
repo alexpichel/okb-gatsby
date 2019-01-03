@@ -3,11 +3,13 @@ title: "Impact of Crime Maps on Public Perceptions"
 date: "2016-05-20"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2015"
 category: "Research"
 tags:
-  - "community relations"
-  - "crime analysis"
-  - "Oregon"
+  - "Community Outreach"
+  - "Crime Analysis"
+  - "Oregon Research"
 subTitle: "Increasing public access to law enforcement data in an effort to enhance trust my produce counterproductive outcomes leaving agencies to carefully consider how information is presented."
 ---
 
