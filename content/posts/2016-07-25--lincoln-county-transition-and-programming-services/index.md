@@ -3,10 +3,12 @@ title: "Lincoln County Transition and Programming Services"
 date: "2016-07-25"
 cover: /assets/correctional.png
 logo: /assets/agency/lincoln-logo.png
+agencyid: "lincoln-cc"
+agency: "Lincoln County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "reentry"
+  - "Justice Reinvestment"
+  - "Reentry"
 subTitle: "Prior to release, a transition PO determines the level of assistance needed by an offender, and develops an individually tailored case plan to address specific needs, including additional programming, transitional housing, and job-development assistance."
 ---
 
