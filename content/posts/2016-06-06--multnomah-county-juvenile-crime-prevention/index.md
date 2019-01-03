@@ -3,11 +3,13 @@ title: "Multnomah County Juvenile Crime Prevention"
 date: "2016-06-06"
 cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
+agencyid: "npc"
+agency: "NPC Research - 2015"
 category: "Research"
 tags:
-  - "crime prevention"
-  - "juveniles"
-  - "Oregon"
+  - "Crime Prevention"
+  - "Juveniles"
+  - "Oregon Research"
 subTitle: "A performance measurement of the Juvenile Crime Prevention program showed that it was effective at addressing some of the risk and protective indicators, but further exploration of increasing protective indicators is needed."
 ---
 
