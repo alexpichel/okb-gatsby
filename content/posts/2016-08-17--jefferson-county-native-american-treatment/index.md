@@ -3,13 +3,15 @@ title: "Jefferson County Native American Treatment"
 date: "2016-08-17"
 cover: /assets/correctional.png
 logo: /assets/agency/jefferson-logo.png
+agencyid: "jefferson-cc"
+agency: "Jefferson County Community Corrections"
 category: "Correctional"
 tags:
-  - "alcohol"
-  - "drugs"
-  - "jail"
-  - "justice reinvestment"
-  - "substance use treatment"
+  - "Alcohol"
+  - "Drugs"
+  - "Jail"
+  - "Justice Reinvestment"
+  - "Substance Use Treatment"
 subTitle: "Jefferson County increased its capacity to provide in-jail substance use treatment services to all local defendants, including some Native American–specific jail treatment services."
 ---
 
