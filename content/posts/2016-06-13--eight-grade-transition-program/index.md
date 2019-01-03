@@ -3,9 +3,11 @@ title: "Eight-Grade Transition Program"
 date: "2016-06-13"
 cover: /assets/correctional.png
 logo: /assets/agency/linn-logo.png
+agencyid: "Linn-jd"
+agency: "Linn County Juvenile Department"
 category: "Correctional"
 tags:
-  - "juveniles"
+  - "Juveniles"
 subTitle: "This project increases school connectedness and high school graduation rates in order to reduce juvenile recidivism."
 ---
 
