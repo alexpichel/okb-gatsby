@@ -3,11 +3,13 @@ title: "Prescription Drug Turn-In Program"
 date: "2016-06-20"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
+agencyid: "ppb"
+agency: "Portland Police Bureau"
 category: "Policing"
 tags:
-  - "community outreach"
-  - "crime prevention"
-  - "drugs"
+  - "Community Outreach"
+  - "Crime Prevention"
+  - "Drugs"
 subTitle: "A drug turn-in program was created to help reduce the misuse and mishandling of legally prescribed drugs"
 ---
 
@@ -89,5 +91,3 @@ As a result of the program, the Crime Prevention Program formed a partnership wi
 * A number of people who have prescription medications to dispose of also have used sharps and needles. For staff safety, objects such as sharps, needles, and medical waste are not accepted at events. PPB hast been unable to identify any free disposal services for needles.
 
 * Although pharmacies could legally register to take back medications on-site effective October 2014, to date very few in Oregon have registered.
-
-
