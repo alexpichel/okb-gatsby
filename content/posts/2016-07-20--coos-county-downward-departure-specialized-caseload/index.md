@@ -3,10 +3,12 @@ title: "Coos County Downward Departure Specialized Caseload"
 date: "2016-07-20"
 cover: /assets/correctional.png
 logo: /assets/agency/coos-logo.png
+agencyid: "coos-cc"
+agency: "Coos County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "specialized caseload"
+  - "Justice Reinvestment"
+  - "Specialized Caseload"
 subTitle: "Specialized supervision consisting of treatment referrals and recovery support services aim to reduce recidivism and prison use."
 ---
 
