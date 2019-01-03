@@ -3,11 +3,13 @@ title: "Security Camera Registration and Mapping (SCRAM)"
 date: "2016-04-25"
 cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
+agencyid: "medford-pd"
+agency: "Medford Police Department"
 category: "Policing"
 tags:
-  - "crime prevention"
-  - "property crime"
-  - "technology"
+  - "Crime Prevention"
+  - "Property Crime"
+  - "Technology"
 subTitle: "Program encourages citizens to register their security cameras with MPD to help investigators have timely access to potential footage of crimes that have been committed."
 ---
 
