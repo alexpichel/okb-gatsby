@@ -3,14 +3,16 @@ title: "Linn County Community Intervention Program"
 date: "2016-07-25"
 cover: /assets/correctional.png
 logo: /assets/agency/linn-logo.png
+agencyid: "linn-cc"
+agency: "Linn County Community Corrections"
 category: "Correctional"
 tags:
-  - "alcohol"
-  - "drugs"
-  - "jail"
-  - "justice reinvestment"
-  - "substance use treatment"
-  - "supervision"
+  - "Alcohol"
+  - "Drugs"
+  - "Jail"
+  - "Justice Reinvestment"
+  - "Substance Use Treatment"
+  - "Supervision"
 subTitle: "Intervention programming for offenders was expanded to focus on intervening more effectively with repeat drug offenders through treatment and support services."
 ---
 
