@@ -3,11 +3,13 @@ title: "Transitional Housing"
 date: "2016-05-12"
 cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
+agencyid: "npc"
+agency: NPC Research - 2009"
 category: "Research"
 tags:
-  - "corrections"
-  - "drugs"
-  - "Oregon"
+  - "Corrections"
+  - "Drugs"
+  - "Oregon Research"
 subTitle: "In combination with other services, transitional housing resulted in less substance abuse during the follow-up period."
 ---
 
