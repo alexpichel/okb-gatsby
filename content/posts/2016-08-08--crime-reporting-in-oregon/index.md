@@ -3,10 +3,12 @@ title: "Crime Reporting in Oregon"
 date: "2016-08-08"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2012"
 category: "Research"
 tags:
-  - "community relations"
-  - "Oregon"
+  - "Community Outreach"
+  - "Oregon Research"
 subTitle: "Education and use of social media may help police agencies increase satisfaction in crime reporting, encourage community participation in crime prevention efforts, and help communities feel safer."
 ---
 
