@@ -3,10 +3,13 @@ title: "Tillamook County Intensive Outpatient Treatment"
 date: "2016-04-18"
 cover: /assets/correctional.png
 logo: /assets/agency/tillamook-logo.png
+author: "Lt. Holly Rico"
+agencyid: "tillamook-cc"
+agency: "Tillamook Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "substance use treatment"
+  - "Justice Reinvestment"
+  - "Substance Use Treatment"
 subTitle: "Program helps participants develop skills aimed at reducing criminal activity and recidivism and increasing employment, accountability, and self-worth, while enhancing public safety by decreasing crime in the community."
 ---
 
@@ -46,8 +49,3 @@ Proposed outcomes include:
 * Decrease in recidivism
 * Increase in offenders accessing treatment
 * Increase in offender accountability
-
----
-
-#### Submitted by
-Lt. Holly Rico, Tillamook County Community Corrections
