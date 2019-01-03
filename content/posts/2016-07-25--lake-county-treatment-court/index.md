@@ -3,12 +3,14 @@ title: "Lake County Treatment Court"
 date: "2016-07-25"
 cover: /assets/correctional.png
 logo: /assets/agency/lake-logo.png
+agencyid: "lake-cc"
+agency: "Lake County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "reentry"
-  - "specialty court"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Reentry"
+  - "Specialty Court"
+  - "Supervision"
 subTitle: "Lake County developed a hybrid drug court suitable for a small community that provides comprehensive treatment and supervision services to a variety of medium- and high-risk/need offenders who would typically be served by multiple types of specialty courts."
 ---
 
