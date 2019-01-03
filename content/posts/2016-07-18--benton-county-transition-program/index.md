@@ -3,10 +3,12 @@ title: "Benton County Transition Program"
 date: "2016-07-18"
 cover: /assets/correctional.png
 logo: /assets/agency/benton-logo.png
+agencyid: "benton-s"
+agency: "Benton County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "reentry"
+  - "Justice Reinvestment"
+  - "Reentry"
 subTitle: "The Benton County Transition Program provides reach-ins and short-term financial assistance to individuals soon to be released from incarceration into Benton County to help ensure a smooth transition from custody to the community."
 ---
 
