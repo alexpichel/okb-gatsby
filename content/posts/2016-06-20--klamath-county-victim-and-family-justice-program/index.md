@@ -3,10 +3,12 @@ title: "Klamath County Victim and Family Justice Program"
 date: "2016-06-20"
 cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
+agencyid: "klamath-cc"
+agency: "Klamath County Community Corrections"
 category: "Correctional"
 tags:
-  - "supervision"
-  - "victims"
+  - "Supervision"
+  - "Victims"
 subTitle: "This program develops relationships with social service agencies throughout the county and works with them to reduce multigenerational criminality and victimization."
 ---
 
