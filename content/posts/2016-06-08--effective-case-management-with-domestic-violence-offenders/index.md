@@ -3,13 +3,15 @@ title: "Effective Case Management With Domestic Violence Offenders"
 date: "2016-06-08"
 cover: /assets/research.png
 logo: /assets/agency/multnomah-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2010"
 category: "Research"
 tags:
-  - "domestic violence"
-  - "family violence"
-  - "Oregon"
-  - "supervision"
-  - "victims"
+  - "Domestic Violence"
+  - "Family Violence"
+  - "Oregon Research"
+  - "Supervision"
+  - "Victims"
 subTitle: "A domestic violence enhanced response team (DVERT) showed promising results in helping to reduce recidivism in high risk domestic violence cases"
 ---
 
