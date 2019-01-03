@@ -3,11 +3,13 @@ title: "DWI and Vehicle Action Programs"
 date: "2015-12-01"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2002"
 category: "Research"
 tags:
   - "DUII"
-  - "Oregon"
-  - "traffic safety"
+  - "Oregon Research"
+  - "Traffic Safety"
 subTitle: "Vehicle impoundment and immobilization may be associated with declines in crashes and moving violation convictions."
 ---
 
@@ -20,6 +22,7 @@ For most of the last century, suspension of the driver’s license has been the 
 #### RESPONSE
 
 In the past 10 years, more and more states have passed vehicle action programs, which are vehicle sanctions against the vehicles of DWI and DWS offenders (e.g., vehicle impoundment, vehicle forfeiture, vehicle interlock penalty, etc.). This study summarizes six different evaluations of vehicle action programs operating in California, Minnesota, New York, Ohio, Oregon, and Washington. Oregon previously had a Zebra Tag law, which allowed law enforcement officers to take the driver’s vehicle registration when apprehending a driver without a valid license. The driver was given a temporary registration certificate, and a striped (‘Zebra’) sticker was placed over the annual sticker on the vehicle license plate. The city of Portland enacted a civil forfeiture program that focused on the unlawful use of the vehicle irrespective of the culpability of the owner.
+
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
 #### PRIMARY RESEARCH QUESTION(S)

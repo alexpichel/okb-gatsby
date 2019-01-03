@@ -3,12 +3,14 @@ title: "Harney County Reentry Court"
 date: "2015-11-20"
 cover: /assets/policing.png
 logo: /assets/agency/harney-cc-logo.png
+author: "Lodi Presley, Director"
+agencyid: "harney-cc"
 agency: "Harney County Community Corrections"
 category: "Policing"
 tags:
-  - "justice reinvestment"
-  - "reentry"
-  - "specialty court"
+  - "Justice Reinvestment"
+  - "Reentry"
+  - "Specialty Courts"
 subTitle: "A variety of services combined with incentives and/or a graduate sanction program aim to lower recidivism rates, decrease new violations, and decrease revocations."
 ---
 
@@ -45,8 +47,3 @@ Proposed outcomes include:
 - Lower short- and long-term recidivism rates
 - Decrease in new violations
 - Decrease in revocations
-
----
-
-#### Submitted by
-Director Lodi Presley, Harney County Community Corrections

@@ -3,11 +3,13 @@ title: "Yamhill County SMART Sentencing Initiative"
 date: "2016-02-17"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
+author: "Brian Rucker, Community Justice Manager"
+agencyid: "yamhill-dcj"
 agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "pre-sentence assessment"
+  - "Justice Reinvestment"
+  - "Pre-sentence"
 subTitle: "A comprehensive multi-pronged pre-sentencing program successfully diverted offenders from prison, avoiding 1,082 months of prison use."
 ---
 
@@ -68,8 +70,3 @@ The program is funded by dedicated state Justice Reinvestment grant funding and 
 - Collaboration among county stakeholders was critical to success.
 
 - Reaching out to learn from other counties and states was very helpful.
-
----
-
-#### Submitted by
-Brian Rucker, Community Justice Manager, Yamhill County Department of Community Justice

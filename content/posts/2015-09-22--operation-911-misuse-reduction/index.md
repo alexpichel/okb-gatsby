@@ -3,6 +3,8 @@ title: "Operation 911 Misuse Reduction"
 date: "2015-09-22"
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
+author: "Lt. Andrew Copeland"
+agencyID: "keizer-pd"
 agency: "Keizer Police Department"
 category: "Policing"
 tags:
@@ -40,8 +42,3 @@ Calls decreased after the designated point of contact helped the citizen better 
 #### LESSONS LEARNED
 
 Designating a single police point of contact is important, as well as ensuring open and frequent communication between community partners to facilitate a consistent message and follow-through.
-
----
-
-#### Submitted by
-Lt. Andrew Copeland, Keizer Police Department

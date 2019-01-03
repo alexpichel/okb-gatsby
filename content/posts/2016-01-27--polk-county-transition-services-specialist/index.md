@@ -3,9 +3,12 @@ title: "Polk County Transition Services Specialist"
 date: "2016-01-27"
 cover: /assets/correctional.png
 logo: /assets/agency/polk-sheriff-logo2.png
+author: "Martin D. Silbernagel, Director (Retired)"
+agencyid: "polk-cc"
+agency: "Polk County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
+  - "Justice Reinvestment"
 subTitle: "The Transition Services Specialist acts as a service broker for medium- and high-risk felony offenders supervised by Polk County Community Corrections."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -39,8 +42,3 @@ Proposed outcomes include:
 * More offenders working with a specialist will commit to a physical exercise program.
 * Participants will miss fewer treatment meetings.
 * Fewer offenders will be sanctioned to jail or returned to court for probation violations.
-
----
-
-#### Submitted by
-Martin D. Silbernagel, Director, Polk County Community Corrections

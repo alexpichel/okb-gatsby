@@ -3,10 +3,12 @@ title: Law Enforcement Assisted Diversion
 date: "2015-11-13"
 cover: /assets/policing.png
 logo: /assets/agency/dallas-pd-logo.png
+author: "Lt. Jerry Mott"
+agencyid: "dallas-pd"
 agency: "Dallas Police Department"
 category: "Policing"
 tags:
-  - "mental illness"
+  - "Mental Illness"
 subTitle: "A pilot program within the Dallas municipal criminal justice system to divert some persons suffering from mental health issues from the criminal court system and into treatment intake."
 ---
 
@@ -61,8 +63,3 @@ Start early recruiting the essential partners, especially behavioral health serv
 #### ADDITIONAL DOCUMENTS
 
 [LEADS Agreement Form](lead-agreement-form-final.pdf)
-
----
-
-#### Submitted by
-Lt. Jerry Mott, Dallas Police Department

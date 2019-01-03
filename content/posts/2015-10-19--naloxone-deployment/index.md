@@ -3,12 +3,14 @@ title: "Naloxone Deployment"
 date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
+author: "Sgt. Geoff Kirkpatrick & Cpl. Chris Dode"
+agencyID: "medford-pd"
 agency: "Medford Police Department"
 category: "Policing"
 tags:
-  - "drugs"
-  - "medical response"
-  - "training"
+  - "Drugs"
+  - "Medical Response"
+  - "Training"
 subTitle: "Officers were trained to deploy naloxone to provide immediate treatment in the event of responding to an opioid overdose."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
@@ -50,8 +52,3 @@ Training and implementation. It has been made a priority program by the administ
 Find a physician willing to oversee the program early in the process, so they can assist in developing the program. The physician will want to approve various aspects of the program since they will ultimately be signing off on the program.
 
 Get your local fire department on board; they can assist in training and ordering of the naloxone.
-
----
-
-#### Submitted by
-Sgt. Geoff Kirkpatrick & Cpl. Chris Dode, Medford Police Department

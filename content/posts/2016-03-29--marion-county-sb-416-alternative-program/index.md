@@ -3,10 +3,13 @@ title: "Marion County SB 416 Alternative Program"
 date: "2016-03-29"
 cover: /assets/correctional.png
 logo: /assets/agency/marion-logo.png
+author: "Sgt. Matt Meier"
+agencyid: "marion-s"
+agency: "Marion County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Supervision"
 subTitle: "A program constructed to develop and implement evidence-based strategies to improve the supervision of probationers and reduce recidivism."
 ---
 
@@ -94,7 +97,3 @@ The program team is driven by these core principles:
 #### LESSONS LEARNED
 
 Remember that collaboration is time-intensive, sometimes with competing priorities and philosophical beliefs and even passionate disagreements. Never give up on a good program and always give your collaborative partnerships the benefit of their positive intent.
-
----
-#### Submitted by
-Sgt. Matt Meier, Marion County Sheriff's Office

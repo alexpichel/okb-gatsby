@@ -3,10 +3,13 @@ title: "System Integration and Resource Network (SIRN) Training"
 date: "2015-12-01"
 cover: /assets/policing.png
 logo: /assets/agency/multnomah-logo.png
+author: "Tina Edge, Senior Program Analyst"
+agencyid: "mult-dcj"
+agency: "Multnomah County Department of Community Justice"
 category: "Policing"
 tags:
-  - "technology"
-  - "training"
+  - "Technology"
+  - "Training"
 subTitle: "This training teaches officers how the parole, probation, and juvenile justice systems operate and creates continued opportunities for the agencies to build rapport."
 ---
 
@@ -35,8 +38,3 @@ Including all of the agencies that interact with the justice-involved population
 #### LESSONS LEARNED
 
 This program is not about changing the minds or practices of the other agencies that interact with the clients we serve. This program is about information sharing and fostering relationships.
-
----
-
-#### Submitted by
-Tina Edge, Senior Program Analyst, Multnomah County Department of Community Justice

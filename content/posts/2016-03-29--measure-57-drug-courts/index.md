@@ -3,11 +3,13 @@ title: "Measure 57 Drug Courts"
 date: "2016-03-29"
 cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
+agencyid: "npc"
+agency: "NPC Research - 2015"
 category: "Research"
 tags:
-  - "drugs"
-  - "Oregon"
-  - "specialty courts"
+  - "Drugs"
+  - "Oregon Research"
+  - "Specialty Courts"
 subTitle: "The drug courts evaluated showed a reduction in recidivism when compared to offenders who received traditional probation."
 ---
 

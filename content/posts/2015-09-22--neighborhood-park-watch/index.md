@@ -2,12 +2,16 @@
 title: "Neighborhood Park Watch"
 date: "2015-09-22"
 logo: /assets/agency/lebanon-pd-logo.png
+author: "Community Policing Officer Dala Johnson"
+agencyID: "lebanon-pd"
+agency: "Lebanon Police Department"
 cover: /assets/policing.png
 category: "Policing"
 tags:
-  - "chronic nuisance"
-  - "homeless"
-  - "quality of life"
+  - "Chronic Nuisance"
+  - "Homeless"
+  - "Transients"
+  - "Quality of Life"
 subTitle: "In a community partnership similar to Neighborhood Watch, teams are trained to be the eyes and ears for the police department and report suspicious circumstances to the police."
 ---
 
@@ -50,8 +54,3 @@ Community involvement and partnership are key to this program being successful.
 #### LESSONS LEARNED
 
 This appears to be a rarity in law enforcement to have a structured program like this. It’s a great buy-in for the community and for police partnerships.
-
----
-
-#### Submitted by
-Community Policing Officer Dala Johnson, Lebanon Police Department

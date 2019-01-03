@@ -3,10 +3,14 @@ title: "Josephine County Secure Treatment"
 date: "2016-04-08"
 cover: /assets/correctional.png
 logo: /assets/agency/josephine-logo.png
+author: "Nate Gaoiran, Director"
+agencyid: "josephine-cc"
+agency: "Jospehine County Community Corrections"
 category: "Correctional"
 tags:
-  - "jail"
-  - "justice reinvestment"
+  - "Jail"
+  - "Justice Reinvestment"
+  - "Substance Use Treatment"
 subTitle: "The secure treatment platform is geared toward delivering an intensive dosage of cognitive behavioral treatment while participants serve in-custody sanctions at the local jail."
 ---
 
@@ -59,8 +63,3 @@ Another key element to this program’s success is having the support of probati
 Have realistic expectations. This is a mostly high-risk, antisocial, pro-criminal population you are dealing with. Don’t expect results overnight. The results will come over time.
 
 Develop and maintain good community-partner relationships. We could not make this program successful without the commitment, encouragement, and dedication of our community partners.
-
----
-
-#### Submitted by
-Nate Gaoiran, Director, Josephine County Community Corrections

@@ -3,11 +3,13 @@ title: "Special Response Fee Notice"
 date: "2015-10-08"
 cover: /assets/policing.png
 logo: /assets/agency/corvallis-pd-logo.png
+author: "Community Livability Team"
+agencyID: "corvallis-pd"
 agency: "Corvallis Police Department"
 category: "Policing"
 tags:
-  - "chronic nuisance"
-  - "quality of life"
+  - "Chronic Nuisance"
+  - "Quality of Life"
 subTitle: "In combination with the Chronic Nuisance Property program, the use of civil fees lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 
@@ -44,8 +46,3 @@ Partnerships with landlords and other community organizations. Multiple conseque
 #### LESSONS LEARNED
 
 Get the property owners and managers on board from the start and provide them with a way of getting the information about SRN houses in a timely manner.
-
----
-
-#### Submitted by
-Community Livability Team, Corvallis Police Department

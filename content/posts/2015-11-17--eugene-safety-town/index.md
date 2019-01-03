@@ -3,11 +3,13 @@ title: "Eugene Safety Town"
 date: "2015-11-17"
 cover: /assets/policing.png
 logo: /assets/agency/eugene-pd-logo.png
+author: "Debbie Janecek, Prevention and Safety Acting Supervisor"
+agencyid: "eugene-pd"
 agency: "Eugene Police Department"
 category: "Policing"
 tags:
-  - "community outreach"
-  - "crime prevention"
+  - "Community Outreach"
+  - "Crime Prevention"
 subTitle: "A comprehensive two-week educational program effectively introduced safety concepts to pre-Kindergarten aged children."
 ---
 
@@ -52,8 +54,3 @@ While the commitment is great, it's worth the investment in the safety and futur
 #### ADDITIONAL DOCUMENTS
 
 [Eugene Safety Town After Action Report](AAR-SAFETY-TOWN-2015.pdf)
-
----
-
-#### Submitted by
-Acting Supervisor Debbie Janecek, Eugene Police Department

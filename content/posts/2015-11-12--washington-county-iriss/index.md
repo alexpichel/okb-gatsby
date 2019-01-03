@@ -3,12 +3,15 @@ title: "Washington County Integrated Re-Entry Intensive Supervision and Services
 date: "2015-11-12"
 cover: /assets/correctional.png
 logo: /assets/agency/washington-logo.png
+author: "Steve Berger, Director"
+agencyid: "washington-cc"
 agency: "Washington County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "reentry"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Reentry"
+  - "Substance Use Treatment"
+  - "Supervision"
 subTitle: "To reduce the number of Department of Corrections prison intakes in Washington County, IRISS provides the Court an enhanced community supervision alternative to prison."
 ---
 
@@ -74,8 +77,3 @@ The program has not yet been implemented; it is too soon to identify the factors
 #### LESSONS LEARNED
 
 The program has not yet been implemented; it is too soon to provide advice.
-
----
-
-#### Submitted by
-Director Steve Berger, Washington County Community Corrections & LPSCC

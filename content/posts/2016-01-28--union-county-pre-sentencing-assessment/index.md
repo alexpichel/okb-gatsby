@@ -3,12 +3,14 @@ title: "Union County Pre-Sentencing Assessment/STTL Supervision"
 date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/union-county-logo.png
+author: "Travis Miller, Director"
+agencyid: "union-cc"
 agency: "Union County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "specialized caseload"
-  - "supervision"
+  - "Justice Reinvestment"
+  - "Specialized Caseload"
+  - "Supervision"
 subTitle: "Increased communication between disciplines and expansion of service and treatment options aims to reduce the number of offenders sent to state prison from Union County."
 ---
 
@@ -52,8 +54,3 @@ Proposed outcomes include:
 - Increase in STTL applicants accepted
 - Decrease in recidivism rates
 - Decrease in county prison usage
-
----
-
-#### Submitted by
-Travis Miller, Director, Union County Community Corrections

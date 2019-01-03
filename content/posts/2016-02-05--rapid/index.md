@@ -3,12 +3,14 @@ title: "Property Information Database (RAPID)"
 date: "2016-02-05"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
+author: "Brent Bates, RAPID Program Coordinator"
+agencyid: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
 tags:
-  - "property crime"
-  - "technology"
-  - "theft"
+  - "Property Crime"
+  - "Technology"
+  - "Theft"
 subTitle: "An automated property database used by multiple agencies led to a fourfold increase of one agency's recoveries of stolen property."
 ---
 
@@ -60,8 +62,3 @@ RAPID is an extremely useful and time-saving tool for law enforcement agencies, 
 Because Oregon has a weak used goods law, it has been necessary to help each new contributor agency to write or rewrite its city code to require RAPID reporting. Some agencies already had some sort of secondhand dealer code and the changes were made after public input. In some areas, there were no previous reporting requirements and the dealers were not meeting the minimum state reporting requirements for used goods or for the newer secondhand precious metal dealers law. These agencies required or continue to require a great deal of work with the public to fully implement RAPID. On the other hand, Washington State has a fairly comprehensive secondhand dealer law that allows an agency to just declare how the agency wants reporting to be done. The Washington agencies adopt the state law and add their own additional reporting requirements and definitions of regulated property. Introducing RAPID to agencies already using another reporting system has been difficult despite the fact that RAPID has more features and costs 50 percent less to use.
 
 RAPID cannot offer certain incentives to agencies or leadership to secure the use of RAPID. However, because the system is owned by law enforcement, RAPID accesses NCIC as well as the LEDS and WACIC stolen-article files, all of which are not available to entities outside of law enforcement. The goal has always been to use the system statewide, so that agencies have access to its transaction information, regardless of how hard thieves try to hide their activity.
-
----
-
-#### Submitted by
-Brent Bates, RAPID Program Coordinator, Portland Police Bureau

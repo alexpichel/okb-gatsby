@@ -3,12 +3,15 @@ title: "Operational Analysis of Clearview and Partridge Apartments"
 date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
+author: "Lt. Andrew Copeland & Sgt. Bob Trump"
+agencyID: "keizer-pd"
 agency: "Keizer Police Department"
 category: "Policing"
 tags:
-  - "chronic nuisance"
-  - "quality of life"
-  - "violent crime"
+  - "Chronic Nuisance"
+  - "CPTED"
+  - "Quality of Life"
+  - "Violent Crime"
 subTitle: "A multi-faceted POP approach was used to address criminal activity in two separate apartment complexes."
 ---
 
@@ -49,8 +52,3 @@ Landlord training, CPTED, and coordination with Rushing Real Estate.
 #### LESSONS LEARNED
 
 Utilizing the SARA model helped the department define the problem and respond accordingly. Analyzing and reviewing the data helped the department convince others of the problem. Working with other members of the community was critical.
-
----
-
-#### Submitted by
-Lt. Andrew Copeland & Sgt. Bob Trump, Keizer Police Department

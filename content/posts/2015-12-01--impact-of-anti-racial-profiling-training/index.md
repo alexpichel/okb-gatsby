@@ -3,11 +3,13 @@ title: Impact of Anti-Racial Profiling Training
 date: "2015-12-01"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2011"
 category: "Research"
 tags:
-  - "Oregon"
-  - "race"
-  - "training"
+  - "Oregon Research"
+  - "Race"
+  - "Training"
 subTitle: "Anti-racial training was well-received by participants and brought awareness to police-race issues, but did not impact individual police officers' personal perceptions of people-of-color."
 ---
 

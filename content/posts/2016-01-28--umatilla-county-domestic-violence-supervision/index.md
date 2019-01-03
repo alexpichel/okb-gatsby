@@ -3,13 +3,15 @@ title: "Umatilla County Domestic Violence Supervision"
 date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/umatilla-county-logo.png
+author: "Dale Primmer, Director"
+agencyid: "umatilla-cc"
 agency: "Umatilla County Community Corrections"
 category: "Correctional"
 tags:
-  - "domestic violence"
-  - "family violence"
-  - "justice reinvestment"
-  - "specialized caseload"
+  - "Domestic Violence"
+  - "Family Violence"
+  - "Justice Reinvestment"
+  - "Specialized Caseload"
 subTitle: "A multi-faceted supervision program focused on the specific needs of DV offenders aims to increase accountability for victim reparation and reduce recidivism and prison bed use."
 ---
 
@@ -48,8 +50,3 @@ Proposed outcomes include:
 - Reduction in recidivism that leads to new felony domestic violence arrests and convictions
 - Reduction in prison-bed usage for repeat offenders who commit a new domestic violence offense
 - Increased accountability for victim reparations
-
----
-
-#### Submitted by
-Dale Primmer, Director, Umatilla County Community Corrections

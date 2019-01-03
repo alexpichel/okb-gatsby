@@ -3,12 +3,13 @@ title: "Crisis Outreach Response Team (CORT)"
 date: "2015-09-17"
 cover: /assets/policing.png
 logo: /assets/agency/marion-sheriff-logo.png
-author: "marion-s"
+author: "Lt. Tad Larson"
+agencyID: "marion-s"
+agency: "Marion County Sheriff's Office"
 category: "Policing"
 tags:
-  - "mental illness"
-  - "crisis intervention"
-  - "CIT"
+  - "Mental Illness"
+  - "Crisis Intervention"
 subTitle: "The Crisis Outreach Response Team (CORT) made up of one deputy, one mental health professional, and a part-time data entry position has increased referrals to services for persons suffering from mental illness, as well as reduced jail bed usage."
 ---
 
@@ -47,8 +48,3 @@ We have two factors that have led to our success. First, we have department head
 #### LESSONS LEARNED
 
 I would start with finding the people that share your concern over the issues and build from there. Make sure to invite others into the collaboration. Look at all funding options and be creative.
-
----
-
-#### Submitted by
-Lt. Tad Larson, Marion County Sheriff's Office

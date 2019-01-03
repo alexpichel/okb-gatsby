@@ -3,13 +3,14 @@ title: "Resolution Northwest Victim-Offender Mediation Program"
 date: "2015-11-06"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
 agency: "Portland State University - 2000"
 category: "Research"
 tags:
-  - "juveniles"
-  - "mediation"
-  - "Oregon"
-  - "victims"
+  - "Juveniles"
+  - "Mediation"
+  - "Oregon Research"
+  - "Victims"
 subTitle: "A comparative analysis demonstrated that victim-offender meditation is highly beneficial in the rehabilitative process of juvenile offenders."
 ---
 

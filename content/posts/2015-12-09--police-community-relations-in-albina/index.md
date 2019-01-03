@@ -3,12 +3,13 @@ title: "Police-Community Relations in Albina, 1964-1985"
 date: "2015-12-09"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
 agency: "Portland State University - 2013"
 category: "Research"
 tags:
-  - "community relations"
-  - "Oregon"
-  - "race"
+  - "Community Outreach"
+  - "Oregon Research"
+  - "Race"
 subTitle: "A retrospective study examined the relationship between the black community and police between 1964 and 1985, uncovering differences in the perception of the improvement or decline of that relationship."
 ---
 

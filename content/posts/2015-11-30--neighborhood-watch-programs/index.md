@@ -2,13 +2,14 @@
 title: "Neighborhood Watch Programs in Medford, Oregon"
 date: "2015-11-30"
 cover: /assets/research.png
-logo: /assets/agency/medford-police-logo.png
+logo: /assets/agency/uo-logo.jpg
+agencyid: "medford-pd"
 agency: "University of Oregon - 2014"
 category: "Research"
 tags:
-  - "community outreach"
-  - "crime prevention"
-  - "Oregon"
+  - "Community Outreach"
+  - "Crime Prevention"
+  - "Oregon Research"
 subTitle: "Neighborhood watch groups shown to be effective in reducing crime for specific property offenses."
 ---
 

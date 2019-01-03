@@ -3,12 +3,15 @@ title: "Exclusion Program"
 date: "2015-11-19"
 cover: /assets/policing.png
 logo: /assets/agency/clackamas-sheriff-logo.png
+author: "Community Service Officer Sara McClurg, Crime Prevention Coordinator"
+agencyid: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
-  - "quality of life"
-  - "trespass"
-  - "transients"
+  - "Homeless"
+  - "Quality of Life"
+  - "Trespass"
+  - "Transients"
 subTitle: "An exclusion program allowing property owners/managers to engage the services of patrol to exclude individuals for one year from their property reduced repeat calls and increased owners/managers perception of safety."
 ---
 
@@ -51,8 +54,3 @@ Be clear with businesses and other properties who wish to enroll in this program
 #### ADDITIONAL DOCUMENTS
 
 [Criteria for Exclusion](CRITERIA_FOR_EXCLUSION_FROM_BUSINESSES.pdf) 
-
----
-
-#### Submitted by
-Community Service Officer / Crime Prevention Coordinator Sara McClurg, Clackamas County Sheriff's Office

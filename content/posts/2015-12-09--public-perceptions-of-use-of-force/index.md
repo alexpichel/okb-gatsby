@@ -3,12 +3,13 @@ title: "Public Perceptions of Use of Force"
 date: "2015-12-09"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "cjpri"
 agency: "Criminal Justice Policy Research Institute, Portland State University - 2012"
 category: "Research"
 tags:
-  - "community relations"
-  - "Oregon"
-  - "use of force"
+  - "Community Outreach"
+  - "Oregon Research"
+  - "Use of Force"
 subTitle: "A randomized survey study revealed a disparity between the public perception of the number of use of force events and the officially recorded data."
 ---
 

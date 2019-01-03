@@ -3,12 +3,15 @@ title: "Trespass Letter of Consent"
 date: "2015-12-04"
 cover: /assets/policing.png
 logo: /assets/agency/salem-pd-logo.png
+author: "Angela Maria Hedrick, Community Relations Analyst"
+agencyid: "salem-pd"
+agency: "Salem Police Department"
 category: "Policing"
 tags:
-  - "homeless"
-  - "property crime"
-  - "transients"
-  - "trespass"
+  - "Homeless"
+  - "Property Crime"
+  - "Transients"
+  - "Trespass"
 subTitle: "A TLC gives Salem Police officers advance permission to act on behalf of the property owner (or designee) when trespass situations arise. "
 ---
 
@@ -74,8 +77,3 @@ The TLC program is not intended for use in multi-family dwelling properties.
 * Multi-family housing is not a business with regular hours of operation, thus the TLC would not apply.
 
 * If property owners/managers have a repeated issue with an unwanted individual in their tenant’s contractual premises, then the owner/manager must deal with the situation via the particulars of tenant’s rental agreement.
-
----
-
-#### Submitted by
-Angela Maria Hedrick, Community Relations Analyst, Salem Police Department

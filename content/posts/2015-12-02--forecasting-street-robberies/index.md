@@ -3,13 +3,13 @@ title: "Forecasting Street Robberies"
 date: "2015-12-02"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2012"
 category: "Research"
 tags:
-  - "crime analysis"
-  - "mapping"
-  - "modeling"
-  - "Oregon"
-  - "risk terrain"
+  - "Crime Analysis"
+  - "Oregon Research"
+  - "Property Crime"
 subTitle: "Risk terrain modeling is a promising crime analysis tool with potential to help improve targeting of law enforcement responses to this crime."
 ---
 

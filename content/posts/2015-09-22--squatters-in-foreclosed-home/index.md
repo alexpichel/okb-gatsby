@@ -5,10 +5,12 @@ layout: post
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
 path: "/posts/squatters-in-foreclosed-homes/"
+author: "Sgt. Bob Trump"
+agencyID: "keizer-pd"
 agency: "Keizer Police Department"
 category: "Policing"
 tags:
-  - "Abandoned Properties"
+  - "Abandoned Property"
   - "Quality of Life"
   - "Trespass"
 subTitle: "Investigation and cooperation with neighbors eliminated police calls to a foreclosed home and increased neighborhood quality of life."
@@ -43,8 +45,3 @@ The program needs to be a cooperative effort between the police and the neighbor
 #### LESSONS LEARNED
 
 Lock in the bank on ownership and have them submit a letter/email indicating they have had no relationship with the subjects you are investigating.
-
----
-
-#### Submitted by
-Sgt. Bob Trump, Keizer Police Department

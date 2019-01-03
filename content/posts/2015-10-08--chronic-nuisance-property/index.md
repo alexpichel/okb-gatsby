@@ -4,11 +4,13 @@ date: "2015-10-08"
 layout: post
 cover: /assets/policing.png
 logo: /assets/agency/corvallis-pd-logo.png
+author: "Lt. Ryan Eaton"
+agencyID: "corvallis-pd"
 agency: "Corvallis Police Department"
 category: "Policing"
 tags:
-  - "Quality of Life"
   - "Chronic Nuisance"
+  - "Quality of Life"
 subTitle: "In combination with the Special Response Fee program, a standardized method for tracking nuisance offenders lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 
@@ -44,8 +46,3 @@ The two-pronged enforcement approach and getting buy in from property owners and
 #### LESSONS LEARNED
 
 Get the property owners and managers on board from the start and provide them with a way of getting the information about CNP houses in a timely manner.
-
----
-
-#### Submitted by
-Sgt. Ryan Eaton, Corvallis Police Department

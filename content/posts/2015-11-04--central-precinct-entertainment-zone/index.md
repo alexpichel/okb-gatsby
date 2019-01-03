@@ -3,14 +3,16 @@ title: "Central Precinct Entertainment Zone"
 date: "2015-11-04"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
+author: "Sgt. Erik Strohmeyer"
+agencyID: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
 tags:
-  - "assault"
-  - "chronic nuisance"
+  - "Assault"
+  - "Chronic Nuisance"
   - "CPTED"
-  - "quality of life"
-  - "violent crime"
+  - "Quality of Life"
+  - "Violent Crime"
 subTitle: "Strategic street closures, foot patrols, and crime prevention efforts reduced crime in a targeted urban area."
 ---
 
@@ -55,8 +57,3 @@ Identify similar towns/counties and reach out to those agencies to see what appr
 #### ADDITIONAL DOCUMENTS
 
 [2015 Goldstein Award Submission](https://live-cpop.ws.asu.edu/sites/default/files/org/15-09_portland.pdf)
-
----
-
-#### Submitted by
-Sgt. Erik Strohmeyer, Portland Police Bureau

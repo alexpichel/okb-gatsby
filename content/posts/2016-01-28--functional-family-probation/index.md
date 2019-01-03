@@ -3,10 +3,13 @@ title: "Functional Family Probation (FFP)"
 date: "2016-01-28"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
+author: "Tracey Freeman, Senior Manager of Probation and Accountability Services"
+agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
 tags:
-  - "specialized caseload"
+  - "Specialized Caseload"
+  - "Juveniles"
 subTitle: "An integrative supervision and case management model is used to engage, motivate, assess, and work successfully with high-risk youth and their families."
 ---
 
@@ -38,8 +41,3 @@ Functional Family Probation engages youth and families holistically in motivatin
 #### CRITICAL SUCCESS FACTORS
 
 Fidelity to the model, buy­-in from staff, and continued training and support from management are critical to the success of the FFP model.
-
----
-
-#### Submitted by
-Tracey Freeman, Senior Manager, Multnomah County Department of Community Justice

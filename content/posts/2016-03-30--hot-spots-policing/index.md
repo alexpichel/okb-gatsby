@@ -1,13 +1,14 @@
 ---
 title: "Topic Summary - Hot Spots Policing"
 date: "2016-03-30"
-cover: /assets/policing.png
-logo: /assets/agency/dpsst.png
-category: "Policing"
+cover: /assets/research.png
+logo: /assets/agency/ppb.png
+author: "Sgt. Greg Stewart"
+agencyID: "ppb"
+category: "Research"
 tags:
-  - "crime analysis"
-  - "crime prevention"
-  - "hotspot mapping"
+  - "Crime Analysis"
+  - "Crime Prevention"
 subTitle: "Hot spot policing typically involves the assignment of additional police patrols and/or problem-­solving activities to small areas with higher crime."
 ---
 

@@ -3,11 +3,13 @@ title: "Clackamas County Lethality Assessment Program"
 date: "2015-10-22"
 cover: /assets/policing.png
 logo: /assets/agency/clackamas-sheriff-logo.png
+author: "Lt. Angie Brandenburg"
+agencyID: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
 tags:
-  - "domestic violence"
-  - "victims"
+  - "Domestic Violence"
+  - "Victims"
 subTitle: "A collaboratively developed screening protocol connected high-risk DV victims with services, both immediately after the incident and follow-up services."
 ---
 
@@ -50,8 +52,3 @@ The LAP was successful due to early support for the program from the Sheriff’s
 #### LESSONS LEARNED
 
 Before attempting to implement a LAP, ensure buy-in from all levels of the organization as well as community partners. Members of the law enforcement agency and the community-based advocacy program need to establish strong lines of communication to ensure clarification on issues including ongoing communication, confidentiality agreements, shelter availability, hotline staffing and other concerns. A single agency point of contact who can spearhead the program and keep the momentum moving forward is crucial.
-
----
-
-#### Submitted by
-Lt. Angie Brandenburg, Clackamas County Sheriff's Office

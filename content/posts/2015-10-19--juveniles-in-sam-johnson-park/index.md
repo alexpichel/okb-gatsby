@@ -3,13 +3,15 @@ title: "Juveniles in Sam Johnson Park"
 date: "2015-10-19"
 cover: /assets/policing.png
 logo: /assets/agency/redmond-pd-logo.png
+author:  "Lt. Hank Majetich"
+agencyID: "redmond-pd"
 agency: "Redmond Police Department"
 category: "Policing"
 tags:
-  - "chronic nuisance"
+  - "Chronic Nuisance"
   - "CPTED"
-  - "crime prevention"
-  - "juveniles"
+  - "Crime Prevention"
+  - "Juveniles"
 subTitle: "A multi-faceted approach - including CPTED, relationship building, and focused patrols - was used to address juvenile problems and safety concerns at a local park."
 ---
 
@@ -53,8 +55,3 @@ Backing from the listed organizations, time, and an acceptance that the plan wil
 #### LESSONS LEARNED
 
 We faced challenges implementing the plan such as an acknowledgement of the problem, manpower, backing from the various community organizations, time, and an acceptance that the plan will work when done in coordination with all groups involved.
-
----
-
-#### Submitted by
-Sgt. Hank Majetich, Redmond Police Department

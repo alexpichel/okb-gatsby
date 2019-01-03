@@ -3,10 +3,12 @@ title: "Public Contact and Perceptions of Police"
 date: "2016-03-29"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "cjpri"
+agency: "Criminal Justice Policy Research Institute, Portland State University - 2013"
 category: "Research"
 tags:
-  - "community relations"
-  - "Oregon"
+  - "Community Outreach"
+  - "Oregon Research"
 subTitle: "An examination of public interactions by Portland police officers reinforces the importance of communication techniques that increase perceptions of fair treatment by police."
 ---
 

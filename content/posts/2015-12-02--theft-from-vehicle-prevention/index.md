@@ -3,11 +3,14 @@ title: "Theft from Vehicle Prevention - Letter Program"
 date: "2015-12-02"
 cover: /assets/policing.png
 logo: /assets/agency/eugene-pd-logo.png
+author: "Debbie Janecek, Prevention and Safety Acting Supervisor"
+agencyid: "eugene-pd"
+agency: "Eugene Police Department"
 category: "Policing"
 tags:
-  - "crime prevention"
-  - "property crime"
-  - "theft"
+  - "Crime Prevention"
+  - "Property Crime"
+  - "Theft"
 subTitle: "A partnership with local security companies aims to educate the public about practices that may make them targets for theft from vehicle."
 ---
 
@@ -44,8 +47,3 @@ Cost of letterhead and mailing is absorbed through the Crime Prevention Unit bud
 #### PROGRAM IMPACT
 
 137 letters have been sent year to date (Jan-Nov) for 2015, based on observations by our Volunteer Senior Patrol Team alone. Stats for private security letters are not available at this time.
-
----
-
-#### Submitted by
-Debbie Janecek, Acting Crime Prevention Unity Supervisor, Eugene Police Department
