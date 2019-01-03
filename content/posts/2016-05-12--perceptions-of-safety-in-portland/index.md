@@ -3,10 +3,12 @@ title: "Perceptions of Safety in Portland"
 date: "2016-05-12"
 cover: /assets/research.png
 logo: /assets/agency/psu-logo.png
+agencyid: "psu"
+agency: "Portland State University - 2016"
 category: "Research"
 tags:
-  - "community relations"
-  - "Oregon"
+  - "Community Outreach"
+  - "Oregon Research"
 subTitle: "Enhanced communication and partnerships with residents may help to improve residents' trust in law enforcement and increase community participation in public safety efforts."
 ---
 
