@@ -3,12 +3,13 @@ title: "Recruiting and Retaining Female Deputies"
 date: "2016-06-02"
 cover: /assets/correctional.png
 logo: /assets/agency/jackson-sheriff-logo.png
+agencyid: "jackson-s"
+agency: "Jackson County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "recruitment"
-  - "retention"
-  - "training"
-  - "women in policing"
+  - "Recruitment"
+  - "Retention"
+  - "Training"
 subTitle: "A multipronged strategy addressed issues with low recruitment and retention of female deputies."
 ---
 
