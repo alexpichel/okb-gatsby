@@ -26,11 +26,25 @@ const PostShare = asyncComponent(() =>
 );
 
 const PostFooter = ({ classes, author, post, slug }) => {
+
   return (
-    <footer className={classes.footer}>
-      <PostShare post={post} slug={slug} />
-      <PostAuthor author={author} />
-    </footer>
+    <header className={classes.header}>
+      <div className={classes.logo}>
+        <LazyLoad height={60} overflow={true} throttle={300} once={true} offset={100}>
+          <picture>
+            <source type="image/webp" srcSet={logo} />
+            <source srcSet={logo} />
+            <img src={logo} alt="" />
+          </picture>
+        </LazyLoad>
+        {/*<Img sizes={post.node.frontmatter.cover.children[0].sizes} />*/}
+      </div>
+      <h2 className={classes.author}>
+      <p>"Submitted by " {author}</p></h2>
+      <h2 className={classes.agency}>
+        <em>{agency}</em>
+      </h2>
+    </header>
   );
 };
 

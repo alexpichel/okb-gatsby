@@ -57,7 +57,7 @@ const styles = theme => ({
   },
   agency: {
     color: theme.main.colors.subTitle,
-    fontSize: `${theme.main.fonts.subTitle.size}em`,
+    fontSize: "1.4em",
     margin: "0 0 0.4em",
     lineHeight: theme.main.fonts.subTitle.lineHeight,
     fontWeight: theme.main.fonts.subTitle.weight,

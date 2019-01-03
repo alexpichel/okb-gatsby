@@ -33,6 +33,7 @@ const Hit = props => {
   return (
     <Link to={hit.fields.slug} className={classes.link}>
       {hit.frontmatter.title}
+      {hit.frontmatter.agency}
       {hit.frontmatter.category && <span>{hit.frontmatter.category}</span>}
     </Link>
   );
