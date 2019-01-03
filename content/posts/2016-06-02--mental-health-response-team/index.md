@@ -3,11 +3,12 @@ title: "Mental Health Response Team"
 date: "2016-06-02"
 cover: /assets/policing.png
 logo: /assets/agency/washington-logo.png
+agencyid: "washington-s"
+agency: "Washington County Sheriff's Office"
 category: "Policing"
 tags:
-  - "crisis intervention"
-  - "CIT"
-  - "mental illness"
+  - "Crisis Intervention"
+  - "Mental Illness"
 subTitle: "A crisis response team that pairs one specially selected and trained deputy from the Sheriff’s Office with a master’s level clinician to better address contacts with persons with mental illness."
 ---
 
