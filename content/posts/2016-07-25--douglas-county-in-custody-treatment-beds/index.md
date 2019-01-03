@@ -3,11 +3,13 @@ title: "Douglas County In-Custody Treatment Beds"
 date: "2016-07-25"
 cover: /assets/correctional.png
 logo: /assets/agency/douglas-logo.png
+agencyid: "douglas-s"
+agency: "Douglas County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "jail"
-  - "justice reinvestment"
-  - "substance use treatment"
+  - "Jail"
+  - "Justice Reinvestment"
+  - "Substance Use Treatment"
 subTitle: "Douglas County increased its capacity to provide in-jail substance use treatment services and ensure that all offenders who received such treatment then transitioned into the Douglas County Adult Drug Court Program upon their release from jail."
 ---
 
