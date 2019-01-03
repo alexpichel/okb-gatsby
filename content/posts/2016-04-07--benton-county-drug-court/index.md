@@ -4,7 +4,7 @@ date: "2016-04-07"
 cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
 category: "Research"
-agencyid: "benton-cc"
+agencyid: "npc"
 agency: "NPC Research - 2011"
 tags:
   - "Oregon Research"
