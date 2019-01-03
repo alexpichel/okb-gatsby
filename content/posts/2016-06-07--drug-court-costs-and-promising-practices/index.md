@@ -3,10 +3,12 @@ title: "Drug Court Costs and Promising Practices"
 date: "2016-06-07"
 cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
+agencyid: "npc"
+agency: "NPC Research - 2011"
 category: "Research"
 tags:
-  - "specialty courts"
-  - "Oregon"
+  - "Specialty Courts"
+  - "Oregon Research"
 subTitle: "Oregon drug court programs show consistent decreases in recidivism and substantial cost savings."
 ---
 
