@@ -75,4 +75,4 @@ Feedback is gathered every year through the following:
 
 #### LESSONS LEARNED
 
-Make sure to collect the right data so you can accurately measure outcomes and determine whether the program is successful. .The Juvenile Department should also encourage high schools to involve an administrator or counselor who works with high school freshmen.
+Make sure to collect the right data so you can accurately measure outcomes and determine whether the program is successful. The Juvenile Department should also encourage high schools to involve an administrator or counselor who works with high school freshmen.
