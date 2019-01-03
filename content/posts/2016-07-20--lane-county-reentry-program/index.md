@@ -3,10 +3,12 @@ title: "Lane County Reentry Program"
 date: "2016-07-20"
 cover: /assets/correctional.png
 logo: /assets/agency/lane-logo.png
+agencyid: "Lane-cc"
+agency: "Lane County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "reentry"
+  - "Justice Reinvestment"
+  - "Reentry"
 subTitle: "A partnership between multiple public and private agencies to provide services to offenders released in Lane County in order to reduce recidivism."
 ---
 
