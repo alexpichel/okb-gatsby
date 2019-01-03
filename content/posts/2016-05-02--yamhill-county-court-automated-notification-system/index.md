@@ -3,10 +3,12 @@ title: "Yamhill County Court-Automated Notification System"
 date: "2016-05-02"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
+agencyid: "yamhill-dcj"
+agency: "Yamhill Department of Community Justice"
 category: "Correctional"
 tags:
-  - "pretrial release"
-  - "technology"
+  - "Pretrial Release"
+  - "Technology"
 subTitle: "Automated telephone system calls defendants to remind them of upcoming court dates to help reduce failure to appear rates."
 ---
 
