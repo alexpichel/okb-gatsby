@@ -3,11 +3,13 @@ title: "Responding to Mental Health Crisis Calls"
 date: "2016-06-06"
 cover: /assets/research.png
 logo: /assets/agency/ppb.png
+agencyid: "ppb"
+agency: "Portland Police Bureau - 2012"
 category: "Research"
 tags:
-  - "mental illness"
-  - "Oregon"
-  - "use of force"
+  - "Mental Illness"
+  - "Oregon Research"
+  - "Use of Force"
 subTitle: "Increased crisis intervention training and partnerships with mental health providers have reduced use of force incidents involving persons with mental illness despite a rise in overall contacts with persons with mental illness."
 ---
 
