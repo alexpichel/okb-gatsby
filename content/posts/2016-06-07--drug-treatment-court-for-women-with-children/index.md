@@ -3,10 +3,12 @@ title: "Drug Treatment Court for Women with Children"
 date: "2016-06-07"
 cover: /assets/research.png
 logo: /assets/agency/npc-logo.png
+agencyid: "npc"
+agency: "NPC Research - 2008"
 category: "Research"
 tags:
-  - "specialty courts"
-  - "Oregon"
+  - "Specialty Courts"
+  - "Oregon Research"
 subTitle: "A process evaluation shows that a specialized drug court in Washington County adheres to national best practices."
 ---
 
