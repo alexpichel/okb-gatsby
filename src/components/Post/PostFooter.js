@@ -31,9 +31,9 @@ const PostFooter = ({ classes, author, post, slug }) => {
       <h2 className={classes.author}>
         <p>Submitted by {author}</p>
       </h2>
-      <h2 className={classes.agency}>
+      {/* <h2 className={classes.agency}>
         <em>{agency}</em>
-      </h2>
+      </h2> */}
     </header>
   );
 };
@@ -41,6 +41,7 @@ const PostFooter = ({ classes, author, post, slug }) => {
 PostFooter.propTypes = {
   classes: PropTypes.object.isRequired,
   author: PropTypes.object.isRequired,
+  agency: PropTypes.object.isRequired,
   post: PropTypes.object.isRequired,
   slug: PropTypes.string.isRequired
 };
