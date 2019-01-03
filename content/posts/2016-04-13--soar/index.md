@@ -3,12 +3,15 @@ title: "Student Opportunity for Achieving Results (SOAR)"
 date: "2016-04-13"
 cover: /assets/correctional.png
 logo: /assets/agency/marion-logo.png
+author: "Sgt. Anna Whitlock"
+agencyid: "marion-s"
+agency: "Marion County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "alcohol"
-  - "drugs"
-  - "reentry"
-  - "substance use treatment"
+  - "Alcohol"
+  - "Drugs"
+  - "Reentry"
+  - "Substance Use Treatment"
 subTitle: "An intensive, collaborative 12-week cognitive-based treatment and employment program designed for drug-addicted offenders who are returning to the community from incarceration and have high criminogenic needs."
 ---
 
@@ -60,8 +63,3 @@ When developing a program that has a multitude of partners (such as Chemeketa Co
 #### LESSONS LEARNED
 
 Collaboration is time-intensive, at times with competing priorities and philosophical beliefs that can result in some passionate disagreements. Never give up on a good program and always give your collaborative partnerships the benefit of their positive intent. Ongoing evaluation and review are also key, given that any program is susceptible to occasional “mission drift” over time.
-
----
-
-#### Submitted by
-Sgt. Anna Whitlock, Marion County Sheriff's Office
