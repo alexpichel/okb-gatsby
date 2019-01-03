@@ -3,9 +3,13 @@ title: "Prolific Drug Sales"
 date: "2016-05-12"
 cover: /assets/policing.png
 logo: /assets/agency/keizer-pd-logo.png
+agencyid: "keizer-pd"
+agency: "Keizer Police Department"
 category: "Policing"
 tags:
   - "Drugs"
+  - "Chronic Nuisance"
+  - "Quality of Life"
 subTitle: "City ordinances and forfeiture proceedings were used to assist with the permanent cessation of ongoing drug sales from a home."
 ---
 
