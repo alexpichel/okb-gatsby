@@ -3,10 +3,12 @@ title: "Klamath County Jail Treatment"
 date: "2016-07-18"
 cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
+agencyid: "klamath-s"
+agency: "Klamath County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "jail"
-  - "justice reinvestment"
+  - "Jail"
+  - "Justice Reinvestment"
 subTitle: "Using multiple evidence-based assessments, a recommendation is made to the DA and court that includes an opinion about the individual’s suitability or a community sentence, the establishment of conditions of supervision, and guidance as to whether the offender is suitable for the jail treatment program."
 ---
 
