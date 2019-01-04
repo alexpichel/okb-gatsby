@@ -3,10 +3,12 @@ title: "Polk County Community Corrections Transitional Housing"
 date: "2016-09-29"
 cover: /assets/correctional.png
 logo: /assets/agency/polk-sheriff-logo2.png
+agencyid: "polk-s"
+agency: "Polk County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "housing"
-  - "justice reinvestment"
+  - "Housing"
+  - "Justice Reinvestment"
 subTitle: "The capacity of transitional housing was increased to reduce the number of homeless recently-released offenders."
 ---
 
@@ -45,5 +47,3 @@ The program’s key success is the reduced local arrest rate.
 * It is important to have limited-duration housing.
 * Public transportation needs to be available.
 * The individuals the program serves are in need of employment.
-
-
