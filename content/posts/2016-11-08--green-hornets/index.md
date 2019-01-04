@@ -4,7 +4,7 @@ date: "2016-11-08"
 cover: /assets/policing.png
 logo: /assets/agency/multnomah-sheriff-logo.png
 agencyid: "mult-s"
-agency: "Multnomah County Sheriff's Office
+agency: "Multnomah County Sheriff's Office"
 category: "Policing"
 tags:
   - "Search and Rescue"
