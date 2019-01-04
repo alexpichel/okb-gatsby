@@ -3,9 +3,11 @@ title: "Marion County Jail Reentry Program"
 date: "2016-12-12"
 cover: /assets/correctional.png
 logo: /assets/agency/marion-sheriff-logo.png
+agencyid: "marion-s"
+agency: "Marion County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "reentry"
+  - "Reentry"
 subTitle: "Provides 90 days of treatment delivered by multiple agencies to successfully prepare Marion County Transition Center inmates to transition when they return to the community."
 ---
 
