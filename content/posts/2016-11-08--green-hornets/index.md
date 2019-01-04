@@ -3,10 +3,12 @@ title: "Green Hornet Wilderness Law Enforcement Services and Search and Rescue T
 date: "2016-11-08"
 cover: /assets/policing.png
 logo: /assets/agency/multnomah-sheriff-logo.png
+agencyid: "mult-s"
+agency: "Multnomah County Sheriff's Office
 category: "Policing"
 tags:
-  - "search and rescue"
-  - "training"
+  - "Search and Rescue"
+  - "Training"
 subTitle: "This search team can be deployed quickly in order to enhance law enforcement’s ability to detect and apprehend suspects and missing persons in wilderness areas or locations where there is no road access."
 ---
 
