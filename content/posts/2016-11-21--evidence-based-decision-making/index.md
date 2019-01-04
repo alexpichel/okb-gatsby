@@ -3,11 +3,13 @@ title: "Evidence-Based Decision Making"
 date: "2016-11-21"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
+agencyid: "yamhill-cc"
+agency: "Yamhill County Community Corrections"
 category: "Correctional"
 tags:
-  - "justice reinvestment"
-  - "pre-sentence assessment"
-  - "pretrial"
+  - "Justice Reinvestment"
+  - "Pre-sentence"
+  - "Pretrial"
 subTitle: "This systems approach considers ways to improve local criminal justice systems and policy through partner collaboration, data collection, and analysis."
 ---
 
