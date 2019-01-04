@@ -3,11 +3,12 @@ title: "Mobile Crisis Response Team"
 date: "2017-02-07"
 cover: /assets/policing.png
 logo: /assets/agency/marion-logo.png
+agencyid: "marion-s"
+agency: "Marion County Sheriff's Office"
 category: "Policing"
 tags:
-  - "crisis intervention"
-  - "CIT"
-  - "mental illness"
+  - "Crisis Intervention"
+  - "Mental Illness"
 subTitle: "A deputy is paired with a mental health professional to respond to calls involving people in crisis to attempt to de-escalate the situation and refer to any needed services."
 ---
 
