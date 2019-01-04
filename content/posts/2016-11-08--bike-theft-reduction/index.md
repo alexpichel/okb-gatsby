@@ -3,12 +3,14 @@ title: "Bike Theft Reduction"
 date: "2016-11-08"
 cover: /assets/policing.png
 logo: /assets/agency/bend-pd.png
+agencyid: "bend-pd"
+agency: "Bend Police Department"
 category: "Policing"
 tags:
-  - "chronic nuisance"
-  - "crime prevention"
-  - "property crime"
-  - "theft"
+  - "Chronic Nuisance"
+  - "Crime Prevention"
+  - "Property Crime"
+  - "Theft"
 subTitle: "Through the support and participation of community partners, in addition to a bait bike program, bike theft was reduced."
 ---
 
