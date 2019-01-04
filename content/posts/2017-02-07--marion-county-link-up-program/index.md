@@ -3,12 +3,14 @@ title: "Marion County Link Up Program"
 date: "2017-02-07"
 cover: /assets/correctional.png
 logo: /assets/agency/marion-logo.png
+agencyid: "marion-s"
+agency: "Marion County Sheriff's Office"
 category: "Correctional"
 tags:
-  - "alcohol"
-  - "drugs"
-  - "reentry"
-  - "substance use treatment"
+  - "Alcohol"
+  - "Drugs"
+  - "Reentry"
+  - "Substance Use Treatment"
 subTitle: "Provides mentoring and treatment services that support successful reentry for clients with co-occurring disorders."
 ---
 
