@@ -2,11 +2,12 @@
 title: "Alternatives to Juvenile Detention"
 date: "2017-02-08"
 cover: /assets/research.png
-logo: /assets/agency/ncjrs-logo.jpg
+logo: /assets/agency/research.jpg
+agency: "Journal of Juvenile Justice - 2016"
 category: "Research"
 tags:
-  - "juveniles"
-  - "recidivism"
+  - "Juveniles"
+  - "Recidivism"
 subTitle: "Community-based juvenile programs focused on skill-building may be cost-effective alternatives to detention."
 ---
 
