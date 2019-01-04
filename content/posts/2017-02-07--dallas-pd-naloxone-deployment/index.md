@@ -3,11 +3,13 @@ title: "Dallas PD Naloxone Deployment"
 date: "2017-02-07"
 cover: /assets/policing.png
 logo: /assets/agency/dallas-pd-logo.png
+agencyid: "dallas-pd"
+agency: "Dallas Police Department"
 category: "Policing"
 tags:
-  - "drugs"
-  - "medical response"
-  - "training"
+  - "Drugs"
+  - "Medical Response"
+  - "Training"
 subTitle: "The Dallas Police Department has partnered with Polk County Behavioral Health to train every sworn officer on the use of naloxone."
 ---
 
