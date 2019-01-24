@@ -56,4 +56,4 @@ Substance-Free Transitional Housing Should Be Part of a Constellation of Service
 
 #### CITATION
 
-Worcel, S. D., Burrus, S. W., Finigan, M., Sanders, M. B., & Allen, T. L. (2009). A study of substance-free transitional housing and community corrections in Washington County, Oregon. Portland, OR: NPC Research.
+Worcel, S. D., Burrus, S. W., Finigan, M., Sanders, M. B., & Allen, T. L. (2009). [A study of substance-free transitional housing and community corrections in Washington County, Oregon.](http://npcresearch.com/wp-content/uploads/Washington_County_Transitional_Housing_Report_Final_01092.pdf) Portland, OR: NPC Research.
