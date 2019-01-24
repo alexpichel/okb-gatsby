@@ -3,6 +3,7 @@ title: "Security Camera Registration and Mapping (SCRAM)"
 date: "2016-04-25"
 cover: /assets/policing.png
 logo: /assets/agency/medford-police-logo.png
+author: "Lt. Mike Budreau"
 agencyid: "medford-pd"
 agency: "Medford Police Department"
 category: "Policing"
@@ -54,3 +55,7 @@ The program succeeds only if people register their cameras. If the MPD comes acr
 #### LESSONS LEARNED
 
 Remind citizens that police cannot view the camera’s records and do not have any access or log-in information for their system.
+
+#### ADDITIONAL DOCUMENTS
+
+[SCRAM Form](https://www.ci.medford.or.us/FormPageBS.asp?FormID=105)
