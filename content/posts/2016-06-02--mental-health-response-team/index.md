@@ -3,6 +3,7 @@ title: "Mental Health Response Team"
 date: "2016-06-02"
 cover: /assets/policing.png
 logo: /assets/agency/washington-logo.png
+author: "Sgt. Dustin Sluman"
 agencyid: "washington-s"
 agency: "Washington County Sheriff's Office"
 category: "Policing"
@@ -37,7 +38,7 @@ MHRT intercepts chronic users of emergency services, frees up officers to handle
 
 #### BASED ON RESEARCH
 
-MHRT is based on the “Memphis Model,” an innovative first-responder model of police-based crisis intervention with community, health care, and advocacy partnerships.
+MHRT is based on the “[Memphis Model](http://cit.memphis.edu/pdf/CoreElements.pdf),” an innovative first-responder model of police-based crisis intervention with community, health care, and advocacy partnerships.
 
 #### FUNDING
 
