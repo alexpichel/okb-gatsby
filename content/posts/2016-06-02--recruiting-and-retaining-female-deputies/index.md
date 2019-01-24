@@ -3,6 +3,7 @@ title: "Recruiting and Retaining Female Deputies"
 date: "2016-06-02"
 cover: /assets/correctional.png
 logo: /assets/agency/jackson-sheriff-logo.png
+author: "Sgt. Melissa Di Costanzo"
 agencyid: "jackson-s"
 agency: "Jackson County Sheriff's Office"
 category: "Correctional"
