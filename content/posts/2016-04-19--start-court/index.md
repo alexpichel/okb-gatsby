@@ -3,6 +3,7 @@ title: "START Court"
 date: "2016-04-19"
 cover: /assets/correctional.png
 logo: /assets/agency/multnomah-logo.png
+author: "Natalie Reyes, Program Coordinator"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
