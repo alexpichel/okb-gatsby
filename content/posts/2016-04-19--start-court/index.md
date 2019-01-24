@@ -91,3 +91,9 @@ START currently has 180 participants assigned to the program. From March 2015 th
 * Frequent and truly random drug tests are important, including for designer drugs. START modified its drug testing to be more truly random and less predictable for clients, to promote accountability and provide them with the support they need while in the beginning stages of lifelong recovery.
 
 * Medication Assisted Treatment (MAT) is an evidence-based practice and an important option. Because of insurance issues, MAT was not accessible to many participants during the early stages of the program. START now has access to and a close relationship with a MAT provider for various medications.
+
+#### ADDITIONAL RESOURCES
+
+[Multnomah County START Court Overview](https://multco.us/dcj-adult/start)
+
+[Multnomah County Treatment Courts Overview](https://www.courts.oregon.gov/courts/multnomah/programs-services/Pages/treatment-courts.aspx)
