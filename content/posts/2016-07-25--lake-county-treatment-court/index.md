@@ -3,6 +3,7 @@ title: "Lake County Treatment Court"
 date: "2016-07-25"
 cover: /assets/correctional.png
 logo: /assets/agency/lake-logo.png
+author: "Jake Greer, Community Corrections Director"
 agencyid: "lake-cc"
 agency: "Lake County Community Corrections"
 category: "Correctional"
@@ -34,8 +35,8 @@ Lake County developed a hybrid drug court that is suitable to a jurisdiction wit
 
 #### BASED ON RESEARCH
 
-* “10 Key Components of a Drug Court”
-* Matrix Model
+* [10 Key Components of a Drug Court](https://www.ncjrs.gov/pdffiles1/bja/205621.pdf)
+* [Matrix Model](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-3)
 * Oregon Public Safety Checklist
 * Level of Service/Case Management Inventory (LS/CMI)
 * University of Rhode Island Change Assessment (URICA)
