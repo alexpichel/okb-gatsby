@@ -3,6 +3,7 @@ title: "Malheur County Jail Diversion"
 date: "2016-09-26"
 cover: /assets/correctional.png
 logo: /assets/agency/malheur-logo.png
+author: "Lt. Debbie Hust"
 agencyid: "malheur-s"
 agency: "Malheur County Sheriff's Office"
 category: "Correctional"
@@ -37,7 +38,7 @@ With a strong continuum of care and support from members of the community, the J
 
 #### BASED ON RESEARCH
 
-The program uses the Sequential Intercept Model, which was developed as a way to understand how those with mental illness interact with the criminal justice system. Each intercept addresses where interventions can be made to help prevent people with behavioral disorders from falling through the cracks. The model describes five intercepts where jail diversion can occur.
+The program uses the [Sequential Intercept Model](https://ps.psychiatryonline.org/doi/pdf/10.1176/ps.2006.57.4.544), which was developed as a way to understand how those with mental illness interact with the criminal justice system. Each intercept addresses where interventions can be made to help prevent people with behavioral disorders from falling through the cracks. The model describes five intercepts where jail diversion can occur.
 
 1. Pre-booking diversion: Crisis intervention (crisis intervention team, mobile crisis unit, and first responders)
 
