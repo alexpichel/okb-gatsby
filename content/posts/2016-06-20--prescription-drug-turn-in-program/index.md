@@ -3,6 +3,7 @@ title: "Prescription Drug Turn-In Program"
 date: "2016-06-20"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
+author: "Jenni Pullen, Crime Prevention Coordinator"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
@@ -53,7 +54,7 @@ Effective October 9, 2014, regulations allowed for pharmacies to register with t
 
 #### BASED ON RESEARCH
 
-Teens and Prescription Drugs: An Analysis of Recent Trends on the Emerging Drug Threat, Office of National Drug Control Policy, Executive Office of the President, February 2007
+[Teens and Prescription Drugs: An Analysis of Recent Trends on the Emerging Drug Threat, Office of National Drug Control Policy](https://files.eric.ed.gov/fulltext/ED495769.pdf), Executive Office of the President, February 2007
 
 #### FUNDING
 
