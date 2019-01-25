@@ -3,6 +3,7 @@ title: "Jefferson County Native American Treatment"
 date: "2016-08-17"
 cover: /assets/correctional.png
 logo: /assets/agency/jefferson-logo.png
+author: "Kurt Symons, Director"
 agencyid: "jefferson-cc"
 agency: "Jefferson County Community Corrections"
 category: "Correctional"
