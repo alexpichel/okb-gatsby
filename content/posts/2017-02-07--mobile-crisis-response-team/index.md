@@ -3,6 +3,7 @@ title: "Mobile Crisis Response Team"
 date: "2017-02-07"
 cover: /assets/policing.png
 logo: /assets/agency/marion-logo.png
+author: "Cmdr. Tad Larson"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
 category: "Policing"
