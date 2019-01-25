@@ -3,6 +3,7 @@ title: "Green Hornet Wilderness Law Enforcement Services and Search and Rescue T
 date: "2016-11-08"
 cover: /assets/policing.png
 logo: /assets/agency/multnomah-sheriff-logo.png
+author: "Cmdr. Monte Reiser"
 agencyid: "mult-s"
 agency: "Multnomah County Sheriff's Office"
 category: "Policing"
@@ -16,7 +17,7 @@ subTitle: "This search team can be deployed quickly in order to enhance law enfo
 
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
-It became evident in recent years that the Multnomah County Sheriff’s Office (MCSO) Patrol Unit’s response to service calls in the Columbia River Gorge and other wilderness locations was lacking. MCSO has had several law enforcement–related calls in recreational areas where the response of our normal Search & Rescue (SAR) resources should not be called upon as a primary responder (though perhaps to assist with some calls). Incidents have included people who are suicidal, particularly in the Columbia River Gorge Scenic Area, and escapees or other suspects who enter wilderness areas and present a potential threat to the recreational community. (A number of suspects with felony warrants run from deputies into wilderness areas and SAR volunteers have encountered wanted subjects, as well as marijuana grows.).
+It became evident in recent years that the Multnomah County Sheriff’s Office (MCSO) Patrol Unit’s response to service calls in the Columbia River Gorge and other wilderness locations was lacking. MCSO has had several law enforcement–related calls in recreational areas where the response of our normal [Search & Rescue](http://mcsosar.org/) (SAR) resources should not be called upon as a primary responder (though perhaps to assist with some calls). Incidents have included people who are suicidal, particularly in the Columbia River Gorge Scenic Area, and escapees or other suspects who enter wilderness areas and present a potential threat to the recreational community. (A number of suspects with felony warrants run from deputies into wilderness areas and SAR volunteers have encountered wanted subjects, as well as marijuana grows.).
 
 This program was also created in response to an assessment of searches for lost persons in the gorge. This assessment established that MCSO spends between $70,000 and $100,000 per year managing the SAR program. What’s more, the response times to citizens missing or lost in wilderness areas can be significant. Volunteer search and rescue teams can require two to three hours in preparation, which includes acquiring gear and traveling to search locations.
 
@@ -34,7 +35,7 @@ Once a call is received, team members are immediately dispatched by an on-duty p
 
 #### BASED ON RESEARCH
 
-Concepts for constructing this program included National Search and Rescue Association practices and Problem-Oriented Policing models of community problem solving.
+Concepts for constructing this program included [National Search and Rescue Association](http://www.nasar.org/) practices and [Problem-Oriented Policing](https://popcenter.asu.edu/about/?p=whatiscpop) models of community problem solving.
 
 #### FUNDING
 
