@@ -3,6 +3,7 @@ title: "Bike Theft Reduction"
 date: "2016-11-08"
 cover: /assets/policing.png
 logo: /assets/agency/bend-pd.png
+author: "Sgt. Dan Ritchie"
 agencyid: "bend-pd"
 agency: "Bend Police Department"
 category: "Policing"
@@ -41,7 +42,7 @@ The BPD responded to these finding by doing the following:
 
 #### BASED ON RESEARCH
 
-The Bend Police Department has followed the Problem-Oriented Policing model to implement this program, reviewing existing programs and adjusting it to fit community and project needs. The Redlands Police Department in California offered guidance on the bait bike portion and the Portland Police Bureau provided guidance about its Bike Theft Summit.
+The Bend Police Department has followed the [Problem-Oriented Policing model](https://popcenter.asu.edu/about/?p=whatiscpop) to implement this program, reviewing existing programs and adjusting it to fit community and project needs. The Redlands Police Department in California offered guidance on the bait bike portion and the Portland Police Bureau provided guidance about its Bike Theft Summit.
 
 #### FUNDING
 
