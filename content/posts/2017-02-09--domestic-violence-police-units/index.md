@@ -2,7 +2,8 @@
 title: "Domestic Violence Police Units"
 date: "2017-02-09"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
+logo: /assets/agency/research.png
+agency: "University of North Carolina - 2010"
 category: "Research"
 tags:
   - "domestic violence"
@@ -63,4 +64,4 @@ Utilizing a specialized DV unit shows promising results for reducing recidivism.
 
 #### CITATION
 
-Exum, M. L., Hartman, J. L., Friday, P. C., & Lord, V. B. (2010). [Policing domestic violence in the post-SARP era: The impact of a domestic violence police unit[(https://www.researchgate.net/publication/273585666_Policing_Domestic_Violence_in_the_Post-SARP_Era_The_Impact_of_a_Domestic_Violence_Police_Unit). Crime & Delinquency, 60(7), 999-1032.
+Exum, M. L., Hartman, J. L., Friday, P. C., & Lord, V. B. (2010). [Policing domestic violence in the post-SARP era: The impact of a domestic violence police unit[(https://www.researchgate.net/publication/273585666_Policing_Domestic_Violence_in_the_Post-SARP_Era_The_Impact_of_a_Domestic_Violence_Police_Unit). Crime & Delinquency, 60(7), 999-1032.)
