@@ -3,6 +3,7 @@ title: "Curry County Thinking for a Change"
 date: "2016-07-20"
 cover: /assets/correctional.png
 logo: /assets/agency/curry-logo.png
+author: "David Denney, Director"
 agencyid: "curry-cc"
 agency: "Curry County Community Corrections"
 category: "Correctional"
