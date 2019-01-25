@@ -3,6 +3,7 @@ title: "Dallas PD Naloxone Deployment"
 date: "2017-02-07"
 cover: /assets/policing.png
 logo: /assets/agency/dallas-pd-logo.png
+author: "Lt. Jerry Mott"
 agencyid: "dallas-pd"
 agency: "Dallas Police Department"
 category: "Policing"
@@ -31,7 +32,7 @@ The Dallas Police Department has partnered with Polk County Behavioral Health to
 
 #### BASED ON RESEARCH
 
-Concepts for constructing this program included National Search and Rescue Association practices and Problem-Oriented Policing models of community problem solving.
+Concepts for constructing this program included [National Search and Rescue Association](http://www.nasar.org/) practices and [Problem-Oriented Policing](https://popcenter.asu.edu/about/?p=whatiscpop) models of community problem solving.
 
 #### FUNDING
 
