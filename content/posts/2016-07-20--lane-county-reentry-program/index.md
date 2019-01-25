@@ -3,6 +3,7 @@ title: "Lane County Reentry Program"
 date: "2016-07-20"
 cover: /assets/correctional.png
 logo: /assets/agency/lane-logo.png
+author: "Donovan Dumire, Community Corrections Manager"
 agencyid: "lane-cc"
 agency: "Lane County Community Corrections"
 category: "Correctional"
