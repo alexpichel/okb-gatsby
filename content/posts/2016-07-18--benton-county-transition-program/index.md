@@ -3,6 +3,7 @@ title: "Benton County Transition Program"
 date: "2016-07-18"
 cover: /assets/correctional.png
 logo: /assets/agency/benton-logo.png
+author: "Justin Carley, Community Corrections Director"
 agencyid: "benton-s"
 agency: "Benton County Sheriff's Office"
 category: "Correctional"
