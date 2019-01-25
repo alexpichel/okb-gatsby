@@ -3,6 +3,7 @@ title: "Klamath County Jail Treatment"
 date: "2016-07-18"
 cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
+author: "Kiki Parker-Rose, Director"
 agencyid: "klamath-s"
 agency: "Klamath County Sheriff's Office"
 category: "Correctional"
@@ -30,7 +31,7 @@ With fewer jail beds, people on probation or parole were being booked and releas
 
 The Klamath County Jail Treatment program is part of an overall effort to meet the four goals of HB 3194: reduce recidivism, increase public safety, increase offender accountability, and reduce the prison population.
 
-As a function of the Klamath Evidence-Based Sentencing (KEBS) program, offenders are referred to the jail treatment program. Using the Public Safety Checklist for Oregon, prosecutors identify medium- and high-risk offenders; most of them have committed property crimes and qualify for a prison sentence. Additional assessments are conducted by Klamath County Community Corrections (KCCC), using the Level of Service/Case Management Inventory (LS/CMI), Texas Christian University (TCU) resources, and the University of Rhode Island Change Assessment Scale (URICA). KCCC staff then make a recommendation to the DA and court that includes an opinion about the individual’s suitability or a community sentence, the establishment of conditions of supervision, and guidance as to whether the offender is suitable for the jail treatment program.
+As a function of the Klamath Evidence-Based Sentencing (KEBS) program, offenders are referred to the jail treatment program. Using the [Public Safety Checklist for Oregon](https://risktool.ocjc.state.or.us/psc/), prosecutors identify medium- and high-risk offenders; most of them have committed property crimes and qualify for a prison sentence. Additional assessments are conducted by Klamath County Community Corrections (KCCC), using the [Level of Service/Case Management Inventory](https://risktool.ocjc.state.or.us/psc/) (LS/CMI), Texas Christian University (TCU) resources, and the [University of Rhode Island Change Assessment Scale](https://www.ncbi.nlm.nih.gov/books/NBK64976/table/A62309/) (URICA). KCCC staff then make a recommendation to the DA and court that includes an opinion about the individual’s suitability or a community sentence, the establishment of conditions of supervision, and guidance as to whether the offender is suitable for the jail treatment program.
 
 The Treatment program involves the following:
 
@@ -42,7 +43,7 @@ The Treatment program involves the following:
 
 * Support and self-help services are also available, including Alcoholics Anonymous, Narcotics Anonymous, and religious services.
 
-* The private nonprofit corporation Klamath Basin Behavioral Health provides the cognitive behavioral treatment, which includes: “Thinking for a Change,” TCU’s “Understanding and Reducing Angry Feelings,” and Moral Reconation Therapy.
+* The private nonprofit corporation [Klamath Basin Behavioral Health](https://www.kbbh.org/) provides the cognitive behavioral treatment, which includes: [“Thinking for a Change,”](https://nicic.gov/thinking-change-40) TCU’s [“Understanding and Reducing Angry Feelings,”](http://ibr.tcu.edu/wp-content/uploads/2013/09/TMA05Aug-Anger.pdf) and [Moral Reconation Therapy](http://www.4emergence.com/evidence-based-practice/moral-reconation-therapy).
 
 KCCC staff assist with case-management duties, including preparing a release plan for each offender leaving local custody, including continued substance use treatment, mental health services, and cognitive programming as the individual transitions back into the community. The release plan ensures that the offender is enrolled in the Oregon Health Plan and released to clean and sober housing; the plan will also aim to remove any barriers that may hinder the individual’s ability to succeed.
 
@@ -55,7 +56,7 @@ The program uses the following evidence-based practices:
 * University of Rhode Island Change Assessment Scale
 * Public Safety Checklist for Oregon
 * LS/CMI
-* American Society of Addiction Medicine (ASAM) criteria
+* [American Society of Addiction Medicine (ASAM) criteria](https://www.asam.org/resources/the-asam-criteria)
 * “Thinking for a Change”
 
 #### FUNDING
