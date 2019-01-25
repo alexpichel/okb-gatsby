@@ -3,6 +3,7 @@ title: "Klamath County Victim and Family Justice Program"
 date: "2016-06-20"
 cover: /assets/correctional.png
 logo: /assets/agency/klamath-county-logo.png
+author: "Kiki Parker-Rose, Director"
 agencyid: "klamath-cc"
 agency: "Klamath County Community Corrections"
 category: "Correctional"
