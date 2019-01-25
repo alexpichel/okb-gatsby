@@ -3,6 +3,7 @@ title: "Douglas County In-Custody Treatment Beds"
 date: "2016-07-25"
 cover: /assets/correctional.png
 logo: /assets/agency/douglas-logo.png
+author: "Joseph Garcia, Community Corrections Director"
 agencyid: "douglas-s"
 agency: "Douglas County Sheriff's Office"
 category: "Correctional"
