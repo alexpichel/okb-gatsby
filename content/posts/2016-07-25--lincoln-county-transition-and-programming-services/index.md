@@ -3,6 +3,7 @@ title: "Lincoln County Transition and Programming Services"
 date: "2016-07-25"
 cover: /assets/correctional.png
 logo: /assets/agency/lincoln-logo.png
+author: "Suzi Gonzales, Director of Community Justice"
 agencyid: "lincoln-cc"
 agency: "Lincoln County Community Corrections"
 category: "Correctional"
@@ -42,7 +43,7 @@ Lincoln County’s Transition and Programming Services (TAPS) expanded the Count
 
 #### BASED ON RESEARCH
 
-Best practices in a jail reentry program require prompt identification of needs and detailed transition planning. Reach-ins to jail, continuity of care, and identifying and connecting the offender to resources in the community are aspects of best practices. Once offenders are released, the monitoring of their efforts to engage in services is the top priority. It is of great benefit when the PO who developed the case plan monitors the supervisee’s efforts in the community.
+[Best practices](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-3) in a jail reentry program require prompt identification of needs and detailed transition planning. Reach-ins to jail, continuity of care, and identifying and connecting the offender to resources in the community are aspects of best practices. Once offenders are released, the monitoring of their efforts to engage in services is the top priority. It is of great benefit when the PO who developed the case plan monitors the supervisee’s efforts in the community.
 
 #### FUNDING
 
