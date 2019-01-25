@@ -2,7 +2,9 @@
 title: "Reducing Chronic Nuisance Through Regulatory Policy"
 date: "2017-02-09"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
+logo: /assets/agency/research.png
+agencyid: "csusb"
+agency: "California State University, San Bernardino - 2013"
 category: "Research"
 tags:
   - "chronic nuisance"
