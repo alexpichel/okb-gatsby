@@ -3,6 +3,7 @@ title: "Evidence-Based Decision Making"
 date: "2016-11-21"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
+author: "Jessica Beach, Community Justice Director"
 agencyid: "yamhill-cc"
 agency: "Yamhill County Community Corrections"
 category: "Correctional"
@@ -17,7 +18,7 @@ subTitle: "This systems approach considers ways to improve local criminal justic
 
 #### PROBLEMATIC BEHAVIOR OR ACTIVITY
 
-In 2010, Yamhill County was one of seven sites selected for the National Institution of Corrections (NIC) Evidence-Based Decision Making (EBDM) initiative.
+In 2010, Yamhill County was one of seven sites selected for the [National Institution of Corrections (NIC) Evidence-Based Decision Making](https://info.nicic.gov/ebdm/) (EBDM) initiative.
 
 EBDM is a systems approach to consider ways to improve local criminal justice systems and policy through partner collaboration, data collection, and analysis. The EBDM framework is based on four main principles:
 
