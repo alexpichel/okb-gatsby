@@ -3,6 +3,7 @@ title: "Coos County Downward Departure Specialized Caseload"
 date: "2016-07-20"
 cover: /assets/correctional.png
 logo: /assets/agency/coos-logo.png
+author: "Michael Crim, Community Corrections Director"
 agencyid: "coos-cc"
 agency: "Coos County Community Corrections"
 category: "Correctional"
