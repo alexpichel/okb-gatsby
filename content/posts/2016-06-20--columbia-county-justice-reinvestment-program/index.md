@@ -3,6 +3,7 @@ title: "Columbia County Justice Reinvestment Program"
 date: "2016-06-20"
 cover: /assets/correctional.png
 logo: /assets/agency/columbia-logo.png
+author: "Janet Evans, Director"
 agencyid: "columbia-dcj"
 agency: "Columbia County Community Corrections"
 category: "Correctional"
