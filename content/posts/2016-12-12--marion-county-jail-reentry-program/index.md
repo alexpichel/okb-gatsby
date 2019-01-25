@@ -3,6 +3,7 @@ title: "Marion County Jail Reentry Program"
 date: "2016-12-12"
 cover: /assets/correctional.png
 logo: /assets/agency/marion-sheriff-logo.png
+author: "Debra Giard, Program Coordinator"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
 category: "Correctional"
@@ -32,7 +33,7 @@ All program participants are reviewed, interviewed, and screened by the Transiti
 
 #### BASED ON RESEARCH
 
-The Jail Reentry Program adheres to a risk-needs-responsivity framework. Each group receives services to address specific criminogenic risk factors. The program uses evidence-based risk and needs assessments, such as the Public Safety Checklist and the Level of Service/Case Management Inventory (LS/CMI).
+The Jail Reentry Program adheres to a risk-needs-responsivity framework. Each group receives services to address specific criminogenic risk factors. The program uses evidence-based risk and needs assessments, such as the [Public Safety Checklist](https://risktool.ocjc.state.or.us/psc/) and the Level of Service/Case Management Inventory (LS/CMI).
 
 #### FUNDING
 
