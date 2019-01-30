@@ -2,12 +2,13 @@
 title: "Statewide Approach to Mental Health and Crisis Response"
 date: "2017-10-10"
 cover: /assets/policing.png
-logo: /assets/agency/dpsst.png
+logo: /assets/policing.png
+author: "Chief Jim Ferraris, Woodburn Police Department"
+agency: "Oregon Association of Chiefs of Police & Oregon State Sheriff's Association"
 category: "Policing"
 tags:
-  - "CIT"
-  - "crisis intervention"
-  - "mental illness"
+  - "Crisis Intervention"
+  - "Mental Illness"
 subTitle: "A statewide policy framework for mental health and crisis response that can be scaled for use by a 2-person, 20-person, or 600-person law enforcement agency."
 ---
 
