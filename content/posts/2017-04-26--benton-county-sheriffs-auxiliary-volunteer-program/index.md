@@ -3,10 +3,13 @@ title: "Benton County Sheriff's Auxiliary Volunteer Program"
 date: "2017-04-26"
 cover: /assets/policing.png
 logo: /assets/agency/benton-logo.png
+author: "Sgt. Leslie Thilberg, Training & Recruiting"
+agency: "Benton County Sheriff's Office"
+agencyid: "benton-s"
 category: "Policing"
 tags:
-  - "community outreach"
-  - "training"
+  - "Community Outreach"
+  - "Training"
 subTitle: "Volunteers help with less critical projects around the sheriff's office including, but not limited to, creating the sheriff's office newsletter, setting up speed trailer and completing speed surveys, staffing events, and supporting crime prevention programs."
 ---
 
