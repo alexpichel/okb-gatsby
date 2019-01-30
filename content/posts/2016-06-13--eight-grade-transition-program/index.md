@@ -8,7 +8,7 @@ agencyid: "linn-jd"
 agency: "Linn County Juvenile Department"
 category: "Correctional"
 tags:
-  - "Juveniles"
+  - "juveniles"
 subTitle: "This project increases school connectedness and high school graduation rates in order to reduce juvenile recidivism."
 ---
 
@@ -80,5 +80,7 @@ Make sure to collect the right data so you can accurately measure outcomes and d
 
 #### ADDITIONAL DOUMENTS
 
-[Transition Group Interest List](okb-gatsby/content/posts/2016-06-13--eight-grade-transition-program/Introduction-Permission-Letter-3-4-14-GAPS.doc)
+[Introduction & Permission Letter](Introduction-Permission-Letter-3-4-14-GAPS.doc)
+[Student Survey](student_scale-school_connection.docx)
+[Transition Group Interest List](Transition-Group-interest-list.doc)
 
