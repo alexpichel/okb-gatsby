@@ -66,6 +66,7 @@
     "gatsby-transformer-sharp": "^1.6.27",
     "hoek": "^5.0.4",
     "instantsearch.css": "^7.1.0",
+    "invariant": "^2.2.4",
     "prismjs": "^1.15.0",
     "react": "^16.5.2",
     "react-custom-scrollbars": "^4.2.1",
