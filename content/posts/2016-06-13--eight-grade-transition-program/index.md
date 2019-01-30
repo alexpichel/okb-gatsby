@@ -8,7 +8,7 @@ agencyid: "linn-jd"
 agency: "Linn County Juvenile Department"
 category: "Correctional"
 tags:
-  - "juveniles"
+  - "Juveniles"
 subTitle: "This project increases school connectedness and high school graduation rates in order to reduce juvenile recidivism."
 ---
 
