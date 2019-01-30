@@ -3,12 +3,17 @@ title: "Community Partnerships and Construction Sites"
 date: "2017-05-09"
 cover: /assets/policing.png
 logo: /assets/agency/portland-logo.png
+author: "Meg Juarez, Crime Prevention Coordinator"
+agency: "Portland Crime Prevention and Livability Programs"
+agencyid: "ppb"
 category: "Policing"
 tags:
-  - "crime prevention"
-  - "property crime"
-  - "theft"
-  - "trespass"
+  - "Crime Prevention"
+  - "CPTED"
+  - "Community Outreach"
+  - "Property Crime"
+  - "Theft"
+  - "Trespass"
 subTitle: "Collaboration project between construction industry and neighborhoods to reduce property crime at construction sites."
 ---
 
@@ -67,3 +72,7 @@ Collaboration in the early stages of the project helps develop a strategic timel
 #### LESSONS LEARNED
 
 Once the plan is under way and outreach has been done, a community meeting may be helpful, to bring neighbors together to discuss any issues and to provide crime prevention education.
+
+#### ADDITIONAL DOCUMENTS
+
+[Bilingual Reward Signs](Bilingual-reward-signs.pdf)
