@@ -3,13 +3,16 @@ title: "Beaverton Mountain Bike Team"
 date: "2017-12-17"
 cover: /assets/policing.png
 logo: /assets/agency/beaverton-pd-logo.png
+author: "Ofc. Ben Howard"
+agency: "Beaverton Police Department"
+agencyid: "beaverton-pd"
 category: Policing
 tags:
   - "Homeless"
   - "Theft"
-  - "property crime"
-  - "quality of life"
-  - "transients"
+  - "Property Crime
+  - "Quality of Life"
+  - "Transients"
 subTitle: "A focus on educating business owners and bringing needed resources to homeless communities has been associated with a reduction in calls for service related to homelessness, the number of illegal camps, and thefts."
 ---
 
