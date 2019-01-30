@@ -2,12 +2,15 @@
 title: "Crisis Intervention Team Center of Excellence (CITCOE)"
 date: "2018-01-01"
 cover: /assets/policing.png
-logo: /assets/agency/dpsst.png
+logo: /assets/policing.png
+author: 
+  - "Eilene Flory, GOBHI Criminal Justice/Behavioral Health Liaison"
+  - "Linda Maddy, DPSST CIT Coordinator"
+  - "Kevin Rau, DPSST CIT Coordinator"
 category: "Policing"
 tags:
-  - "CIT"
-  - "crisis intervention"
-  - "mental illness"
+  - "Crisis Intervention"
+  - "Mental Illness"
 subTitle: "Crisis Intervention Team Center of Excellence (CITCOE) provides structure, support and technical assistance to Law Enforcement agencies and their local Behavioral Health agencies in the development of a local CIT program."
 ---
 
@@ -29,7 +32,7 @@ Crisis Intervention Team Center of Excellence (CITCOE) provides structure, suppo
 
 #### BASED ON RESEARCH
 
-The “Memphis Model” of CIT training includes 40 hours of oral and visual presentations, scenario-based training, and interactions with the local affiliate of the National Alliance on Mental Illness. For more information on this training model, see CIT Memphis Model at: www.cit.memphis.edu
+The [“Memphis Model”](www.cit.memphis.edu) of CIT training includes 40 hours of oral and visual presentations, scenario-based training, and interactions with the local affiliate of the National Alliance on Mental Illness. 
 
 #### FUNDING
 
@@ -44,3 +47,8 @@ CITCOE has assisted with the development and implementation of new CIT programs,
 #### CRITICAL SUCCESS FACTORS
 
 The Department of Public Safety Standards and Training (DPSST) – Center for Policing Excellence (CPE) and Greater Oregon Behavioral Health, Inc. (GOBHI) are jointly committed to promoting the development of criminal justice behavioral health training programs, such as Crisis Intervention Teams and other specialized police response models, throughout Oregon. The objective of this partnership is to assist criminal justice and behavioral health agencies in providing a more effective and compassionate response to people experiencing behavioral health crises.
+
+#### ADDITIONAL DOCUMENTS
+
+- [CITCOE Core Elements 2017](https://www.repository.cam.ac.uk/bitstream/handle/1810/260710/Ariel_et_al-Journal_of_Criminal_Justice_and_Behavior-AM.pdf?sequence=1)
+- [Crisis Intervention Team Start Guide & Toolkit](https://d1w5xmhvbencby.cloudfront.net/wp-content/uploads/2018/05/08101809/CIT-Start-Guide-and-Toolkit-07-2018.pdf)
