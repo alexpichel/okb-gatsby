@@ -2,10 +2,12 @@
 title: "Accountability and BWC"
 date: "2018-01-01"
 cover: /assets/research.png
-logo: /assets/agency/
+logo: /assets/research.png
+agency: "University of Cambridge - 2016"
 category: "Research"
 tags:
-  - "technology"
+  - "Technology"
+  - "Training
 subTitle: "The use of body-worn cameras reduced citizen complaints against police in a multisite randomized controlled trial."
 ---
 
