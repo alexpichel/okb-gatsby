@@ -3,11 +3,15 @@ title: "The Albina and Killingsworth Collaboration"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
+author: "Cmdr. Mike Leloff"
+agency: "Portland Police Bureau"
+agencyid: "ppb"
 category: "Policing"
 tags:
-  - "chronic nuisance"
-  - "quality of life"
-  - "violent crime"
+  - "Chronic Nuisance"
+  - "Quality of Life"
+  - "Violent Crime"
+  - "Property Crime"
 subTitle: "Partnerships among area businesses, residents, educational institutions and the police developed a multi-pronged approach to create a move livable environment."
 ---
 
