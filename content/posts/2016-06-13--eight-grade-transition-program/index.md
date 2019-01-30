@@ -77,3 +77,8 @@ Feedback is gathered every year through the following:
 #### LESSONS LEARNED
 
 Make sure to collect the right data so you can accurately measure outcomes and determine whether the program is successful. The Juvenile Department should also encourage high schools to involve an administrator or counselor who works with high school freshmen.
+
+#### ADDITIONAL DOUMENTS
+
+[Transition Group Interest List](okb-gatsby/content/posts/2016-06-13--eight-grade-transition-program/Introduction-Permission-Letter-3-4-14-GAPS.doc)
+
