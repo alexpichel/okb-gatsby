@@ -3,10 +3,13 @@ title: "Speeds Signs on Rhododendron Drive"
 date: "2017-06-01"
 cover: /assets/policing.png
 logo: /assets/agency/florence-pd-logo.jpg
+agency: "Florence Police Department"
+agencyid: "florence-pd"
+author: "Sgt. Brandon Ott"
 category: "Policing"
 tags:
-  - "technology"
-  - "traffic safety"
+  - "Technology"
+  - "Traffic Safety"
 subTitle: "Two radar-equipped electronic display speed signs with data collection capability were placed at the north and south ends of a crash prone roadway."
 ---
 
