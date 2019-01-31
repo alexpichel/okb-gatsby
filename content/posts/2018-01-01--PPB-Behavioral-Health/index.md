@@ -3,11 +3,13 @@ title: "Portland Police Bureau Behavioral Health Unit"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
+agency: "Portland Police Bureau"
+agencyid: "ppb"
+author: "Lt. Tashia Hager"
 category: "Policing"
 tags:
-  - "CIT"
-  - "crisis intervention"
-  - "mental health"
+  - "Crisis Intervention"
+  - "Mental Illness"
 subTitle: "The BHU coordinates the response of law enforcement and the behavioral health system to aid people in behavioral crisis stemming from known or suspected mental illness and/or substance use."
 ---
 
@@ -29,8 +31,8 @@ The PPB’s Behavioral Health Unit (BHU) coordinates the response of law enforce
 
 * All patrol officers are required to have a core competency in crisis intervention. As primary responders to crisis calls, all PPB officers receive 40 hours of basic crisis-intervention training, as well as annual crisis-response refresher training.
 * The Enhanced Crisis Intervention Team (ECIT) is a group of volunteer and vetted officers from a variety of patrol assignments who have an additional 40 hours of crisis-intervention training that focuses on responding to more complex crisis calls. These officers are the first responders 911 dispatches to behavioral health crisis calls, as set forth by established dispatch criteria.
-* The Behavioral Health Response Team (BHRT) pairs a patrol officer and a licensed mental health professional from Cascadia Behavioral Healthcare’s Project Respond. The Portland Police Bureau has three BHRT cars. The officers and mental health professionals work actively with individuals who have mental health issues and are identified as having had multiple or high-risk contacts with police. The BHRT personnel work to connect individuals to appropriate community resources. Referrals to the BHRT cars are made by patrol officers.
-* The Service Coordination Team (SCT) is a program that offers treatment to the city’s most frequent drug and property-crime offenders to address their substance use, mental health treatment, and criminality. In 2015 the SCT expanded by implementing the Supportive Transitions & Stabilization (STS) program, run by Central City Concern’s Housing Rapid Response collaboration. The six-bed program allows the BHU to assertively address the needs of those facing mental illness and co-occurring disorders by creating a direct housing resource for the BHRTs. Individuals referred to the SCT and BHRTs often experience periods of unstable housing and come into contact with the police during times of crisis; providing safe, service-connected housing can significantly change the outcomes of these interactions. STS provides 24-hour staffing, including case management and peer supportive services. Program participants will have the opportunity to address basic needs, connect with health care providers and treatment, engage in community support systems, and, ideally, have an uninterrupted transition to appropriate services. Access to stabilization beds is an invaluable tool for intervening with and engaging this population.
+* The Behavioral Health Response Team (BHRT) pairs a patrol officer and a licensed mental health professional from Cascadia Behavioral Healthcare’s [Project Respond](https://www.cascadiabhc.org/services/crisis-intervention/). The Portland Police Bureau has three BHRT cars. The officers and mental health professionals work actively with individuals who have mental health issues and are identified as having had multiple or high-risk contacts with police. The BHRT personnel work to connect individuals to appropriate community resources. Referrals to the BHRT cars are made by patrol officers.
+* The Service Coordination Team (SCT) is a program that offers treatment to the city’s most frequent drug and property-crime offenders to address their substance use, mental health treatment, and criminality. In 2015 the SCT expanded by implementing the [Supportive Transitions & Stabilization (STS) Program](https://www.portlandoregon.gov/police/article/561475), run by Central City Concern’s [Housing Rapid Response](https://www.centralcityconcern.org/services/health-recovery/housing-rapid-response/index.html) collaboration. The six-bed program allows the BHU to assertively address the needs of those facing mental illness and co-occurring disorders by creating a direct housing resource for the BHRTs. Individuals referred to the SCT and BHRTs often experience periods of unstable housing and come into contact with the police during times of crisis; providing safe, service-connected housing can significantly change the outcomes of these interactions. STS provides 24-hour staffing, including case management and peer supportive services. Program participants will have the opportunity to address basic needs, connect with health care providers and treatment, engage in community support systems, and, ideally, have an uninterrupted transition to appropriate services. Access to stabilization beds is an invaluable tool for intervening with and engaging this population.
 
 #### FUNDING
 
@@ -58,3 +60,9 @@ The unit has also developed the innovative BHU Electronic Referral System (BERS)
 #### LESSONS LEARNED
 
 In providing a layered approach to behavioral health crises, BHU personnel have learned that the unit needs to have a certain level of adaptability. Personnel are always looking for ways to become a better resource for patrol officers and community members. BHU personnel have also learned that a collaborative process is key to achieving the unit’s mission. Partnerships with traditional and nontraditional stakeholders allow for mutual trust and understanding among law enforcement, mental health providers, consumers, and advocates.
+
+#### ADDITIONAL DOCUMENTS
+
+- [Portland Police Lieutenant Outlines New Response to Mental Health Crises, The Lund Report, April 2014](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2018-01-01--PPB-Behavioral-Health/Lund-report-new-respomse.pdf)
+- [Portland Police Inundated with Mental Health Referrals, The Lund Report, Dec. 2014](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2018-01-01--PPB-Behavioral-Health/lund-report-referrals.pdf)
+- [AG Lynch Comes to Portland to Highlight Settlement with Police, Oregon Public Broadcasting, March 2016](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2018-01-01--PPB-Behavioral-Health/OPB-settlement.pdf)
