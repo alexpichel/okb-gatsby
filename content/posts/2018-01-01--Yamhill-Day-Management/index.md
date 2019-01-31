@@ -27,7 +27,7 @@ Chronic unemployment, under-education, and an overall lack of resources for corr
 #### PROGRAM DESCRIPTION
 
 The Yamhill County Department of Community Justice created the Day Management Center (DMC) to assist with correctional client employment and educational goals and provide an additional layer of accountability and support to probation officers by using enhanced contact standards. DMC provides skills training/practice and community resources and serves as a hub of support services to clients under supervision of the Department of Community Justice. DMC focuses services on medium- and high-risk clients for the purpose of obtaining employment; education and intensive supervision programs are also available (see DMC program flowchart under “Supporting Documents”).
-Referrals to the DMC are made by a client’s supervising probation officer (PO). Once the PO completes the referral form, it is sent to the DMC coordinator via e-mail at least one day prior to the client’s intake date. The referral should include the client’s most recent Level of Service/Case Management Inventory (LS/CMI) risk score. Three tracks are available to the client: the Employment Track, Education Track, and Intensive Supervision Track. The PO works with the DMC coordinator to determine the most appropriate track.
+Referrals to the DMC are made by a client’s supervising probation officer (PO). 
 
 EMPLOYMENT TRACK (READY TO WORK):
 Ready to Work (RTW) is an ongoing job development program that helps probation clients develop the tools necessary to find employment. The RTW program includes a comprehensive intake interview, career identification and goal setting, career development workshops, and educational opportunities.
