@@ -1,13 +1,15 @@
 ---
-title: "Policing Disorder"
+title: "Policing Disorder - A Systematic Review"
 date: "2018-01-01"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
+logo: /assets/research.png
+agency: "Journal of Research in Crime and Delinquency - 2015"
 category: "Research"
 tags:
-  - "crime prevention"
-subTitle: ""
+  - "Crime Prevention"
+subTitle: "Policing strategies targeting disorder have a moderate crime reduction effect."
 ---
+
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 #### COMMUNITY NEED
