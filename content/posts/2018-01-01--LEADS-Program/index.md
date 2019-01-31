@@ -3,10 +3,13 @@ title: "LEADS and Associated Services"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/marion-sheriff-logo.png
+agency: "Marion County Sheriff's Office"
+agencyid: "marion-s"
+author: "Lt. Kevin Karvandi"
 category: "Policing"
 tags:
-  - "diversion"
-  - "justice reinvestment"
+  - "Diversion"
+  - "Justice Reinvestment"
 subTitle: "In addition to a law enforcement assisted diversion program, a Resource Navigator helped individuals successfully transition back to the community."
 ---
 
