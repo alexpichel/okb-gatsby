@@ -2,13 +2,15 @@
 title: "Deschutes County Crisis Intervention Team"
 date: "2018-01-01"
 cover: /assets/policing.png
-logo: /assets/agency/deschutes-sheriff-logo.png
+logo: /assets/agency/bend-pd-logo.png
+author: "Eilene Flory, CIT Coordinator"
+agency: "Bend Police Department"
+agencyid: "bend-pd"
 category: "Policing"
 tags:
-  - "CIT"
-  - "crisis intervention"
-  - "mental health"
-  - "training"
+  - "Crisis Intervention"
+  - "Mental Illness"
+  - "Training"
 subTitle: "CIT training was provided to officers and deputies around Deschutes County in order to positively enhance encounters with those in crisis"
 ---
 
@@ -74,3 +76,8 @@ Our community has long recognized a need for the training and a strong desire to
 #### LESSONS LEARNED
 
 Team building among agencies, education on what each agency can do, and understanding that the end goal—better services and outcomes for people suffering from mental illness—is the same for all agency members have greatly increased trust and created good working relationships among community partners. Attending conferences as a team has been very beneficial.
+
+#### ADDITIONAL DOCUMENTS
+
+- [Grant Report](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2018-01-01--Deschutes-CIT/Bend-CIT-Grant-Report.pdf)
+- [Bend Bulletin Article](https://www.bendbulletin.com/localstate/1822910-151/crisis-intervention-team-coordinator-joins-force)
