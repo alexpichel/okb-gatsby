@@ -1,12 +1,15 @@
 ---
-title: "Emergency Communications of Southern Oregon Public Outreach"
+title: "Telecommunications Public Outreach"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/ecso-logo.jpg
+author: "Jeanette Giossi, Dispatch Supervisor"
+agency: "Emergency Communications of Southern Oregon"
+agencyid: "ecomm"
 category: "Policing"
 tags:
-  - "community outreach"
-  - "dispatch"
+  - "Community Outreach"
+  - "Dispatch"
 subTitle: "Outreach programs were utilized to educate citizens on the various ways to contact emergency service, leading to a more efficient use of the 911 and the non-emergency numbers."
 ---
 
