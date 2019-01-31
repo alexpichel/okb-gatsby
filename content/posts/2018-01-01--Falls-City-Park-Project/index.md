@@ -37,7 +37,7 @@ The second component was to integrate police technology. Two handheld FLIR devic
 
 * [Neighborhood Watch Programs](/neighborhood-watch-programs)
 * [CPTED – The Commercial Demonstration in Portland](/commercial-demonstration-in-portland-oregon/)
-* [Crime reducing effects of improved lighting](/2017-02-09--crime-reducing-effects-and-financial-impact-pf-improved-lighting/)
+* [Crime reducing effects of improved lighting](/crime-reducing-effects-and-financial-impact-pf-improved-lighting/)
 
 #### FUNDING
 
