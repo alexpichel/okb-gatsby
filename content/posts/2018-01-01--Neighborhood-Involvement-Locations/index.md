@@ -36,11 +36,16 @@ Both the national and local contexts, therefore, generated significant concerns 
 
 Neighborhood Involvement Locations combines the directed-patrol technique of hot-spot policing with tactical approaches from community policing. Rather than “stop and frisk” or investigative actions, the chief asked that patrol officers prioritize non-investigative contacts in the city’s high-crime areas. The goal was to increase contacts between residents of Portland and the members of the PPB, especially in areas with high levels of crime and disorder or areas where the public had high levels of distrust in the police. Ideally, increased foot patrols and time spent on non-­investigative types of interactions (walk and talks, social contacts, and other casual contacts) would both deter crime and improve the relationship between police and the public.
 
-More specifically, the chief's primary goal was to increase non­-investigative interactions between citizens and street officers in high-crime areas using pre­programmed computer-aided dispatch (CAD) calls. Officers were dispatched to select locations throughout the day and instructed to spend 15 minutes there, ideally engaging with residents and businesses in positive interactions. 
+More specifically, the chief's primary goal was to increase non­-investigative interactions between citizens and street officers in high-crime areas using pre-programmed computer-aided dispatch (CAD) calls. Officers were dispatched to select locations throughout the day and instructed to spend 15 minutes there, ideally engaging with residents and businesses in positive interactions. 
 
-The defining features of this program are the use of pre­programmed CAD calls and emphasizing foot patrol and community­ engagement. By utilizing these calls, the PPB demonstrates that community engagement is as central to its policing philosophy as its response to calls for service is.
+The defining features of this program are the use of pre­programmed CAD calls and emphasizing foot patrol and community engagement. By utilizing these calls, the PPB demonstrates that community engagement is as central to its policing philosophy as its response to calls for service is.
 
 #### BASED ON RESEARCH
+
+[Hot Spot Policing Can Reduce Crime](https://www.nij.gov/topics/law-enforcement/strategies/hot-spot-policing/pages/welcome.aspx)
+[Hot Spots Policing” Practice Profile](https://www.crimesolutions.gov/PracticeDetails.aspx?ID=8)
+[The Importance of Legitimacy in Hot Spots Policing](http://cops.usdoj.gov/html/dispatch/09-2013/the_importance_of_legitimacy_in_hot_spots_policing.asp)
+[5 Things You Need to Know about Hot Spots Policing and the ‘Koper Curve’ Theory](http://www.policefoundation.org/5-things-you-need-to-know-about-hot-spots-policing-the-koper-curve-theory/)
 
 #### FUNDING
 
@@ -50,15 +55,17 @@ The program was initially unfunded and was developed as part of the PPB Crime An
 
 #### PROGRAM IMPACT
 
-Several impact assessments are under way, analyzing the program as a whole. Several sub­components (car-prowl missions, theft-reduction missions, livability missions) have been evaluated individually. The evaluation looked at 90 days before and after the foot patrols began and compared to the prior year. In many cases, calls for service to the targeted areas decreased. Additionally, officers report positive feedback from community members. It is important to note that these results are not validated and simply represent pre- and post-type assessments; causation or linkage of these benefits to the NILoc program has not been determined.
+Several impact assessments are under way, analyzing the program as a whole. Several sub-components (car-prowl missions, theft-reduction missions, livability missions) have been evaluated individually. The evaluation looked at 90 days before and after the foot patrols began and compared to the prior year. In many cases, calls for service to the targeted areas decreased. Additionally, officers report positive feedback from community members. It is important to note that these results are not validated and simply represent pre- and post-type assessments; causation or linkage of these benefits to the NILoc program has not been determined.
+
 The PPB has dispatched approximately 20,000 NILoc calls to date. This represents tens of thousands of police interactions with citizens and thousands of hours of additional patrols in the areas most in need of police services. Anecdotally, the public has responded positively to these patrols, and several missions (for instance, increased police presence at local schools) appear to be hugely successful. Other operations, such as increased police presence in gang-affected areas, appear to have had both a positive impact on police calls for service and avoided major negative incidents that might have damaged the PPB's relationship with the community.
-The program is being studied by Portland State University (PSU) to gauge its impact on residents' perceptions of police, calls for service to police, crime reduction, and officers’ attitudes about the program. Some of these findings, such as officer feedback on how to improve the program, have already been incorporated and have led to an increase in bottom­-up, precinct-level NILoc missions aimed at addressing the needs identified by operational personnel, community members, and/or local businesses.
+The program is being studied by Portland State University (PSU) to gauge its impact on residents' perceptions of police, calls for service to police, crime reduction, and officers’ attitudes about the program.
 
 #### CRITICAL SUCCESS FACTORS
 
 The survey and focus groups PSU conducted as part of the evaluation noted support for the goals of the program, but also highlighted issues with implementation. The large increase in call volume without new resources generated some degree of frustration. Similarly, there was some concern of the use of statistics in determining call locations, and during the initial program period, about a lack of flexibility associated with running the program and a randomized control trial. There was support for the use of the CAD system in establishing the calls and general agreement on the importance of improving the relationship between the police and the public.
-Incorporating this feedback and remaining tactically flexible (willing to alter the specific approach) while strategically focused (remaining focused on the community­ engagement components of the program) have been critical in sustaining the program beyond the initial trial period.
-Getting buy-­in on the program and building the program from the bottom­ up have helped increase support. Sergeant and other line-­level personnel have begun using the program to support the needs of their precinct/division. This bottom-­up growth has been key in sustaining the program after a rough start.
+Incorporating this feedback and remaining tactically flexible (willing to alter the specific approach) while strategically focused (remaining focused on the community engagement components of the program) have been critical in sustaining the program beyond the initial trial period.
+
+Getting buy-­in on the program and building the program from the bottom-up have helped increase support. Sergeant and other line-level personnel have begun using the program to support the needs of their precinct/division. This bottom-up growth has been key in sustaining the program after a rough start.
 
 #### LESSONS LEARNED
 
