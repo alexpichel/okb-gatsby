@@ -3,10 +3,13 @@ title: "Oregon State Police Car Care Program"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/osp-logo.png
+agency: "Oregon State Police"
+agencyid: "osp"
+author: "Major David Anderson"
 category: "Policing"
 tags:
-  - "community outreach"
-  - "traffic safety"
+  - "Community Outreach"
+  - "Traffic Safety"
 subTitle: "Vouchers provided to motorists cited for equipment violations  in order to lower the cost of minor repairs."
 ---
 
