@@ -2,12 +2,12 @@
 title: "Topic Summary - Performance Evaluations"
 date: "2018-01-01"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
+logo: /assets/research.png
 category: "Research"
 tags:
-  - "policy"
-  - "staffing"
-  - "retention"
+  - "Policy"
+  - "Staffing"
+  - "Retention"
 subTitle: ""
 ---
 
