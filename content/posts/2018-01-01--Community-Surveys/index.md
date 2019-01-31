@@ -2,11 +2,12 @@
 title: "Topic Summary - Community Surveys"
 date: "2018-01-01"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
+logo: /assetsresearch.png
 category: "Research"
 tags:
-  - "policy"
-  - "community relations"
+  - "Policy"
+  - "Community Outreach"
+  - "Oregon Research"
 subTitle: ""
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
