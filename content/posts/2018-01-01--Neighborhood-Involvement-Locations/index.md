@@ -1,11 +1,12 @@
 ---
-title: "Neighborhood Involvement Locations"
+title: "Policing Disorder - A Systematic Review"
 date: "2018-01-01"
-cover: /assets/policing.png
-logo: /assets/agency/dpsst.png
-category: "Policing"
+cover: /assets/research.png
+logo: /assets/research.png
+agency: "Journal of Research in Crime and Delinquency - 2015"
+category: "Research"
 tags:
-  - "crime prevention"
+  - "Crime Prevention"
 subTitle: "Policing strategies targeting disorder have a moderate crime reduction effect."
 ---
 
