@@ -32,7 +32,7 @@ Lastly, we were on the cusp of implementing the ability to take Text Messages to
 
 Our strategy was to rebrand our agency in preparation to to push our message by going out into the public and meeting the citizens face-to-face to chat with them about the issues at hand and recruit them to relay our message to all of their friends, neighbors and family members. We also wanted to invite citizen groups into our center to see for themselves what exactly we do and how we do it. In addition, we wanted to start a social media campaign in which would gain followers who we could then educate on these important matters.
 
-#### FUNDING
+#### BASED ON RESEARCH
 
 [APCO International: Public Education Tools for Telecommunicators](https://www.apcointl.org/resources/911-info/9-1-1-public-information/public-education-tools-for-telecommunicators/)
 
