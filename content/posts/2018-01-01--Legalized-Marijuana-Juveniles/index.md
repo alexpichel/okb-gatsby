@@ -2,7 +2,7 @@
 title: "Topic Summary - Legalized Marijuana and Juveniles"
 date: "2018-01-01"
 cover: /assets/research.png
-logo: /assets/agency/dpsst.png
+logo: /assets/research.png
 category: "Research"
 tags:
   - "drugs"
