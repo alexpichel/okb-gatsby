@@ -29,7 +29,7 @@ This activity raised concern among many residences regarding the safety of the p
 
 #### PROGRAM DESCRIPTION
 
-This program was comprised of two main components; the first component was to involve community partners. The Sheriff’s Office worked with residents nearby to form a program, much like the [Neighborhood Park Watch program in Lebanon](/neighborhood-park-watch/) as well as with the Falls City public works in order to have signage installed outlining hours and allowable activities.
+This program was comprised of two main components; the first component was to involve community partners. The Sheriff’s Office worked with residents nearby to form a program, much like the [Neighborhood Park Watch program](/neighborhood-park-watch/) in Lebanon as well as with the Falls City public works in order to have signage installed outlining hours and allowable activities.
 
 The second component was to integrate police technology. Two handheld FLIR devices were purchased to assist with formal surveillance during nighttime responses. These FLIR devices were also used to enhance other police response, including Search and Rescue operations.
 
