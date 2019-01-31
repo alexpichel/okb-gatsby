@@ -3,12 +3,15 @@ title: "Falls City Park Project"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/agency/polk-sheriff-logo2.png
+author: "Sgt. Todd Fenk"
+agency: "Polk County Sheriff's Office"
+agencyid: "polk-s"
 category: "Policing"
 tags:
   - "CPTED"
-  - "crime prevention"
-  - "quality of life"
-  - "technology"
+  - "Crime Prevention"
+  - "Quality of Life"
+  - "Technology"
 subTitle: "FLIR technology and increased community involvement addressed a number of livability issues associated with a city park."
 ---
 
@@ -34,7 +37,7 @@ The second component was to integrate police technology. Two handheld FLIR devic
 
 * [Neighborhood Watch Programs](/neighborhood-watch-programs)
 * [CPTED – The Commercial Demonstration in Portland](/commercial-demonstration-in-portland-oregon/)
-* Reduced Lighting
+* [Crime reducing effects of improved lighting](/2017-02-09--crime-reducing-effects-and-financial-impact-pf-improved-lighting/)
 
 #### FUNDING
 
