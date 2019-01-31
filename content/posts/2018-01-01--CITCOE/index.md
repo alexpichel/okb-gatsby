@@ -3,10 +3,10 @@ title: "Crisis Intervention Team Center of Excellence (CITCOE)"
 date: "2018-01-01"
 cover: /assets/policing.png
 logo: /assets/policing.png
-author: 
-  - "Eilene Flory, GOBHI Criminal Justice/Behavioral Health Liaison"
-  - "Linda Maddy, DPSST CIT Coordinator"
-  - "Kevin Rau, DPSST CIT Coordinator"
+# author: 
+#   - "Eilene Flory, GOBHI Criminal Justice/Behavioral Health Liaison"
+#   - "Linda Maddy, DPSST CIT Coordinator"
+#   - "Kevin Rau, DPSST CIT Coordinator"
 category: "Policing"
 tags:
   - "Crisis Intervention"
