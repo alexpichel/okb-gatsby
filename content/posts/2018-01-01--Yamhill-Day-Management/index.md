@@ -3,10 +3,12 @@ title: "Yamhill County Day Management Center"
 date: "2018-01-01"
 cover: /assets/correctional.png
 logo: /assets/agency/yamhill-logo.png
+agency: "Yamhill County Department of Community Justice"
+agencyid: "yamhill-dcj"
+author: "Brian Rucker, Community Justice Manager"
 category: "Correctional"
 tags:
-  - "supervision"
-  - "job training"
+  - "Supervision"
 subTitle: "The DMC was created to assist with correctional client employment and educational goals and provide an additional layer of accountability and support to probation officers by using enhanced contact standards."
 ---
 
