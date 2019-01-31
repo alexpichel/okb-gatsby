@@ -5,8 +5,8 @@ cover: /assets/research.png
 logo: /assets/research.png
 category: "Research"
 tags:
-  - "drugs"
-  - "juveniles"
+  - "Drugs"
+  - "Juveniles"
 subTitle: ""
 ---
 
