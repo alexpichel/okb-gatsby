@@ -3,9 +3,12 @@ title: "Family Sentencing Alternative Program"
 date: "2018-01-01"
 cover: /assets/correctional.png
 logo: /assets/agency/marion-sheriff-logo.png
+agency: "Marion County Sheriff's Office"
+agencyid: "marion-s"
+author: "Sgt. Matt Meier"
 category: "Correctional"
 tags:
-  - "specialized caseload"
+  - "Specialized Caseload"
 subTitle: "In an effort to reduce the traumatic effects that the incarceration of a parent can have on children, other family members, and caregivers, FSAP provides wraparound treatment, mentoring, and employment services to address the drivers of criminal conduct."
 ---
 
@@ -39,7 +42,7 @@ Supervision consists of three main factors: access to necessary services and tre
 
 **Treatment Program Design**
 
-Marion County relies on a number of treatment resources depending on the client’s individual needs. As mentioned above, the WRNA is used to assess the women’s risks and needs. Motivation and cognitive programming classes will be provided by Bridgeway Recovery Services (BRS). BRS is an evidence-based program that uses gender-specific addiction treatment, mentoring services, and trauma-informed care within its therapeutic milieu. These classes are designed to introduce clients to cognitive behavioral interventions and prepare them for formal treatment services.
+Marion County relies on a number of treatment resources depending on the client’s individual needs. As mentioned above, the WRNA is used to assess the women’s risks and needs. Motivation and cognitive programming classes will be provided by [Bridgeway Recovery Services](www.bridgewayrecovery.com) (BRS). BRS is an evidence-based program that uses gender-specific addiction treatment, mentoring services, and trauma-informed care within its therapeutic milieu. These classes are designed to introduce clients to cognitive behavioral interventions and prepare them for formal treatment services.
 
 Clients in the program are subject to intensive supervision with the supervising deputy and DHS. During contacts, the deputy provides cognitive behavioral interventions intended to complement and reinforce the treatment curriculum, thus adding to the dosage needed for clients to get the maximum benefit and resulting in 250+ hours of cognitive-based intervention collaboratively. Community Corrections and BRS provide mental health evaluations and connect clients with needed services. Community Corrections also offers parenting classes, mentoring, and employment services, as well as unlimited access to the De Muniz Resource Center, which provides access to legal, medical, and educational services.
 
