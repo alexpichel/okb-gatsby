@@ -22,7 +22,7 @@ Unfortunately, not many wellness programs have been rigorously evaluated, so inc
 
 #### ARTICLES
 
-[Health, Safety, Wellness Program Case Studies in Law Enforcement](https://www.valorforblue.org/Documents/Publications/Public/Health_Safety_and_Wellness_Program_Case_Studies_in_Law_Enforcement.pdf)
+[Health, Safety, Wellness Program Case Studies in Law Enforcement](https://ric-zai-inc.com/Publications/cops-p332-pub.pdf)
 
 This report includes four examples of wellness programs around the nation and some of the results. Costs will vary based on agency and the extent that a wellness program is implemented.
 
