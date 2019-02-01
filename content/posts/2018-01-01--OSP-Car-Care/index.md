@@ -1,6 +1,6 @@
 ---
 title: "Oregon State Police Car Care Program"
-date: "2018-01-01"
+date: "2018-04-09"
 cover: /assets/policing.png
 logo: /assets/agency/osp-logo.png
 agency: "Oregon State Police"
@@ -43,3 +43,7 @@ Budget is minimal – the small printing cost of the vouchers.
 
 The program has received positive feedback from the public and media. A better picture of impact will be developed as time passes and the program hopefully expands to additional LE agencies and auto parts retailers.
 
+#### ADDITIONAL DOCUMENTS
+
+* [Participant Poster](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2018-01-01--OSP-Car-Care/Participant-Poster-draft.pdf)
+* [Car Voucher Example](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2018-01-01--OSP-Car-Care/car-care-voucher1-300x255.jpg)
