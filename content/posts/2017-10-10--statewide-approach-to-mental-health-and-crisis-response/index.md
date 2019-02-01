@@ -46,10 +46,16 @@ These recommendations were proposed and approved by Oregon’s Board on Public S
 
 ### Based on Research
 
-The task force reviewed a number of publications and resources [(summarized here)](http://d1w5xmhvbencby.cloudfront.net/wp-content/uploads/2017/10/10091255/MH-Task-Force-References.pdf).
+The task force reviewed a number of publications and resources [(summarized here)](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/MH-Task-Force-References.pdf).
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 ### Program Impact
 
 While the impact of the Task Force’s recommendations is not yet known, there are promising results associated with the implementation of some of the strategies encouraged by the Task Force. For example, so far in 2017 Marion County Sheriff’s Office’s Mobile Crisis Response Team has responded to 500 active mental health calls with only 19 resulting in custody arrests and two in uses of force.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Executive Summary](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Executive-Summary-MH-Task-Force-FINAL-1010171.pdf)
+* [Policy Framework](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Policy-Framework-MH-Task-Force-FINAL-101017.pdf)
+* [Training Recommendations](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Training-Recommendations-MH-Task-Force-FINAL.pdf)
