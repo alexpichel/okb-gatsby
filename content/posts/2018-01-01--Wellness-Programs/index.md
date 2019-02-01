@@ -51,7 +51,7 @@ This article from the National Institute of Health provides a fair amount of res
 
 #### ONLINE RESOURCES
 
-[IACP’s Center for Officer Safety & Wellness](http://www.theiacp.org/COSW)
+[IACP’s Officer Safety & Wellness](https://www.theiacp.org/topics/officer-safety-wellness)
 
 The IACP has compiled numerous guides on wellness topics ranging from creating a fitness program to eating well on the go to mental health to officer safety. A number of topics even have attractive, quick-to-read brochures for officers and their families.
 
