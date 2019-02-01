@@ -43,3 +43,10 @@ This program will cost between $25 and $50 per year per officer. This cost inclu
 #### CRITICAL SUCCESS FACTORS
 
 The requirements to equip officers with naloxone in Oregon are minimal. Typically, the main hurdle is finding a medical professional to assume the oversight and authorization to obtain the drug. Partnering with public health entities is a good way to mitigate associated costs associated. Those health providers may also be able to access funding sources based on their involvement in the program.
+
+#### ADDITIONAL RESOURCES
+
+* [Naloxone Training Protocol](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-02-07--dallas-pd-naloxone-deployment/naloxone-training-protocol.pdf)
+* [Training Statement of Completion](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-02-07--dallas-pd-naloxone-deployment/naloxone-statement-of-completion.pdf)
+* [Polk County Behavioral Health Naloxone Procedure](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-02-07--dallas-pd-naloxone-deployment/NaloxoneProcedure.pdf)
+* [Naloxone Background - BJA](https://bjatta.bja.ojp.gov/tools/naloxone/Naloxone-Background)
