@@ -56,6 +56,6 @@ While the impact of the Task Force’s recommendations is not yet known, there a
 
 #### ADDITIONAL DOCUMENTS
 
-* [Executive Summary](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Executive-Summary-MH-Task-Force-FINAL-1010171.pdf)
+* [Executive Summary](/Executive-Summary-MH-Task-Force-FINAL-1010171.pdf)
 * [Policy Framework](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Policy-Framework-MH-Task-Force-FINAL-101017.pdf)
 * [Training Recommendations](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Training-Recommendations-MH-Task-Force-FINAL.pdf)
