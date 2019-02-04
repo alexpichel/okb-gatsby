@@ -26,7 +26,7 @@ The area in and around Sandy Blvd. from NE 99th Ave. to NE 122nd Ave. has histor
 
 The impact on the community was assessed through four ways, including conducting a community survey, attending additional community group meetings as suggested by survey respondents, and attending other community activities such as a panel discussion on how to help individuals living on the streets in the area.
 
-Key findings from the [community survey](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Parkrose-Initiative/parkrose-survey.pdf) conducted by PSU and PPB included:
+Key findings from the [community survey](./parkrose-survey.pdf) conducted by PSU and PPB included:
 
 * Issues involving social disorder (Drug/Alcohol, Prostitution, Property Crime etc.) were the top public safety concern among respondents.
 
@@ -53,7 +53,7 @@ Based on community feedback, the PPB Crime Analysis Unit did a Calls for Service
 
 The public safety survey results supported this analysis. 64% of survey respondents identified this area as the most problematic in Parkrose Neighborhood. 
 
-For more information, please see [map](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Parkrose-Initiative/Parkrose-map.pdf).
+For more information, please see [map](./Parkrose-map.pdf).
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Solution
 
