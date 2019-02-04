@@ -1,6 +1,6 @@
 ---
 title: "Accountability and BWC"
-date: "2018-01-01"
+date: "2018-08-21"
 cover: /assets/research.png
 logo: /assets/research.png
 agency: "University of Cambridge - 2016"
