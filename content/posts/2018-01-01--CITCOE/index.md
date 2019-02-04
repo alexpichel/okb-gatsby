@@ -1,6 +1,6 @@
 ---
 title: "Crisis Intervention Team Center of Excellence (CITCOE)"
-date: "2018-01-01"
+date: "2018-05-01"
 cover: /assets/policing.png
 logo: /assets/agency/CITCOE Logo 3.png
 agency: "GOBHI & DPSST"
