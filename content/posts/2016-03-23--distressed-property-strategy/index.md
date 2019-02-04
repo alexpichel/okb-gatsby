@@ -92,4 +92,4 @@ When I designed the program, I interviewed and drew from the team members’ exp
 #### ADDITIONAL DOCUMENTS
 
 * [2016 Goldstein Award Submission - Zombie Houses](https://popcenter.asu.edu/sites/default/files/16-01_portland.pdf)
-* [Report Templates](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2016-03-23--distressed-property-strategy/Report-templates-Distressed-Property-for-Knowledge-Bae.pdf)
+* [Report Templates](./Report-templates-Distressed-Property-for-Knowledge-Bae.pdf)
