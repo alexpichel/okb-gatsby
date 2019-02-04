@@ -80,9 +80,9 @@ Make sure to collect the right data so you can accurately measure outcomes and d
 
 #### ADDITIONAL DOUMENTS
 
-[Introduction & Permission Letter](Introduction-Permission-Letter-3-4-14-GAPS.doc)
+[Introduction & Permission Letter](./Introduction-Permission-Letter-3-4-14-GAPS.doc)
 
-[Student Survey](student_scale-school_connection.docx)
+[Student Survey](./student_scale-school_connection.docx)
 
-[Transition Group Interest List](Transition-Group-interest-list.doc)
+[Transition Group Interest List](./Transition-Group-interest-list.doc)
 
