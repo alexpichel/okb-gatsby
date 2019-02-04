@@ -115,9 +115,9 @@ The DMC caseload averages 30 clients at any given time. Most are medium- or high
 * Develop a system for positive and negative behavior responses to provide program structure.
 
 #### ADDITIONAL DOCUMENTS
- - [DMC Flowchart](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Yamhill-Day-Management/DMC%20Flowchart.pdf)
- - [DMC Behavior Response Grid](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Yamhill-Day-Management/DMC_Behavior_Response_Grid.pdf)
- - [DMC Brochure](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Yamhill-Day-Management/DMC_Brochure_Revised.pdf)
- - [DMC Policies](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Yamhill-Day-Management/DMC_Policies.pdf)
+ - [DMC Flowchart](./DMC_Flowchart.pdf)
+ - [DMC Behavior Response Grid](./DMC_Behavior_Response_Grid.pdf)
+ - [DMC Brochure](./DMC_Brochure_Revised.pdf)
+ - [DMC Policies](./DMC_Policies.pdf)
  
 
