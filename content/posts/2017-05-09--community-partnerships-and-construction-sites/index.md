@@ -75,4 +75,4 @@ Once the plan is under way and outreach has been done, a community meeting may b
 
 #### ADDITIONAL DOCUMENTS
 
-[Bilingual Reward Signs](Bilingual-reward-signs.pdf)
+[Bilingual Reward Signs](./Bilingual-reward-signs.pdf)
