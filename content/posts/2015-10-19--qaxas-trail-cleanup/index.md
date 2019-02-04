@@ -60,4 +60,4 @@ Communicate with your residents and community partners. Following the implementa
 
 #### ADDITIONAL DOCUMENTS
 
-[Qaxas Trail Cleanup Proprosal](Qaxas_Cleanup.pdf)
+[Qaxas Trail Cleanup Proprosal](./Qaxas_Cleanup.pdf)
