@@ -46,7 +46,7 @@ These recommendations were proposed and approved by Oregon’s Board on Public S
 
 ### Based on Research
 
-The task force reviewed a number of publications and resources [(summarized here)](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/MH-Task-Force-References.pdf).
+The task force reviewed a number of publications and resources [(summarized here)](./MH-Task-Force-References.pdf).
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
@@ -56,6 +56,6 @@ While the impact of the Task Force’s recommendations is not yet known, there a
 
 #### ADDITIONAL DOCUMENTS
 
-* [Executive Summary](/Executive-Summary-MH-Task-Force-FINAL-1010171.pdf)
-* [Policy Framework](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Policy-Framework-MH-Task-Force-FINAL-101017.pdf)
-* [Training Recommendations](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-10-10--statewide-approach-to-mental-health-and-crisis-response/Training-Recommendations-MH-Task-Force-FINAL.pdf)
+* [Executive Summary](./Executive-Summary-MH-Task-Force-FINAL-1010171.pdf)
+* [Policy Framework](./Policy-Framework-MH-Task-Force-FINAL-101017.pdf)
+* [Training Recommendations](./Training-Recommendations-MH-Task-Force-FINAL.pdf)
