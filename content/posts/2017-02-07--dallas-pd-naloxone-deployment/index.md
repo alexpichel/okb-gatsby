@@ -46,7 +46,7 @@ The requirements to equip officers with naloxone in Oregon are minimal. Typicall
 
 #### ADDITIONAL RESOURCES
 
-* [Naloxone Training Protocol](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-02-07--dallas-pd-naloxone-deployment/naloxone-training-protocol.pdf)
-* [Training Statement of Completion](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-02-07--dallas-pd-naloxone-deployment/naloxone-statement-of-completion.pdf)
-* [Polk County Behavioral Health Naloxone Procedure](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2017-02-07--dallas-pd-naloxone-deployment/NaloxoneProcedure.pdf)
+* [Naloxone Training Protocol](./naloxone-training-protocol.pdf)
+* [Training Statement of Completion](./naloxone-statement-of-completion.pdf)
+* [Polk County Behavioral Health Naloxone Procedure](./NaloxoneProcedure.pdf)
 * [Naloxone Background - BJA](https://bjatta.bja.ojp.gov/tools/naloxone/Naloxone-Background)
