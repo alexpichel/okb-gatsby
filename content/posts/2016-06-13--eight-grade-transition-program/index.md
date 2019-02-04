@@ -1,5 +1,5 @@
 ---
-title: "Eight-Grade Transition Program"
+title: "Eighth-Grade Transition Program"
 date: "2016-06-13"
 cover: /assets/correctional.png
 logo: /assets/agency/linn-logo.png
