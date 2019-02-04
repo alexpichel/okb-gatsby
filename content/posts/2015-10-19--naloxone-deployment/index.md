@@ -55,5 +55,5 @@ Get your local fire department on board; they can assist in training and orderin
 
 #### ADDITIONAL RESOURCES
 
-* [Naloxone POP (PowerPoint)](./naloxone_deployment.pdf)
+* [Naloxone POP Presentation](./naloxone_deployment.pdf)
 * [Naloxone Background - BJA](https://bjatta.bja.ojp.gov/tools/naloxone/Naloxone-Background)
