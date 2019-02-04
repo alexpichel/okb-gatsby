@@ -53,4 +53,4 @@ While the commitment is great, it's worth the investment in the safety and futur
 
 #### ADDITIONAL DOCUMENTS
 
-[Eugene Safety Town After Action Report](AAR-SAFETY-TOWN-2015.pdf)
+[Eugene Safety Town After Action Report](./AAR-SAFETY-TOWN-2015.pdf)
