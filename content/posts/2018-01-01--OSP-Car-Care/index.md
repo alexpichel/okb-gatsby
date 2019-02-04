@@ -45,5 +45,5 @@ The program has received positive feedback from the public and media. A better p
 
 #### ADDITIONAL DOCUMENTS
 
-* [Participant Poster](/Participant-Poster-draft.pdf)
-* [Car Voucher Example](/car-care-voucher1-300x255.jpg)
+* [Participant Poster](./Participant-Poster-draft.pdf)
+* [Car Voucher Example](./car-care-voucher1-300x255.jpg)
