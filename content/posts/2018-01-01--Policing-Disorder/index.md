@@ -1,6 +1,6 @@
 ---
 title: "Policing Disorder - A Systematic Review"
-date: "2018-01-01"
+date: "2018-08-21"
 cover: /assets/research.png
 logo: /assets/research.png
 agency: "Journal of Research in Crime and Delinquency - 2015"
