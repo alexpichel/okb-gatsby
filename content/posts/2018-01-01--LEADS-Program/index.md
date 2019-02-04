@@ -1,6 +1,6 @@
 ---
 title: "LEADS and Associated Services"
-date: "2018-01-01"
+date: "2018-10-09"
 cover: /assets/policing.png
 logo: /assets/agency/marion-sheriff-logo.png
 agency: "Marion County Sheriff's Office"
