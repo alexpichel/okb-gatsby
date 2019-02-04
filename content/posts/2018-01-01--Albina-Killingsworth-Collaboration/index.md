@@ -56,3 +56,7 @@ Community and Police collaboration as well as the involvement of local clergy, t
 #### LESSONS LEARNED
 
 It is important to take the time to thoroughly study the problem and develop the necessary relationships before attempting to address it.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Goldstein Award Submission](./Goldstein_Award_Albina_Killingsworth_Submission.pdf)
