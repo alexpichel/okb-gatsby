@@ -50,3 +50,4 @@ Get the property owners and managers on board from the start and provide them wi
 #### ADDITIONAL DOCUMENTS
 
 * [SRN Addendum](./Special_Response_Notice_Addendum.pdf)
+* [Special Response Fee Notice](./Corvallis_Police_Special_Response_Fee.pdf)
