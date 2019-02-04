@@ -46,3 +46,7 @@ Partnerships with landlords and other community organizations. Multiple conseque
 #### LESSONS LEARNED
 
 Get the property owners and managers on board from the start and provide them with a way of getting the information about SRN houses in a timely manner.
+
+#### ADDITIONAL DOCUMENTS
+
+* [SRN Addendum](./Special_Response_Notice_Addendum.pdf)
