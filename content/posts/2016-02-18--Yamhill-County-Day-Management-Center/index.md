@@ -27,7 +27,7 @@ Chronic unemployment, under-education, and an overall lack of resources for corr
 
 #### PROGRAM DESCRIPTION
 
-The Yamhill County Department of Community Justice created the Day Management Center (DMC) to assist with correctional client employment and educational goals and provide an additional layer of accountability and support to probation officers by using enhanced contact standards. DMC provides skills training/practice and community resources and serves as a hub of support services to clients under supervision of the Department of Community Justice. DMC focuses services on medium- and high-risk clients for the purpose of obtaining employment; education and intensive supervision programs are also available - see [DMC program flowchart](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Yamhill-Day-Management/DMC%20Flowchart.pdf)
+The Yamhill County Department of Community Justice created the Day Management Center (DMC) to assist with correctional client employment and educational goals and provide an additional layer of accountability and support to probation officers by using enhanced contact standards. DMC provides skills training/practice and community resources and serves as a hub of support services to clients under supervision of the Department of Community Justice. DMC focuses services on medium- and high-risk clients for the purpose of obtaining employment; education and intensive supervision programs are also available - see [DMC program flowchart](./DMC_Flowchart.pdf)
 
 EMPLOYMENT TRACK (READY TO WORK):
 Ready to Work (RTW) is an ongoing job development program that helps probation clients develop the tools necessary to find employment.  RTW consists of a three-tier System. In each of the tiers, clients participate in the program up to five days per week..
@@ -66,7 +66,7 @@ The Intensive Supervision Track targets the unmotivated high-risk client who nee
 
 Mentorship Opportunities: For specific graduates of RTW, and as recommended by the DMC coordinator, clients may participate in some mentorship opportunities such as involvement with the coordinator in the initial intake to demonstrate a real-life example of how the program can be effective and to provide suggestions and guidance to a new client.
 
-Behavior Response: DMC uses a behavior response process to reward positive/pro-social behaviors and correct negative/antisocial behaviors -  [DMC Behavior Response Grid](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Yamhill-Day-Management/DMC_Behavior_Response_Grid.pdf)
+Behavior Response: DMC uses a behavior response process to reward positive/pro-social behaviors and correct negative/antisocial behaviors -  [DMC Behavior Response Grid](./DMC_Behavior_Response_Grid.pdf)
 
 Resources & Partnerships: DMC works in partnership with numerous agencies in Yamhill County, including Goodwill Industries, the Oregon Employment Department, Chemeketa Community College, Express Employment Professionals, and Hope on the Hill.
 
