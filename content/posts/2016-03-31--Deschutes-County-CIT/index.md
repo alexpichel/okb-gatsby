@@ -77,5 +77,5 @@ Team building among agencies, education on what each agency can do, and understa
 
 #### ADDITIONAL DOCUMENTS
 
-* [Grant Report for Deschutes County CIT Project](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Deschutes-CIT/McCabe-Report.pdf)
+* [Grant Report for Deschutes County CIT Project](./McCabe-Report.pdf)
 * [Bend Bulletin Article](https://www.bendbulletin.com/localstate/1822910-151/crisis-intervention-team-coordinator-joins-force)
