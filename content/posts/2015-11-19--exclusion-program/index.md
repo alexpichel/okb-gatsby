@@ -53,4 +53,4 @@ Be clear with businesses and other properties who wish to enroll in this program
 
 #### ADDITIONAL DOCUMENTS
 
-[Criteria for Exclusion](CRITERIA_FOR_EXCLUSION_FROM_BUSINESSES.pdf) 
+[Criteria for Exclusion](./CRITERIA_FOR_EXCLUSION_FROM_BUSINESSES.pdf) 
