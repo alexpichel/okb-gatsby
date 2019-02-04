@@ -92,4 +92,4 @@ It was important to develop a local policy team, including representatives from 
 
 #### ADDITIONAL DOCUMENTS
 
-[Oregon Pretrial Justice Summit](https://github.com/alexpichel/okb-gatsby/blob/master/content/posts/2016-02-25--yamhill-county-pretrial-justice/Oregon-Pretrial-Justice-Summit-Yamhill-County-6-3-16-FINAL.pptx)
+[Oregon Pretrial Justice Summit](./Oregon-Pretrial-Justice-Summit-Yamhill-County-6-3-16-FINAL.pdf)
