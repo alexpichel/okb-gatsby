@@ -1,6 +1,6 @@
 ---
 title: "Topic Summary - Community Surveys"
-date: "2018-01-01"
+date: "2018-03-01"
 cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
 category: "Research"
