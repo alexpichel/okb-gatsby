@@ -1,6 +1,6 @@
 ---
 title: "The Albina and Killingsworth Collaboration"
-date: "2018-01-01"
+date: "2015-09-22"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
 author: "Cmdr. Mike Leloff"
