@@ -1,6 +1,6 @@
 ---
 title: "Falls City Park Project"
-date: "2018-01-01"
+date: "2018-10-09"
 cover: /assets/policing.png
 logo: /assets/agency/polk-sheriff-logo2.png
 author: "Sgt. Todd Fenk"
