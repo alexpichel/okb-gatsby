@@ -1,6 +1,6 @@
 ---
 title: "Law Enforcement AED Program"
-date: "2018-01-01"
+date: "2018-08-07"
 cover: /assets/policing.png
 logo: /assets/agency/prineville-pd.png
 agency: "Prineville Police Department"
