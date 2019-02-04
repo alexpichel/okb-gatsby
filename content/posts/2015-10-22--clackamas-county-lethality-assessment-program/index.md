@@ -52,3 +52,7 @@ The LAP was successful due to early support for the program from the Sheriff’s
 #### LESSONS LEARNED
 
 Before attempting to implement a LAP, ensure buy-in from all levels of the organization as well as community partners. Members of the law enforcement agency and the community-based advocacy program need to establish strong lines of communication to ensure clarification on issues including ongoing communication, confidentiality agreements, shelter availability, hotline staffing and other concerns. A single agency point of contact who can spearhead the program and keep the momentum moving forward is crucial.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Domestic Violence Lethality Screen for First Responders](./lethality-assessment-program.pdf)
