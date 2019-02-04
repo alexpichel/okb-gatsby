@@ -1,6 +1,6 @@
 ---
 title: "Beaverton Mountain Bike Team"
-date: "2017-12-17"
+date: "2015-12-17"
 cover: /assets/policing.png
 logo: /assets/agency/beaverton-pd-logo.png
 author: "Ofc. Ben Howard"
