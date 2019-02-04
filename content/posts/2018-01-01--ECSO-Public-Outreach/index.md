@@ -1,6 +1,6 @@
 ---
 title: "Telecommunications Public Outreach"
-date: "2018-01-01"
+date: "2018-10-09"
 cover: /assets/policing.png
 logo: /assets/agency/ecso-logo.jpg
 author: "Jeanette Giossi, Dispatch Supervisor"
