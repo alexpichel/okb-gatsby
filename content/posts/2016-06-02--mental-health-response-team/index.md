@@ -77,3 +77,9 @@ Shifts are primarily filled with 4.0 FTE of law enforcement staff employed by th
 * Find leadership within key organizations to drive the process, share successes, and act as role models.
 
 * Start small and build on successes: Even a small win can go a long way. For instance, deputies need to see how it helps them do their job better to start believing in this effort; leadership needed to see positive outcomes before they could embrace the initiatives.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Development of MHRT Presentation](./MHRT-Development-Presentation.pdf)
+* [MHRT Program Description](./MHRT-Program-Description.pdf)
+* [MHRT Brochure](./MHRT-brochure-10_2014-v2.pdf)
