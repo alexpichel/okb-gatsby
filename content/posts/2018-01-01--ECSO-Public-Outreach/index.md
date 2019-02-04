@@ -50,3 +50,7 @@ We would not have gotten this program off the ground had it not been for DPSST a
 #### LESSONS LEARNED
 
 You can keep your team engaged and interested in the program by making sure that everybody who wants to attend an event or speak at an engagement get that chance. Don’t always use the same 2-3 individuals, but make every effort to allow everybody a chance. Trust your team. We held our reigns pretty close at first, making sure that we had a member of management attend each event to make sure that our message to the public was consistent. Now, we send the team members out to events either in pairs or even alone with nobody in management tagging along. Since they feel trusted they are loyal, responsible and they feel important(which they are). Always listen to the ideas of your team members and try to implement them if possible so that they know they are a valued. Lastly, never make a unilateral decision, ask for their input and listen to them.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Outreach Photos](./ECSO-outreach-photos.pdf)
