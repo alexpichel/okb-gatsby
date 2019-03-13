@@ -70,5 +70,5 @@ Some of the social service providers even experienced a distinct shift in their 
 
 #### ADDITIONAL DOCUMENTS
 
-[Public Notice Example](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Building-Partnerships/Public-Notice-Illegal-Camping-English-and-Spanish-Updated-AUG-2018.pdf)
+[Public Notice Example](./Public-Notice-Illegal-Camping-English-and-Spanish-Updated-AUG-2018.pdf)
 
