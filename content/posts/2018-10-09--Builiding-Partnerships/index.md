@@ -2,7 +2,7 @@
 title: "Building Partnerships to Address Unlawful Camping"
 date: "2018-10-09"
 cover: /assets/policing.png
-logo: /assets/agency/dpsst.png
+logo: /assets/agency/corvallis-pd-logo.png
 agency: "Corvallis Police Department"
 agencyid: "corvallis-pd"
 author: "Sgt. Joel Goodwin"
