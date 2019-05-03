@@ -10,7 +10,7 @@ category: "Policing"
 tags:
   - "Victims"
   - “K9”
-subTitle: 
+subTitle: "A K9 program committed to providing comfort and emotional support during and following traumatic events for both officers and citizens."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
