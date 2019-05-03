@@ -9,7 +9,7 @@ agency: "Sherwood Police Department"
 category: "Policing"
 tags:
   - "Victims"
-  - “K9”
+  - "K9"
 subTitle: "A K9 program committed to providing comfort and emotional support during and following traumatic events for both officers and citizens."
 ---
 
