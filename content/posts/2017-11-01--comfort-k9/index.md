@@ -2,7 +2,7 @@
 title: "Comfort K9"
 date: "2017-11-01"
 cover: /assets/policing.png
-logo: /assets/policing.png
+logo: /assets/agency/sherwood-pd-logo.PNG
 author: "Chief Jeffrey Goth"
 agencyID: "sherwood-p"
 agency: "Sherwood Police Department"
