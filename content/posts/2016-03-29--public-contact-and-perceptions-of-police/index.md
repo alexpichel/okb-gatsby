@@ -6,9 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "cjpri"
 agency: "Criminal Justice Policy Research Institute, Portland State University - 2013"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Oregon Research"
+tags: [Community Outreach, Oregon Research]
 subTitle: "An examination of public interactions by Portland police officers reinforces the importance of communication techniques that increase perceptions of fair treatment by police."
 ---
 

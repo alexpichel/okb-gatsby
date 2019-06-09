@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2001"
 category: "Research"
-tags:
-  - "CPTED"
-  - "crime prevention"
-  - "international"
+tags: [CPTED, Crime Prevention, International]
 subTitle: "Improved lighting in residential areas decreased both crime rates and the fear of crime."
 ---
 

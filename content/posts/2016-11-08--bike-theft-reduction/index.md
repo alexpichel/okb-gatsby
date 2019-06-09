@@ -7,11 +7,7 @@ author: "Sgt. Dan Ritchie"
 agencyid: "bend-pd"
 agency: "Bend Police Department"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "Crime Prevention"
-  - "Property Crime"
-  - "Theft"
+tags: [Chronic Nuisance, Crime Prevention, Property Crime, Theft]
 subTitle: "Through the support and participation of community partners, in addition to a bait bike program, bike theft was reduced."
 ---
 

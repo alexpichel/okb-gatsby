@@ -1,9 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
 // import Link from "gatsby-link";
+import TagList from "../TagList";
 import injectSheet from "react-jss";
 import LazyLoad from "react-lazyload";
 import moment from "moment";
+import Header from "../Header";
 
 const styles = theme => ({
   header: {
@@ -101,15 +103,12 @@ const styles = theme => ({
 const PostHeader = props => {
   const { classes, logo, title, agency, subTitle, category, tags, date } = props;
 
-  const tagsBlock = (
-    <div className="">
-      {tags &&
-        tags.map((tag, i) => (
-          <p className={classes.tags} key={tag}>
-            {tags[i]}
-          </p>
-        ))}
-    </div>
+  return (
+    <Header {...props}>
+      <div className={classes.tags}>
+        <TagList tags={tags} />
+      </div>
+    </Header>
   );
 
   return (
@@ -136,7 +135,7 @@ const PostHeader = props => {
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div>
         <p className={classes.category}>{category}</p>
-        <p className={classes.tags}>{tagsBlock}</p>
+        <p className={classes.tags}><TagList tags={tags} /></p>
       </div>
     </header>
   );
@@ -151,7 +150,7 @@ PostHeader.propTypes = {
   cover: PropTypes.object,
   subTitle: PropTypes.string,
   category: PropTypes.string,
-  tags: PropTypes.string,
+  tags: PropTypes.array,
   date: PropTypes.string.isRequired
 };
 

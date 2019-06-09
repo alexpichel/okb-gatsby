@@ -7,10 +7,7 @@ author: "Jessica Beach, Community Justice Director"
 agencyid: "yamhill-cc"
 agency: "Yamhill County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Pre-sentence"
-  - "Pretrial"
+tags: [Justice Reinvestment, Pre-sentence, Pretrial]
 subTitle: "This systems approach considers ways to improve local criminal justice systems and policy through partner collaboration, data collection, and analysis."
 ---
 

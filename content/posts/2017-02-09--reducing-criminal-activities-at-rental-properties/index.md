@@ -6,10 +6,7 @@ logo: /assets/agency/uc-logo.png
 agencyid: "uc"
 agency: "University of Cincinnati - 1998"
 category: "Research"
-tags:
-  - "chronic nuisance"
-  - "crime prevention"
-  - "drugs"
+tags: [Chronic Nuisance, Crime Prevention, Drugs]
 subTitle: "Enhanced place management involving multi-disciplinary meetings with property owners was associated with increased target hardening leading to crime reductions."
 ---
 

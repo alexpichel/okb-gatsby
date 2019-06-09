@@ -4,9 +4,7 @@ date: "2017-09-06"
 cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
 category: "Research"
-tags:
-  - "Drugs"
-  - "Juveniles"
+tags: [Drugs, Juveniles]
 subTitle: ""
 ---
 

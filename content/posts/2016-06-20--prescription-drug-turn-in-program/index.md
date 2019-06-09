@@ -7,10 +7,7 @@ author: "Jenni Pullen, Crime Prevention Coordinator"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
-tags:
-  - "Community Outreach"
-  - "Crime Prevention"
-  - "Drugs"
+tags: [Community Outreach, Crime Prevention, Drugs]
 subTitle: "A drug turn-in program was created to help reduce the misuse and mishandling of legally prescribed drugs"
 ---
 

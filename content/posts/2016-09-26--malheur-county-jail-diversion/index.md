@@ -7,10 +7,7 @@ author: "Lt. Debbie Hust"
 agencyid: "malheur-s"
 agency: "Malheur County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Jail"
-  - "Justice Reinvestment"
-  - "Mental Illness"
+tags: [Jail, Justice Reinvestment, Mental Illness]
 subTitle: "The Jail Diversion team works closely with community partners, law enforcement agencies, courts, DHS, and Community Corrections, hospitals, acute psychiatric facilities, and the Veterans Administration to collaborate on achieving the best outcomes for those who will be released into the community."
 ---
 

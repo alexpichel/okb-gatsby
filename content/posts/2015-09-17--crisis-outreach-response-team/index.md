@@ -7,9 +7,7 @@ author: "Lt. Tad Larson"
 agencyID: "marion-s"
 agency: "Marion County Sheriff's Office"
 category: "Policing"
-tags:
-  - "Mental Illness"
-  - "Crisis Intervention"
+tags: [Mental Illness, Crisis Intervention]
 subTitle: "The Crisis Outreach Response Team (CORT) made up of one deputy, one mental health professional, and a part-time data entry position has increased referrals to services for persons suffering from mental illness, as well as reduced jail bed usage."
 ---
 

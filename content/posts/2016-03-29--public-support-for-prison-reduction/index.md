@@ -6,9 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "cjpri"
 agency: "Criminal Justice Policy Research Institute , Portland State University - 2011"
 category: "Research"
-tags:
-  - "Oregon Research"
-  - "Policy"
+tags: [Oregon Research, Policy]
 subTitle: "Oregonians are open to a number of prison reduction policies, but favor policies that protect the public and uphold offender accountability."
 ---
 

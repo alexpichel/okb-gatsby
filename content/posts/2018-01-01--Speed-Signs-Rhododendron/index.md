@@ -7,9 +7,7 @@ agency: "Florence Police Department"
 agencyid: "florence-pd"
 author: "Sgt. Brandon Ott"
 category: "Policing"
-tags:
-  - "Technology"
-  - "Traffic Safety"
+tags: [Technology, Traffic Safety]
 subTitle: "Two radar-equipped electronic display speed signs with data collection capability were placed at the north and south ends of a crash prone roadway."
 ---
 

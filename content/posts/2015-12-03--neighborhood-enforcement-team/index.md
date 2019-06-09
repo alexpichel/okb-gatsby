@@ -7,12 +7,7 @@ author: "Officer James Leake"
 agencyid: "gresham-pd"
 agency: "Gresham Police Department"
 category: "Policing"
-tags:
-  - "Abandoned Property"
-  - "Chronic Nuisance"
-  - "Homeless"
-  - "Quality of Life"
-  - "Transients"
+tags: [Abandoned Property, Chronic Nuisance, Homeless, Quality of Life, Transients]
 subTitle: "This program establishes contacts within the community and through city enforcement agencies and other police officers helps enforce existing statutes regarding chronic nuisance, abandoned property and exclusion orders."
 ---
 

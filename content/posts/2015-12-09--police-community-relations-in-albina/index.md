@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2013"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Oregon Research"
-  - "Race"
+tags: [Community Outreach, Oregon Research, Race]
 subTitle: "A retrospective study examined the relationship between the black community and police between 1964 and 1985, uncovering differences in the perception of the improvement or decline of that relationship."
 ---
 

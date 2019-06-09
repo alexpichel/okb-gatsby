@@ -6,10 +6,7 @@ logo: /assets/agency/research.png
 agencyid: "csusb"
 agency: "California State University, San Bernardino - 2013"
 category: "Research"
-tags:
-  - "chronic nuisance"
-  - "crime prevention"
-  - "drugs"
+tags: [Chronic Nuisance, Crime Prevention, Drugs]
 subTitle: "Education, outreach, and ordinance creation formed a multi-pronged approached that reduced crime at local motels."
 ---
 

@@ -6,9 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2016"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Oregon Research"
+tags: [Community Outreach, Oregon Research]
 subTitle: "Enhanced communication and partnerships with residents may help to improve residents' trust in law enforcement and increase community participation in public safety efforts."
 ---
 

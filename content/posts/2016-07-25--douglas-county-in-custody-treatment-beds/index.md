@@ -7,10 +7,7 @@ author: "Joseph Garcia, Community Corrections Director"
 agencyid: "douglas-s"
 agency: "Douglas County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Jail"
-  - "Justice Reinvestment"
-  - "Substance Use Treatment"
+tags: [Jail, Justice Reinvestment, Substance Use Treatment]
 subTitle: "Douglas County increased its capacity to provide in-jail substance use treatment services and ensure that all offenders who received such treatment then transitioned into the Douglas County Adult Drug Court Program upon their release from jail."
 ---
 

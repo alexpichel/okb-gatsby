@@ -9,9 +9,7 @@ agency: "GOBHI & DPSST"
 #   - "Linda Maddy, DPSST CIT Coordinator"
 #   - "Kevin Rau, DPSST CIT Coordinator"
 category: "Policing"
-tags:
-  - "Crisis Intervention"
-  - "Mental Illness"
+tags: [Crisis Intervention, Mental Illness]
 subTitle: "Crisis Intervention Team Center of Excellence (CITCOE) provides structure, support and technical assistance to Law Enforcement agencies and their local Behavioral Health agencies in the development of a local CIT program."
 ---
 

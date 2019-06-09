@@ -4,10 +4,7 @@ date: "2018-03-01"
 cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
 category: "Research"
-tags:
-  - "Policy"
-  - "Community Outreach"
-  - "Oregon Research"
+tags: [Policy, Community Outreach, Oregon Research]
 subTitle: ""
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

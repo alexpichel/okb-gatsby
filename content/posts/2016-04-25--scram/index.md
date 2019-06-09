@@ -7,10 +7,7 @@ author: "Lt. Mike Budreau"
 agencyid: "medford-pd"
 agency: "Medford Police Department"
 category: "Policing"
-tags:
-  - "Crime Prevention"
-  - "Property Crime"
-  - "Technology"
+tags: [Crime Prevention, Property Crime, Technology]
 subTitle: "Program encourages citizens to register their security cameras with MPD to help investigators have timely access to potential footage of crimes that have been committed."
 ---
 

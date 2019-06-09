@@ -7,9 +7,7 @@ author: "Jodi Merritt, Research/Project Analyst"
 agencyid: "jackson-cj"
 agency: "Jackson County Community Justice"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Pretrial Release"
+tags: [Justice Reinvestment, Pretrial Release]
 subTitle: "This program aims to reduce jail overcrowding, minimize the failure to appear rate by providing informed release decisions and appropriate community supervision."
 ---
 

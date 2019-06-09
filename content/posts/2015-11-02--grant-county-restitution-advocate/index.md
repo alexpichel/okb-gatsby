@@ -7,10 +7,7 @@ author: "Dean Hoodenpyl, Director (Former)"
 agencyID: "grant-s"
 agency: "Grant County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Restitution"
-  - "Victims"
+tags: [Justice Reinvestment, Restitution, Victims]
 subTitle: "A Restitution Advocate position was created to assist victims in navigating the restitution process."
 ---
 

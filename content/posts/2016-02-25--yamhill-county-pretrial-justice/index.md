@@ -7,9 +7,7 @@ author: "Jessica Beach, Director"
 agencyid: "yamhill-dcj"
 agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Pretrial Release"
+tags: [Justice Reinvestment, Pretrial Release]
 subTitle: "A comprehensive pre-trial assessment providing release recommendations shows a promising trend of contributing to a reduction of FTAs and daily jail population."
 ---
 

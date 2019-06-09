@@ -7,10 +7,7 @@ agency: "Prineville Police Department"
 agencyid: "prineville-pd"
 author: "Sgt. Troy Wiles"
 category: "Policing"
-tags:
-  - "Medical Response"
-  - "Technology"
-  - "Training"
+tags: [Medical Response, Technology, Training]
 subTitle: "All patrol officers have been trained on how to provide High Performance CPR and use an AED to save citizens suffering from a cardiac event."
 ---
 

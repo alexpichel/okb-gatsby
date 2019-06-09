@@ -9,6 +9,7 @@ import screenfull from "screenfull";
 
 import HomeIcon from "@material-ui/icons/Home";
 import SearchIcon from "@material-ui/icons/Search";
+import LabelIcon from "@material-ui/icons/Label";
 import ArrowUpwardIcon from "@material-ui/icons/ArrowUpward";
 import FullscreenIcon from "@material-ui/icons/Fullscreen";
 import FullscreenExitIcon from "@material-ui/icons/FullscreenExit";
@@ -97,6 +98,7 @@ class ActionsBar extends React.Component {
   }
 
   homeOnClick = featureNavigator.bind(this);
+  tagsOnClick = moveNavigatorAside.bind(this);
   searchOnClick = moveNavigatorAside.bind(this);
 
   fullscreenOnClick = () => {
@@ -127,8 +129,7 @@ class ActionsBar extends React.Component {
       navigatorPosition,
       navigatorShape,
       isWideScreen,
-      categories,
-      tags
+      categories
     } = this.props;
 
     return (
@@ -145,6 +146,19 @@ class ActionsBar extends React.Component {
           {((isWideScreen && navigatorShape === "open") || navigatorPosition !== "is-aside") && (
             <CategoryFilter categories={categories} filterCategory={this.categoryFilterOnClick} />
           )}
+
+          <IconButton
+            aria-label="Tag Cloud"
+            onClick={this.searchOnClick}
+            component={Link}
+            data-shape="closed"
+            to="/tags/"
+            title="Tag Cloud"
+            className={classes.button}
+          >
+            <LabelIcon className={classes.button} />
+          </IconButton>
+
           <IconButton
             aria-label="Search"
             onClick={this.searchOnClick}
@@ -156,6 +170,7 @@ class ActionsBar extends React.Component {
           >
             <SearchIcon className={classes.button} />
           </IconButton>
+          
         </div>
         <div className={classes.group}>
           {navigatorPosition === "is-aside" && <FontSetter increaseFont={this.fontSetterOnClick} />}

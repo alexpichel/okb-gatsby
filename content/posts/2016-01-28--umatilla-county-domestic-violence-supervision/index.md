@@ -7,11 +7,7 @@ author: "Dale Primmer, Director"
 agencyid: "umatilla-cc"
 agency: "Umatilla County Community Corrections"
 category: "Correctional"
-tags:
-  - "Domestic Violence"
-  - "Family Violence"
-  - "Justice Reinvestment"
-  - "Specialized Caseload"
+tags: [Domestic Violence, Family Violence, Justice Reinvestment, Specialized Caseload]
 subTitle: "A multi-faceted supervision program focused on the specific needs of DV offenders aims to increase accountability for victim reparation and reduce recidivism and prison bed use."
 ---
 

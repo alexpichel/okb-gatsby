@@ -7,11 +7,7 @@ author: "Lt. Andrew Copeland & Sgt. Bob Trump"
 agencyID: "keizer-pd"
 agency: "Keizer Police Department"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "CPTED"
-  - "Quality of Life"
-  - "Violent Crime"
+tags: [Chronic Nuisance, CPTED, Quality of Life, Violent Crime]
 subTitle: "A multi-faceted POP approach was used to address criminal activity in two separate apartment complexes."
 ---
 

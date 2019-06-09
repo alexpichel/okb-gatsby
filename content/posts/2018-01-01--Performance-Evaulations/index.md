@@ -4,10 +4,7 @@ date: "2017-10-01"
 cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
 category: "Research"
-tags:
-  - "Policy"
-  - "Staffing"
-  - "Retention"
+tags: [Policy, Staffing, Retention]
 subTitle: ""
 ---
 

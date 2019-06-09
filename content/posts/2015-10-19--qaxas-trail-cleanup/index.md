@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Qaxas Trail Cleanup"
 date: "2015-10-19"
 cover: /assets/policing.png
@@ -7,14 +8,7 @@ author: "Lt. Brian Dubray"
 agencyID: "conftribes-pd"
 agency: "Confederated Tribes of Coos, Lower Umpqua, & Siuslaw Indians Police Department"
 category: "Policing"
-tags:
-  - "Assault"
-  - "Chronic Nuisance"
-  - "CPTED"
-  - "Homeless"
-  - "Quality of Life"
-  - "Transients"
-  - "Violent Crime"
+tags: [Assault, Chronic Nuisance, CPTED, Homeless, Quality of Life, Transients, Violent Crime]
 subTitle: "CPTED techniques and community partnerships were used to address crime and increase residents' perception of safety on a local recreation trail."
 ---
 

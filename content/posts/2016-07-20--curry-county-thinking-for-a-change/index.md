@@ -7,8 +7,7 @@ author: "David Denney, Director"
 agencyid: "curry-cc"
 agency: "Curry County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
+tags: [Justice Reinvestment]
 subTitle: "This program uses cognitive behavioral curriculum and support services to reach a number of goals, including reducing recidivism and prison use."
 ---
 

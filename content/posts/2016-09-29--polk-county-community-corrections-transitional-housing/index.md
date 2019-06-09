@@ -7,9 +7,7 @@ author: "Angel Pairan, Caseload Specialist"
 agencyid: "polk-s"
 agency: "Polk County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Housing"
-  - "Justice Reinvestment"
+tags: [Housing, Justice Reinvestment]
 subTitle: "The capacity of transitional housing was increased to reduce the number of homeless recently-released offenders."
 ---
 

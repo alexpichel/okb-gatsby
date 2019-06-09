@@ -7,10 +7,7 @@ author: "Brent Bates, RAPID Program Coordinator"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
-tags:
-  - "Property Crime"
-  - "Technology"
-  - "Theft"
+tags: [Property Crime, Technology, Theft]
 subTitle: "An automated property database used by multiple agencies led to a fourfold increase of one agency's recoveries of stolen property."
 ---
 

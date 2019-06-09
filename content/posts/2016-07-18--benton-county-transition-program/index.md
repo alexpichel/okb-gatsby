@@ -7,9 +7,7 @@ author: "Justin Carley, Community Corrections Director"
 agencyid: "benton-s"
 agency: "Benton County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Reentry"
+tags: [Justice Reinvestment, Reentry]
 subTitle: "The Benton County Transition Program provides reach-ins and short-term financial assistance to individuals soon to be released from incarceration into Benton County to help ensure a smooth transition from custody to the community."
 ---
 

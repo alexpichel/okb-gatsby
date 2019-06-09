@@ -7,9 +7,7 @@ author: "Lt. Andrew Copeland"
 agencyID: "keizer-pd"
 agency: "Keizer Police Department"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "Mental Illness"
+tags: [Chronic Nuisance, Mental Illness]
 subTitle: "An individualized program helped find services for and reduce non-emergency 911 calls from a dementia patient."
 ---
 

@@ -7,9 +7,7 @@ author: "Sgt. Elizabeth Lawrence"
 agencyid: "bend-pd"
 agency: "Bend Police Department"
 category: "Policing"
-tags:
-  - "Crisis Intervention"
-  - "Mental Illness"
+tags: [Crisis Intervention, Mental Illness]
 subTitle: "A specialized team trained in crisis intervention and de-escalation respond to crisis events as they occur as well as provide follow-up support."
 ---
 

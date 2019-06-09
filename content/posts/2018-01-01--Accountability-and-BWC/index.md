@@ -5,9 +5,7 @@ cover: /assets/research.png
 logo: /assets/research.png
 agency: "University of Cambridge - 2016"
 category: "Research"
-tags:
-  - "Technology"
-  - "Training"
+tags: [Technology, Training]
 subTitle: "The use of body-worn cameras reduced citizen complaints against police in a multisite randomized controlled trial."
 ---
 

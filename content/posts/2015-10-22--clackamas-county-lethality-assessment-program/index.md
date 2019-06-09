@@ -7,9 +7,7 @@ author: "Lt. Angie Brandenburg"
 agencyID: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
-tags:
-  - "Domestic Violence"
-  - "Victims"
+tags: [Domestic Violence, Victims]
 subTitle: "A collaboratively developed screening protocol connected high-risk DV victims with services, both immediately after the incident and follow-up services."
 ---
 

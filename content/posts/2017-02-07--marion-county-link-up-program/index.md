@@ -7,11 +7,7 @@ author: "Sgt. Anna Whitlock"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Alcohol"
-  - "Drugs"
-  - "Reentry"
-  - "Substance Use Treatment"
+tags: [Alcohol, Drugs, Reentry, Substance Use Treatment]
 subTitle: "Provides mentoring and treatment services that support successful reentry for clients with co-occurring disorders."
 ---
 

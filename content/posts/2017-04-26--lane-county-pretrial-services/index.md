@@ -7,8 +7,7 @@ author: "Brian Snaza, Pretrial Services Coordinator"
 agency: "Lane County Circuit Court"
 agencyid: "lane-co"
 category: "Correctional"
-tags:
-  - "Pretrial Release"
+tags: [Pretrial Release]
 subTitle: "Release assistance officers have judicial authority to make release decisions using a risk assessment tool that takes a number of factors into account, including danger to the community."
 ---
 

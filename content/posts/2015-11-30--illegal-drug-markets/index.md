@@ -6,10 +6,7 @@ logo: /assets/agency/NEU-logo.png
 agencyid: "ppb"
 agency: "Northeastern University - 2006"
 category: "Research"
-tags:
-  - "Crime Prevention"
-  - "Drugs"
-  - "Oregon Research"
+tags: [Crime Prevention, Drugs, Oregon Research]
 subTitle: "The ease of customer accessibility outweighs the effect of possible sanctions in the presence and location of outdoor illegal drug markets."
 ---
 

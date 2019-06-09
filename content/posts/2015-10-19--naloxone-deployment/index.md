@@ -7,10 +7,7 @@ author: "Sgt. Geoff Kirkpatrick & Cpl. Chris Dode"
 agencyID: "medford-pd"
 agency: "Medford Police Department"
 category: "Policing"
-tags:
-  - "Drugs"
-  - "Medical Response"
-  - "Training"
+tags: [Drugs, Medical Response, Training]
 subTitle: "Officers were trained to deploy naloxone to provide immediate treatment in the event of responding to an opioid overdose."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

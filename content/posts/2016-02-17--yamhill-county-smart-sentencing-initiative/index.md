@@ -7,9 +7,7 @@ author: "Brian Rucker, Community Justice Manager"
 agencyid: "yamhill-dcj"
 agency: "Yamhill County Department of Community Justice"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Pre-sentence"
+tags: [Justice Reinvestment, Pre-sentence]
 subTitle: "A comprehensive multi-pronged pre-sentencing program successfully diverted offenders from prison, avoiding 1,082 months of prison use."
 ---
 

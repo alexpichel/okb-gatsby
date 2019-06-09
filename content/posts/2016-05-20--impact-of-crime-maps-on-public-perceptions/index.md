@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2015"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Crime Analysis"
-  - "Oregon Research"
+tags: [Community Outreach, Crime Analysis, Oregon Research]
 subTitle: "Increasing public access to law enforcement data in an effort to enhance trust my produce counterproductive outcomes leaving agencies to carefully consider how information is presented."
 ---
 

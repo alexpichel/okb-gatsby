@@ -6,9 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2012"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Oregon Research"
+tags: [Community Outreach, Oregon Research]
 subTitle: "Education and use of social media may help police agencies increase satisfaction in crime reporting, encourage community participation in crime prevention efforts, and help communities feel safer."
 ---
 

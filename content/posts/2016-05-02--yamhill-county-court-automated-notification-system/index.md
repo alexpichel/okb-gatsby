@@ -7,9 +7,7 @@ author: "Jessica Beach, Community Justice Director"
 agencyid: "yamhill-dcj"
 agency: "Yamhill Department of Community Justice"
 category: "Correctional"
-tags:
-  - "Pretrial Release"
-  - "Technology"
+tags: [Pretrial Release, Technology]
 subTitle: "Automated telephone system calls defendants to remind them of upcoming court dates to help reduce failure to appear rates."
 ---
 

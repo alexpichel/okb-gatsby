@@ -7,9 +7,7 @@ author: "Sgt. Joey De Armond"
 agencyid: "mult-s"
 agency: "Multnomah County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Jail"
-  - "Policy"
+tags: [Jail, Policy]
 subTitle: "The MCSO created a policy o ensure the respectful, courteous, and professional treatment of transgender inmates, as well as respect for the sexual orientation or gender identity of any person in custody, while maintaining the safety, security, and orderly operation of all correctional facilities."
 ---
 

@@ -7,12 +7,7 @@ author: "Ofc. Ben Howard"
 agency: "Beaverton Police Department"
 agencyid: "beaverton-pd"
 category: Policing
-tags:
-  - "Homeless"
-  - "Theft"
-  - "Property Crime"
-  - "Quality of Life"
-  - "Transients"
+tags: [Homeless, Theft, Property Crime, Quality of Life, Transients]
 subTitle: "A focus on educating business owners and bringing needed resources to homeless communities has been associated with a reduction in calls for service related to homelessness, the number of illegal camps, and thefts."
 ---
 

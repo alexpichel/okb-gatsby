@@ -7,14 +7,7 @@ author: "Sgt. Jim Quackenbush"
 agencyID: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
-tags:
-  - "Assault"
-  - "Chronic Nuisance"
-  - "Homeless"
-  - "Juveniles"
-  - "Quality of Life"
-  - "Transients"
-  - "Violent Crime"
+tags: [Assault, Chronic Nuisance, Homeless, Juveniles, Quality of Life, Transients, Violent Crime]
 subTitle: "Foot patrol positively impacted fear of crime and police-community relationships through an emphasis on providing services and relationship building."
 ---
 

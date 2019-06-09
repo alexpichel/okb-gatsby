@@ -5,10 +5,7 @@ cover: /assets/research.png
 logo: /assets/research.png
 agency: "Journal of Psychological Trauma - 2007 & Violence Against Women - 2010"
 category: "Research"
-tags:
-  - "Family Violence"
-  - "Domestic Violence"
-  - "Victims"
+tags: [Family Violence, Domestic Violence, Victims]
 subTitle: "Home visits by teams composed of a police officer and a victim advocate were shown to empower victims to engage in support services and notify police sooner in subsequent DV incidents."
 ---
 

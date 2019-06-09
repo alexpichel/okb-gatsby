@@ -7,10 +7,7 @@ agency: "Bend Police Department"
 agencyid: "bend-pd"
 author: "Eilene Flory, CIT Coordinator"
 category: "Policing"
-tags:
-  - "Crisis Intervention"
-  - "Mental Illness"
-  - "Training"
+tags: [Crisis Intervention, Mental Illness, Training]
 subTitle: "CIT training was provided to officers and deputies around Deschutes County in order to positively enhance encounters with those in crisis"
 ---
 

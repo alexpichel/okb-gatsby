@@ -6,9 +6,7 @@ logo: /assets/agency/research.png
 agencyid: "upenn"
 agency: "University of Pennsylvania - 2009"
 category: "Research"
-tags:
-  - "crime prevention"
-  - "transients"
+tags: [Crime Prevention, Transients]
 subTitle: "A program focused solely on addressing crimes associated with homelessness saw minimal reductions in crime rates in the treatment area, as well as surrounding areas."
 ---
 

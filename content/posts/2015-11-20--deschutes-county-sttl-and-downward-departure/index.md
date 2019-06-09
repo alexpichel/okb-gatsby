@@ -7,10 +7,7 @@ author: "Tanner Wark, Administrator"
 agencyid: "deschutes-pp"
 agency: "Deschutes County Adult Parole & Probation"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Specialized Caseload"
-  - "Supervision"
+tags: [Justice Reinvestment, Specialized Caseload, Supervision]
 subTitle: "A program offering a balance of sanctions, a variety of services, and a high frequency of contact aims to reduce recidivism and prison bed-days for offenders in Deschutes County."
 ---
 

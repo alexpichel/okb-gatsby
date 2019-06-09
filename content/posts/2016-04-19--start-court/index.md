@@ -7,9 +7,7 @@ author: "Natalie Reyes, Program Coordinator"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
-tags:
-  - "Specialty Court"
-  - "Supervision"
+tags: [Specialty Court, Supervision]
 subTitle: "START Court was created in 2010 to provide comprehensive programming for people who have committed property crimes and struggling with addiction and associated mental health conditions."
 ---
 

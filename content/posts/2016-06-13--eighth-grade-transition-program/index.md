@@ -7,8 +7,7 @@ author: "Torri Lynn, Director"
 agencyid: "linn-jd"
 agency: "Linn County Juvenile Department"
 category: "Correctional"
-tags:
-  - "Juveniles"
+tags: [Juveniles]
 subTitle: "This project increases school connectedness and high school graduation rates in order to reduce juvenile recidivism."
 ---
 

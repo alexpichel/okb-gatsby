@@ -9,10 +9,7 @@ author: "Sgt. Bob Trump"
 agencyID: "keizer-pd"
 agency: "Keizer Police Department"
 category: "Policing"
-tags:
-  - "Abandoned Property"
-  - "Quality of Life"
-  - "Trespass"
+tags: [Abandoned Property, Quality of Life, Trespass]
 subTitle: "Investigation and cooperation with neighbors eliminated police calls to a foreclosed home and increased neighborhood quality of life."
 ---
 

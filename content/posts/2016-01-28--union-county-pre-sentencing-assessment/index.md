@@ -7,10 +7,7 @@ author: "Travis Miller, Director"
 agencyid: "union-cc"
 agency: "Union County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Specialized Caseload"
-  - "Supervision"
+tags: [Justice Reinvestment, Specialized Caseload, Supervision]
 subTitle: "Increased communication between disciplines and expansion of service and treatment options aims to reduce the number of offenders sent to state prison from Union County."
 ---
 

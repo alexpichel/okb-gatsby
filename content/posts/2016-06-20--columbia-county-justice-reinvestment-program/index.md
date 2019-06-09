@@ -7,8 +7,7 @@ author: "Janet Evans, Director"
 agencyid: "columbia-dcj"
 agency: "Columbia County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
+tags: [Justice Reinvestment]
 subTitle: "This is an evidence-based curriculum of community programs that provide alternative strategies to address juvenile and adult offender behavior"
 ---
 

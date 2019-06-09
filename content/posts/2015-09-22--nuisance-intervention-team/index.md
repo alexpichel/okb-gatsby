@@ -8,9 +8,7 @@ author: "Lt. Joe Smith"
 agencyID: "grants-pass-ps"
 agency: "Grants Pass Department of Public Safety"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "Quality of Life"
+tags: [Chronic Nuisance, Quality of Life]
 subTitle: "A specialized team used hot spot policing to increase community safety and livability."
 ---
 

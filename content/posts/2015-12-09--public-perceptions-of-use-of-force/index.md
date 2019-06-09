@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "cjpri"
 agency: "Criminal Justice Policy Research Institute, Portland State University - 2012"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Oregon Research"
-  - "Use of Force"
+tags: [Community Outreach, Oregon Research, Use of Force]
 subTitle: "A randomized survey study revealed a disparity between the public perception of the number of use of force events and the officially recorded data."
 ---
 

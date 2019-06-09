@@ -7,10 +7,7 @@ author: "Mike Palmer, Administrative Services Manager"
 agencyid: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
-tags:
-  - "Domestic Violence"
-  - "Family Violence"
-  - "Training"
+tags: [Domestic Violence, Family Violence, Training]
 subTitle: "The Child Abuse and Family Violence Summit has allowed professionals to gather, collaborate, and become educated on the latest techniques and strategies to combat these crimes."
 ---
 

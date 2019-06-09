@@ -7,11 +7,7 @@ author: "Sgt. Todd Fenk"
 agency: "Polk County Sheriff's Office"
 agencyid: "polk-s"
 category: "Policing"
-tags:
-  - "CPTED"
-  - "Crime Prevention"
-  - "Quality of Life"
-  - "Technology"
+tags: [CPTED, Crime Prevention, Quality of Life, Technology]
 subTitle: "FLIR technology and increased community involvement addressed a number of livability issues associated with a city park."
 ---
 

@@ -6,10 +6,7 @@ logo: /assets/agency/uo-logo.jpg
 agencyid: "medford-pd"
 agency: "University of Oregon - 2014"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Crime Prevention"
-  - "Oregon Research"
+tags: [Community Outreach, Crime Prevention, Oregon Research]
 subTitle: "Neighborhood watch groups shown to be effective in reducing crime for specific property offenses."
 ---
 

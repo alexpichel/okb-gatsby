@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2012"
 category: "Research"
-tags:
-  - "Crime Analysis"
-  - "Oregon Research"
-  - "Property Crime"
+tags: [Crime Analysis, Oregon Research, Property Crime]
 subTitle: "Risk terrain modeling is a promising crime analysis tool with potential to help improve targeting of law enforcement responses to this crime."
 ---
 

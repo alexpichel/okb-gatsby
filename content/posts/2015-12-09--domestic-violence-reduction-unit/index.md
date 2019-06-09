@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 1998"
 category: "Research"
-tags:
-  - "Domestic Violence"
-  - "Family Violence"
-  - "Oregon Research"
+tags: [Domestic Violence, Family Violence, Oregon Research]
 subTitle: "A domestic violence reduction unit in Portland, Oregon demonstrates that police responses that go beyond arrest and include victim services are more effective than arrests alone."
 ---
 

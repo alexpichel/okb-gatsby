@@ -7,11 +7,7 @@ author: "Liv Jenssen, Community Justice Manager"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
-tags:
-  - "Healthcare"
-  - "Mental Illness"
-  - "Substance Use Treatment"
-  - "Supervision"
+tags: [Healthcare, Mental Illness, Substance Use Treatment, Supervision]
 subTitle: "The Health Assessment and Treatment (HAT) team is a coordinated effort aimed at improving access to health care by connecting adults involved in the criminal justice system with community based support services and providers."
 ---
 

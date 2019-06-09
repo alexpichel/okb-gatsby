@@ -7,11 +7,7 @@ author:  "Lt. Hank Majetich"
 agencyID: "redmond-pd"
 agency: "Redmond Police Department"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "CPTED"
-  - "Crime Prevention"
-  - "Juveniles"
+tags: [Chronic Nuisance, CPTED, Crime Prevention, Juveniles]
 subTitle: "A multi-faceted approach - including CPTED, relationship building, and focused patrols - was used to address juvenile problems and safety concerns at a local park."
 ---
 

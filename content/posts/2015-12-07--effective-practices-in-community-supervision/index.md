@@ -7,9 +7,7 @@ author: "Pat Schreiner, District Manager"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
-tags:
-  - "Supervision"
-  - "Training"
+tags: [Supervision, Training]
 subTitle: "EPICS combines the principles of effective intervention with core correctional practices to lead to more successful outcomes."
 ---
 

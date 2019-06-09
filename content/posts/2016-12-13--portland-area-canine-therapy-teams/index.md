@@ -6,9 +6,7 @@ logo: /assets/agency/pactt.png
 author: "Kathy Loter, PACTT Program Director"
 agency: "DoveLewis Emergency Animal Hospital"
 category: "Correctional"
-tags:
-  - "specialty courts"
-  - "service animals"
+tags: [Specialty Courts, Service Animals]
 subTitle: "PACTT provides support to participants of local specialty courts by canines and their handlers accompanying participants to court hearings to provide comfort and alleviate stress."
 ---
 

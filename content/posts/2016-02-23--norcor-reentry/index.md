@@ -7,11 +7,7 @@ author: "Bryan Brandenburg, Administrator"
 agencyid: "norcor"
 agency: "Northern Oregon Regional Correction Facility"
 category: "Correctional"
-tags:
-  - "Jail"
-  - "Justice Reinvestment"
-  - "Recidivism"
-  - "Reentry"
+tags: [Jail, Justice Reinvestment, Recidivism, Reentry]
 subTitle: "Three-phased reentry program that spans remand to discharge aims to reduce recidivism, facility bed use, and community victimization."
 ---
 

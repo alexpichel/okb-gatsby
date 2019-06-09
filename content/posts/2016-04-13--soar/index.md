@@ -7,11 +7,7 @@ author: "Sgt. Anna Whitlock"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Alcohol"
-  - "Drugs"
-  - "Reentry"
-  - "Substance Use Treatment"
+tags: [Alcohol, Drugs, Reentry, Substance Use Treatment]
 subTitle: "An intensive, collaborative 12-week cognitive-based treatment and employment program designed for drug-addicted offenders who are returning to the community from incarceration and have high criminogenic needs."
 ---
 

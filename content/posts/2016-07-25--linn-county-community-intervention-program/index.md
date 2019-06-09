@@ -7,13 +7,7 @@ author: "Tony Howell, Alcohol and Drug Program Manager"
 agencyid: "linn-cc"
 agency: "Linn County Community Corrections"
 category: "Correctional"
-tags:
-  - "Alcohol"
-  - "Drugs"
-  - "Jail"
-  - "Justice Reinvestment"
-  - "Substance Use Treatment"
-  - "Supervision"
+tags: [Alcohol, Drugs, Jail, Justice Reinvestment, Substance Use Treatment, Supervision]
 subTitle: "Intervention programming for offenders was expanded to focus on intervening more effectively with repeat drug offenders through treatment and support services."
 ---
 

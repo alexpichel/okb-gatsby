@@ -7,9 +7,7 @@ author: "Sgt. Randy Teig"
 agencyid: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
-tags:
-  - "Abandoned Property"
-  - "Quality of Life"
+tags: [Abandoned Property, Quality of Life]
 subTitle: "A collaborative, systematic approach to addressing distressed properties produced a reduction in a number of call types in the area surrounding these properties."
 ---
 

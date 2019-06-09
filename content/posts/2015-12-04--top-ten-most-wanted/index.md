@@ -7,9 +7,7 @@ author: "Angela Maria Hedrick, Community Relations Analyst"
 agencyid: "salem-pd"
 agency: "Salem Police Department"
 category: "Policing"
-tags:
-  - "Crime Prevention"
-  - "Technology"
+tags: [Crime Prevention, Technology]
 subTitle: "The Top Ten Most Wanted lists the most sought after criminals who have prolifically committed crimes affecting the Salem community."
 ---
 

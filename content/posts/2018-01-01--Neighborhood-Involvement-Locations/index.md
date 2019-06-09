@@ -7,9 +7,7 @@ agency: "Portland Police Bureau"
 agencyid: "ppb"
 author: "Sgt. Greg Stewart"
 category: "Policing"
-tags:
-  - "Crime Prevention"
-  - "Community Outreach"
+tags: [Crime Prevention, Community Outreach]
 subTitle: ""
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

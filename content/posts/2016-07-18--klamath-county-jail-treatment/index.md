@@ -7,9 +7,7 @@ author: "Kiki Parker-Rose, Director"
 agencyid: "klamath-s"
 agency: "Klamath County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Jail"
-  - "Justice Reinvestment"
+tags: [Jail, Justice Reinvestment]
 subTitle: "Using multiple evidence-based assessments, a recommendation is made to the DA and court that includes an opinion about the individual’s suitability or a community sentence, the establishment of conditions of supervision, and guidance as to whether the offender is suitable for the jail treatment program."
 ---
 

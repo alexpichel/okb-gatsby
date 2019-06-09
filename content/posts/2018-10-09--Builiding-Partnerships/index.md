@@ -7,10 +7,7 @@ agency: "Corvallis Police Department"
 agencyid: "corvallis-pd"
 author: "Sgt. Joel Goodwin"
 category: "Policing"
-tags:
-  - "Homeless"
-  - "Quality of Life"
-  - "Transients"
+tags: [Homeless, Quality of Life, Transients]
 subTitle: "Partnerships were developed to increase resource referral for and communication with the homeless community and address the concerns associated with illegal camps."
 ---
 

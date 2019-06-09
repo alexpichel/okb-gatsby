@@ -7,9 +7,7 @@ author: "Michael Crim, Community Corrections Director"
 agencyid: "coos-cc"
 agency: "Coos County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Specialized Caseload"
+tags: [Justice Reinvestment, Specialized Caseload]
 subTitle: "Specialized supervision consisting of treatment referrals and recovery support services aim to reduce recidivism and prison use."
 ---
 

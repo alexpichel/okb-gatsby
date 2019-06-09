@@ -7,11 +7,7 @@ author: "Cmdr. Mike Leloff"
 agency: "Portland Police Bureau"
 agencyid: "ppb"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "Quality of Life"
-  - "Violent Crime"
-  - "Property Crime"
+tags: [Chronic Nuisance, Quality of Life, Violent Crime, Property Crime]
 subTitle: "Partnerships among area businesses, residents, educational institutions and the police developed a multi-pronged approach to create a move livable environment."
 ---
 

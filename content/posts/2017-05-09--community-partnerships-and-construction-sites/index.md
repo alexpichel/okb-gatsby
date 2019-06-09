@@ -7,13 +7,7 @@ author: "Meg Juarez, Crime Prevention Coordinator"
 agency: "Portland Crime Prevention and Livability Programs"
 agencyid: "ppb"
 category: "Policing"
-tags:
-  - "Crime Prevention"
-  - "CPTED"
-  - "Community Outreach"
-  - "Property Crime"
-  - "Theft"
-  - "Trespass"
+tags: [Crime Prevention, CPTED, Community Outreach,Property Crime, Theft, Trespass]
 subTitle: "Collaboration project between construction industry and neighborhoods to reduce property crime at construction sites."
 ---
 

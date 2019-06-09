@@ -7,10 +7,7 @@ author: "Lt. Brian Beekman"
 agencyID: "bend-pd"
 agency: "Bend Police Department"
 category: "Policing"
-tags:
-  - "Training"
-  - "Wellness"
-  - "Retention"
+tags: [Training, Wellness, Retention]
 subTitle: "A multi-pronged approach including on-duty fitness classes, yoga classes, a contracted psychologist, family support, financial literacy, and mindfulness training aims to increase officer resilience."
 ---
 

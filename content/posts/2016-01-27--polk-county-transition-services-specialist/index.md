@@ -7,8 +7,7 @@ author: "Martin D. Silbernagel, Director (Retired)"
 agencyid: "polk-cc"
 agency: "Polk County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
+tags: [Justice Reinvestment]
 subTitle: "The Transition Services Specialist acts as a service broker for medium- and high-risk felony offenders supervised by Polk County Community Corrections."
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

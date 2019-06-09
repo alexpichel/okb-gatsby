@@ -6,9 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2007"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Oregon Research"
+tags: [Community Outreach, Oregon Research]
 subTitle: "For police to be effective in co-producing social order, the should address potential impediments regarding citizen perceptions of police legitimacy and procedural justice."
 ---
 

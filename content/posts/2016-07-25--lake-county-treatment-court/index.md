@@ -7,11 +7,7 @@ author: "Jake Greer, Community Corrections Director"
 agencyid: "lake-cc"
 agency: "Lake County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Reentry"
-  - "Specialty Court"
-  - "Supervision"
+tags: [Justice Reinvestment, Reentry, Specialty Court, Supervision]
 subTitle: "Lake County developed a hybrid drug court suitable for a small community that provides comprehensive treatment and supervision services to a variety of medium- and high-risk/need offenders who would typically be served by multiple types of specialty courts."
 ---
 

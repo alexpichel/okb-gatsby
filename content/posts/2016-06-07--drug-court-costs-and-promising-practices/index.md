@@ -6,9 +6,7 @@ logo: /assets/agency/npc-logo.png
 agencyid: "npc"
 agency: "NPC Research - 2011"
 category: "Research"
-tags:
-  - "Specialty Courts"
-  - "Oregon Research"
+tags: [Specialty Courts, Oregon Research]
 subTitle: "Oregon drug court programs show consistent decreases in recidivism and substantial cost savings."
 ---
 

@@ -7,8 +7,7 @@ author: "Lt. Jerry Mott"
 agencyid: "dallas-pd"
 agency: "Dallas Police Department"
 category: "Policing"
-tags:
-  - "Mental Illness"
+tags: [Mental Illness]
 subTitle: "A pilot program within the Dallas municipal criminal justice system to divert some persons suffering from mental health issues from the criminal court system and into treatment intake."
 ---
 

@@ -7,10 +7,7 @@ author: "Lt. Jerry Mott"
 agencyid: "dallas-pd"
 agency: "Dallas Police Department"
 category: "Policing"
-tags:
-  - "Drugs"
-  - "Medical Response"
-  - "Training"
+tags: [Drugs, Medical Response, Training]
 subTitle: "The Dallas Police Department has partnered with Polk County Behavioral Health to train every sworn officer on the use of naloxone."
 ---
 

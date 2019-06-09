@@ -6,11 +6,7 @@ logo: /assets/agency/umass.png
 agencyid: "ppb"
 agency: "University of Massachusetts - 2015"
 category: "Research"
-tags:
-  - "Mental Illness"
-  - "Oregon Research"
-  - "Policy"
-  - "Use of Force"
+tags: [Mental Illness, Oregon Research, Policy, Use of Force]
 subTitle: "A retrospective study of data from the Portland Police Bureau dispels the idea that use of force encounters with people with Mental Illness are significantly more dangerous to the parties involved in the incident."
 ---
 

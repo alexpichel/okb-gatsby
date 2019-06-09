@@ -7,9 +7,7 @@ author: "Sheriff Gary Bettencourt"
 agencyid: "gilliam-s"
 agency: "Gilliam County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Recidivism"
+tags: [Justice Reinvestment, Recidivism]
 subTitle: "A full-time clinician was hired to work as part of a multi-agency partnership to better assess a person’s risk of reoffending and providing a more comprehensive treatment plan unique to each offender."
 ---
 

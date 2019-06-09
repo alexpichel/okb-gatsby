@@ -7,9 +7,7 @@ agency: "Oregon State Police"
 agencyid: "osp"
 author: "Major David Anderson"
 category: "Policing"
-tags:
-  - "Community Outreach"
-  - "Traffic Safety"
+tags: [Community Outreach, Traffic Safety]
 subTitle: "Vouchers provided to motorists cited for equipment violations  in order to lower the cost of minor repairs."
 ---
 

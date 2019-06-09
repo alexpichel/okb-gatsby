@@ -7,9 +7,7 @@ author: "Tina Edge, Senior Program Analyst"
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
 category: "Policing"
-tags:
-  - "Technology"
-  - "Training"
+tags: [Technology, Training]
 subTitle: "This training teaches officers how the parole, probation, and juvenile justice systems operate and creates continued opportunities for the agencies to build rapport."
 ---
 

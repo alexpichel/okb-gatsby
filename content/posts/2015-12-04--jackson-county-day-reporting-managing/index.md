@@ -7,10 +7,7 @@ author: "Jodi Merritt, Research/Project Analyst"
 agencyid: "jackson-cj"
 agency: "Jackson County Community Justice"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Pretrial Release"
-  - "Supervision"
+tags: [Justice Reinvestment, Pretrial Release, Supervision]
 subTitle: "The Day Reporting/Management Center (DRMC) is designed to divert offenders from jail into a community alternative, while maintaining public safety and reducing detention costs."
 ---
 

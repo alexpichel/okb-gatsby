@@ -7,9 +7,7 @@ author: "Lt. Kristen Hanthorn"
 agencyid: "clatsop-cc"
 agency: "Clatsop County Parole and Probation"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Supervision"
+tags: [Justice Reinvestment, Supervision]
 subTitle: "Shifting the focus of supervision officers to rehabilitative efforts and support services aims to increase the number of clients who successfully complete probation and treatment, as well as find housing and employment."
 ---
 

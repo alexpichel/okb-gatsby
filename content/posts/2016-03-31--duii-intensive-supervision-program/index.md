@@ -6,10 +6,7 @@ logo: /assets/agency/multnomah-logo.png
 author: "John Dieter, Director"
 agency: "Oregon Judicial Department"
 category: "Correctional"
-tags:
-  - "Supervision"
-  - "Specialty Court"
-  - "DUII"
+tags: [Supervision, Specialty Court, DUII]
 subTitle: "The DUII Intensive Supervision Program (DISP) is a therapeutic court which targets repeat adult DUII offenders who are arrested and convicted in Multnomah County."
 ---
 

@@ -6,10 +6,7 @@ logo: /assets/agency/npc-logo.png
 agencyid: "npc"
 agency: "NPC Research - 2015"
 category: "Research"
-tags:
-  - "Crime Prevention"
-  - "Juveniles"
-  - "Oregon Research"
+tags: [Crime Prevention, Juveniles, Oregon Research]
 subTitle: "A performance measurement of the Juvenile Crime Prevention program showed that it was effective at addressing some of the risk and protective indicators, but further exploration of increasing protective indicators is needed."
 ---
 

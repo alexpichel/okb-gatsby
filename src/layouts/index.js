@@ -139,6 +139,7 @@ export const guery = graphql`
             logo
             subTitle
             category
+            tags
             cover
           }
         }

@@ -6,9 +6,7 @@ logo: /assets/agency/ppb.png
 author: "Sgt. Greg Stewart"
 agencyID: "ppb"
 category: "Research"
-tags:
-  - "Crime Analysis"
-  - "Crime Prevention"
+tags: [Crime Analysis, Crime Prevention]
 subTitle: "Hot spot policing typically involves the assignment of additional police patrols and/or problem-­solving activities to small areas with higher crime."
 ---
 

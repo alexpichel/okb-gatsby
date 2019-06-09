@@ -6,12 +6,7 @@ logo: /assets/agency/multnomah-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2010"
 category: "Research"
-tags:
-  - "Domestic Violence"
-  - "Family Violence"
-  - "Oregon Research"
-  - "Supervision"
-  - "Victims"
+tags: [Domestic Violence, Family Violence, Oregon Research, Supervision, Victims]
 subTitle: "A domestic violence enhanced response team (DVERT) showed promising results in helping to reduce recidivism in high risk domestic violence cases"
 ---
 

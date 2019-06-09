@@ -7,10 +7,7 @@ author: "Abbey Stamp, Executive Director"
 agencyid: "multnomah-lpscc"
 agency: "Multnomah County Local Public Safety Coordinating Council"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Pre-sentence"
-  - "Supervision"
+tags: [Justice Reinvestment, Pre-sentence, Supervision]
 subTitle: "A program providing personalized supervision and treatment programs aims to reduce recidivism and prison use."
 ---
 

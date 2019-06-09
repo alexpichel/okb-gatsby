@@ -7,9 +7,7 @@ author: "Officer Tom Sweeney"
 agencyid: "medford-pd"
 agency: "Medford Police Department"
 category: "Policing"
-tags:
-  - "Sex Offenders"
-  - "Supervision"
+tags: [Sex Offenders, Supervision]
 subTitle: "Building compliance checks into patrol duties decreased the percentage of noncompliant sex offenders between 2006 and 2009."
 ---
 

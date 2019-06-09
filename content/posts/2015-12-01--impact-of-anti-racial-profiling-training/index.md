@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2011"
 category: "Research"
-tags:
-  - "Oregon Research"
-  - "Race"
-  - "Training"
+tags: [Oregon Research, Race, Training]
 subTitle: "Anti-racial training was well-received by participants and brought awareness to police-race issues, but did not impact individual police officers' personal perceptions of people-of-color."
 ---
 

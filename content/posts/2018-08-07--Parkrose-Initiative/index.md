@@ -7,12 +7,7 @@ agency: "Portland Police Bureau"
 agencyid: "ppb"
 author: "Sgt. Greg Stewart"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "Property Crime"
-  - "Quality of Life"
-  - "Homeless"
-  - "Transients"
+tags: [Chronic Nuisance, Property Crime, Quality of Life, Homeless, Transients]
 subTitle: "A problem-oriented policing approach was used to address livability issues, including camping and businesses that contributed to crime and high call loads."
 ---
 

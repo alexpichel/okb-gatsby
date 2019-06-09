@@ -4,10 +4,7 @@ date: "2017-09-05"
 cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
 category: "Research"
-tags:
-  - "Policy"
-  - "Staffing"
-  - "Recruitment"
+tags: [Policy, Staffing, Recruitment]
 subTitle: ""
 ---
 

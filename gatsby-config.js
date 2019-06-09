@@ -16,6 +16,7 @@ const query = `{
           title
           subTitle
           cover
+          date
           author
           category
           tags
@@ -97,6 +98,7 @@ module.exports = {
               wrapperStyle: `margin-bottom: 2em`
             }
           },
+          `gatsby-remark-autolink-headers`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`

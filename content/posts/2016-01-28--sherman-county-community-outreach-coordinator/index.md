@@ -7,9 +7,7 @@ author: "Katie Paul, Community Outreach Coordinator"
 agencyid: "sherman-s"
 agency: "Sherman County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Community Outreach"
-  - "Justice Reinvestment"
+tags: [Community Outreach, Justice Reinvestment]
 subTitle: "Coordinator provides services to offenders and other persons who are assessed as being at high risk of committing crimes."
 ---
 

@@ -8,9 +8,7 @@ author: "Lt. Ryan Eaton"
 agencyID: "corvallis-pd"
 agency: "Corvallis Police Department"
 category: "Policing"
-tags:
-  - "Chronic Nuisance"
-  - "Quality of Life"
+tags: [Chronic Nuisance, Quality of Life]
 subTitle: "In combination with the Special Response Fee program, a standardized method for tracking nuisance offenders lead to reductions in repeat nuisance calls associated with college rentals."
 ---
 

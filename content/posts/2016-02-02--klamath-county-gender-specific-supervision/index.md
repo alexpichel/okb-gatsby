@@ -7,9 +7,7 @@ author: "Kiki Parker-Rose, Director"
 agencyid: "klamath-cc"
 agency: "Klamath County Community Corrections"
 category: "Correctional"
-tags:
-  - "Specialized Caseload"
-  - "Supervision"
+tags: [Specialized Caseload, Supervision]
 subTitle: "Use of more targeted supervision strategies increased compliance rates among adult female offenders."
 ---
 

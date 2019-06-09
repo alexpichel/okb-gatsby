@@ -7,9 +7,7 @@ author: "Cmdr. Monte Reiser"
 agencyid: "mult-s"
 agency: "Multnomah County Sheriff's Office"
 category: "Policing"
-tags:
-  - "Search and Rescue"
-  - "Training"
+tags: [Search and Rescue, Training]
 subTitle: "This search team can be deployed quickly in order to enhance law enforcement’s ability to detect and apprehend suspects and missing persons in wilderness areas or locations where there is no road access."
 ---
 

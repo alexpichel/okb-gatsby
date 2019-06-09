@@ -7,10 +7,7 @@ author: "Lodi Presley, Director"
 agencyid: "harney-cc"
 agency: "Harney County Community Corrections"
 category: "Policing"
-tags:
-  - "Justice Reinvestment"
-  - "Reentry"
-  - "Specialty Courts"
+tags: [Justice Reinvestment, Reentry, Specialty Courts]
 subTitle: "A variety of services combined with incentives and/or a graduate sanction program aim to lower recidivism rates, decrease new violations, and decrease revocations."
 ---
 

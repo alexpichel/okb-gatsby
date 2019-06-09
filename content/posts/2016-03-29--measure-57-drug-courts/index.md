@@ -6,10 +6,7 @@ logo: /assets/agency/npc-logo.png
 agencyid: "npc"
 agency: "NPC Research - 2015"
 category: "Research"
-tags:
-  - "Drugs"
-  - "Oregon Research"
-  - "Specialty Courts"
+tags: [Drugs, Oregon Research, Specialty Courts]
 subTitle: "The drug courts evaluated showed a reduction in recidivism when compared to offenders who received traditional probation."
 ---
 

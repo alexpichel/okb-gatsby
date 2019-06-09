@@ -7,9 +7,7 @@ author: "Debbie Janecek, Prevention and Safety Acting Supervisor"
 agencyid: "eugene-pd"
 agency: "Eugene Police Department"
 category: "Policing"
-tags:
-  - "Community Outreach"
-  - "Crime Prevention"
+tags: [Community Outreach, Crime Prevention]
 subTitle: "A comprehensive two-week educational program effectively introduced safety concepts to pre-Kindergarten aged children."
 ---
 

@@ -7,9 +7,7 @@ author: "Jeanette Giossi, Dispatch Supervisor"
 agency: "Emergency Communications of Southern Oregon"
 agencyid: "ecomm"
 category: "Policing"
-tags:
-  - "Community Outreach"
-  - "Dispatch"
+tags: [Community Outreach, Dispatch]
 subTitle: "Outreach programs were utilized to educate citizens on the various ways to contact emergency service, leading to a more efficient use of the 911 and the non-emergency numbers."
 ---
 

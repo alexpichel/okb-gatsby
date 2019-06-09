@@ -6,10 +6,7 @@ logo: /assets/agency/crook-sheriff-logo.png
 author: "Rhonda Belanger, Director"
 agencyID: "crook-s"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Specialized Caseload"
-  - "Supervision"
+tags: [Justice Reinvestment, Specialized Caseload, Supervision]
 subTitle: "This program is designed to provide intensive supervision to offenders receiving a downward departure or Short Term Trans Leave."
 ---
 

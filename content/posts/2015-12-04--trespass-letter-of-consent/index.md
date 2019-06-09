@@ -7,11 +7,7 @@ author: "Angela Maria Hedrick, Community Relations Analyst"
 agencyid: "salem-pd"
 agency: "Salem Police Department"
 category: "Policing"
-tags:
-  - "Homeless"
-  - "Property Crime"
-  - "Transients"
-  - "Trespass"
+tags: [Homeless, Property Crime, Transients, Trespass]
 subTitle: "A TLC gives Salem Police officers advance permission to act on behalf of the property owner (or designee) when trespass situations arise. "
 ---
 

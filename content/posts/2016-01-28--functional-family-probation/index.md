@@ -7,9 +7,7 @@ author: "Tracey Freeman, Senior Manager of Probation and Accountability Services
 agencyid: "mult-dcj"
 agency: "Multnomah County Department of Community Justice"
 category: "Correctional"
-tags:
-  - "Specialized Caseload"
-  - "Juveniles"
+tags: [Specialized Caseload, Juveniles]
 subTitle: "An integrative supervision and case management model is used to engage, motivate, assess, and work successfully with high-risk youth and their families."
 ---
 

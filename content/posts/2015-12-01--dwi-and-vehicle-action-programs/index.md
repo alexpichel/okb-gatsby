@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2002"
 category: "Research"
-tags:
-  - "DUII"
-  - "Oregon Research"
-  - "Traffic Safety"
+tags: [DUII, Oregon Research, Traffic Safety]
 subTitle: "Vehicle impoundment and immobilization may be associated with declines in crashes and moving violation convictions."
 ---
 

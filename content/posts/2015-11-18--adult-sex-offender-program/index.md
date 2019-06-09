@@ -7,9 +7,7 @@ author: "Maureen Robb, Director"
 agencyid: "linn-cc"
 agency: "Linn County Community Corrections"
 category: "Correctional"
-tags:
-  - "Sex Offenders"
-  - "Supervision"
+tags: [Sex Offenders, Supervision]
 subTitle: "A multi-disciplinary treatment program provides assessment, treatment, and aftercare for sex offenders with the goal of changing offender behavior and thinking associated with abusive behavior."
 ---
 

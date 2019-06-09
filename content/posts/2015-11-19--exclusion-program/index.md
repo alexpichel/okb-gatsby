@@ -7,11 +7,7 @@ author: "Community Service Officer Sara McClurg, Crime Prevention Coordinator"
 agencyid: "clackamas-s"
 agency: "Clackamas County Sheriff's Office"
 category: "Policing"
-tags:
-  - "Homeless"
-  - "Quality of Life"
-  - "Trespass"
-  - "Transients"
+tags: [Homeless, Quality of Life, Trespass, Transients]
 subTitle: "An exclusion program allowing property owners/managers to engage the services of patrol to exclude individuals for one year from their property reduced repeat calls and increased owners/managers perception of safety."
 ---
 

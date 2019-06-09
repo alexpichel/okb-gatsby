@@ -7,9 +7,7 @@ author: "Lt. Holly Rico"
 agencyid: "tillamook-cc"
 agency: "Tillamook Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Substance Use Treatment"
+tags: [Justice Reinvestment, Substance Use Treatment]
 subTitle: "Program helps participants develop skills aimed at reducing criminal activity and recidivism and increasing employment, accountability, and self-worth, while enhancing public safety by decreasing crime in the community."
 ---
 

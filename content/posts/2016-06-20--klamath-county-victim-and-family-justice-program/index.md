@@ -7,9 +7,7 @@ author: "Kiki Parker-Rose, Director"
 agencyid: "klamath-cc"
 agency: "Klamath County Community Corrections"
 category: "Correctional"
-tags:
-  - "Supervision"
-  - "Victims"
+tags: [Supervision, Victims]
 subTitle: "This program develops relationships with social service agencies throughout the county and works with them to reduce multigenerational criminality and victimization."
 ---
 

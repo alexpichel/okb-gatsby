@@ -7,9 +7,7 @@ author: "Suzi Gonzales, Director of Community Justice"
 agencyid: "lincoln-cc"
 agency: "Lincoln County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Reentry"
+tags: [Justice Reinvestment, Reentry]
 subTitle: "Prior to release, a transition PO determines the level of assistance needed by an offender, and develops an individually tailored case plan to address specific needs, including additional programming, transitional housing, and job-development assistance."
 ---
 

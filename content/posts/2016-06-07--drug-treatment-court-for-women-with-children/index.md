@@ -6,9 +6,7 @@ logo: /assets/agency/npc-logo.png
 agencyid: "npc"
 agency: "NPC Research - 2008"
 category: "Research"
-tags:
-  - "Specialty Courts"
-  - "Oregon Research"
+tags: [Specialty Courts, Oregon Research]
 subTitle: "A process evaluation shows that a specialized drug court in Washington County adheres to national best practices."
 ---
 

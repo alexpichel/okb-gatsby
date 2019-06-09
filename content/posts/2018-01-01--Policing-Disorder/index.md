@@ -5,8 +5,7 @@ cover: /assets/research.png
 logo: /assets/research.png
 agency: "Journal of Research in Crime and Delinquency - 2015"
 category: "Research"
-tags:
-  - "Crime Prevention"
+tags: [Crime Prevention]
 subTitle: "Policing strategies targeting disorder have a moderate crime reduction effect."
 ---
 

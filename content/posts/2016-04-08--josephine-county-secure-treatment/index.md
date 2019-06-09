@@ -7,10 +7,7 @@ author: "Nate Gaoiran, Director"
 agencyid: "josephine-cc"
 agency: "Jospehine County Community Corrections"
 category: "Correctional"
-tags:
-  - "Jail"
-  - "Justice Reinvestment"
-  - "Substance Use Treatment"
+tags: [Jail, Justice Reinvestment, Substance Use Treatment]
 subTitle: "The secure treatment platform is geared toward delivering an intensive dosage of cognitive behavioral treatment while participants serve in-custody sanctions at the local jail."
 ---
 

@@ -7,11 +7,7 @@ author: "Steve Berger, Director"
 agencyid: "washington-cc"
 agency: "Washington County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Reentry"
-  - "Substance Use Treatment"
-  - "Supervision"
+tags: [Justice Reinvestment, Reentry, Substance Use Treatment, Supervision]
 subTitle: "To reduce the number of Department of Corrections prison intakes in Washington County, IRISS provides the Court an enhanced community supervision alternative to prison."
 ---
 

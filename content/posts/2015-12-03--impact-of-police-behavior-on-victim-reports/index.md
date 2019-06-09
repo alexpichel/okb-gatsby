@@ -6,12 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2003"
 category: "Research"
-tags:
-  - "Community Outreach"
-  - "Domestic Violence"
-  - "Family Violence"
-  - "Oregon Research"
-  - "Victims"
+tags: [Community Outreach, Domestic Violence, Family Violence, Oregon Research, Victims]
 subTitle: "Victims who get the outcomes they desire from police are more likely to utilize the police in the future than victims whose preferences did not match the outcome."
 ---
 

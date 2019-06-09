@@ -6,10 +6,7 @@ logo: /assets/agency/psu-logo.png
 agencyid: "psu"
 agency: "Portland State University - 2003"
 category: "Research"
-tags:
-  - "Community Policing"
-  - "Oregon Research"
-  - "Policy"
+tags: [Community Policing, Oregon Research, Policy]
 subTitle: "Leadership, problem-solving, quality of service, and top-down change are key factors to total integration of community policing into normal police operations"
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem

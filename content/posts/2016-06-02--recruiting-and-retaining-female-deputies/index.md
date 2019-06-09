@@ -7,10 +7,7 @@ author: "Sgt. Melissa Di Costanzo"
 agencyid: "jackson-s"
 agency: "Jackson County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Recruitment"
-  - "Retention"
-  - "Training"
+tags: [Recruitment, Retention, Training]
 subTitle: "A multipronged strategy addressed issues with low recruitment and retention of female deputies."
 ---
 

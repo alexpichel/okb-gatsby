@@ -7,9 +7,7 @@ author: "Sgt. Dustin Sluman"
 agencyid: "washington-s"
 agency: "Washington County Sheriff's Office"
 category: "Policing"
-tags:
-  - "Crisis Intervention"
-  - "Mental Illness"
+tags: [Crisis Intervention, Mental Illness]
 subTitle: "A crisis response team that pairs one specially selected and trained deputy from the Sheriff’s Office with a master’s level clinician to better address contacts with persons with mental illness."
 ---
 

@@ -7,10 +7,7 @@ author: "Undersheriff Chris Hoy"
 agencyid: "clackamas-cc"
 agency: "Clackamas County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Mental Illness"
-  - "Reentry"
+tags: [Justice Reinvestment, Mental Illness, Reentry]
 subTitle: "A centralized location for access to reentry services aims to decrease jail use by clients in mental health crisis and reduce recidivism for all program participants."
 ---
 

@@ -7,9 +7,7 @@ author: "Donovan Dumire, Community Corrections Manager"
 agencyid: "lane-cc"
 agency: "Lane County Community Corrections"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Reentry"
+tags: [Justice Reinvestment, Reentry]
 subTitle: "A partnership between multiple public and private agencies to provide services to offenders released in Lane County in order to reduce recidivism."
 ---
 

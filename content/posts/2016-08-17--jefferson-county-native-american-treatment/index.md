@@ -7,12 +7,7 @@ author: "Kurt Symons, Director"
 agencyid: "jefferson-cc"
 agency: "Jefferson County Community Corrections"
 category: "Correctional"
-tags:
-  - "Alcohol"
-  - "Drugs"
-  - "Jail"
-  - "Justice Reinvestment"
-  - "Substance Use Treatment"
+tags: [Alcohol, Drugs, Jail, Justice Reinvestment, Substance Use Treatment]
 subTitle: "Jefferson County increased its capacity to provide in-jail substance use treatment services to all local defendants, including some Native American–specific jail treatment services."
 ---
 

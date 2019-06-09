@@ -6,11 +6,7 @@ logo: /assets/agency/npc-logo.png
 category: "Research"
 agencyid: "npc"
 agency: "NPC Research - 2011"
-tags:
-  - "Oregon Research"
-  - "Specialty Courts"
-  - "Drugs"
-  - "Substance Use Treatment"
+tags: [Oregon Research, Specialty Courts, Drugs, Substance Use Treatment]
 subTitle: "The BCADTC program is effective in reducing recidivism and reducing drug use while using fewer criminal justice resources during program participation."
 ---
 

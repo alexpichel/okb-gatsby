@@ -7,11 +7,7 @@ author: "Sgt. Leigh Erickson"
 agencyid: "tigard-pd"
 agency: "Tigard Police Department"
 category: "Policing"
-tags:
-  - "Crime Prevention"
-  - "Property Crime"
-  - "Theft"
-  - "Trespass"
+tags: [Crime Prevention, Property Crime, Theft, Trespass]
 subTitle: "A specialized investigative unit aims to reduce commercial crime and increase livability for local merchants and businesses."
 ---
 

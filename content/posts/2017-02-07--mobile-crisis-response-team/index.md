@@ -7,9 +7,7 @@ author: "Cmdr. Tad Larson"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
 category: "Policing"
-tags:
-  - "Crisis Intervention"
-  - "Mental Illness"
+tags: [Crisis Intervention, Mental Illness]
 subTitle: "A deputy is paired with a mental health professional to respond to calls involving people in crisis to attempt to de-escalate the situation and refer to any needed services."
 ---
 

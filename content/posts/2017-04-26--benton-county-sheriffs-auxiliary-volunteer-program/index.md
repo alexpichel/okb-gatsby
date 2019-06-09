@@ -7,9 +7,7 @@ author: "Sgt. Leslie Thilberg, Training & Recruiting"
 agency: "Benton County Sheriff's Office"
 agencyid: "benton-s"
 category: "Policing"
-tags:
-  - "Community Outreach"
-  - "Training"
+tags: [Community Outreach, Training]
 subTitle: "Volunteers help with less critical projects around the sheriff's office including, but not limited to, creating the sheriff's office newsletter, setting up speed trailer and completing speed surveys, staffing events, and supporting crime prevention programs."
 ---
 

@@ -7,9 +7,7 @@ agency: "Marion County Sheriff's Office"
 agencyid: "marion-s"
 author: "Lt. Kevin Karvandi"
 category: "Policing"
-tags:
-  - "Diversion"
-  - "Justice Reinvestment"
+tags: [Diversion, Justice Reinvestment]
 subTitle: "In addition to a law enforcement assisted diversion program, a Resource Navigator helped individuals successfully transition back to the community."
 ---
 

@@ -4,9 +4,7 @@ date: "2017-09-05"
 cover: /assets/research.png
 logo: /assets/agency/cpe-logo.png
 category: "Research"
-tags:
-  - "Retention"
-  - "Wellness"
+tags: [Retention, Wellness]
 subTitle: ""
 ---
 

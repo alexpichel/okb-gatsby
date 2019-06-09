@@ -5,9 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/research.jpg
 agency: "Journal of Juvenile Justice - 2016"
 category: "Research"
-tags:
-  - "Juveniles"
-  - "Recidivism"
+tags: [Juveniles, Recidivism]
 subTitle: "Community-based juvenile programs focused on skill-building may be cost-effective alternatives to detention."
 ---
 

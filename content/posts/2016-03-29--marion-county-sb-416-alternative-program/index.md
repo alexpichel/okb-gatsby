@@ -7,9 +7,7 @@ author: "Sgt. Matt Meier"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Supervision"
+tags: [Justice Reinvestment, Supervision]
 subTitle: "A program constructed to develop and implement evidence-based strategies to improve the supervision of probationers and reduce recidivism."
 ---
 

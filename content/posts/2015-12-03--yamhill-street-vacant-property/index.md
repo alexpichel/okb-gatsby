@@ -7,12 +7,7 @@ author: "Officer James Leake"
 agencyid: "gresham-pd"
 agency: "Gresham Police Department"
 category: "Policing"
-tags:
-  - "Abandoned Property"
-  - "Chronic Nuisance"
-  - "Homeless"
-  - "Quality of Life"
-  - "Transients"
+tags: [Abandoned Property, Chronic Nuisance, Homeless, Quality of Life, Transients]
 subTitle: "Partnering with Code Enforcement and the landowners, NET was able to successfully address illegal camping on a vacant lot."
 ---
 

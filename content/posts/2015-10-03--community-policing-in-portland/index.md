@@ -7,9 +7,7 @@ logo: /assets/agency/psu-logo.png
 agencyID: "psu"
 agency: "Portland State University - 2000"
 category: "Research"
-tags:
-  - "Community Policing"
-  - "Quality of Life"
+tags: [Community Policing, Quality of Life]
 subTitle: "A non-rigorous evaluation found that despite problems with implementation, community policing met expected outcomes in areas such as incidence of crime, fear of crime, livability, and citizen satisfaction."
 ---
 

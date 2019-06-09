@@ -4,10 +4,7 @@ date: "2016-05-02"
 cover: /assets/policing.png
 logo: /assets/agency/ppb.png
 category: "Policing"
-tags:
-  - "CIT"
-  - "crisis intervention"
-  - "mental health"
+tags: [CIT, Crisis Intervention, Mental Health]
 subTitle: "The BHU coordinates the response of law enforcement and the behavioral health system to aid people in behavioral crisis stemming from known or suspected mental illness and/or substance use."
 ---
 

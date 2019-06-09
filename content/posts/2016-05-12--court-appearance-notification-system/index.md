@@ -6,10 +6,7 @@ logo: /assets/agency/multnomah-logo.png
 agencyid: "mult-dcj"
 agency: "Multnomah County - 2006"
 category: "Research"
-tags:
-  - "Corrections"
-  - "Oregon Research"
-  - "Pretrial"
+tags: [Corrections, Oregon Research, Pretrial]
 subTitle: "Reminding defendants of upcoming court dates via telephone decreased failure to appear rates in participants."
 ---
 

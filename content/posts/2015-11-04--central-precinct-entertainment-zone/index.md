@@ -7,12 +7,7 @@ author: "Sgt. Erik Strohmeyer"
 agencyID: "ppb"
 agency: "Portland Police Bureau"
 category: "Policing"
-tags:
-  - "Assault"
-  - "Chronic Nuisance"
-  - "CPTED"
-  - "Quality of Life"
-  - "Violent Crime"
+tags: [Assault, Chronic Nuisance, CPTED, Quality of Life, Violent Crime]
 subTitle: "Strategic street closures, foot patrols, and crime prevention efforts reduced crime in a targeted urban area."
 ---
 

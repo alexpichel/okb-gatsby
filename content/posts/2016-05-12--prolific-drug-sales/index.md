@@ -7,10 +7,7 @@ author: "Sgt. Bob Trump"
 agencyid: "keizer-pd"
 agency: "Keizer Police Department"
 category: "Policing"
-tags:
-  - "Drugs"
-  - "Chronic Nuisance"
-  - "Quality of Life"
+tags: [Drugs, Chronic Nuisance, Quality of Life]
 subTitle: "City ordinances and forfeiture proceedings were used to assist with the permanent cessation of ongoing drug sales from a home."
 ---
 

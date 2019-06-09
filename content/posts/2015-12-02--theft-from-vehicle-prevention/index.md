@@ -7,10 +7,7 @@ author: "Debbie Janecek, Prevention and Safety Acting Supervisor"
 agencyid: "eugene-pd"
 agency: "Eugene Police Department"
 category: "Policing"
-tags:
-  - "Crime Prevention"
-  - "Property Crime"
-  - "Theft"
+tags: [Crime Prevention, Property Crime, Theft]
 subTitle: "A partnership with local security companies aims to educate the public about practices that may make them targets for theft from vehicle."
 ---
 

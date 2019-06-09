@@ -7,9 +7,7 @@ agency: "Yamhill County Department of Community Justice"
 agencyid: "yamhill-dcj"
 author: "Brian Rucker, Community Justice Manager"
 category: "Correctional"
-tags:
-  - "Supervision"
-  - "Job Training"
+tags: [Supervision, Job Training]
 subTitle: "The DMC was created to assist with correctional client employment and educational goals and provide an additional layer of accountability and support to probation officers by using enhanced contact standards."
 ---
 

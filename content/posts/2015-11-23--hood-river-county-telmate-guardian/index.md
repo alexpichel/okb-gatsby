@@ -7,10 +7,7 @@ author: "Commander Jamie Hepner"
 agencyid: "hood-river-s"
 agency: "Hood River County Sheriff's Office"
 category: "Correctional"
-tags:
-  - "Justice Reinvestment"
-  - "Supervision"
-  - "Technology"
+tags: [Justice Reinvestment, Supervision, Technology]
 subTitle: "Use of a minimally intrusive phone-based offender monitoring application aims to reduce recidivism in low risk offenders and make more resources available to high-risk offenders."
 ---
 
