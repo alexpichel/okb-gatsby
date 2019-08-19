@@ -6,7 +6,7 @@ logo: /assets/agency/uo-logo.png
 agencyid: "osp"
 agency: "University of Oregon - 2014"
 category: "Research"
-tags: [Oregon Research, Speeding, Traffic Safety]
+tags: [Oregon Research, Traffic Safety]
 subTitle: "Decreased enforcement by troopers is associated with an increase in injuries and deaths on Oregon highways."
 ---
 
