@@ -2,7 +2,7 @@
 title: "Jackson County Day Reporting - Managing"
 date: "2015-12-04"
 cover: /assets/correctional.png
-logo: /assets/agency/jackson-sheriff-logo.png
+logo: /assets/agency/jackson-county-logo.png
 author: "Jodi Merritt, Research/Project Analyst"
 agencyid: "jackson-cj"
 agency: "Jackson County Community Justice"
