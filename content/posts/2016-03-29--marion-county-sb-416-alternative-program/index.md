@@ -2,7 +2,7 @@
 title: "Marion County SB 416 Alternative Program"
 date: "2016-03-29"
 cover: /assets/correctional.png
-logo: /assets/agency/marion-logo.png
+logo: /assets/agency/marion-sheriff-logo.png
 author: "Sgt. Matt Meier"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
