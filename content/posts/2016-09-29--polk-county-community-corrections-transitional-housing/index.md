@@ -2,7 +2,7 @@
 title: "Polk County Community Corrections Transitional Housing"
 date: "2016-09-29"
 cover: /assets/correctional.png
-logo: /assets/agency/polk-sheriff-logo2.png
+logo: /assets/agency/polk-county-logo.png
 author: "Angel Pairan, Caseload Specialist"
 agencyid: "polk-s"
 agency: "Polk County Sheriff's Office"
