@@ -6,12 +6,11 @@ logo: /assets/agency/cpe-logo.png
 agency: "Criminal Justice Commission & Center for Policing Excellence"
 category: "Research"
 tags: [Oregon Research, Race, Traffic Safety, Crime Analysis]
-subTitle: "Partnerships were developed to increase resource referral for and communication with the homeless community and address the concerns associated with illegal camps."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
-#### COMMUNITY NEED
+#### BACKGROUND
 In 2017, Oregon passed HB2355, mandating the development and implementation of a standardized, statewide collection of officer-initiated traffic and pedestrian stop data. From there, the Oregon Criminal Justice Commission (CJC) is tasked with the annual analysis of the collected data to determine if any disparities exist.
 This OKB summary is simply an overview of the five analytical techniques included in the CJC plan for Oregon stops analysis. To this end, this is not a replacement for the CJC’s white paper, [STOP Program Research Brief (October 2018)](https://www.oregon.gov/cjc/stop/Documents/Traffic_Stop_Research_Memo_Final_Draft-10-16-18.pdf). The full research brief contains an in-depth background on the development of the analysis plan, including the strengths and weaknesses of the numerous analytical techniques available for examining stop data.
 
