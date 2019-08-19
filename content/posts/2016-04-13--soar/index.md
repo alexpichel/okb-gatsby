@@ -2,7 +2,7 @@
 title: "Student Opportunity for Achieving Results (SOAR)"
 date: "2016-04-13"
 cover: /assets/correctional.png
-logo: /assets/agency/marion-logo.png
+logo: /assets/agency/marion-sheriff-logo.png
 author: "Sgt. Anna Whitlock"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
