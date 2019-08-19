@@ -2,7 +2,7 @@
 title: "Grant County Restitution Advocate"
 date: "2015-11-02"
 cover: /assets/correctional.png
-logo: /assets/agency/grant-sheriff-logo.png
+logo: /assets/agency/grant-county-logo.png
 author: "Dean Hoodenpyl, Director (Former)"
 agencyID: "grant-s"
 agency: "Grant County Community Corrections"
