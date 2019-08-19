@@ -34,30 +34,40 @@ CJC used three criteria to choose the analytical techniques used in the analysis
 #### STOP PROGRAM RESEARCH QUESTION 1: ARE THERE DISPARITIES BETWEEN THE STOP RATES OF DIFFERENT RACES/ETHNICITIES?
 ##### AGGREGATE STOP RATES: CENSUS RESIDENTIAL BENCHMARKING
 **What is it?** This technique compares the stop rates of a particular area with the makeup of the residential population of the same area. In the STOP Program, the driver’s zip code is the data element that will help analysts determine whether a driver is a resident of a particular jurisdiction
+
 **Strengths**: It is easy to obtain and update census data. This type of analysis is also widely understood, and often expected, by stakeholders. It is also relatively easy to construct benchmarks and make comparisons at multiple levels – state, county, and municipal.
+
 **Weaknesses**: This type of population data does not necessarily reflect accurately the __driving population__ at risk of encountering law enforcement. 
 
 ##### AGGREGATE STOP RATES: ESTIMATED DRIVING POPULATION
 **What is it?** This benchmark uses additional census information to “construct the demographic features” of the population commuting from other areas. 
+
 **Strengths**: As with any census benchmark analysis, the benchmark data are easy and inexpensive to gather. Additionally, the results of these analyses are accessible to stakeholders.  
+
 **Weaknesses**: This method is an imperfect measure of the driving population of a jurisdiction, as it does not account for out-of-area drivers that are in a town for shopping or recreation, including tourists. As with all census-based benchmarking, the census datasets include significant sample error. 
 Oregon is a state where work commutes through multiple jurisdictions are commonplace and many towns welcome thousands of tourists every year, highlighting the weaknesses of benchmark analyses. For this reason, benchmark analyses are simply the beginning of a conversation between agencies and citizens.
 
 ##### DETAILED BREAKDOWNS OF STOP RATES: VEIL OF DARKNESS
 **What is it?** The Veil of Darkness (VOD) is “a comparison of traffic stops made in the daytime versus after dark, when race is not easily viewed” (CJC, 2018). The assumption of this analysis is that if no racial bias is occurring, then the daytime race distribution of stops (when driver’s race is most likely to be seen) should be similar to the race distribution at night (when the driver’s race is less likely to be seen). 
 Since a group’s driving quantity could vary over a 24-hour period, CJC will focus on stops roughly between the hours of 5pm and 9pm, which switch between daytime and nighttime lighting depending on the time of year. This ensures that travel patterns, driving behavior, and exposure to police are similar between daytime and nighttime data.
+
 **Strengths**: The two main strengths of the VOD are first, it does not require a benchmark and second, it addresses multiple variables in the calculation, such as clock time, day of week, and stop location. It is the closest to a “gold standard” analysis available.
+
 **Weaknesses**: Recent studies demonstrated that driving behavior, which varies by race, might differ at night, which would add another possible explanation for disparities in stop rates.
 
 #### STOP PROGRAM RESEARCH QUESTION 2: ARE THERE DISPARITIES IN THE POST-STOP OUTCOMES OF DIFFERENT RACES/ETHNICITIES?
 ##### PROPENSITY SCORE MATCHING
 **What is it?** This type of analysis compares a group of interest to a “similarly situated” comparison group. Stops in each group exhibit the same distribution of observed stop features (time of day, location, reason for stop, driver age, driver gender, etc.) such that the only difference should be driver race. 
+
 **Strengths**: Analysts can control for several factors, other than race, that may influence the outcome of a stop.
+
 **Weaknesses**:  The data available to analyze is limited to the observed data collected by police officers, therefore any differences not captured by the observed data could affect results.
 
 ##### OUTCOME TESTS
 **What is it?** This type of test, “[seeks] to determine whether…an officer is more likely to search a minority driver, even if the likelihood of a successful search is lower than it would be for a non-minority driver.”
+
 **Strengths**: Outcome tests provide easily interpretable results and account for differences in offending behavior. 
+
 **Weaknesses**: The primary weaknesses of outcome tests are associated with assumptions made about officers. These tests assume that officers have complete discretion over the decision to search a stopped individual and that the demographics of officers (age, experience, work experience, etc.) have no effect on an officer’s response to a given situation. 
 
 #### REFERENCES AND RESOURCES
