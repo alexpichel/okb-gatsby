@@ -2,7 +2,7 @@
 title: "Marion County Link Up Program"
 date: "2017-02-07"
 cover: /assets/correctional.png
-logo: /assets/agency/marion-logo.png
+logo: /assets/agency/marion-sheriff-logo.png
 author: "Sgt. Anna Whitlock"
 agencyid: "marion-s"
 agency: "Marion County Sheriff's Office"
