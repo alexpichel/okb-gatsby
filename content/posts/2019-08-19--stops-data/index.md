@@ -72,6 +72,9 @@ Since a group’s driving quantity could vary over a 24-hour period, CJC will fo
 
 #### REFERENCES AND RESOURCES
 [STOP Program Research Brief](https://www.oregon.gov/cjc/stop/Documents/Traffic_Stop_Research_Memo_Final_Draft-10-16-18.pdf)
+
 [Understanding Race Data from Vehicle Stops: A Stakeholder’s Guide](https://cops.usdoj.gov/pdf/publications/understanding_Race_Data.pdf)
+
 [By the Numbers: A Guide for Analyzing Race Data from Vehicle Stops](http://fairandimpartialpolicing.com/docs/numbers.pdf)
+
 [Testing for Racial Profiling in Traffic Stops from Behind a Veil of Darkness](https://www.rand.org/pubs/reprints/RP1253.html)
