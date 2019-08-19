@@ -5,7 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/research.png
 agency: "University of North Carolina - 2010"
 category: "Research"
-tags: [Domestic Violence, Family Violence, Oregon]
+tags: [Domestic Violence, Family Violence, Oregon Research]
 subTitle: "A specialized unit providing multi-faceted community response to domestic violence in Charlotte, North Carolina showed promising results for reducing recidivism."
 ---
 
