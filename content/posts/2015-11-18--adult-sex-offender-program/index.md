@@ -2,7 +2,7 @@
 title: "Adult Sex Offender Program"
 date: "2015-11-18"
 cover: /assets/correctional.png
-logo: /assets/agency/linn-logo.png
+logo: /assets/agency/doc-logo.png
 author: "Maureen Robb, Director"
 agencyid: "linn-cc"
 agency: "Linn County Community Corrections"
