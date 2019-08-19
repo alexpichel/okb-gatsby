@@ -2,7 +2,7 @@
 title: "Polk County Transition Services Specialist"
 date: "2016-01-27"
 cover: /assets/correctional.png
-logo: /assets/agency/polk-sheriff-logo2.png
+logo: /assets/agency/polk-county-logo.png
 author: "Martin D. Silbernagel, Director (Retired)"
 agencyid: "polk-cc"
 agency: "Polk County Community Corrections"
