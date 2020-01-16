@@ -5,7 +5,7 @@ cover: /assets/research.png
 logo: /assets/agency/research.png
 agency: "Police Quarterly - 2002"
 category: "Research"
-tags: [Officer Wellness, Staffing]
+tags: [Wellness, Staffing]
 subTitle: "Knowing that fatigue negatively effects officers' health, experts provide a number of suggestions to reduce officer fatigue."
 ---
 
