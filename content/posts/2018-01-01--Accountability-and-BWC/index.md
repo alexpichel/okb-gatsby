@@ -63,5 +63,3 @@ BWC + verbal warning --> officer’s reaction to suspect’s demeanor is “cool
 The fact that the effects of the BWC appeared in both treatment and control groups may lend itself to the argument that an entire department does not need to be outfitted with BWC, reducing costs in a time of economic constraints. Research needs to continue in the effects of BWC and police legitimacy.
 #### CITATION
 Ariel, B., Sutherland, A., Henstock, D., Young, J., Drover, P., Sykes, J., ... & Henderson, R. (2016). [“Contagious Accountability” A Global Multisite Randomized Controlled Trial on the Effect of Police Body-Worn Cameras on Citizens’ Complaints Against the Police](https://www.repository.cam.ac.uk/bitstream/handle/1810/260710/Ariel_et_al-Journal_of_Criminal_Justice_and_Behavior-AM.pdf?sequence=1). Criminal Justice and Behavior, 0093854816668218.
-#### ADDITIONAL RESOURCES
-[Police Foundation's "Quantifying and Justifying the Cost of Body-worn Cameras](https://www.policefoundation.org/quantifying-justifying-cost-of-body-worn-cameras/)
