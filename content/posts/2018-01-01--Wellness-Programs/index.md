@@ -20,7 +20,11 @@ Unfortunately, not many wellness programs have been rigorously evaluated, so inc
 
 #### ARTICLES
 
-[Health, Safety, Wellness Program Case Studies in Law Enforcement](https://ric-zai-inc.com/Publications/cops-p332-pub.pdf)
+[Health, Safety, Wellness Program Case Studies in Law Enforcement](https://cops.usdoj.gov/RIC/Publications/cops-p332-pub.pdf)
+
+This report covers sources of Correctional Officer stress, the effects of stress, and the effectivenss of wellness programs for Correctional Officers.
+
+[Correctional Officer Wellness and Safety Literature Review](https://s3.amazonaws.com/static.nicic.gov/Public/244831.pdf)
 
 This report includes four examples of wellness programs around the nation and some of the results. Costs will vary based on agency and the extent that a wellness program is implemented.
 
@@ -36,7 +40,7 @@ This paper reviewed three areas and their relationship to fitness and exercise: 
 
 **Citation**: Boni, N. (2004). Exercise and physical fitness: The impact on work outcomes, cognition, and psychological well-being for police. Marden,, South Australia: Australasian Centre for Policing Research.
 
-[Health disparities in police officers: comparisons to the US general population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734372/)
+[Health disparities in police officers: comparisons to the US general population](https://stacks.cdc.gov/view/cdc/37846)
 
 This article from the National Institute of Health provides a fair amount of research to support a wellness program. Some of the points that are brought up include:
 
@@ -61,7 +65,7 @@ Like the IACP, the NIC has assembled a number of resources, including webinars a
 
 For something a little more in depth, this 2010 guide from the Police Executive Research Forum provides a detailed overview of the importance of health and safety programs, as well as the nuts and bolts of what such programs should include.
 
-[BJA’s VALOR Officer Safety Initiative](https://www.bja.gov/programs/valor.html)
+[BJA’s VALOR Officer Safety Initiative](https://www.valorforblue.org/Spotlight-On-Safety/PhysicalHealth#PhysicalReadiness)
 
 Health and wellness isn’t just about exercising and eating right, it is also about stress management, officer safety, and resiliency. This site from the VALOR Initiative is a hub for a number of officer wellness programs, many promoting the mental health side of officer wellness.
 
