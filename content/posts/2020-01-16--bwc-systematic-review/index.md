@@ -1,85 +1,138 @@
 ---
-title: "Systematic Review of Body-Worn Cameras"
-date: "2020-01-16"
+title: "Research on Body-worn Cameras"
+date: "2019-02-01"
 cover: /assets/research.png
 logo: /assets/research.png
-agency: "University of Cambridge - 2017"
+agency: "George Mason University - 2019"
 category: "Research"
 tags: [Technology]
-subTitle: “Overall, research indicates that the use of BWC can have benefits for police-community encounters.”
+subTitle: “Overall, research indicates that the use of BWCs has mixed results on officers and citizen behaviors."
 ---
 
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
 #### COMMUNITY NEED
 
-An increasing number of police departments are beginning to implement body-worn cameras in response to increased scrutiny and calls for transparency.
+An increasing number of police departments are implementing body-worn cameras (BWCs) in response to increased scrutiny and calls for transparency. However, the amount of research addressing each of the numerous police and community expectations of BWCs is still growing.
 
 #### RESPONSE
 
-This paper reviews existing research on body-worn cameras and their effect on citizen and officer behaviors.
+This paper reviews how existing research answers questions surrounding the expectations and concerns surrounding BWCs, as well as discussing policy implications.
 
 ## ![Solution Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_lightbulb_outline_black_48dp.png "Solution") Research
 
 #### PRIMARY RESEARCH QUESTION(S)
 
-Does existing research demonstrate a police support for the adoption of BWCs and a benefit to police-community encounters?
+1. Does existing research show that BWCs are effective in positively impacting police organizations and police-community encounters?
+
+2. What are the implications for police organizations and researchers?
 
 #### RESEARCH DESIGN
 
-Twenty-one research articles were reviewed for this paper. These articles were located through a search of academic databases using the terms “police body worn cameras” and “law enforcement body worn cameras.” Only publications with empirical assessments of BWCs were included in this review.
+This paper reviewed 70 studies and included any studies or articles that collected either quantitative or qualitative data to research the impact of BWCs.
 
 #### LIMITATIONS & FUTURE DIRECTIONS
 
-Limitations specifically related to the review itself were not mentioned. However, the identified four challenges related to future research. First, more studies should be conducted using random control trials (RCTs) or quasi-experimental design. Second, it is important to consider the impact of selection effects. It is possible that the characteristics of agencies and officers who choose to implement BWC and participate in research studies may underestimate effects of BWC. The third challenge centers on the idea of treatment diffusion – that behaviors of officers and citizens in the control group (no BWC) may be influenced during interactions with an officer in the treatment group (with BWC). Lastly, there is the issue of adherence to activation policies – are officers turning cameras on when required? Adherence to appropriate activation practices closely relates to the success of BWCs.
+The authors state that this is not a systematic review or meta-analysis due to the breadth of methods and perspectives employed in the research reviewed. There are a number of factors that can affect BWCs and other police technology, including individual officers’ use of the technology and agency factors such as organization, procedures, and culture. All of these highlight the need for more rigorous studies moving forward.
 
 ## ![Outcome Icon](https://github.com/google/material-design-icons/raw/master/action/1x_web/ic_view_list_black_48dp.png "Outcome") Outcome
 
 #### RESEARCH FINDINGS
 
-**BWC effects on citizens**
+**Impacts of BWCs on Officer Behavior**
 
-One of the goals of implementing BWCs is to increase the public’s perception of the police, leading to better police-public encounters.
+*Complaints*
 
-*Citizen complaints*
+Research has found that officers wearing BWCs receive fewer reported complaints than their counterparts not wearing BWCs. However, *why*complaints decline may be more complicated than the mere presence of a BWC.
 
-All studies analyzed showed a reduction in complaints. However, the result varied in whether the reduction was between the treatment and control groups or was an average decrease across the agency pre- and post-implementation. 
+*Use of Force*
 
-*Citizen resistance to officers*
+Studies of officers’ use of force (UOF) and the relationship with BWCs have led to mixed results. One explanation is the varying levels of discretion officers have in turning the BWC on and off may affect officers’ uses of force. Other confounding factors include agency thresholds for UOF reports and the relatively infrequent nature of UOF reports.
 
-Studies that examined the idea that BWC would reduce officer assaults provided mixed results, possibly related to differences in experimental design. 
+*Arrest & Citation Behaviors*
 
-*Citizens’ perception of police behavior*
+No clear patterns emerged in research related to BWCs effect on the arrest and citation behavior of police.
 
-Studies showed limited evidence that BWC may improve citizens’ perception of police legitimacy. 
+*Proactivity*
 
-**BWC effects on officers**
+The term “proactivity” included activities such as problem-solving, stop-question-and-frisk, traffic enforcement, community policing and engagement, directed patrol, or use of misdemeanor arrests to reduce disorder. 
 
-Another goal of implementing BWCs is to affect officer behavior positively, which should, in turn, lead to greater legitimacy and lower misconduct.
+Studies showed mixed results in whether or not BWCs had a significant impact on officer proactivity.
 
-*Officer Attitude*
+Considering the very different impacts of and levels of community support for the various proactive practices, future research should focus on “which specific types of proactivity have increased or decreased (and why).”
 
-Three studies found that perceptions improved post-implementation, but officers’ skepticism towards the size of impact of BWCs on citizen cooperation and officer professionalism increased. One study found that officers’ were concerned with the media using BWC footage against them. Additionally, a study found that “the attitudes of other officers in the same social network” related strongly to a single officer’s perception. 
+**Impacts of BWCs on Officer Attitude**
 
-*Officer Behavior*
+Many studies showed that once officers start using BWCs, they feel neutral, if not positive towards them or they become most positive over time. Reasons for this may include:
+* Seeing BWCs as a way to protect themselves from complaints
+* Improving the quality and availability of evidence to charge individuals with a crime
 
-Officers with BWCs are less likely to use force; however, researchers found that UOF closely relates to the discretion an officer has to turn the camera on and off. UOF decreased when officers were in “high compliance” with on/off policies. 
+Officers’ negative feelings towards BWCs were connected to:
+* technical difficulties 
+* the impact on their work or workload
+* the belief the BWC footage could be used against them, making officers more hesitant in their duties. 
 
-Officers with BWCs were less likely to stop-and-frisk. 
+Larger organizational factors may play a role in officer attitudes towards BWCs. Some studies found that the more officers that felt their agency to be organizationally just, the more positive their attitudes about BWCs.
 
-Officers with BWCs were more likely to make arrests in cases of intimate partner violence (IPV). Additionally, IPV cases in which the officer was wearing a BWC were more likely to have charges filed, be pursued by the DA’s office, and results in a conviction.
+**Impacts of BWCs on Citizen Behavior**
+
+*Compliance*
+
+Research on citizen compliance - measured by assaults on officers, reports of resisting arrest, or officer injuries – provides little support for the idea that BWCs improve it. Six studies showed no significant difference between officers with BWC and those without in assaults on officers and reports of resisting arrest. Three studies showed an increase in assaults. 
+
+*Willingness to Call & Cooperate*
+
+The limited research in this area indicates BWCs may have little impact on citizen’s willingness to call police. However, one survey did find that citizens may be less willing to have an informal chat with a police officer with a BWC.
+
+*Crime and Disorder*
+
+This is no strong evidence indicating that BWCs have any effect on the amount of crime and disorder in an area.
+
+**Impacts of BWCs on Citizen and Community Attitudes**
+
+*General Support*
+
+Overall, citizens have supported the implementation of BWCs and have “high expectations for them with regard to make the police more accountable.” However, this support does appear to have a few stipulations. For instance, non-white and younger individuals are more skeptical about the benefits of BWCs. Conversely, those that had more positive perceptions of police saw more of benefits of BWCs.
+
+*Specific Citizen-Police Encounters*
+
+BWC appear to have no significant impact on citizen perception of legitimacy, satisfaction with the interaction, or views of police professionalism. Indications of a positive impact may be confounded by the presence of additional interventions to improve citizen satisfaction, such as procedural justice scripts.
+
+*Privacy or Fear*
+
+Citizen concerns about privacy are unclear. Generally, recent studies show that citizens are not highly concerned about the affect BWCs may have on their privacy.
+
+As for fear, citizens appeared to feel safer when officers were equipped with a BWC. However, based on the findings related to general support of BWCs, there may be variation across different demographics.
+
+**Impacts of BWCs on Criminal Investigations**
+
+BWCs may increase detection and clearance of criminal investigations. More specifically, BWCs increased the number of domestic violence cases resulting in criminal charges.
+
+**BWCs and Police Organizations**
+
+“Actual – as opposed to perceived – effects of BWCs on law enforcement organization [are] still not well understood.” Some of the findings prompting further research include:
+
+* BWC may allow officers to better identify mistakes made during training.
+* The amount of time that it takes agencies to investigate a complaint decreased.
+* Officer burnout may be higher for those with BWCs and there may be a negative effect on officers’ perceptions of how much their agency supports them.
+* BWCs may not significantly impact accountability and organizational traits. This may be because already existing organizational traits will be what shapes BWC policies and practices.
+
 
 #### MAIN IMPLICATIONS
 
-Overall, there is evidence that BWCs may improve police-public encounters. Areas to consider before implementing a BWC program include:
-- Privacy concerns
-- Activation guidelines
-- Effective storage and review of BWC footage (IACP includes recommendations here).
-- Clear communication with staff regarding footage usage (i.e. possible training use, how it will/will not relate to discipline, footage retention, etc.) 
+The authors set out to review research related to several of the anticipated positive and negative effects of BWCs. In summary:
+
+* Officers seem supportive of BWCs
+* BWCs have not produced significant changes in officer behavior, in either direction
+* BWCs reduce complaints against officers. However, the mechanism behind this is not well understood.
+* It is not clear if BWCs improve citizen satisfaction with police encounters.
+* BWCs do not seem to decrease proactive activities.
+* Citizens are generally supportive of the use of BWCs, but it is unclear whether or not it improves citizen’s views of police.
+While adoption of the BWCs made be “a marker of a responsive, transparent, and legitimate” police agency, the actual changes in officer and citizen behaviors made be “modest and mixed.”
 
 #### CITATION
 
-[Maskaly, J., Donner, C., Jennings, W. G., Ariel, B., & Sutherland, A. (2017). The effects of body-worn cameras (BWCs) on police and citizen outcomes: A state-of-the-art review. Policing: An International Journal of Police Strategies & Management, 40(4), 672-688.](https://www.researchgate.net/profile/Barak_Ariel/publication/317576775_The_effects_of_body-worn_cameras_BWCs_on_police_and_citizen_outcomes_A_state-of-the-art_review/links/5b8cf8da299bf1d5a73a3c93/The-effects-of-body-worn-cameras-BWCs-on-police-and-citizen-outcomes-A-state-of-the-art-review.pdf)
+[Lum, C., Stoltz, M., Koper, C. S., & Scherer, J. A. (2019). Research on body‐worn cameras: What we know, what we need to know. Criminology & public policy, 18(1), 93-118.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1745-9133.12412)
 
 #### ADDITIONAL RESOURCES
 
