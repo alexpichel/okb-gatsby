@@ -3,12 +3,11 @@ title: "5th Street Park"
 date: "2018-07-01"
 cover: /assets/policing.png
 logo: /assets/policing.png
-author: "Ofc. Clay Makinson"
-agencyID: "coquille-p"
-agency: "Coquille Police Department"
+agencyid: "Coquille Police Department"
+agency: "coquille-pd"
 category: "Policing"
 tags: [Chronic Nuisance, Property Crime, Quality of Life, CPTED]
-subTitle: "Increased lighting was just one of many CPTED changes made to decrease fear of crime and increase community use of a public park.”
+subTitle: "Increased lighting was just one of many CPTED changes made to decrease fear of crime and increase community use of a public park"
 ---
 ## ![Problem Icon](https://github.com/google/material-design-icons/raw/master/alert/1x_web/ic_error_outline_black_48dp.png "Problem") Problem
 
@@ -29,6 +28,9 @@ In partnership with the city, light fixtures were added to the park and broken l
 The receipt of the grant had a positive domino effect. When the city heard a grant had been received for lights, a gazebo was built to provide an area for families, children, and local groups to use for activities. The gazebo continues to be often used by park-goers for reading or for a quick shelter from the rain.  A motion sensor light was added to allow lighting for activities that took place after dusk.
 
 #### BASED ON RESEARCH
+
+[Crime reducing effects and financial impact of improved lighting](https://www.oregonkb.com/crime-reducing-effects-and-financial-impact-pf-improved-lighting/)
+[The effect of trees on crime in Portland](https://www.oregonkb.com/effect-of-trees-on-crime-in-portland/)
 
 #### FUNDING
 
