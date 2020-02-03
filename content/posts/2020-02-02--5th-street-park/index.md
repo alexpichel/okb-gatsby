@@ -30,7 +30,12 @@ The receipt of the grant had a positive domino effect. When the city heard a gra
 #### BASED ON RESEARCH
 
 [Crime reducing effects and financial impact of improved lighting](https://www.oregonkb.com/crime-reducing-effects-and-financial-impact-pf-improved-lighting/)
+
 [The effect of trees on crime in Portland](https://www.oregonkb.com/effect-of-trees-on-crime-in-portland/)
+
+[Dealing with crime and disorder in urban parks](https://popcenter.asu.edu/content/dealing-crime-and-disorder-urban-parks-0)
+
+[Using crime prevention through enivronmental design in problem solving](https://popcenter.asu.edu/content/using-cpted-problem-solving)
 
 #### FUNDING
 
