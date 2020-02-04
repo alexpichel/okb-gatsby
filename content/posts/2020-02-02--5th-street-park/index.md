@@ -3,8 +3,8 @@ title: "5th Street Park"
 date: "2018-07-01"
 cover: /assets/policing.png
 logo: /assets/policing.png
-agencyid: "Coquille Police Department"
-agency: "coquille-pd"
+agencyid: "coquille-pd"
+agency: "Coquille Police Department"
 category: "Policing"
 tags: [Chronic Nuisance, Property Crime, Quality of Life, CPTED]
 subTitle: "Increased lighting was just one of many CPTED changes made to decrease fear of crime and increase community use of a public park"
