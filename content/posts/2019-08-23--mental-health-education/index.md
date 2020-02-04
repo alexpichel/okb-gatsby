@@ -3,8 +3,8 @@ title: "Effectiveness of Mental Health Education on Law Enforcement"
 date: "2019-08-22"
 cover: /assets/research.png
 logo: /assets/agency/pacificu-logo.png
-agencyid: "Pacific University - 2019"
-agency: "pacificu"
+agencyid: "pacificu"
+agency: "Pacific University - 2019"
 category: "Research"
 tags: [Oregon Research, Mental Illness, Training]
 subTitle: "Training surrounding the symptoms of mental illness can increase an officer’s general mental health knowledge, as well as reduce the stigmas associated with people with mental illness."
