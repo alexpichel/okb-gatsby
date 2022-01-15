@@ -72,7 +72,7 @@
     "gatsby-transformer-sharp": "^1.6.27",
     "hoek": "^5.0.3",
     "instantsearch.css": "^7.1.0",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "prismjs": "^1.15.0",
     "react-custom-scrollbars": "^4.2.1",
     "react-facebook": "^5.0.3",
